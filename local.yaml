@@ -3,35 +3,28 @@ app:
   domain: "http://localhost:8000"
 
 jwt:
-  key: "pnp-token"
-  issuer: "parknparcel"
+  key: "90986945701389"
+  issuer: "marvel"
   duration: "10080"
   refresh_duration: "43200"
 
 mysql:
   host: "127.0.0.1"
-  database: "pnp_middleware"
-  password: "i5q8}sZUIXnt"
+  database: "marvel_project"
+  password: "sapi"
   port: "3306"
-  user: "parknpar_userdb"
-
-mysql-cainiao:
-  host: "127.0.0.1"
-  database: "cainiao_middleware"
-  password: "i5q8}sZUIXnt"
-  port: "3306"
-  user: "parknpar_userdb"
+  user: "root"
 
 redis:
   max_idle: "10"
   max_active: "100"
   address: "127.0.0.1"
   port: "6379"
-  password: ""
+  password: "makan_enak"
 
 mongodb:
-  address: "34.143.243.76"
-  database: "pnp-middleware-stage"
+  address: "127.0.0.1"
+  database: "marvel_project"
   port: "27017"
-  user: "parknparceluser"
-  password: "gangan87"
+  user: "mongoadmin"
+  password: "sapi"
