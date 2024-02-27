@@ -1,0 +1,18 @@
+Hello and welcome.
+This is the helper for simply migration tools.
+
+usage: ./migration [params]
+
+List acceptable params:
+
+up: for up the migrations
+    ./migration up
+
+down: for down the migrations
+    ./migration down
+
+create [migration name]: for create a new migration file
+    ./migration create init-users
+
+version: For check the migration version
+    ./migration version

@@ -21,19 +21,18 @@ func main() {
 
 	err := c.Invoke(migration)
 	if err != nil {
-		log.Fatalf("error while run migration. message : %v", err)
+		log.Printf("error while run migration.\n message : %v", err)
 	}
-
-	log.Printf("SUCCESS")
+	return
 }
 
 func migration(cfg config.AppConfig) error {
 	arg := os.Args[1:]
 	if len(arg) == 0 {
-		return fmt.Errorf("not enough argument. use 'up' or 'down'")
+		return fmt.Errorf("not enough argument. use './migration migration-help' to see available command")
 	}
 
-	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?multiStatements=true",
+	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s",
 		cfg.Mysql.User,
 		cfg.Mysql.Password,
 		cfg.Mysql.Host,
@@ -67,6 +66,10 @@ func migration(cfg config.AppConfig) error {
 		return down(m)
 	case "create":
 		return create(cfg.Mysql.MigrationDirectory)
+	case "version":
+		return version(m)
+	case "help":
+		return help()
 	default:
 		return fmt.Errorf("unsupported argument")
 	}
@@ -115,5 +118,26 @@ func create(dir string) error {
 		return fmt.Errorf("error while create migrations\n%s", strings.Join(errMsg, "\n"))
 	}
 
+	return nil
+}
+
+func version(m *migrate.Migrate) error {
+	u, _, err := m.Version()
+	if err != nil {
+		return err
+	}
+
+	fmt.Printf("your current migration version is on %d\n", u)
+
+	return nil
+}
+
+func help() error {
+	b, err := os.ReadFile("migration-help")
+	if err != nil {
+		return err
+	}
+
+	fmt.Println(string(b))
 	return nil
 }
