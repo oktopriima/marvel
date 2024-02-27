@@ -17,7 +17,7 @@ import (
 type (
 	EchoInstance struct {
 		Router *echo.Echo
-		Config config.Config
+		Config config.AppConfig
 	}
 
 	CustomValidator struct {
@@ -25,7 +25,7 @@ type (
 	}
 )
 
-func NewEchoInstance(r *echo.Echo, cfg config.Config) *EchoInstance {
+func NewEchoInstance(r *echo.Echo, cfg config.AppConfig) *EchoInstance {
 	return &EchoInstance{
 		Router: r,
 		Config: cfg,
@@ -33,7 +33,7 @@ func NewEchoInstance(r *echo.Echo, cfg config.Config) *EchoInstance {
 }
 
 func (server *EchoInstance) runHttp() (err error) {
-	port := fmt.Sprintf(":%s", server.Config.GetString("app.port"))
+	port := fmt.Sprintf(":%s", server.Config.App.Port)
 	server.Router.Validator = &CustomValidator{validator: validator.New()}
 	if err = server.Router.Start(port); err != nil {
 		return err

@@ -10,48 +10,29 @@ package database
 
 import (
 	"context"
-	"encoding/json"
 	"fmt"
+	"github.com/oktopriima/marvel/core/config"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-type MongoClient struct {
-	Address  string `json:"address"`
-	Port     string `json:"port"`
-	Database string `json:"database"`
-	User     string `json:"user"`
-	Password string `json:"password"`
-}
-
-func MongoConnection(c map[string]interface{}) (*mongo.Database, error) {
-	var client MongoClient
-
-	jsonb, err := json.Marshal(c)
-	if err != nil {
-		return nil, err
-	}
-
-	if err = json.Unmarshal(jsonb, &client); err != nil {
-		return nil, fmt.Errorf("unable to parse config: %v", err)
-	}
-
-	url := fmt.Sprintf("mongodb://%s:%s@%s:%s", client.User, client.Password, client.Address, client.Port)
+func MongoConnection(config config.AppConfig) (*mongo.Database, error) {
+	url := fmt.Sprintf("mongodb://%s:%s@%s:%s", config.Mongodb.User, config.Mongodb.Password, config.Mongodb.Address, config.Mongodb.Port)
 	clientOptions := options.Client().ApplyURI(url)
 
-	mgo, err := mongo.NewClient(clientOptions)
+	ctx := context.Background()
+	mgo, err := mongo.Connect(ctx, clientOptions)
 	if err != nil {
 		return nil, err
 	}
-
-	if err = mgo.Connect(context.Background()); err != nil {
+	if err != nil {
 		return nil, err
 	}
-
+	
 	if err = mgo.Ping(context.Background(), nil); err != nil {
 		return nil, err
 	}
 
-	db := mgo.Database(client.Database)
+	db := mgo.Database(config.Mongodb.Database)
 	return db, nil
 }

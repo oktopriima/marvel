@@ -11,8 +11,8 @@ import (
 func NewConfigRegistry(container *dig.Container) *dig.Container {
 	var err error
 
-	if err = container.Provide(func() config.Config {
-		return config.NewConfig()
+	if err = container.Provide(func() config.AppConfig {
+		return config.NewAppConfig()
 	}); err != nil {
 		panic(err)
 	}
@@ -27,7 +27,7 @@ func NewConfigRegistry(container *dig.Container) *dig.Container {
 		panic(err)
 	}
 
-	if err = container.Provide(func(cfg config.Config) database.DBInstance {
+	if err = container.Provide(func(cfg config.AppConfig) database.DBInstance {
 		return database.NewDatabaseInstance(cfg)
 	}); err != nil {
 		panic(err)

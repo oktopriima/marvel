@@ -1,12 +1,13 @@
 package main
 
 import (
+	"github.com/oktopriima/marvel/cmd"
 	"github.com/oktopriima/marvel/cmd/http/router"
 	"github.com/oktopriima/marvel/cmd/http/server"
 )
 
 func main() {
-	c := NewRegistry()
+	c := cmd.NewRegistry()
 
 	err := c.Invoke(router.NewRouter)
 	if err != nil {

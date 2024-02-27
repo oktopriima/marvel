@@ -1,3 +1,5 @@
 vendor
 .idea
 go.sum
+log
+local.yaml

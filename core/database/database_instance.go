@@ -29,25 +29,25 @@ type DBInstance interface {
 	Close()
 }
 
-func NewDatabaseInstance(cfg config.Config) DBInstance {
+func NewDatabaseInstance(cfg config.AppConfig) DBInstance {
 	ins := new(dbInstance)
 
 	// create connection into default database
-	database, err := MysqlConnector(cfg.GetStringMap("mysql"))
+	database, err := MysqlConnector(cfg)
 	if err != nil {
 		panic(fmt.Sprintf("failed connect into database. error : %s", err.Error()))
 	}
 	ins.database = database
 
 	// call redis pool
-	redisPool, err := RedisConnection(cfg.GetStringMap("redis"))
+	redisPool, err := RedisConnection(cfg)
 	if err != nil {
 		panic(fmt.Sprintf("failed connect into redis. error : %s", err.Error()))
 	}
 	ins.pool = redisPool
 
 	// mongo db
-	mongoDb, err := MongoConnection(cfg.GetStringMap("mongodb"))
+	mongoDb, err := MongoConnection(cfg)
 	if err != nil {
 		panic(fmt.Sprintf("failed connect into mongodb. error : %s", err.Error()))
 	}

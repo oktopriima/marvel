@@ -26,5 +26,9 @@ mongodb:
   address: "127.0.0.1"
   database: "marvel_project"
   port: "27017"
-  user: "mongoadmin"
+  user: "admin"
   password: "sapi"
+
+log:
+  directory: "log"
+  mysql: "mysql-log.txt"

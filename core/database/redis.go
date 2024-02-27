@@ -9,40 +9,21 @@
 package database
 
 import (
-	"encoding/json"
 	"fmt"
 	"github.com/gomodule/redigo/redis"
+	"github.com/oktopriima/marvel/core/config"
 	"strconv"
 )
 
-type RedisClient struct {
-	Address   string `json:"address"`
-	Port      string `json:"port"`
-	Password  string `json:"password"`
-	MaxIdle   string `json:"max_idle"`
-	MaxActive string `json:"max_active"`
-}
+func RedisConnection(config config.AppConfig) (*redis.Pool, error) {
+	addr := fmt.Sprintf("%s:%s", config.Redis.Address, config.Redis.Port)
 
-func RedisConnection(c map[string]interface{}) (*redis.Pool, error) {
-	var client RedisClient
-
-	jsonb, err := json.Marshal(c)
+	idle, err := strconv.Atoi(config.Redis.MaxIdle)
 	if err != nil {
 		return nil, err
 	}
 
-	if err = json.Unmarshal(jsonb, &client); err != nil {
-		return nil, fmt.Errorf("unable to parse config: %v", err)
-	}
-
-	addr := fmt.Sprintf("%s:%s", client.Address, client.Port)
-
-	idle, err := strconv.Atoi(client.MaxIdle)
-	if err != nil {
-		return nil, err
-	}
-
-	active, err := strconv.Atoi(client.MaxActive)
+	active, err := strconv.Atoi(config.Redis.MaxActive)
 	if err != nil {
 		return nil, err
 	}
@@ -56,7 +37,7 @@ func RedisConnection(c map[string]interface{}) (*redis.Pool, error) {
 				return nil, err
 			}
 
-			if _, err := c.Do("AUTH", client.Password); err != nil {
+			if _, err := c.Do("AUTH", config.Redis.Password); err != nil {
 				return nil, err
 			}
 
