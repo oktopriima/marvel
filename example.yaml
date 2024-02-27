@@ -1,0 +1,35 @@
+app:
+  port: "8000"
+  domain: "http://localhost:8000"
+
+jwt:
+  key: "key"
+  issuer: "issuer"
+  duration: "10080"
+  refresh_duration: "43200"
+
+mysql:
+  host: "localhost"
+  database: "homestead"
+  password: "homestead"
+  port: "3306"
+  user: "homestead"
+  migration_directory: "migrations"
+
+redis:
+  max_idle: "10"
+  max_active: "100"
+  address: "127.0.0.1"
+  port: "6379"
+  password: "homestead"
+
+mongodb:
+  address: "127.0.0.1"
+  database: "homestead"
+  port: "27017"
+  user: "homestead"
+  password: "homestead"
+
+log:
+  directory: "log"
+  mysql: "mysql-log.txt"

@@ -22,11 +22,12 @@ type AppConfig struct {
 		RefreshDuration string `mapstructure:"refresh_duration"`
 	} `mapstructure:"jwt"`
 	Mysql struct {
-		Host     string `mapstructure:"host"`
-		Database string `mapstructure:"database"`
-		Password string `mapstructure:"password"`
-		Port     string `mapstructure:"port"`
-		User     string `mapstructure:"user"`
+		Host               string `mapstructure:"host"`
+		Database           string `mapstructure:"database"`
+		Password           string `mapstructure:"password"`
+		Port               string `mapstructure:"port"`
+		User               string `mapstructure:"user"`
+		MigrationDirectory string `mapstructure:"migration_directory"`
 	} `mapstructure:"mysql"`
 	Redis struct {
 		MaxIdle   string `mapstructure:"max_idle"`

@@ -15,8 +15,6 @@ type UserResponse struct {
 func (r UserResponse) ConvertToResponse(users *models.Users) *UserResponse {
 	return &UserResponse{
 		Id:       users.Id,
-		FullName: fmt.Sprintf("%s %s %s", users.FirstName, users.MiddleName, users.LastName),
-		Nickname: users.Nickname,
-		Avatar:   users.Avatar,
+		FullName: fmt.Sprintf("%s %s", users.FirstName, users.LastName),
 	}
 }
