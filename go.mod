@@ -13,6 +13,7 @@ require (
 	go.elastic.co/apm/module/apmsql v1.15.0
 	go.mongodb.org/mongo-driver v1.13.1
 	go.uber.org/dig v1.17.1
+	golang.org/x/crypto v0.17.0
 	gorm.io/driver/mysql v1.5.2
 	gorm.io/gorm v1.25.5
 )
@@ -64,7 +65,6 @@ require (
 	go.elastic.co/fastjson v1.1.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.9.0 // indirect
-	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9 // indirect
 	golang.org/x/lint v0.0.0-20201208152925-83fdc39ff7b5 // indirect
 	golang.org/x/mod v0.12.0 // indirect
