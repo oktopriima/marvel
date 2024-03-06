@@ -19,6 +19,7 @@ type AppConfig struct {
 		Key      string `mapstructure:"key"`
 		Issuer   string `mapstructure:"issuer"`
 		Duration string `mapstructure:"duration"`
+		Audience string `mapstructure:"audience"`
 	} `mapstructure:"jwt"`
 	Mysql struct {
 		Host               string `mapstructure:"host"`

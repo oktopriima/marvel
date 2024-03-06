@@ -2,7 +2,7 @@ package middleware
 
 import (
 	"context"
-	"github.com/labstack/echo"
+	"github.com/labstack/echo/v4"
 	"github.com/oktopriima/marvel/app/helper"
 	"github.com/oktopriima/marvel/app/modules/base/response"
 	"net/http"

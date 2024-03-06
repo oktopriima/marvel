@@ -1,8 +1,8 @@
 package router
 
 import (
-	"github.com/labstack/echo"
-	"github.com/labstack/echo/middleware"
+	"github.com/labstack/echo/v4"
+	"github.com/labstack/echo/v4/middleware"
 	"github.com/oktopriima/marvel/app/handler/auth"
 	"github.com/oktopriima/marvel/app/handler/users"
 )

@@ -1,7 +1,7 @@
 package auth
 
 import (
-	"github.com/labstack/echo"
+	"github.com/labstack/echo/v4"
 	"github.com/oktopriima/marvel/app/modules/base/response"
 	"github.com/oktopriima/marvel/app/usecase/auth"
 	"github.com/oktopriima/marvel/app/usecase/auth/dto"

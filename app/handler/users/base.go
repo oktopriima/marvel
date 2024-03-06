@@ -1,7 +1,7 @@
 package users
 
 import (
-	"github.com/labstack/echo"
+	"github.com/labstack/echo/v4"
 	userRequest "github.com/oktopriima/marvel/app/entity/request/users"
 	"github.com/oktopriima/marvel/app/modules/base/response"
 	"github.com/oktopriima/marvel/app/usecase/users"
