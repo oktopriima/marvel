@@ -5,10 +5,13 @@ import (
 	"github.com/labstack/echo/v4/middleware"
 	"github.com/oktopriima/marvel/app/handler/auth"
 	"github.com/oktopriima/marvel/app/handler/users"
+	jwtMidl "github.com/oktopriima/marvel/app/modules/middleware"
+	"github.com/oktopriima/thor/jwt"
 )
 
 func NewRouter(
 	e *echo.Echo,
+	jwtAuth jwt.AccessToken,
 	userHandler users.UserHandler,
 	authHandler auth.AuthenticationHandler,
 ) {
@@ -35,6 +38,7 @@ func NewRouter(
 	// authenticate route
 	{
 		meRoute := route.Group("me")
+		meRoute.Use(jwtMidl.Auth(jwtAuth))
 		meRoute.GET("", func(c echo.Context) error {
 			return c.JSON(200, struct {
 				Message string `json:"message"`

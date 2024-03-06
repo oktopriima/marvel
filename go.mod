@@ -9,7 +9,7 @@ require (
 	github.com/golang-migrate/migrate/v4 v4.17.0
 	github.com/gomodule/redigo v1.9.2
 	github.com/labstack/echo/v4 v4.11.4
-	github.com/oktopriima/thor v0.0.0-20240306025654-b944cb0b9790
+	github.com/oktopriima/thor v0.1.0
 	github.com/spf13/viper v1.18.2
 	go.elastic.co/apm/module/apmsql v1.15.0
 	go.mongodb.org/mongo-driver v1.14.0
