@@ -6,7 +6,6 @@ jwt:
   key: "key"
   issuer: "issuer"
   duration: "10080"
-  refresh_duration: "43200"
 
 mysql:
   host: "localhost"

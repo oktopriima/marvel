@@ -12,6 +12,6 @@ type userServices struct {
 
 func NewUserServices(instance database.DBInstance) repository.UserRepository {
 	return &userServices{
-		BaseRepo: mysqlrepo.NewBaseRepo(instance.Database()),
+		BaseRepo: mysqlrepo.NewBaseRepo(instance),
 	}
 }

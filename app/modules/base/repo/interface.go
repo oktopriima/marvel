@@ -17,6 +17,8 @@ type BaseRepo interface {
 	Removable
 	CanFindByID
 	CanCreateOrUpdate
+	HaveCache
+	CanCache
 }
 
 type Searchable interface {
@@ -46,4 +48,12 @@ type CanFindByID interface {
 
 type CanCreateOrUpdate interface {
 	CreateOrUpdate(ctx context.Context, m model.Model, query interface{}, attrs ...interface{}) error
+}
+
+type HaveCache interface {
+	GetCache(ctx context.Context, key string) ([]byte, error)
+}
+
+type CanCache interface {
+	SetCache(ctx context.Context, key string, data []byte, ttl ...int) error
 }

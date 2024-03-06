@@ -7,7 +7,6 @@ const (
 
 type Where map[string][]interface{}
 type Joins map[string][]interface{}
-type Keys map[string]bool
 type Groups map[string]bool
 type Filter interface {
 	GetWhere() Where
@@ -15,6 +14,9 @@ type Filter interface {
 	GetLimit() int
 	GetOffset() int
 	GetOrderBy() []string
-	GetKeys() Keys
 	GetGroups() string
+}
+
+type BaseFilter interface {
+	Filter
 }

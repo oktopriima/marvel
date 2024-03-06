@@ -16,10 +16,9 @@ type AppConfig struct {
 		Mysql     string `mapstructure:"mysql"`
 	} `mapstructure:"log"`
 	Jwt struct {
-		Key             string `mapstructure:"key"`
-		Issuer          string `mapstructure:"issuer"`
-		Duration        string `mapstructure:"duration"`
-		RefreshDuration string `mapstructure:"refresh_duration"`
+		Key      string `mapstructure:"key"`
+		Issuer   string `mapstructure:"issuer"`
+		Duration string `mapstructure:"duration"`
 	} `mapstructure:"jwt"`
 	Mysql struct {
 		Host               string `mapstructure:"host"`
