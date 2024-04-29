@@ -2,25 +2,25 @@ package auth
 
 import (
 	"context"
-	"github.com/oktopriima/marvel/app/entity/models"
+	"fmt"
+	"github.com/oktopriima/marvel/app/helper"
 	"github.com/oktopriima/marvel/app/usecase/auth/dto"
-	"github.com/oktopriima/marvel/app/usecase/auth/dto/filter"
 	"github.com/oktopriima/thor/jwt"
 	"strconv"
 )
 
 func (a *authenticationUsecase) EmailLoginUsecase(ctx context.Context, request dto.EmailLoginRequest) (dto.LoginResponse, error) {
-	var u models.Users
-
-	f := filter.NewLoginFilter(request)
-
-	err := a.userRepo.Search(ctx, &u, f)
+	user, err := a.userRepo.FindByEmail(request.Email, ctx)
 	if err != nil {
 		return nil, err
 	}
 
+	if !helper.CheckPassword(request.Password, user.Password) {
+		return nil, fmt.Errorf("password not match")
+	}
+
 	token, err := a.jwtToken.GenerateToken(jwt.Params{
-		ID: strconv.Itoa(int(u.Id)),
+		ID: strconv.Itoa(int(user.Id)),
 	})
 	if err != nil {
 		return nil, err

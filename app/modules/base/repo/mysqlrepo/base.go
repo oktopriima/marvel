@@ -5,7 +5,6 @@ import (
 	"errors"
 	"github.com/fatih/structs"
 	"github.com/gomodule/redigo/redis"
-	"github.com/oktopriima/marvel/app/modules/base/filter"
 	"github.com/oktopriima/marvel/app/modules/base/model"
 	"github.com/oktopriima/marvel/app/modules/base/repo"
 	"github.com/oktopriima/marvel/core/database"
@@ -74,37 +73,6 @@ func (r *BaseRepo) Updates(ctx context.Context, m model.Model, params interface{
 
 func (r *BaseRepo) Create(ctx context.Context, m model.Model) error {
 	return r.GetDB(ctx).Create(m).Error
-}
-
-func (r *BaseRepo) Search(ctx context.Context, val interface{}, f filter.Filter, preloadFields ...string) error {
-	q := r.GetDB(ctx).Model(val)
-	for query, val := range f.GetWhere() {
-		q = q.Where(query, val...)
-	}
-
-	for query, val := range f.GetJoins() {
-		q = q.Joins(query, val...)
-	}
-
-	if f.GetGroups() != "" {
-		q = q.Group(f.GetGroups())
-	}
-
-	if f.GetLimit() > 0 {
-		q = q.Limit(f.GetLimit())
-	}
-
-	if len(f.GetOrderBy()) > 0 {
-		for _, order := range f.GetOrderBy() {
-			q = q.Order(order)
-		}
-	}
-
-	for _, p := range preloadFields {
-		q = q.Preload(p)
-	}
-
-	return q.Offset(f.GetOffset()).Find(val).Error
 }
 
 func (r *BaseRepo) Save(ctx context.Context, m model.Model) error {

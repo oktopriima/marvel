@@ -3,14 +3,12 @@ package repo
 import (
 	"context"
 	"errors"
-	"github.com/oktopriima/marvel/app/modules/base/filter"
 	"github.com/oktopriima/marvel/app/modules/base/model"
 )
 
 var RecordNotFound = errors.New("record not found")
 
 type BaseRepo interface {
-	Searchable
 	Updatable
 	Saveable
 	Creatable
@@ -19,10 +17,6 @@ type BaseRepo interface {
 	CanCreateOrUpdate
 	HaveCache
 	CanCache
-}
-
-type Searchable interface {
-	Search(ctx context.Context, val interface{}, f filter.Filter, preloadFields ...string) error
 }
 
 type Updatable interface {
