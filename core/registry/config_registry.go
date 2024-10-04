@@ -3,6 +3,7 @@ package registry
 import (
 	"github.com/labstack/echo/v4"
 	"github.com/oktopriima/marvel/cmd/http/server"
+	"github.com/oktopriima/marvel/cmd/kafka/consumer/group"
 	"github.com/oktopriima/marvel/core/config"
 	"github.com/oktopriima/marvel/core/database"
 	"github.com/oktopriima/thor/jwt"
@@ -41,6 +42,12 @@ func NewConfigRegistry(container *dig.Container) *dig.Container {
 			Audience:     "",
 			Issuer:       cfg.Jwt.Issuer,
 		})
+	}); err != nil {
+		panic(err)
+	}
+
+	if err = container.Provide(func(cfg config.AppConfig) *group.ConsumerConfig {
+		return group.NewConsumer(cfg)
 	}); err != nil {
 		panic(err)
 	}

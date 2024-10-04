@@ -43,6 +43,14 @@ type AppConfig struct {
 		User     string `mapstructure:"user"`
 		Password string `mapstructure:"password"`
 	} `mapstructure:"mongodb"`
+	Kafka struct {
+		Asignor string `mapstructure:"asignor"`
+		Brokers string `mapstructure:"brokers"`
+		Topics  string `mapstructure:"topics"`
+		Version string `mapstructure:"version"`
+		Group   string `mapstructure:"group"`
+		Marker  string `mapstructure:"marker"`
+	} `mapstructure:"kafka"`
 }
 
 func NewAppConfig() (app AppConfig) {

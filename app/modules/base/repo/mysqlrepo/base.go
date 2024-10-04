@@ -4,27 +4,20 @@ import (
 	"context"
 	"errors"
 	"github.com/fatih/structs"
-	"github.com/gomodule/redigo/redis"
 	"github.com/oktopriima/marvel/app/modules/base/model"
 	"github.com/oktopriima/marvel/app/modules/base/repo"
 	"github.com/oktopriima/marvel/core/database"
-	"go.mongodb.org/mongo-driver/mongo"
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"
-	"time"
 )
 
 type BaseRepo struct {
-	db    *gorm.DB
-	pool  *redis.Pool
-	mongo *mongo.Database
+	db *gorm.DB
 }
 
 func NewBaseRepo(instance database.DBInstance) *BaseRepo {
 	return &BaseRepo{
-		db:    instance.Database(),
-		pool:  instance.Redis(),
-		mongo: instance.MongoDb(),
+		db: instance.Database(),
 	}
 }
 
@@ -34,14 +27,6 @@ func (r *BaseRepo) GetDB(ctx context.Context) *gorm.DB {
 	db = db.WithContext(ctx)
 
 	return db
-}
-
-func (r *BaseRepo) GetPool() *redis.Pool {
-	return r.pool
-}
-
-func (r *BaseRepo) GetMongo() *mongo.Database {
-	return r.mongo
 }
 
 func (r *BaseRepo) FindByID(ctx context.Context, m model.Model, id int64, preloadFields ...string) error {
@@ -112,29 +97,4 @@ func toSearchableMap(attrs ...interface{}) (result interface{}) {
 		}
 	}
 	return
-}
-
-func (r *BaseRepo) GetCache(ctx context.Context, key string) ([]byte, error) {
-	conn, err := r.GetPool().GetContext(ctx)
-	if err != nil {
-		return nil, err
-	}
-
-	return redis.Bytes(conn.Do("GET", key))
-}
-
-func (r *BaseRepo) SetCache(ctx context.Context, key string, data []byte, ttl ...int) error {
-	defaultTtl := time.Second * time.Duration(100)
-
-	conn, err := r.GetPool().GetContext(ctx)
-	if err != nil {
-		return err
-	}
-
-	if ttl != nil {
-		defaultTtl = time.Second * time.Duration(ttl[0])
-	}
-
-	_, err = conn.Do("SET", key, data, defaultTtl)
-	return err
 }

@@ -43,7 +43,7 @@ func (server *EchoInstance) runHttp() (err error) {
 }
 
 func (server *EchoInstance) RunWithGracefullyShutdown() {
-	// run server on another thread
+	// run group on another thread
 	go func() {
 		err := server.runHttp()
 		if err != nil && errors.Is(err, http.ErrServerClosed) {
