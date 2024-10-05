@@ -7,6 +7,7 @@ import (
 	"github.com/oktopriima/marvel/app/modules/base/model"
 	"github.com/oktopriima/marvel/app/modules/base/repo"
 	"github.com/oktopriima/marvel/core/database"
+	"github.com/oktopriima/marvel/core/tracer"
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"
 )
@@ -30,13 +31,25 @@ func (r *BaseRepo) GetDB(ctx context.Context) *gorm.DB {
 }
 
 func (r *BaseRepo) FindByID(ctx context.Context, m model.Model, id int64, preloadFields ...string) error {
-	q := r.GetDB(ctx)
+	var (
+		err error
+	)
+
+	trace := tracer.StartTrace(ctx, "users:repository:findById", tracer.ServiceTraceName)
+	defer func() {
+		trace.Finish(map[string]interface{}{
+			"error":  err,
+			"output": m,
+		})
+	}()
+
+	q := r.GetDB(trace.Context())
 
 	for _, p := range preloadFields {
 		q = q.Preload(p)
 	}
 
-	err := q.Where("id = ?", id).Take(m).Error
+	err = q.Where("id = ?", id).Take(m).Error
 
 	if errors.Is(err, gorm.ErrRecordNotFound) {
 		return repo.RecordNotFound

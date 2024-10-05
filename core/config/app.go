@@ -51,6 +51,12 @@ type AppConfig struct {
 		Group   string `mapstructure:"group"`
 		Marker  string `mapstructure:"marker"`
 	} `mapstructure:"kafka"`
+	APM struct {
+		ServiceName string `mapstructure:"service_name"`
+		Version     string `mapstructure:"version"`
+		Url         string `mapstructure:"url"`
+		SecretToken string `mapstructure:"secret_token"`
+	} `mapstructure:"apm"`
 }
 
 func NewAppConfig() (app AppConfig) {

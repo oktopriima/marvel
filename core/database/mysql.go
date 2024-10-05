@@ -9,42 +9,20 @@
 package database
 
 import (
-	"errors"
 	"fmt"
 	"github.com/oktopriima/marvel/core/config"
-	"go.elastic.co/apm/module/apmsql"
-	_ "go.elastic.co/apm/module/apmsql/mysql"
-	"gorm.io/driver/mysql"
+	"go.elastic.co/apm/module/apmsql/v2"
+	_ "go.elastic.co/apm/module/apmsql/v2/mysql"
+	"go.elastic.co/apm/v2"
+	gormSql "gorm.io/driver/mysql"
 	"gorm.io/gorm"
-	"gorm.io/gorm/logger"
-	"io"
-	"io/fs"
-	"log"
-	"os"
 	"time"
 )
 
 func MysqlConnector(cfg config.AppConfig) (*gorm.DB, error) {
-	var dbLogFile *os.File
-	dbLogFile, err := os.OpenFile(fmt.Sprintf("%s/%s", cfg.Log.Directory, cfg.Log.Mysql), os.O_CREATE|os.O_RDWR|os.O_APPEND, fs.ModeAppend)
-	if err != nil && errors.Is(err, os.ErrNotExist) {
-		_ = os.Mkdir(cfg.Log.Directory, os.ModePerm)
-		dbLogFile, err = os.Create(fmt.Sprintf("%s/%s", cfg.Log.Directory, cfg.Log.Mysql))
-	}
-
-	dbLogger := logger.New(
-		log.New(io.MultiWriter(os.Stdout, dbLogFile), "\r\n", log.LstdFlags),
-		logger.Config{
-			SlowThreshold: time.Second,
-			LogLevel:      logger.Info,
-			Colorful:      true,
-		},
-	)
-
 	gormConfig := &gorm.Config{
 		PrepareStmt:            true,
 		SkipDefaultTransaction: true,
-		Logger:                 dbLogger,
 	}
 
 	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?charset=utf8&parseTime=True&loc=Local",
@@ -54,6 +32,11 @@ func MysqlConnector(cfg config.AppConfig) (*gorm.DB, error) {
 		cfg.Mysql.Port,
 		cfg.Mysql.Database,
 	)
+
+	tracer := apm.DefaultTracer()
+	if tracer == nil {
+		panic("tracer is nil")
+	}
 
 	sqlMaster, err := apmsql.Open("mysql", dsn)
 	if err != nil {
@@ -67,7 +50,7 @@ func MysqlConnector(cfg config.AppConfig) (*gorm.DB, error) {
 	// Set Connections Max Lifetime sets the maximum amount of time a connection may be reused.
 	sqlMaster.SetConnMaxLifetime(time.Hour)
 
-	db, err := gorm.Open(mysql.Open(dsn), gormConfig)
+	db, err := gorm.Open(gormSql.New(gormSql.Config{Conn: sqlMaster}), gormConfig)
 	if err != nil {
 		return nil, err
 	}

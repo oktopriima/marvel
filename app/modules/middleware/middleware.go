@@ -7,6 +7,8 @@ import (
 	"github.com/oktopriima/marvel/app/helper"
 	"github.com/oktopriima/marvel/app/modules/base/response"
 	"github.com/oktopriima/thor/jwt"
+	"go.elastic.co/apm/module/apmechov4/v2"
+	"go.elastic.co/apm/v2"
 	"net/http"
 )
 
@@ -42,4 +44,8 @@ func Auth(token jwt.AccessToken) echo.MiddlewareFunc {
 			return next(c)
 		}
 	}
+}
+
+func ApmEnabler(tracer *apm.Tracer) echo.MiddlewareFunc {
+	return apmechov4.Middleware(apmechov4.WithTracer(tracer))
 }

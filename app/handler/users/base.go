@@ -5,6 +5,7 @@ import (
 	userRequest "github.com/oktopriima/marvel/app/entity/request/users"
 	"github.com/oktopriima/marvel/app/modules/base/response"
 	"github.com/oktopriima/marvel/app/usecase/users"
+	"github.com/oktopriima/marvel/core/tracer"
 	"net/http"
 )
 
@@ -19,16 +20,27 @@ func NewUserHandler(usecase users.UserUsecase) UserHandler {
 }
 
 func (h UserHandler) FindByID(c echo.Context) error {
+	var (
+		err    error
+		output interface{}
+	)
+
+	trace := tracer.StartTrace(c.Request().Context(), "users:handler:findById", tracer.HandlerTraceName)
+	defer func() {
+		trace.Finish(map[string]interface{}{
+			"error":  err,
+			"output": output,
+		})
+	}()
+	ctx := trace.Context()
 	var req userRequest.FindByIDRequest
 
-	err := c.Bind(&req)
+	err = c.Bind(&req)
 	if err != nil {
 		return response.ErrorResponse(c, err, http.StatusBadRequest)
 	}
 
-	ctx := c.Request().Context()
-
-	output, err := h.userUsecase.FindByID(ctx, req.ID)
+	output, err = h.userUsecase.FindByID(ctx, req.ID)
 	if err != nil {
 		return response.ErrorResponse(c, err)
 	}
