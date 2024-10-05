@@ -6,6 +6,8 @@ import (
 	"github.com/oktopriima/marvel/app/entity/models"
 	"github.com/oktopriima/marvel/app/modules/base/repo/mysqlrepo"
 	"github.com/oktopriima/marvel/core/database"
+	"github.com/oktopriima/marvel/core/tracer"
+	"go.elastic.co/apm/v2"
 )
 
 type userRepository struct {
@@ -19,6 +21,9 @@ func NewUserRepository(instance database.DBInstance) contract.UserContract {
 }
 
 func (u *userRepository) FindByEmail(email string, ctx context.Context) (*models.Users, error) {
+	span, ctx := apm.StartSpan(ctx, "userRepository.FindByEmail", tracer.RepositoryTraceName)
+	defer span.End()
+
 	user := new(models.Users)
 	db := u.GetDB(ctx)
 

@@ -45,11 +45,11 @@ func MultipleResponseData(ctx echo.Context, data interface{}, page, size int) er
 
 func ErrorResponse(ctx echo.Context, err error, statusCode ...int) error {
 	code := http.StatusUnprocessableEntity
-	if len(statusCode) >= 0 {
+	if len(statusCode) > 0 {
 		code = statusCode[0]
 	}
 	return ctx.JSON(code, ErrorApiResponse{
 		Code:    code,
-		Message: err.Error(),
+		Message: fmt.Sprintf("%v", err),
 	})
 }

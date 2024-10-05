@@ -12,6 +12,7 @@ type userUsecase struct {
 
 type UserUsecase interface {
 	FindByID(ctx context.Context, ID int64) (*dto.UserResponse, error)
+	FindByEmail(ctx context.Context, email string) (*dto.UserResponse, error)
 }
 
 func NewUserUsecase(userRepository contract.UserContract) UserUsecase {

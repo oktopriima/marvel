@@ -2,7 +2,6 @@ package registry
 
 import (
 	"github.com/labstack/echo/v4"
-	"github.com/oktopriima/marvel/app/modules/middleware"
 	"github.com/oktopriima/marvel/cmd/http/server"
 	"github.com/oktopriima/marvel/cmd/kafka/consumer/group"
 	"github.com/oktopriima/marvel/core/config"
@@ -30,7 +29,6 @@ func NewConfigRegistry(container *dig.Container) *dig.Container {
 
 	if err = container.Provide(func(t *apm.Tracer) *echo.Echo {
 		e := echo.New()
-		e.Use(middleware.ApmEnabler(t))
 		return e
 	}); err != nil {
 		panic(err)
