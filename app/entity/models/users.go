@@ -2,17 +2,17 @@ package models
 
 import (
 	"github.com/oktopriima/marvel/app/modules/base/model"
-	"gorm.io/gorm"
+	"time"
 )
 
 type Users struct {
 	model.BaseModel
-	Email        string         `json:"email"`
-	FirstName    string         `json:"first_name"`
-	LastName     string         `json:"last_name"`
-	Password     string         `json:"password"`
-	RefreshToken string         `json:"refresh_token"`
-	DeletedAt    gorm.DeletedAt `json:"deleted_at"`
+	Name            string    `json:"name"`
+	Email           string    `json:"email"`
+	EmailVerifiedAt time.Time `json:"email_verified_at"`
+	Password        string    `json:"password"`
+	RememberToken   string    `json:"remember_token"`
+	DeletedAt       time.Time `gorm:"default:null" json:"deleted_at"`
 }
 
 func (u *Users) TableName() string {

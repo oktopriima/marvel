@@ -9,7 +9,6 @@ func TestGeneratePassword(t *testing.T) {
 	tests := []struct {
 		name string
 		args args
-		want string
 	}{
 		{
 			name: "generate password",

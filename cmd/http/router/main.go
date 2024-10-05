@@ -21,7 +21,7 @@ func NewRouter(
 	e.Use(middleware.Recover())
 	e.Use(middleware.CORS())
 
-	route := e.Group("api/")
+	route := e.Group("api/v1/")
 
 	route.GET("ping", func(context echo.Context) error {
 		return context.JSON(200, struct {
@@ -31,8 +31,8 @@ func NewRouter(
 
 	// login route
 	{
-		loginRoute := route.Group("auth")
-		loginRoute.POST("/email", authHandler.LoginByEmail)
+		loginRoute := route.Group("login")
+		loginRoute.POST("/", authHandler.LoginByEmail)
 	}
 
 	// authenticate route
