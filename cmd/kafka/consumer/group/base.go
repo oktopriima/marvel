@@ -5,6 +5,7 @@ import (
 	"errors"
 	"flag"
 	"github.com/IBM/sarama"
+	"github.com/oktopriima/marvel/app/usecase/consumers"
 	"github.com/oktopriima/marvel/core/config"
 	"log"
 	"os"
@@ -23,9 +24,10 @@ type ConsumerConfig struct {
 	oldest   bool
 	verbose  bool
 	marker   string
+	usecase  consumers.ConsumerUsecase
 }
 
-func NewConsumer(cfg config.AppConfig) *ConsumerConfig {
+func NewConsumer(cfg config.AppConfig, usecase consumers.ConsumerUsecase) *ConsumerConfig {
 	return &ConsumerConfig{
 		brokers:  cfg.Kafka.Brokers,
 		version:  cfg.Kafka.Version,
@@ -35,6 +37,7 @@ func NewConsumer(cfg config.AppConfig) *ConsumerConfig {
 		oldest:   true,
 		verbose:  false,
 		marker:   cfg.Kafka.Marker,
+		usecase:  usecase,
 	}
 }
 
@@ -72,7 +75,9 @@ func (c *ConsumerConfig) Serve() {
 	}
 
 	consumer := Consumer{
-		ready: make(chan bool),
+		ready:   make(chan bool),
+		marker:  c.marker,
+		usecase: c.usecase,
 	}
 
 	ctx, cancel := context.WithCancel(context.Background())
