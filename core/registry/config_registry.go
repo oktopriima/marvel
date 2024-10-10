@@ -55,9 +55,7 @@ func NewConfigRegistry(container *dig.Container) *dig.Container {
 		panic(err)
 	}
 
-	if err = container.Provide(func(cfg config.AppConfig) *group.ConsumerConfig {
-		return group.NewConsumer(cfg)
-	}); err != nil {
+	if err = container.Provide(group.NewConsumer); err != nil {
 		panic(err)
 	}
 

@@ -18,7 +18,7 @@ func NewUsecaseRegistry(container *dig.Container) *dig.Container {
 		panic(err)
 	}
 
-	if err = container.Provide(consumers.NewPackageValidationUsecase); err != nil {
+	if err = container.Provide(consumers.NewConsumerUsecase); err != nil {
 		panic(err)
 	}
 

@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"github.com/IBM/sarama"
 	"github.com/oktopriima/marvel/app/usecase/consumers"
-	"github.com/oktopriima/marvel/core/config"
 	"log"
 )
 
@@ -15,7 +14,7 @@ const (
 // Consumer represents a Sarama consumer group consumer
 type Consumer struct {
 	ready   chan bool
-	cfg     config.AppConfig
+	marker  string
 	usecase consumers.ConsumerUsecase
 }
 
@@ -37,12 +36,9 @@ func (consumer *Consumer) ConsumeClaim(session sarama.ConsumerGroupSession, clai
 				log.Printf("message channel was closed")
 				return nil
 			}
-
-			log.Printf("Message claimed: value = %s, timestamp = %v, topic = %s", string(message.Value), message.Timestamp, message.Topic)
-
 			// process message
 			consumer.usecase.Init(session.Context(), message, session)
-			session.MarkMessage(message, fmt.Sprintf("%s:%s", consumer.cfg.Kafka.Marker, Done))
+			session.MarkMessage(message, fmt.Sprintf("%s:%s", consumer.marker, Done))
 
 		case <-session.Context().Done():
 			return nil
