@@ -1,0 +1,7256 @@
+{
+  "summary": {
+    "query": "bandung",
+    "queryType": "NON_NEAR",
+    "queryTime": 263,
+    "numResults": 100,
+    "offset": 0,
+    "totalResults": 100,
+    "fuzzyLevel": 1
+  },
+  "results": [
+    {
+      "type": "POI",
+      "id": "2355FtL9-XVe3W6FwPxtGQ",
+      "score": 2.5836045742,
+      "info": "search:ta:360009002809760-ID",
+      "poi": {
+        "name": "Monumen Bandung Lautan Api",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Bkr",
+        "municipalitySubdivision": "Regol",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Ciateul",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40252",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Bkr, Regol Sub District, Bandung District, Jawa Barat 40252",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.9338,
+        "lon": 107.6049
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.9329,
+          "lon": 107.60399
+        },
+        "btmRightPoint": {
+          "lat": -6.9347,
+          "lon": 107.60581
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.9332,
+            "lon": 107.60489
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "NCQThf7eacFptqMzROdyUw",
+      "score": 2.4851543903,
+      "info": "search:ta:360009000556404-ID",
+      "poi": {
+        "name": "Pendopo Bandung",
+        "categorySet": [
+          {
+            "id": 7367
+          }
+        ],
+        "categories": [
+          "government office"
+        ],
+        "classifications": [
+          {
+            "code": "GOVERNMENT_OFFICE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "government office"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Dalem Kaum",
+        "municipalitySubdivision": "Regol",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Balong Gede",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40251",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Dalem Kaum 58, Regol Sub District, Bandung District, Jawa Barat 40251",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.923077,
+        "lon": 107.607013
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.92218,
+          "lon": 107.60611
+        },
+        "btmRightPoint": {
+          "lat": -6.92398,
+          "lon": 107.60792
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.92249,
+            "lon": 107.60709
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "D10Ut8PL7BFde-NKcIBkUA",
+      "score": 2.461026907,
+      "info": "search:ta:360009000693602-ID",
+      "poi": {
+        "name": "Gedung Sate Bandung",
+        "categorySet": [
+          {
+            "id": 7367
+          }
+        ],
+        "categories": [
+          "government office"
+        ],
+        "classifications": [
+          {
+            "code": "GOVERNMENT_OFFICE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "government office"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Diponegoro",
+        "municipalitySubdivision": "Bandung Wetan",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Citarum",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40115",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Diponegoro, Bandung Wetan Sub District, Bandung District, Jawa Barat 40115",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.902415,
+        "lon": 107.618779
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.90127,
+          "lon": 107.61762
+        },
+        "btmRightPoint": {
+          "lat": -6.90356,
+          "lon": 107.61993
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.90127,
+            "lon": 107.61874
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "nP8_NTzvH7MVYqXk_-fm2g",
+      "score": 2.1244060993,
+      "info": "search:ta:360006003716483-ID",
+      "poi": {
+        "name": "Ciparay, Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Cipong Porang",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Serangmekar",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40381",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Cipong Porang, Bandung District, Jawa Barat 40381",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.024687,
+        "lon": 107.698319
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.02379,
+          "lon": 107.69741
+        },
+        "btmRightPoint": {
+          "lat": -7.02559,
+          "lon": 107.69923
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.0247,
+            "lon": 107.69841
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "psN1K5JRkElfE0aJQ80fVw",
+      "score": 2.1244060993,
+      "info": "search:ta:360006004338424-ID",
+      "poi": {
+        "name": "Cartil Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Riung Lestari No.30A",
+        "municipalitySubdivision": "Gedebage",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cisaranten Kidul",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40295",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Riung Lestari No.30A, Gedebage Sub District, Bandung District, Jawa Barat 40295",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.941805,
+        "lon": 107.68438
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.94091,
+          "lon": 107.68347
+        },
+        "btmRightPoint": {
+          "lat": -6.9427,
+          "lon": 107.68529
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.9418,
+            "lon": 107.68429
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "AZbNd_gSxCKxaR3Qi7To3A",
+      "score": 2.1244060993,
+      "info": "search:ta:360006004785688-ID",
+      "poi": {
+        "name": "Sumber Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Raya Druju",
+        "municipalitySubdivision": "Sumbermanjing",
+        "municipality": "Malang",
+        "municipalitySecondarySubdivision": "Druju",
+        "countrySubdivision": "Jawa Timur",
+        "countrySubdivisionName": "Jawa Timur",
+        "countrySubdivisionCode": "JI",
+        "postalCode": "65176",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Raya Druju, Sumbermanjing Sub District, Malang District, Jawa Timur 65176",
+        "localName": "Malang"
+      },
+      "position": {
+        "lat": -8.2508,
+        "lon": 112.6774
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.24919,
+          "lon": 112.67577
+        },
+        "btmRightPoint": {
+          "lat": -8.25241,
+          "lon": 112.67903
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.2492,
+            "lon": 112.67761
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "i9zSXU_9qXHyGn9MRiKlhA",
+      "score": 2.1244060993,
+      "info": "search:ta:360006003349995-ID",
+      "poi": {
+        "name": "Nyawang Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Lembang",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Sukajaya",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40391",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Lembang, Bandung District, Jawa Barat 40391 (Sukajaya)",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.786338,
+        "lon": 107.598475
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.78469,
+          "lon": 107.59681
+        },
+        "btmRightPoint": {
+          "lat": -6.78799,
+          "lon": 107.60014
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.78789,
+            "lon": 107.59791
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "yCrjQ-YePguH9M4ZFJ2fXQ",
+      "score": 2.1244060993,
+      "info": "search:ta:360006003789475-ID",
+      "poi": {
+        "name": "Sumur Bandung",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Bantul Regency",
+        "municipalitySubdivision": "Piyungan",
+        "municipality": "Bantul",
+        "municipalitySecondarySubdivision": "Srimulyo",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55792",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Bantul Regency, Piyungan Sub District, Bantul District, Yogyakarta 55792",
+        "localName": "Bantul"
+      },
+      "position": {
+        "lat": -7.8439,
+        "lon": 110.4568
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.843,
+          "lon": 110.45589
+        },
+        "btmRightPoint": {
+          "lat": -7.8448,
+          "lon": 110.45771
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.84402,
+            "lon": 110.4568
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "sPEjUD3zfX6D1ihc3tJ5iQ",
+      "score": 2.1244060993,
+      "info": "search:ta:360006006747147-ID",
+      "poi": {
+        "name": "Dam Bandung",
+        "categorySet": [
+          {
+            "id": 7376007
+          }
+        ],
+        "categories": [
+          "dam",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "dam"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Raya Petemon",
+        "municipality": "Gianyar",
+        "municipalitySecondarySubdivision": "Pejeng Kelod",
+        "countrySubdivision": "Bali",
+        "countrySubdivisionName": "Bali",
+        "countrySubdivisionCode": "BA",
+        "postalCode": "80515",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Raya Petemon, Gianyar District, Bali 80515",
+        "localName": "Gianyar"
+      },
+      "position": {
+        "lat": -8.5186,
+        "lon": 115.3057
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.5177,
+          "lon": 115.30479
+        },
+        "btmRightPoint": {
+          "lat": -8.5195,
+          "lon": 115.30661
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.51862,
+            "lon": 115.30539
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "9Eg_zCq00UkcXcP0ULp5Aw",
+      "score": 2.1244060993,
+      "info": "search:ta:360006003067793-ID",
+      "poi": {
+        "name": "Farmhouse Bandung",
+        "phone": "+62 822-4020-7230",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Raya Lembang",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Gudangkahuripan",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40391",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Raya Lembang, Bandung District, Jawa Barat 40391",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.832969,
+        "lon": 107.605621
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.83207,
+          "lon": 107.60472
+        },
+        "btmRightPoint": {
+          "lat": -6.83387,
+          "lon": 107.60653
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.83254,
+            "lon": 107.60512
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "nQmM_GceKLUAVqL-EcDn_g",
+      "score": 2.1244060993,
+      "info": "search:ta:360006006431359-ID",
+      "poi": {
+        "name": "Camp Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Raya Cicalengka - Majalaya",
+        "municipalitySubdivision": "Paseh",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cijagra",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40383",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Raya Cicalengka - Majalaya, Paseh Sub District, Bandung District, Jawa Barat 40383",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.032207,
+        "lon": 107.783506
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.03131,
+          "lon": 107.7826
+        },
+        "btmRightPoint": {
+          "lat": -7.03311,
+          "lon": 107.78441
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.03214,
+            "lon": 107.78345
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "YbMHLJbr6Js5zk-L_-PrIQ",
+      "score": 2.1244060993,
+      "info": "search:ta:360006003612650-ID",
+      "poi": {
+        "name": "Di Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Lembang",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cibodas",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40391",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Lembang, Bandung District, Jawa Barat 40391 (Cibodas)",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.8261,
+        "lon": 107.6866
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.8252,
+          "lon": 107.68569
+        },
+        "btmRightPoint": {
+          "lat": -6.827,
+          "lon": 107.68751
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.82606,
+            "lon": 107.68648
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "0toa6vFYFTNVhdYzX1LRyQ",
+      "score": 2.1244060993,
+      "info": "search:ta:360006007835844-ID",
+      "poi": {
+        "name": "Curug Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Dusun Ii",
+        "municipality": "Banyumas",
+        "municipalitySecondarySubdivision": "Kedung Banteng",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "53152",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Dusun Ii, Banyumas District, Jawa Tengah 53152",
+        "localName": "Banyumas"
+      },
+      "position": {
+        "lat": -7.3857,
+        "lon": 109.2082
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.38404,
+          "lon": 109.20652
+        },
+        "btmRightPoint": {
+          "lat": -7.38736,
+          "lon": 109.20988
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.38623,
+            "lon": 109.20661
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "pOs5OHrPDkPIYIe93oV0pQ",
+      "score": 2.1244060993,
+      "info": "search:ta:360006006737954-ID",
+      "poi": {
+        "name": "Bendungan Bandung",
+        "categorySet": [
+          {
+            "id": 7376007
+          }
+        ],
+        "categories": [
+          "dam",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "dam"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Br",
+        "municipality": "Gianyar",
+        "municipalitySecondarySubdivision": "Siangan",
+        "countrySubdivision": "Bali",
+        "countrySubdivisionName": "Bali",
+        "countrySubdivisionCode": "BA",
+        "postalCode": "80515",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Br, Gianyar District, Bali 80515",
+        "localName": "Gianyar"
+      },
+      "position": {
+        "lat": -8.518,
+        "lon": 115.3064
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.5171,
+          "lon": 115.30549
+        },
+        "btmRightPoint": {
+          "lat": -8.5189,
+          "lon": 115.30731
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.51717,
+            "lon": 115.30654
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "9wgF8pkz9GiZSgULojw3-w",
+      "score": 2.1037807465,
+      "info": "search:ta:360006007114017-ID",
+      "poi": {
+        "name": "Bandung Kota Cilukba",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Merdeka",
+        "municipalitySubdivision": "Sumur Bandung",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Merdeka",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40113",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Merdeka, Sumur Bandung Sub District, Bandung District, Jawa Barat 40113",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.9183,
+        "lon": 107.6245
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.9174,
+          "lon": 107.62359
+        },
+        "btmRightPoint": {
+          "lat": -6.9192,
+          "lon": 107.62541
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.91818,
+            "lon": 107.62453
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "182Vn1-aYmBFjYj0NdKSkA",
+      "score": 2.1037807465,
+      "info": "search:ta:360006006744782-ID",
+      "poi": {
+        "name": "Bandung Waterfall-All",
+        "phone": "+62 628 11394684",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Siangan",
+        "municipality": "Gianyar",
+        "municipalitySecondarySubdivision": "Siangan",
+        "countrySubdivision": "Bali",
+        "countrySubdivisionName": "Bali",
+        "countrySubdivisionCode": "BA",
+        "postalCode": "80515",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Siangan, Gianyar District, Bali 80515",
+        "localName": "Gianyar"
+      },
+      "position": {
+        "lat": -8.519407,
+        "lon": 115.307888
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.51851,
+          "lon": 115.30698
+        },
+        "btmRightPoint": {
+          "lat": -8.52031,
+          "lon": 115.3088
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.51917,
+            "lon": 115.30815
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "J6oMdZjqcmRFbsmzDFWkWQ",
+      "score": 2.1037807465,
+      "info": "search:ta:360006004479142-ID",
+      "poi": {
+        "name": "Baru Stasiun Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Stasiun Timur No.12",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Kebon Jeruk",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40181",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Stasiun Timur No.12, Bandung District, Jawa Barat 40181",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.9142,
+        "lon": 107.6032
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.91271,
+          "lon": 107.6017
+        },
+        "btmRightPoint": {
+          "lat": -6.91569,
+          "lon": 107.6047
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.91477,
+            "lon": 107.60459
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "O34Pce-8lSqdmriIM3Nc7Q",
+      "score": 2.1037807465,
+      "info": "search:ta:360007000119870-ID",
+      "poi": {
+        "name": "Teras Cihampelas Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Cihampelas No.162",
+        "municipalitySubdivision": "Coblong",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cipaganti",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40131",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Cihampelas No.162, Coblong Sub District, Bandung District, Jawa Barat 40131",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.894716,
+        "lon": 107.603956
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.89382,
+          "lon": 107.60305
+        },
+        "btmRightPoint": {
+          "lat": -6.89562,
+          "lon": 107.60486
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.8948,
+            "lon": 107.60404
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "pMd9tUbntlswLvEBIRvSLQ",
+      "score": 2.1037807465,
+      "info": "search:ta:360006003169670-ID",
+      "poi": {
+        "name": "Kolong Bandung River",
+        "phone": "+62 819-2967-009",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Manggar",
+        "municipalitySubdivision": "Manggar",
+        "municipality": "Belitung",
+        "municipalitySecondarySubdivision": "Baru",
+        "countrySubdivision": "Kepulauan Bangka Belitung",
+        "countrySubdivisionName": "Kepulauan Bangka Belitung",
+        "countrySubdivisionCode": "BB",
+        "postalCode": "33512",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Manggar, Manggar Sub District, Belitung District, Kepulauan Bangka Belitung 33512",
+        "localName": "Belitung"
+      },
+      "position": {
+        "lat": -2.8562,
+        "lon": 108.2923
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.8553,
+          "lon": 108.2914
+        },
+        "btmRightPoint": {
+          "lat": -2.8571,
+          "lon": 108.2932
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.85642,
+            "lon": 108.29256
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "NKeZCzOphBOeJmEMF9kq_w",
+      "score": 2.1037807465,
+      "info": "search:ta:360006007297241-ID",
+      "poi": {
+        "name": "Telaga Bandung Lamongan",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rangge",
+        "municipality": "Lamongan",
+        "municipalitySecondarySubdivision": "Sukomulyo",
+        "countrySubdivision": "Jawa Timur",
+        "countrySubdivisionName": "Jawa Timur",
+        "countrySubdivisionCode": "JI",
+        "postalCode": "62216",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Rangge, Lamongan District, Jawa Timur 62216",
+        "localName": "Lamongan"
+      },
+      "position": {
+        "lat": -7.123513,
+        "lon": 112.411477
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.12261,
+          "lon": 112.41057
+        },
+        "btmRightPoint": {
+          "lat": -7.12441,
+          "lon": 112.41238
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.12339,
+            "lon": 112.41152
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "TfK3Os1ITC_FpVekIL8AZA",
+      "score": 2.1037807465,
+      "info": "search:ta:360006006737958-ID",
+      "poi": {
+        "name": "Air Terjun Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Siangan",
+        "municipality": "Gianyar",
+        "municipalitySecondarySubdivision": "Siangan",
+        "countrySubdivision": "Bali",
+        "countrySubdivisionName": "Bali",
+        "countrySubdivisionCode": "BA",
+        "postalCode": "80515",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Siangan, Gianyar District, Bali 80515",
+        "localName": "Gianyar"
+      },
+      "position": {
+        "lat": -8.519827,
+        "lon": 115.308185
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.51893,
+          "lon": 115.30728
+        },
+        "btmRightPoint": {
+          "lat": -8.52073,
+          "lon": 115.30909
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.51985,
+            "lon": 115.30846
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "wbeJhjrRc4AWGXJh1H2WjQ",
+      "score": 2.1037807465,
+      "info": "search:ta:360006003349987-ID",
+      "poi": {
+        "name": "Ciwangun Camp Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kertawangi",
+        "municipalitySubdivision": "Parongpong",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cihanjuang Rahayu",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40551",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kertawangi, Parongpong Sub District, Bandung District, Jawa Barat 40551",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.7876,
+        "lon": 107.583
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.7867,
+          "lon": 107.58209
+        },
+        "btmRightPoint": {
+          "lat": -6.7885,
+          "lon": 107.58391
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.78769,
+            "lon": 107.58353
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "HE0AGCUN3ZiCbgaV_572gQ",
+      "score": 2.1037807465,
+      "info": "search:ta:360006007430457-ID",
+      "poi": {
+        "name": "Pemancing Asal Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Cinyenang",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Budiharja",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40562",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Cinyenang, Bandung District, Jawa Barat 40562",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.937886,
+        "lon": 107.439209
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.93699,
+          "lon": 107.4383
+        },
+        "btmRightPoint": {
+          "lat": -6.93879,
+          "lon": 107.44011
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.93796,
+            "lon": 107.43916
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "8BhOYH0C-db7kaAJRUJuFw",
+      "score": 2.1037807465,
+      "info": "search:ta:360006004179355-ID",
+      "poi": {
+        "name": "Curug Di Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Curug Bandung",
+        "municipalitySubdivision": "Cikatomas",
+        "municipality": "Kota Tasikmalaya",
+        "municipalitySecondarySubdivision": "Cayur",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "46193",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Curug Bandung, Cikatomas Sub District, Kota Tasikmalaya District, Jawa Barat 46193",
+        "localName": "Kota Tasikmalaya"
+      },
+      "position": {
+        "lat": -7.58494,
+        "lon": 108.286473
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.58352,
+          "lon": 108.28504
+        },
+        "btmRightPoint": {
+          "lat": -7.58636,
+          "lon": 108.28791
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.58588,
+            "lon": 108.28755
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "jYY3r5XcfOfsaUOJxq7Ndw",
+      "score": 2.1037807465,
+      "info": "search:ta:360006004614855-ID",
+      "poi": {
+        "name": "Tpst Kota Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Gedebage",
+        "municipalitySubdivision": "Gedebage",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Rancanumpang",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Gedebage, Gedebage Sub District, Bandung District, Jawa Barat 40294",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.964539,
+        "lon": 107.708781
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.96364,
+          "lon": 107.70787
+        },
+        "btmRightPoint": {
+          "lat": -6.96544,
+          "lon": 107.70969
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.96489,
+            "lon": 107.70897
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "V_mvI1Y42aqmy2_0FDDWIA",
+      "score": 2.1037807465,
+      "info": "search:ta:360006002646755-ID",
+      "poi": {
+        "name": "Vacation Villa Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Parongpong",
+        "municipalitySubdivision": "Parongpong",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cihanjuang Rahayu",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40559",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Parongpong, Parongpong Sub District, Bandung District, Jawa Barat 40559",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.8365,
+        "lon": 107.5715
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.8356,
+          "lon": 107.57059
+        },
+        "btmRightPoint": {
+          "lat": -6.8374,
+          "lon": 107.57241
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.83653,
+            "lon": 107.57181
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "cAQctO_bNqGp5_ZnUJWxPw",
+      "score": 2.1037807465,
+      "info": "search:ta:360006006433908-ID",
+      "poi": {
+        "name": "Pa Haji Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Anyar Sangkali No.27",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Bojong",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40392",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Anyar Sangkali No.27, Bandung District, Jawa Barat 40392",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.035969,
+        "lon": 107.77397
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.03507,
+          "lon": 107.77306
+        },
+        "btmRightPoint": {
+          "lat": -7.03687,
+          "lon": 107.77488
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.03588,
+            "lon": 107.77399
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "GlHllzvp6816wVhXDSC2vQ",
+      "score": 2.1037807465,
+      "info": "search:ta:360006006457390-ID",
+      "poi": {
+        "name": "Suruhan Lor, Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gading",
+        "municipality": "Tulungagung",
+        "municipalitySecondarySubdivision": "Suruhan Lor",
+        "countrySubdivision": "Jawa Timur",
+        "countrySubdivisionName": "Jawa Timur",
+        "countrySubdivisionCode": "JI",
+        "postalCode": "66274",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gading, Tulungagung District, Jawa Timur 66274",
+        "localName": "Tulungagung"
+      },
+      "position": {
+        "lat": -8.1556,
+        "lon": 111.7957
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.1547,
+          "lon": 111.79479
+        },
+        "btmRightPoint": {
+          "lat": -8.1565,
+          "lon": 111.79661
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.15574,
+            "lon": 111.7961
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "wN-wLXKisUR5uYJsqqAh4g",
+      "score": 2.1037807465,
+      "info": "search:ta:360006005792936-ID",
+      "poi": {
+        "name": "Bandung Selatan Rafting",
+        "phone": "+62 812-2407-275",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Pangalengan",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Warnasari",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40378",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Pangalengan, Bandung District, Jawa Barat 40378",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.193132,
+        "lon": 107.545439
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.19223,
+          "lon": 107.54453
+        },
+        "btmRightPoint": {
+          "lat": -7.19403,
+          "lon": 107.54635
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.19307,
+            "lon": 107.54537
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ume3G-Jz7EDeu20nMCGXOA",
+      "score": 2.1037807465,
+      "info": "search:ta:360006003220094-ID",
+      "poi": {
+        "name": "Sudut Pandang Bandung",
+        "phone": "+62 812-2296-5758",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rt.05/Rw.07",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Pagerwangi",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40391",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Rt.05/Rw.07, Bandung District, Jawa Barat 40391",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.8424,
+        "lon": 107.623195
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.8415,
+          "lon": 107.62229
+        },
+        "btmRightPoint": {
+          "lat": -6.8433,
+          "lon": 107.6241
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.84241,
+            "lon": 107.62328
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "LQVL0evebTAspDn9zE-7Ng",
+      "score": 2.1037807465,
+      "info": "search:ta:360006002637915-ID",
+      "poi": {
+        "name": "Bandung Historical Trip",
+        "phone": "+62 628 17622883",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Pasirkaliki",
+        "municipalitySubdivision": "Cimahi Utara",
+        "municipality": "Cimahi",
+        "municipalitySecondarySubdivision": "Pasirkaliki",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40514",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Pasirkaliki, Cimahi Utara Sub District, Cimahi District, Jawa Barat 40514",
+        "localName": "Cimahi"
+      },
+      "position": {
+        "lat": -6.8852,
+        "lon": 107.566
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.8843,
+          "lon": 107.56509
+        },
+        "btmRightPoint": {
+          "lat": -6.8861,
+          "lon": 107.56691
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.88543,
+            "lon": 107.56593
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "l2UzydEqxJD3HPugOJXDwA",
+      "score": 2.1037807465,
+      "info": "search:ta:360007000119872-ID",
+      "poi": {
+        "name": "Institut Teknologi Bandung",
+        "phone": "+62 22 2500935",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ],
+        "url": "www.itb.ac.id/en/"
+      },
+      "address": {
+        "municipalitySubdivision": "Coblong",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Lebak Siliwangi",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40132",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Coblong Sub District, Bandung District, Jawa Barat 40132",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.891488,
+        "lon": 107.61066
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.89059,
+          "lon": 107.60975
+        },
+        "btmRightPoint": {
+          "lat": -6.89239,
+          "lon": 107.61157
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.89149,
+            "lon": 107.61038
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "x_GImfv0XeIsdSa-icEEEw",
+      "score": 2.1037807465,
+      "info": "search:ta:360006007022117-ID",
+      "poi": {
+        "name": "Bandung Ludologi Garden",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Astaraja",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Margahurip",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40377",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Astaraja, Bandung District, Jawa Barat 40377",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.0639,
+        "lon": 107.5582
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.06285,
+          "lon": 107.55715
+        },
+        "btmRightPoint": {
+          "lat": -7.06495,
+          "lon": 107.55925
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.06288,
+            "lon": 107.55797
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "NXwrIlCpmHvCX3MwUyYXmw",
+      "score": 2.0835521221,
+      "info": "search:ta:360006006423644-ID",
+      "poi": {
+        "name": "Trip Kota Bandung Ajah",
+        "phone": "+62 812-2188-893",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Komplek Bumi Asri Regency Blok L20",
+        "municipalitySubdivision": "Bandung Kulon",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Gempol Sari",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40215",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Komplek Bumi Asri Regency Blok L20, Bandung Kulon Sub District, Bandung District, Jawa Barat 40215",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.934419,
+        "lon": 107.552443
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.93352,
+          "lon": 107.55154
+        },
+        "btmRightPoint": {
+          "lat": -6.93532,
+          "lon": 107.55335
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.93438,
+            "lon": 107.55236
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Fmcbex1zjhBkwNR2WI69ew",
+      "score": 2.0835521221,
+      "info": "search:ta:360006006442810-ID",
+      "poi": {
+        "name": "Gapura Perbatasan Bandung-Sumedang",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Insinyur Soekarno",
+        "municipalitySubdivision": "Jatinangor",
+        "municipality": "Sumedang",
+        "municipalitySecondarySubdivision": "Cibeusi",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40622",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Insinyur Soekarno, Jatinangor Sub District, Sumedang District, Jawa Barat 40622",
+        "localName": "Sumedang"
+      },
+      "position": {
+        "lat": -6.937884,
+        "lon": 107.757525
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.93698,
+          "lon": 107.75662
+        },
+        "btmRightPoint": {
+          "lat": -6.93878,
+          "lon": 107.75843
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.9379,
+            "lon": 107.75686
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "yzu1u5fSCAMsh3avVnCoRg",
+      "score": 2.0835521221,
+      "info": "search:ta:360006004796565-ID",
+      "poi": {
+        "name": "Upside Down World Bandung",
+        "phone": "+62 22 20454234",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. H. Wasid No.31",
+        "municipalitySubdivision": "Coblong",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Lebak Gede",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40132",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. H. Wasid No.31, Coblong Sub District, Bandung District, Jawa Barat 40132",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.8963,
+        "lon": 107.617
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.8954,
+          "lon": 107.61609
+        },
+        "btmRightPoint": {
+          "lat": -6.8972,
+          "lon": 107.61791
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.89647,
+            "lon": 107.6172
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Vt3JwWGU0Pc3A8COQAc7gw",
+      "score": 2.0835521221,
+      "info": "search:ta:360006007113187-ID",
+      "poi": {
+        "name": "Wisata Quran Di Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "No.71",
+        "municipalitySubdivision": "Kiaracondong",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Babakan Sari",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40283",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "No.71 1, Kiaracondong Sub District, Bandung District, Jawa Barat 40283",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.9218,
+        "lon": 107.648
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.9209,
+          "lon": 107.64709
+        },
+        "btmRightPoint": {
+          "lat": -6.9227,
+          "lon": 107.64891
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.9222,
+            "lon": 107.64788
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "RT26e_M-evUHIDDhOsKLoQ",
+      "score": 2.0835521221,
+      "info": "search:ta:360006004816201-ID",
+      "poi": {
+        "name": "Terminal Bis Leuwipanjang-Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Bojongloa Kidul",
+        "municipalitySubdivision": "Bojongloa Kidul",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Situsaeur",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40234",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Bojongloa Kidul, Bojongloa Kidul Sub District, Bandung District, Jawa Barat 40234",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.946675,
+        "lon": 107.593205
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.94578,
+          "lon": 107.5923
+        },
+        "btmRightPoint": {
+          "lat": -6.94757,
+          "lon": 107.59411
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.94676,
+            "lon": 107.59318
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "19wiVEAzDaqQCqzLW2nPpg",
+      "score": 2.0835521221,
+      "info": "search:ta:360006006652479-ID",
+      "poi": {
+        "name": "Kaktus Murah Bandung Timur",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mandalasari",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Mandalasari",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40396",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mandalasari, Bandung District, Jawa Barat 40396",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.0474,
+        "lon": 107.8463
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.0465,
+          "lon": 107.84539
+        },
+        "btmRightPoint": {
+          "lat": -7.0483,
+          "lon": 107.84721
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.04726,
+            "lon": 107.84624
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Qw_6R5Sbhc-Ml21YNvud_A",
+      "score": 2.0835521221,
+      "info": "search:ta:360006004511534-ID",
+      "poi": {
+        "name": "Kampung Kuliner Talang Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Talang Bandung",
+        "municipalitySubdivision": "Batu Raja Barat",
+        "municipality": "Ogan Komering",
+        "municipalitySecondarySubdivision": "Talang Jawa",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "32122",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Talang Bandung, Batu Raja Barat Sub District, Ogan Komering District, Sumatera Selatan 32122",
+        "localName": "Ogan Komering"
+      },
+      "position": {
+        "lat": -4.124213,
+        "lon": 104.162046
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -4.12331,
+          "lon": 104.16114
+        },
+        "btmRightPoint": {
+          "lat": -4.12511,
+          "lon": 104.16295
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -4.12425,
+            "lon": 104.16213
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "znakLZo61WxJbWO3bdjWwg",
+      "score": 2.0835521221,
+      "info": "search:ta:360006004328675-ID",
+      "poi": {
+        "name": "Bandung Treetop Adventure Park",
+        "phone": "+62 22 82780672",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Cikole Jayagiri Resort",
+        "municipality": "Semarang",
+        "municipalitySecondarySubdivision": "Batur",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "40391",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Cikole Jayagiri Resort, Semarang District, Jawa Tengah 40391",
+        "localName": "Semarang"
+      },
+      "position": {
+        "lat": -7.39711,
+        "lon": 110.423982
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.39569,
+          "lon": 110.42255
+        },
+        "btmRightPoint": {
+          "lat": -7.39853,
+          "lon": 110.42542
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.39576,
+            "lon": 110.42443
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "-DDMbsslM6eGuoqBr98cdQ",
+      "score": 2.0835521221,
+      "info": "search:ta:360006006575129-ID",
+      "poi": {
+        "name": "Sunflower Festival Pvj Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sukajadi No.131-139",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cipedes",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40162",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sukajadi No.131-139, Bandung District, Jawa Barat 40162",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.8896,
+        "lon": 107.5959
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.88865,
+          "lon": 107.59494
+        },
+        "btmRightPoint": {
+          "lat": -6.89055,
+          "lon": 107.59686
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.88954,
+            "lon": 107.59686
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "VDiDxVSvFjLOLjqpXE1Zxg",
+      "score": 2.0835521221,
+      "info": "search:ta:360006007557779-ID",
+      "poi": {
+        "name": "Juma Penembahen Cimenyan Bandung",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Juma Penembahen Cimenyan Bandung",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Padasuka",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40197",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Juma Penembahen Cimenyan Bandung, Bandung District, Jawa Barat 40197",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.8803,
+        "lon": 107.6573
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.8794,
+          "lon": 107.65639
+        },
+        "btmRightPoint": {
+          "lat": -6.8812,
+          "lon": 107.65821
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.88025,
+            "lon": 107.65702
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "tKz9fD2i3w8UzMBd7gfepQ",
+      "score": 2.0835521221,
+      "info": "search:ta:360006007568051-ID",
+      "poi": {
+        "name": "Rafting Bandung Ajp Adventure",
+        "phone": "+62 812-9749-464",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Situ Cileunca",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Warnasari",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40378",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Situ Cileunca, Bandung District, Jawa Barat 40378",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.19493,
+        "lon": 107.543278
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.19403,
+          "lon": 107.54237
+        },
+        "btmRightPoint": {
+          "lat": -7.19583,
+          "lon": 107.54418
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.19475,
+            "lon": 107.54332
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "joqVwbibCVkA8p7XKbAMZA",
+      "score": 2.0637090206,
+      "info": "search:ta:360006004649855-ID",
+      "poi": {
+        "name": "Saung Kebon, Cipeundeuy-Bandung Barat",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Ciroyom Sirnagalih",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Sirnagalih",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40558",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Ciroyom Sirnagalih, Bandung District, Jawa Barat 40558",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.706198,
+        "lon": 107.369886
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.7053,
+          "lon": 107.36898
+        },
+        "btmRightPoint": {
+          "lat": -6.7071,
+          "lon": 107.37079
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.70621,
+            "lon": 107.36997
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "2GW2uiQg1u_faImywgeV1g",
+      "score": 2.0637090206,
+      "info": "search:ta:360006007416262-ID",
+      "poi": {
+        "name": "Pmti Lapak Cibodas, Bandung Barat",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "West Bandung Regency",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cilame",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40552",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "West Bandung Regency, Bandung District, Jawa Barat 40552",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.85097,
+        "lon": 107.521328
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.85007,
+          "lon": 107.52042
+        },
+        "btmRightPoint": {
+          "lat": -6.85187,
+          "lon": 107.52223
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.851,
+            "lon": 107.52141
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "-mWO7L7Jh1OY_2jgRIkrWQ",
+      "score": 2.0637090206,
+      "info": "search:ta:360006004288622-ID",
+      "poi": {
+        "name": "Tugu Batas Kabupaten Bandung-Kabupaten Garut",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "No.57",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Ciaro",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "44186",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "No.57 3, Bandung District, Jawa Barat 44186",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.037356,
+        "lon": 107.93499
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.03646,
+          "lon": 107.93408
+        },
+        "btmRightPoint": {
+          "lat": -7.03826,
+          "lon": 107.9359
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.03727,
+            "lon": 107.93501
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "4sAy7NmI6BV7_mEg1jb7YA",
+      "score": 2.0442399979,
+      "info": "search:ta:360006003519824-ID",
+      "poi": {
+        "name": "Bnr Banjaran Bandung Selatan Ktsm Fengtay",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Pameungpeuk",
+        "municipalitySubdivision": "Pameungpeuk",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Bojongmanggu",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40376",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Pameungpeuk, Pameungpeuk Sub District, Bandung District, Jawa Barat 40376",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.0281,
+        "lon": 107.5969
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.0272,
+          "lon": 107.59599
+        },
+        "btmRightPoint": {
+          "lat": -7.029,
+          "lon": 107.59781
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.02811,
+            "lon": 107.59661
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Ucg6Zl4YByRBdmzfQRneqQ",
+      "score": 2.0442399979,
+      "info": "search:ta:360006005219312-ID",
+      "poi": {
+        "name": "Taman Wisata Air Cicangkanghilir Bandung Barat",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Cijambe No.1A",
+        "municipalitySubdivision": "Cipongkor",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cicangkang Hilir",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40564",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Cijambe No.1A, Cipongkor Sub District, Bandung District, Jawa Barat 40564",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.9556,
+        "lon": 107.4067
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.9547,
+          "lon": 107.40579
+        },
+        "btmRightPoint": {
+          "lat": -6.9565,
+          "lon": 107.40761
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.95544,
+            "lon": 107.40635
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "PGk-zW-OzpTtn1Y0nUxcHA",
+      "score": 2.0442399979,
+      "info": "search:ta:360006005081565-ID",
+      "poi": {
+        "name": "Desa Pandak Bandung Perumahan Laing Asri",
+        "phone": "+62 361 830988",
+        "categorySet": [
+          {
+            "id": 7376003
+          }
+        ],
+        "categories": [
+          "important tourist attraction",
+          "monument"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "monument"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Teuku Umar",
+        "municipality": "Tabanan",
+        "municipalitySecondarySubdivision": "Pandak Bandung",
+        "countrySubdivision": "Bali",
+        "countrySubdivisionName": "Bali",
+        "countrySubdivisionCode": "BA",
+        "postalCode": "82121",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Teuku Umar, Tabanan District, Bali 82121",
+        "localName": "Tabanan"
+      },
+      "position": {
+        "lat": -8.570888,
+        "lon": 115.138332
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.56999,
+          "lon": 115.13742
+        },
+        "btmRightPoint": {
+          "lat": -8.57179,
+          "lon": 115.13924
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.57092,
+            "lon": 115.13825
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "0EhCF59Me_asxIpoyppFbw",
+      "score": 2.0442399979,
+      "info": "search:ta:360006007284016-ID",
+      "poi": {
+        "name": "Camperfun Bandung Beach Club Palabuhan Ratu",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "CamperFun Bandung Beach Club Palabuhan Ratu",
+        "municipality": "Kota Sukabumi",
+        "municipalitySecondarySubdivision": "Karangpapak",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "43366",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "CamperFun Bandung Beach Club Palabuhan Ratu, Kota Sukabumi District, Jawa Barat 43366",
+        "localName": "Kota Sukabumi"
+      },
+      "position": {
+        "lat": -6.96125,
+        "lon": 106.472286
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.96035,
+          "lon": 106.47138
+        },
+        "btmRightPoint": {
+          "lat": -6.96215,
+          "lon": 106.47319
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.96081,
+            "lon": 106.47257
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "S0gsso82kuMwFMwqGvgVIA",
+      "score": 2.0442399979,
+      "info": "search:ta:360006003514205-ID",
+      "poi": {
+        "name": "Monumen Tugu Perbatasan Subang-Lembang-Bandung",
+        "categorySet": [
+          {
+            "id": 7376003
+          }
+        ],
+        "categories": [
+          "important tourist attraction",
+          "monument"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "monument"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Raya Subang-Bandung",
+        "municipality": "Subang",
+        "municipalitySecondarySubdivision": "Ciater",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "41281",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Raya Subang-Bandung, Subang District, Jawa Barat 41281",
+        "localName": "Subang"
+      },
+      "position": {
+        "lat": -6.7739,
+        "lon": 107.6361
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.773,
+          "lon": 107.63519
+        },
+        "btmRightPoint": {
+          "lat": -6.7748,
+          "lon": 107.63701
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.77391,
+            "lon": 107.63624
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "6VqQ8T-0mysiMVXuy31Dgw",
+      "score": 2.0251348019,
+      "info": "search:ta:360006003901677-ID",
+      "poi": {
+        "name": "Wilujeungholiday-Rental Mobil Tour \u0026 Travel Bandung Murah",
+        "phone": "+62 896-5627-368",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Edelweis Iii No.14",
+        "municipalitySubdivision": "Cileunyi",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cinunuk",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40624",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Edelweis Iii No.14, Cileunyi Sub District, Bandung District, Jawa Barat 40624",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.94931,
+        "lon": 107.728462
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.94841,
+          "lon": 107.72756
+        },
+        "btmRightPoint": {
+          "lat": -6.95021,
+          "lon": 107.72937
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.94921,
+            "lon": 107.72806
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "LkPYVBnjfr-VD386pFFfdw",
+      "score": 2.0239999294,
+      "info": "search:ta:076009012372692-BR",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rua Aquidaban",
+        "municipality": "Rio Grande",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Rio Grande do Sul",
+        "countrySubdivisionName": "Rio Grande do Sul",
+        "countrySubdivisionCode": "RS",
+        "postalCode": "96200",
+        "countryCode": "BR",
+        "country": "Brasil",
+        "countryCodeISO3": "BRA",
+        "freeformAddress": "Rua Aquidaban, 714, 96200-480, Rio Grande",
+        "localName": "Rio Grande"
+      },
+      "position": {
+        "lat": -32.032169,
+        "lon": -52.104767
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -32.03127,
+          "lon": -52.10583
+        },
+        "btmRightPoint": {
+          "lat": -32.03307,
+          "lon": -52.10371
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -32.03228,
+            "lon": -52.10475
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1ap6TK49CEPU58U4V8WyKw",
+      "score": 2.0239999294,
+      "info": "search:ta:076009013744972-BR",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rua Senhor dos Passos",
+        "municipalitySubdivision": "Centro",
+        "municipality": "Porto Alegre",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Rio Grande do Sul",
+        "countrySubdivisionName": "Rio Grande do Sul",
+        "countrySubdivisionCode": "RS",
+        "postalCode": "90020",
+        "countryCode": "BR",
+        "country": "Brasil",
+        "countryCodeISO3": "BRA",
+        "freeformAddress": "Rua Senhor dos Passos, 30, 90020-180, Porto Alegre",
+        "localName": "Porto Alegre"
+      },
+      "position": {
+        "lat": -30.027333,
+        "lon": -51.223971
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -30.02643,
+          "lon": -51.22501
+        },
+        "btmRightPoint": {
+          "lat": -30.02823,
+          "lon": -51.22293
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -30.02735,
+            "lon": -51.22407
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "PJawXadkBbA0G61m93dSlw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006167474-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 823-1750-493",
+        "categorySet": [
+          {
+            "id": 9927
+          }
+        ],
+        "categories": [
+          "zoos, arboreta botanical garden"
+        ],
+        "classifications": [
+          {
+            "code": "ZOOS_ARBORETA_BOTANICAL_GARDEN",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "zoos, arboreta botanical garden"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Homan No.3",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cikawao",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40261",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Homan No.3, Bandung District, Jawa Barat 40261",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.922099,
+        "lon": 107.60979
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.9212,
+          "lon": 107.60888
+        },
+        "btmRightPoint": {
+          "lat": -6.923,
+          "lon": 107.6107
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.92211,
+            "lon": 107.60988
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "6dGXHAamq4hKTGOoHTZuow",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007103921-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 851-6148-0280",
+        "categorySet": [
+          {
+            "id": 7377003
+          }
+        ],
+        "categories": [
+          "college/university",
+          "junior college/community college"
+        ],
+        "classifications": [
+          {
+            "code": "COLLEGE_UNIVERSITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "junior college/community college"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "college/university"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Sumur Bandung",
+        "municipalitySubdivision": "Sumur Bandung",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Merdeka",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40113",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Sumur Bandung, Sumur Bandung Sub District, Bandung District, Jawa Barat 40113",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.9164,
+        "lon": 107.6224
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.9155,
+          "lon": 107.62149
+        },
+        "btmRightPoint": {
+          "lat": -6.9173,
+          "lon": 107.62331
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.91595,
+            "lon": 107.6225
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Nn80mcXlDhQ7isvJMzncsA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001775827-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 9376002
+          }
+        ],
+        "categories": [
+          "café",
+          "café/pub"
+        ],
+        "classifications": [
+          {
+            "code": "CAFE_PUB",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "café/pub"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "café"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Bandung - Palimanan",
+        "municipalitySubdivision": "Maja",
+        "municipality": "Majalengka",
+        "municipalitySecondarySubdivision": "Kertabasuki",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "45411",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Bandung - Palimanan, Maja Sub District, Majalengka District, Jawa Barat 45411",
+        "localName": "Majalengka"
+      },
+      "position": {
+        "lat": -6.8644,
+        "lon": 108.2793
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.86272,
+          "lon": 108.27761
+        },
+        "btmRightPoint": {
+          "lat": -6.86608,
+          "lon": 108.28099
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.86597,
+            "lon": 108.27869
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "P0l23hA8Ce0oHWia65NApw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001260012-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 821-1991-565",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Cinta Mulya",
+        "municipalitySubdivision": "Jatinangor",
+        "municipality": "Sumedang",
+        "municipalitySecondarySubdivision": "Cinta Mulya",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "45363",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Cinta Mulya, Jatinangor Sub District, Sumedang District, Jawa Barat 45363",
+        "localName": "Sumedang"
+      },
+      "position": {
+        "lat": -6.9553,
+        "lon": 107.7857
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.9544,
+          "lon": 107.78479
+        },
+        "btmRightPoint": {
+          "lat": -6.9562,
+          "lon": 107.78661
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.95519,
+            "lon": 107.78527
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "wT9l3cVnhn2oiFn09818hw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000666857-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 812-8791-375",
+        "categorySet": [
+          {
+            "id": 7339
+          }
+        ],
+        "categories": [
+          "place of worship"
+        ],
+        "classifications": [
+          {
+            "code": "PLACE_OF_WORSHIP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "place of worship"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Bandung Regency",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Sindangpanon",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40377",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Bandung Regency, Bandung District, Jawa Barat 40377",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.047827,
+        "lon": 107.5837
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.04693,
+          "lon": 107.58279
+        },
+        "btmRightPoint": {
+          "lat": -7.04873,
+          "lon": 107.58461
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.04783,
+            "lon": 107.58361
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "HWWsyfLp0kFnwxR0lvhM_g",
+      "score": 2.0239999294,
+      "info": "search:ta:360006005774840-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 9379
+          }
+        ],
+        "categories": [
+          "nightlife"
+        ],
+        "classifications": [
+          {
+            "code": "NIGHTLIFE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "nightlife"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Padalarang",
+        "municipalitySubdivision": "Bandung Barat",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Padalarang",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40553",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Padalarang, Bandung Barat Sub District, Bandung District, Jawa Barat 40553",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.8436,
+        "lon": 107.4772
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.8427,
+          "lon": 107.47629
+        },
+        "btmRightPoint": {
+          "lat": -6.8445,
+          "lon": 107.47811
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.84345,
+            "lon": 107.47683
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "2V8gSRVeqW8mzACZBkkaNQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002551576-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sukamukti Kec. Katapang",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Sukamukti",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40921",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Sukamukti Kec. Katapang, Bandung District, Jawa Barat 40921",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.0014,
+        "lon": 107.5863
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.0005,
+          "lon": 107.58539
+        },
+        "btmRightPoint": {
+          "lat": -7.0023,
+          "lon": 107.58721
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.00189,
+            "lon": 107.58708
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "nAwbC1Av2eONbMOFsKPs3Q",
+      "score": 2.0239999294,
+      "info": "search:ta:360006005153963-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Buya Humka",
+        "municipalitySubdivision": "Woha",
+        "municipality": "Bima",
+        "municipalitySecondarySubdivision": "Tente",
+        "countrySubdivision": "Nusa Tenggara Barat",
+        "countrySubdivisionName": "Nusa Tenggara Barat",
+        "countrySubdivisionCode": "NB",
+        "postalCode": "84171",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Buya Humka, Woha Sub District, Bima District, Nusa Tenggara Barat 84171",
+        "localName": "Bima"
+      },
+      "position": {
+        "lat": -8.585573,
+        "lon": 118.696948
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.58467,
+          "lon": 118.69604
+        },
+        "btmRightPoint": {
+          "lat": -8.58647,
+          "lon": 118.69786
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.58561,
+            "lon": 118.69703
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "htp2r8h1S43iJ-WNVpwZzw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007944252-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 9379004
+          }
+        ],
+        "categories": [
+          "bar",
+          "nightlife"
+        ],
+        "classifications": [
+          {
+            "code": "NIGHTLIFE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "bar"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "nightlife"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Cimahi Tengah",
+        "municipalitySubdivision": "Cimahi Tengah",
+        "municipality": "Cimahi",
+        "municipalitySecondarySubdivision": "Padasuka",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40526",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Cimahi Tengah, Cimahi Tengah Sub District, Cimahi District, Jawa Barat 40526",
+        "localName": "Cimahi"
+      },
+      "position": {
+        "lat": -6.8823,
+        "lon": 107.5261
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.8814,
+          "lon": 107.52519
+        },
+        "btmRightPoint": {
+          "lat": -6.8832,
+          "lon": 107.52701
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.88214,
+            "lon": 107.52621
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ORzy7XGJqdFhAOdVe-KHHw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002425052-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 895-6220-668",
+        "categorySet": [
+          {
+            "id": 7328
+          }
+        ],
+        "categories": [
+          "bank"
+        ],
+        "classifications": [
+          {
+            "code": "BANK",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "bank"
+              }
+            ]
+          }
+        ],
+        "url": "agen-sap-cikalan.business.site"
+      },
+      "address": {
+        "streetName": "Jalan Cikalang",
+        "municipalitySubdivision": "Cileunyi",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cileunyi Kulon",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40622",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Cikalang, Cileunyi Sub District, Bandung District, Jawa Barat 40622",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.937851,
+        "lon": 107.745768
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.93655,
+          "lon": 107.74446
+        },
+        "btmRightPoint": {
+          "lat": -6.93915,
+          "lon": 107.74708
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.93811,
+            "lon": 107.74705
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "dEo30WYZp3kfY0IVl2uEVw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001895243-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 813-2496-630",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Raya Nanjung",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Lagadar",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40216",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Raya Nanjung, Bandung District, Jawa Barat 40216",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.9218,
+        "lon": 107.5392
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.9209,
+          "lon": 107.53829
+        },
+        "btmRightPoint": {
+          "lat": -6.9227,
+          "lon": 107.54011
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.92189,
+            "lon": 107.5391
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "mnlA2Cq4Y9N9k8fzzES7uw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006447716-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Pasirjambu",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Pasirjambu",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40972",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Pasirjambu, Bandung District, Jawa Barat 40972",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.0978,
+        "lon": 107.4714
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.0969,
+          "lon": 107.47049
+        },
+        "btmRightPoint": {
+          "lat": -7.0987,
+          "lon": 107.47231
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.09844,
+            "lon": 107.4722
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "RT1kZuP05hGcoQt8PYV8uA",
+      "score": 2.0239999294,
+      "info": "search:ta:360009001713601-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 9361023
+          }
+        ],
+        "categories": [
+          "food drinks: grocers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: grocers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kebonwaru",
+        "municipalitySubdivision": "Batununggal",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Kebon Waru",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40272",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kebonwaru, Batununggal Sub District, Bandung District, Jawa Barat 40272",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.916149,
+        "lon": 107.64179
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.91525,
+          "lon": 107.64088
+        },
+        "btmRightPoint": {
+          "lat": -6.91705,
+          "lon": 107.6427
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.91603,
+            "lon": 107.64128
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "drEKFMcsmbRxI-hmScIYUw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002682993-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 812-2160-234",
+        "categorySet": [
+          {
+            "id": 9361002
+          }
+        ],
+        "categories": [
+          "book shops",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "book shops"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Mekarsari No.41",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Baleendah",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40375",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Mekarsari No.41, Bandung District, Jawa Barat 40375",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.0033,
+        "lon": 107.6375
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.0024,
+          "lon": 107.63659
+        },
+        "btmRightPoint": {
+          "lat": -7.0042,
+          "lon": 107.63841
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.0029,
+            "lon": 107.6378
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "m9Ytod80_v4fgDMBl4DcgA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001488676-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7315140
+          }
+        ],
+        "categories": [
+          "restaurant",
+          "soup"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "soup"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Pamegarsari",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Tanggulun",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40384",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Pamegarsari, Bandung District, Jawa Barat 40384",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.0521,
+        "lon": 107.7607
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.0512,
+          "lon": 107.75979
+        },
+        "btmRightPoint": {
+          "lat": -7.053,
+          "lon": 107.76161
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.05128,
+            "lon": 107.76077
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "qqps0AvqcCAsE8fKlnp4Bw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002332180-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 838-2242-065",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Bandung",
+        "municipalitySubdivision": "Bengkong",
+        "municipality": "Batam",
+        "municipalitySecondarySubdivision": "Sadai",
+        "countrySubdivision": "Kepulauan Riau",
+        "countrySubdivisionName": "Kepulauan Riau",
+        "countrySubdivisionCode": "KR",
+        "postalCode": "29444",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Bandung, Bengkong Sub District, Batam District, Kepulauan Riau 29444",
+        "localName": "Batam"
+      },
+      "position": {
+        "lat": 1.146769,
+        "lon": 104.039184
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.14767,
+          "lon": 104.03828
+        },
+        "btmRightPoint": {
+          "lat": 1.14587,
+          "lon": 104.04008
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.14668,
+            "lon": 104.0392
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "tRp80hKkWRx35bbb5GfC_g",
+      "score": 2.0239999294,
+      "info": "search:ta:360006005278750-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7304006
+          }
+        ],
+        "categories": [
+          "apartment",
+          "holiday rental"
+        ],
+        "classifications": [
+          {
+            "code": "HOLIDAY_RENTAL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "apartment"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "holiday rental"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rawalo",
+        "municipality": "Banyumas",
+        "municipalitySecondarySubdivision": "Rawalo",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "53173",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Rawalo, Banyumas District, Jawa Tengah 53173",
+        "localName": "Banyumas"
+      },
+      "position": {
+        "lat": -7.536811,
+        "lon": 109.177399
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.53572,
+          "lon": 109.1763
+        },
+        "btmRightPoint": {
+          "lat": -7.5379,
+          "lon": 109.1785
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.53683,
+            "lon": 109.1763
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "_JP9nrbTZZ7mRHPPyYNcwg",
+      "score": 2.0239999294,
+      "info": "search:ta:360009001401614-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 22 42263999",
+        "categorySet": [
+          {
+            "id": 9361041
+          }
+        ],
+        "categories": [
+          "shop",
+          "travel agents"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "travel agents"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Braga",
+        "municipalitySubdivision": "Sumur Bandung",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Braga",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40111",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Braga, Sumur Bandung Sub District, Bandung District, Jawa Barat 40111",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.915229,
+        "lon": 107.606675
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.91433,
+          "lon": 107.60577
+        },
+        "btmRightPoint": {
+          "lat": -6.91613,
+          "lon": 107.60758
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.91531,
+            "lon": 107.6067
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "6y-u94L1Cg-K_oUWop5tFQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360009000095357-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 881-2082-877",
+        "categorySet": [
+          {
+            "id": 9361030
+          }
+        ],
+        "categories": [
+          "house garden: do-it-yourself centers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "house garden: do-it-yourself centers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Komud Supadio Bandung Jl. Jatayu No.Blok",
+        "municipalitySubdivision": "Cicendo",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Husen Sastranegara",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40174",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Komud Supadio Bandung Jl. Jatayu No.Blok 20, Cicendo Sub District, Bandung District, Jawa Barat 40174",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.9105,
+        "lon": 107.5864
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.90942,
+          "lon": 107.58532
+        },
+        "btmRightPoint": {
+          "lat": -6.91158,
+          "lon": 107.58748
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.91077,
+            "lon": 107.58745
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "veVoAn3oToYZO2U2iyRx9g",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003265985-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 9352002
+          }
+        ],
+        "categories": [
+          "company",
+          "service"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "service"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kayuambon",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Kayuambon",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40391",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kayuambon, Bandung District, Jawa Barat 40391",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.81901,
+        "lon": 107.632141
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.81811,
+          "lon": 107.63124
+        },
+        "btmRightPoint": {
+          "lat": -6.81991,
+          "lon": 107.63305
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.81899,
+            "lon": 107.63205
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "TDQ-2DfNJ_wc9beh5eFJvA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002990576-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7320004
+          }
+        ],
+        "categories": [
+          "sports center"
+        ],
+        "classifications": [
+          {
+            "code": "SPORTS_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "sports center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Yos Sudarso",
+        "municipalitySubdivision": "Rambutan",
+        "municipality": "Tebing Tinggi",
+        "municipalitySecondarySubdivision": "Rantau Laban",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20614",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Yos Sudarso, Rambutan Sub District, Tebing Tinggi District, Sumatera Utara 20614",
+        "localName": "Tebing Tinggi"
+      },
+      "position": {
+        "lat": 3.366233,
+        "lon": 99.166367
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.36713,
+          "lon": 99.16547
+        },
+        "btmRightPoint": {
+          "lat": 3.36533,
+          "lon": 99.16727
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.36623,
+            "lon": 99.16687
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "4K9aKHvZM7KKCUtdA8lhZQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006005594890-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7302004
+          }
+        ],
+        "categories": [
+          "hiking",
+          "trail system"
+        ],
+        "classifications": [
+          {
+            "code": "TRAIL_SYSTEM",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hiking"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "trail system"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sukohardjo",
+        "municipalitySubdivision": "Sedayu",
+        "municipality": "Bantul",
+        "municipalitySecondarySubdivision": "Argodadi",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55752",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Sukohardjo, Sedayu Sub District, Bantul District, Yogyakarta 55752",
+        "localName": "Bantul"
+      },
+      "position": {
+        "lat": -7.840988,
+        "lon": 110.24525
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.84009,
+          "lon": 110.24434
+        },
+        "btmRightPoint": {
+          "lat": -7.84189,
+          "lon": 110.24616
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.84101,
+            "lon": 110.24517
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "gmlYEVJvnztAWY47qwcTBg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002200629-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Perumahan Bhayangkara Asri 2 Blok A",
+        "municipality": "Kubu Raya",
+        "municipalitySecondarySubdivision": "Kapur",
+        "countrySubdivision": "Kalimantan Barat",
+        "countrySubdivisionName": "Kalimantan Barat",
+        "countrySubdivisionCode": "KB",
+        "postalCode": "78235",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Perumahan Bhayangkara Asri 2 Blok A 2, Kubu Raya District, Kalimantan Barat 78235",
+        "localName": "Kubu Raya"
+      },
+      "position": {
+        "lat": -0.068493,
+        "lon": 109.394393
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.06759,
+          "lon": 109.39349
+        },
+        "btmRightPoint": {
+          "lat": -0.06939,
+          "lon": 109.39529
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.06863,
+            "lon": 109.39438
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ST7htvpqa6vtHFC75szSaA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003332772-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 812-2154-9944",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Lembang",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cikahuripan",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40391",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Lembang, Bandung District, Jawa Barat 40391 (Cikahuripan)",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.8211,
+        "lon": 107.6024
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.8202,
+          "lon": 107.60149
+        },
+        "btmRightPoint": {
+          "lat": -6.822,
+          "lon": 107.60331
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.82116,
+            "lon": 107.60257
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "hipZm8YpIGBwJQJ1E4OvOw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000611530-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Raya Banjaran No.64",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Batukarut",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40377",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Raya Banjaran No.64, Bandung District, Jawa Barat 40377",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.0423,
+        "lon": 107.5919
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.04133,
+          "lon": 107.59093
+        },
+        "btmRightPoint": {
+          "lat": -7.04327,
+          "lon": 107.59287
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.04237,
+            "lon": 107.59287
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "VohRx4CxHt7hUI8LOEVMCQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006004477840-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Alun Alun",
+        "municipalitySubdivision": "Rengasdengklok",
+        "municipality": "Karawang Barat",
+        "municipalitySecondarySubdivision": "Rengasdengklok Selatan",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "41352",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Alun Alun, Rengasdengklok Sub District, Karawang Barat District, Jawa Barat 41352",
+        "localName": "Karawang Barat"
+      },
+      "position": {
+        "lat": -6.158766,
+        "lon": 107.290222
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.15787,
+          "lon": 107.28932
+        },
+        "btmRightPoint": {
+          "lat": -6.15967,
+          "lon": 107.29113
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.15874,
+            "lon": 107.29031
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "JDLL8WGgcaFZHEpKp9HswQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007266407-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 821-7489-699",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Perumahan Taman Karina",
+        "municipalitySubdivision": "Sekupang",
+        "municipality": "Batam",
+        "municipalitySecondarySubdivision": "Tanjung Riau",
+        "countrySubdivision": "Kepulauan Riau",
+        "countrySubdivisionName": "Kepulauan Riau",
+        "countrySubdivisionCode": "KR",
+        "postalCode": "29444",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Perumahan Taman Karina, Sekupang Sub District, Batam District, Kepulauan Riau 29444",
+        "localName": "Batam"
+      },
+      "position": {
+        "lat": 1.05789,
+        "lon": 103.945751
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.05879,
+          "lon": 103.94485
+        },
+        "btmRightPoint": {
+          "lat": 1.05699,
+          "lon": 103.94665
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.05788,
+            "lon": 103.94584
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "tY3CsOlXxTjXeMn7hyIZsw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003471103-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 9362008
+          }
+        ],
+        "categories": [
+          "park",
+          "park recreation area"
+        ],
+        "classifications": [
+          {
+            "code": "PARK_RECREATION_AREA",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "park recreation area"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "park"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Selong",
+        "municipality": "Lombok",
+        "municipalitySecondarySubdivision": "Kelayu Selatan",
+        "countrySubdivision": "Nusa Tenggara Barat",
+        "countrySubdivisionName": "Nusa Tenggara Barat",
+        "countrySubdivisionCode": "NB",
+        "postalCode": "83613",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Selong Sub District, Lombok District, Nusa Tenggara Barat 83613",
+        "localName": "Lombok"
+      },
+      "position": {
+        "lat": -8.656469,
+        "lon": 116.546356
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.65557,
+          "lon": 116.54545
+        },
+        "btmRightPoint": {
+          "lat": -8.65737,
+          "lon": 116.54727
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.6559,
+            "lon": 116.54661
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "c3W_BcinvzkXyR3RV8hEkg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002265801-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Medan City",
+        "municipalitySubdivision": "Medan Amplas",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Timbang Deli",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20148",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Medan City, Medan Amplas Sub District, Medan District, Sumatera Utara 20148",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.5335,
+        "lon": 98.7263
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5344,
+          "lon": 98.7254
+        },
+        "btmRightPoint": {
+          "lat": 3.5326,
+          "lon": 98.7272
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.53353,
+            "lon": 98.72591
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1Xt63XiLzqLLSzXh9FPYEQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006004423673-ID",
+      "poi": {
+        "name": "Sdn Panggilingan 2 Bandung",
+        "categorySet": [
+          {
+            "id": 7372002
+          }
+        ],
+        "categories": [
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Tanjungsari Asri Utara 1",
+        "municipalitySubdivision": "Antapani",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Antapani Wetan",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "bandung",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Tanjungsari Asri Utara 1, Antapani Sub District, Bandung District, Jawa Barat bandung",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.910015,
+        "lon": 107.668142
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.90912,
+          "lon": 107.66724
+        },
+        "btmRightPoint": {
+          "lat": -6.91091,
+          "lon": 107.66905
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.91029,
+            "lon": 107.668
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "yY96W1R_pgPm8mYhzTGpOg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003394945-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 896-5599-894",
+        "categorySet": [
+          {
+            "id": 9361040
+          }
+        ],
+        "categories": [
+          "shop",
+          "toys games"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "toys games"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Cijagra Rt.06/Rw.02",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Bojongsari",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40288",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Cijagra Rt.06/Rw.02, Bandung District, Jawa Barat 40288",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.993332,
+        "lon": 107.637618
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.99243,
+          "lon": 107.63671
+        },
+        "btmRightPoint": {
+          "lat": -6.99423,
+          "lon": 107.63852
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.99342,
+            "lon": 107.63759
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Rx5gRo3_7LaAVBdCSghm7w",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006987605-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 22 7219090",
+        "categorySet": [
+          {
+            "id": 9927
+          }
+        ],
+        "categories": [
+          "zoos, arboreta botanical garden"
+        ],
+        "classifications": [
+          {
+            "code": "ZOOS_ARBORETA_BOTANICAL_GARDEN",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "zoos, arboreta botanical garden"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Kacapiring",
+        "municipalitySubdivision": "Batununggal",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Kacapiring",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40271",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Kacapiring, Batununggal Sub District, Bandung District, Jawa Barat 40271",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.916995,
+        "lon": 107.62831
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.9161,
+          "lon": 107.6274
+        },
+        "btmRightPoint": {
+          "lat": -6.91789,
+          "lon": 107.62922
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.91704,
+            "lon": 107.62823
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "TaNXC1MQ7UxYR5gWyuclAw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003123493-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 9361006
+          }
+        ],
+        "categories": [
+          "clothing accessories: general",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: general"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Bandung",
+        "municipalitySubdivision": "Tabir",
+        "municipality": "Merangin",
+        "municipalitySecondarySubdivision": "Mampun",
+        "countrySubdivision": "Jambi",
+        "countrySubdivisionName": "Jambi",
+        "countrySubdivisionCode": "JA",
+        "postalCode": "37353",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Bandung, Tabir Sub District, Merangin District, Jambi 37353",
+        "localName": "Merangin"
+      },
+      "position": {
+        "lat": -1.8628,
+        "lon": 102.2926
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -1.8619,
+          "lon": 102.2917
+        },
+        "btmRightPoint": {
+          "lat": -1.8637,
+          "lon": 102.2935
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -1.86286,
+            "lon": 102.2924
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "xmxujyd89NE_X0Zp4D_5EQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006254136-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 9153
+          }
+        ],
+        "categories": [
+          "welfare organization"
+        ],
+        "classifications": [
+          {
+            "code": "WELFARE_ORGANIZATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "welfare organization"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Atirompe",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Tanggulun",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40392",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Atirompe, Bandung District, Jawa Barat 40392",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.0521,
+        "lon": 107.7607
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.0512,
+          "lon": 107.75979
+        },
+        "btmRightPoint": {
+          "lat": -7.053,
+          "lon": 107.76161
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.05128,
+            "lon": 107.76077
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "bvJr5jLndkqnhZQJZOd2Mw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001688460-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 857-2000-347",
+        "categorySet": [
+          {
+            "id": 7372002
+          }
+        ],
+        "categories": [
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Cilaku",
+        "municipalitySubdivision": "Cilaku",
+        "municipality": "Cianjur",
+        "municipalitySecondarySubdivision": "Sindangsari",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "43285",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Cilaku, Cilaku Sub District, Cianjur District, Jawa Barat 43285",
+        "localName": "Cianjur"
+      },
+      "position": {
+        "lat": -6.88644,
+        "lon": 107.155667
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.88554,
+          "lon": 107.15476
+        },
+        "btmRightPoint": {
+          "lat": -6.88734,
+          "lon": 107.15657
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.88629,
+            "lon": 107.15567
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "mQxjrkOe8alaFRJafRsSYw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003760665-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 9152
+          }
+        ],
+        "categories": [
+          "non governmental organization"
+        ],
+        "classifications": [
+          {
+            "code": "NON_GOVERNMENTAL_ORGANIZATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "non governmental organization"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Wargamekar",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Wargamekar",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40375",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Wargamekar, Bandung District, Jawa Barat 40375",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -7.0288,
+        "lon": 107.6725
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.0279,
+          "lon": 107.67159
+        },
+        "btmRightPoint": {
+          "lat": -7.0297,
+          "lon": 107.67341
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.02854,
+            "lon": 107.67287
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "4wLS06TA9m723RmvIrJAkA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007220708-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mekarmanik",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Mekarmanik",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40196",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mekarmanik, Bandung District, Jawa Barat 40196",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.870315,
+        "lon": 107.694867
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.86942,
+          "lon": 107.69396
+        },
+        "btmRightPoint": {
+          "lat": -6.87121,
+          "lon": 107.69577
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.86998,
+            "lon": 107.69443
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "5GSGL6SnEzhhEq0PWzVMwA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002803406-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 821-8625-646",
+        "categorySet": [
+          {
+            "id": 7373
+          }
+        ],
+        "categories": [
+          "shopping center"
+        ],
+        "classifications": [
+          {
+            "code": "SHOPPING_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shopping center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kepung",
+        "municipality": "Kediri",
+        "municipalitySecondarySubdivision": "Kepung",
+        "countrySubdivision": "Jawa Timur",
+        "countrySubdivisionName": "Jawa Timur",
+        "countrySubdivisionCode": "JI",
+        "postalCode": "64293",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kepung, Kediri District, Jawa Timur 64293",
+        "localName": "Kediri"
+      },
+      "position": {
+        "lat": -7.807872,
+        "lon": 112.260187
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.80697,
+          "lon": 112.25928
+        },
+        "btmRightPoint": {
+          "lat": -7.80877,
+          "lon": 112.26109
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.80778,
+            "lon": 112.2602
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1YSJUPGP8Kqlv__gaD7EGQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006465559-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 9383
+          }
+        ],
+        "categories": [
+          "industrial building"
+        ],
+        "classifications": [
+          {
+            "code": "INDUSTRIAL_BUILDING",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "industrial building"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Babakan Jeruk Iv No.20",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Sukagalih",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40163",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Babakan Jeruk Iv No.20, Bandung District, Jawa Barat 40163",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.8883,
+        "lon": 107.5848
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.8874,
+          "lon": 107.58389
+        },
+        "btmRightPoint": {
+          "lat": -6.8892,
+          "lon": 107.58571
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.8883,
+            "lon": 107.58468
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "2-QGsadtlFYV-GWIdh77ZA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002409479-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Kotamobagu Sel",
+        "municipalitySubdivision": "Kotamobagu Selatan",
+        "municipality": "Kotamobagu",
+        "municipalitySecondarySubdivision": "Pobundayan",
+        "countrySubdivision": "Sulawesi Utara",
+        "countrySubdivisionName": "Sulawesi Utara",
+        "countrySubdivisionCode": "SA",
+        "postalCode": "95717",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Kotamobagu Sel, Kotamobagu Selatan Sub District, Kotamobagu District, Sulawesi Utara 95717",
+        "localName": "Kotamobagu"
+      },
+      "position": {
+        "lat": 0.713055,
+        "lon": 124.30416
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 0.71395,
+          "lon": 124.30326
+        },
+        "btmRightPoint": {
+          "lat": 0.71216,
+          "lon": 124.30506
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 0.71281,
+            "lon": 124.30466
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "iKNgNl1cEDIkymoUWYV8CA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006775108-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 882-2249-321",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gg. H. Abdurahman Iv",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Campaka",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40184",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gg. H. Abdurahman Iv, Bandung District, Jawa Barat 40184",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.9052,
+        "lon": 107.5685
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.9043,
+          "lon": 107.56759
+        },
+        "btmRightPoint": {
+          "lat": -6.9061,
+          "lon": 107.56941
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.9051,
+            "lon": 107.56837
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "lhnEzSnkQqLlTRoPj4i4Rw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002262553-ID",
+      "poi": {
+        "name": "Bandung",
+        "phone": "+62 811-2160-288",
+        "categorySet": [
+          {
+            "id": 7304005
+          }
+        ],
+        "categories": [
+          "chalet",
+          "holiday rental"
+        ],
+        "classifications": [
+          {
+            "code": "HOLIDAY_RENTAL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chalet"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "holiday rental"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Dusun Iii",
+        "municipality": "Boyolali",
+        "municipalitySecondarySubdivision": "Bandung",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "57382",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Dusun Iii, Boyolali District, Jawa Tengah 57382",
+        "localName": "Boyolali"
+      },
+      "position": {
+        "lat": -7.298122,
+        "lon": 110.651651
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.29722,
+          "lon": 110.65074
+        },
+        "btmRightPoint": {
+          "lat": -7.29902,
+          "lon": 110.65256
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.29819,
+            "lon": 110.65244
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "se2MNS9jAhhq_VKm6Tiq1Q",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002683086-ID",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Cipadati",
+        "municipalitySubdivision": "Cileunyi",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cinunuk",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40624",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Cipadati 104, Cileunyi Sub District, Bandung District, Jawa Barat 40624",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.933934,
+        "lon": 107.731685
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.93303,
+          "lon": 107.73078
+        },
+        "btmRightPoint": {
+          "lat": -6.93483,
+          "lon": 107.73259
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.93383,
+            "lon": 107.73173
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1s9dgSm3A_QMkpc3A-tRIA",
+      "score": 2.0239999294,
+      "info": "search:ta:356009003889608-IN",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7315012
+          }
+        ],
+        "categories": [
+          "chinese",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "chinese"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Avedananda Road",
+        "municipalitySubdivision": "Maniktala",
+        "municipality": "Kolkata",
+        "municipalitySecondarySubdivision": "Azad Hind Bag",
+        "countrySubdivision": "West Bengal",
+        "countrySubdivisionName": "West Bengal",
+        "countrySubdivisionCode": "WB",
+        "postalCode": "700006",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Avedananda Road, Azad Hind Bag, Maniktala, Kolkata 700006, West Bengal",
+        "localName": "Kolkata"
+      },
+      "position": {
+        "lat": 22.586729,
+        "lon": 88.373723
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 22.58763,
+          "lon": 88.37275
+        },
+        "btmRightPoint": {
+          "lat": 22.58583,
+          "lon": 88.3747
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 22.5868,
+            "lon": 88.37378
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "JS8umrbjlrxhYwXAlLJ2eA",
+      "score": 2.0239999294,
+      "info": "search:ta:554007000008709-NZ",
+      "poi": {
+        "name": "Bandung",
+        "categorySet": [
+          {
+            "id": 7315014
+          }
+        ],
+        "categories": [
+          "dutch",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "dutch"
+              }
+            ]
+          }
+        ],
+        "url": "www.bandung.co.nz/"
+      },
+      "address": {
+        "streetName": "Parnell Road",
+        "municipalitySubdivision": "Parnell",
+        "municipality": "Auckland",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "North Island",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "1052",
+        "countryCode": "NZ",
+        "country": "New Zealand",
+        "countryCodeISO3": "NZL",
+        "freeformAddress": "119 Parnell Road, Parnell, Auckland 1052",
+        "localName": "Parnell"
+      },
+      "position": {
+        "lat": -36.85336,
+        "lon": 174.77897
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -36.85246,
+          "lon": 174.77785
+        },
+        "btmRightPoint": {
+          "lat": -36.85426,
+          "lon": 174.78009
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -36.8534,
+            "lon": 174.77919
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    }
+  ]
+}

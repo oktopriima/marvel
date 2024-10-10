@@ -1,0 +1,7432 @@
+{
+  "summary": {
+    "query": "medan",
+    "queryType": "NON_NEAR",
+    "queryTime": 297,
+    "numResults": 100,
+    "offset": 0,
+    "totalResults": 100,
+    "fuzzyLevel": 1
+  },
+  "results": [
+    {
+      "type": "POI",
+      "id": "ZSmE_uMfawDVQmN6pkNk1w",
+      "score": 2.4141499996,
+      "info": "search:ta:360009000427215-ID",
+      "poi": {
+        "name": "Masjid Raya Al-Mashun Medan",
+        "categorySet": [
+          {
+            "id": 7339003
+          }
+        ],
+        "categories": [
+          "mosque",
+          "place of worship"
+        ],
+        "classifications": [
+          {
+            "code": "PLACE_OF_WORSHIP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "place of worship"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "mosque"
+              }
+            ]
+          }
+        ],
+        "url": "id.wikipedia.org/wiki/masjid_raya_medan"
+      },
+      "address": {
+        "streetName": "Jl. Mahkamah No.74C",
+        "municipalitySubdivision": "Medan Kota",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Mesjid",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20212",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Mahkamah No.74C, Medan Kota Sub District, Medan District, Sumatera Utara 20212",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.57454,
+        "lon": 98.68716
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.57597,
+          "lon": 98.68573
+        },
+        "btmRightPoint": {
+          "lat": 3.57311,
+          "lon": 98.68859
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.57589,
+            "lon": 98.68762
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.57432,
+            "lon": 98.68655
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "05Hu7nSlKEg-IPGFcb4y7Q",
+      "score": 2.1244060993,
+      "info": "search:ta:360006004232330-ID",
+      "poi": {
+        "name": "Medan Magnet",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Bandar Baru",
+        "municipality": "Deli Serdang",
+        "municipalitySecondarySubdivision": "Suka Makmur",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20354",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Bandar Baru, Deli Serdang District, Sumatera Utara 20354",
+        "localName": "Deli Serdang"
+      },
+      "position": {
+        "lat": 3.296005,
+        "lon": 98.518565
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.2969,
+          "lon": 98.51766
+        },
+        "btmRightPoint": {
+          "lat": 3.29511,
+          "lon": 98.51947
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.29599,
+            "lon": 98.51865
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "6c_dh2km97hzKkLPOgLhYw",
+      "score": 2.1244060993,
+      "info": "search:ta:360006003178235-ID",
+      "poi": {
+        "name": "Pantai Medan",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Namu Sira",
+        "municipalitySubdivision": "Medan Sunggal",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Tanjung Rejo",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20122",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Namu Sira, Medan Sunggal Sub District, Medan District, Sumatera Utara 20122",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.578851,
+        "lon": 98.634599
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.57975,
+          "lon": 98.6337
+        },
+        "btmRightPoint": {
+          "lat": 3.57795,
+          "lon": 98.6355
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.57894,
+            "lon": 98.6346
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "2Lzc70tMDF-bec3gRBmldQ",
+      "score": 2.1037807465,
+      "info": "search:ta:250007000364568-FR",
+      "poi": {
+        "name": "Château de Médan",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.chateau-de-medan.fr/"
+      },
+      "address": {
+        "streetName": "Rue Pierre Curie",
+        "municipality": "Médan",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Île-de-France",
+        "countrySubdivisionName": "Île-de-France",
+        "countrySubdivisionCode": "IDF",
+        "postalCode": "78670",
+        "countryCode": "FR",
+        "country": "France",
+        "countryCodeISO3": "FRA",
+        "freeformAddress": "43 Rue Pierre Curie, 78670 Médan",
+        "localName": "Médan"
+      },
+      "position": {
+        "lat": 48.953971,
+        "lon": 1.994179
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 48.95487,
+          "lon": 1.99281
+        },
+        "btmRightPoint": {
+          "lat": 48.95307,
+          "lon": 1.99555
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 48.95399,
+            "lon": 1.99457
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Iv71sudcpowUEvJyXQ2rtQ",
+      "score": 2.1037807465,
+      "info": "search:ta:826007000454596-GB",
+      "poi": {
+        "name": "Saint Medan's Church",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "scotlandschurchestrust.org.uk/church/st-medans-drummore/"
+      },
+      "address": {
+        "streetName": "Stair Street",
+        "municipalitySubdivision": "Drummore",
+        "municipality": "Stranraer",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "SCT",
+        "countrySubdivisionName": "Scotland",
+        "countrySubdivisionCode": "SCT",
+        "postalCode": "DG9",
+        "countryCode": "GB",
+        "country": "United Kingdom",
+        "countryCodeISO3": "GBR",
+        "freeformAddress": "10/2 Stair Street, Drummore, Stranraer, DG9 9PT",
+        "localName": "Stranraer"
+      },
+      "position": {
+        "lat": 54.690703,
+        "lon": -4.894712
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 54.6916,
+          "lon": -4.89627
+        },
+        "btmRightPoint": {
+          "lat": 54.6898,
+          "lon": -4.89316
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 54.69061,
+            "lon": -4.89482
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "3nH0XYpMrc_sEBBRW4ozjQ",
+      "score": 2.1037807465,
+      "info": "search:ta:360006003091767-ID",
+      "poi": {
+        "name": "Taman Anggur Medan",
+        "phone": "+62 813-6169-742",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Turi Jl. Bilal No.71",
+        "municipalitySubdivision": "Medan Kota",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Sudi Rejo I",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20218",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Turi Jl. Bilal No.71, Medan Kota Sub District, Medan District, Sumatera Utara 20218",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.561847,
+        "lon": 98.700989
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.56275,
+          "lon": 98.70009
+        },
+        "btmRightPoint": {
+          "lat": 3.56095,
+          "lon": 98.70189
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.5618,
+            "lon": 98.7006
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "prHpRQRkZud7Zj2i-I3lzw",
+      "score": 2.1037807465,
+      "info": "search:ta:360006007901528-ID",
+      "poi": {
+        "name": "Kantor Pos Medan",
+        "phone": "+62 821-6818-116",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Bukit Barisan No.5",
+        "municipalitySubdivision": "Medan Barat",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Kesawan",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20231",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Bukit Barisan No.5, Medan Barat Sub District, Medan District, Sumatera Utara 20231",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.5921,
+        "lon": 98.6787
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.593,
+          "lon": 98.6778
+        },
+        "btmRightPoint": {
+          "lat": 3.5912,
+          "lon": 98.6796
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.59184,
+            "lon": 98.67877
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "PyQo6DqhzsXcySPNNlvo5Q",
+      "score": 2.1037807465,
+      "info": "search:ta:360006007982616-ID",
+      "poi": {
+        "name": "Pos Bloc Medan",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Posbloc Medan",
+        "municipalitySubdivision": "Medan Barat",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Kesawan",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20111",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Posbloc Medan, Medan Barat Sub District, Medan District, Sumatera Utara 20111",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.5917,
+        "lon": 98.6773
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5926,
+          "lon": 98.6764
+        },
+        "btmRightPoint": {
+          "lat": 3.5908,
+          "lon": 98.6782
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.59165,
+            "lon": 98.6772
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "kaTPc6Mx3c76no5U5T4fAg",
+      "score": 2.0835521221,
+      "info": "search:ta:360006007746819-ID",
+      "poi": {
+        "name": "Menteng Skate Park Medan",
+        "phone": "+62 822-7620-177",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Raya Medan Tenggara No.277",
+        "municipalitySubdivision": "Medan Denai",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Binjai",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20228",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Raya Medan Tenggara No.277, Medan Denai Sub District, Medan District, Sumatera Utara 20228",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.568484,
+        "lon": 98.7094
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.56938,
+          "lon": 98.7085
+        },
+        "btmRightPoint": {
+          "lat": 3.56758,
+          "lon": 98.7103
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.56838,
+            "lon": 98.70931
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "vWvuhGsN9g0tHV-nRvMPJg",
+      "score": 2.0835521221,
+      "info": "search:ta:360006002690556-ID",
+      "poi": {
+        "name": "Rumah Singgah Keluarga, Medan",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rw 04",
+        "municipality": "Temanggung",
+        "municipalitySecondarySubdivision": "Kranggan",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "56271",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Rw 04 01, Temanggung District, Jawa Tengah 56271",
+        "localName": "Temanggung"
+      },
+      "position": {
+        "lat": -7.345697,
+        "lon": 110.213663
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.3448,
+          "lon": 110.21276
+        },
+        "btmRightPoint": {
+          "lat": -7.3466,
+          "lon": 110.21457
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.3457,
+            "lon": 110.21375
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "O22lqK4r-JdwOTG8NvevDg",
+      "score": 2.0442399979,
+      "info": "search:ta:360006007495345-ID",
+      "poi": {
+        "name": "T.garden Little Bali in Medan",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jati Kesuma",
+        "municipalitySubdivision": "Pancur Batu",
+        "municipality": "Deli Serdang",
+        "municipalitySecondarySubdivision": "Durin Tunggal",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20353",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jati Kesuma, Pancur Batu Sub District, Deli Serdang District, Sumatera Utara 20353",
+        "localName": "Deli Serdang"
+      },
+      "position": {
+        "lat": 3.467695,
+        "lon": 98.632012
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.46859,
+          "lon": 98.63111
+        },
+        "btmRightPoint": {
+          "lat": 3.4668,
+          "lon": 98.63291
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.46772,
+            "lon": 98.63193
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ULRHHProicXRTUIMHavhyQ",
+      "score": 2.0239999294,
+      "info": "search:ta:152009001541478-CL",
+      "poi": {
+        "name": "El Medan",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Calle Goleta Ancud",
+        "municipality": "Curaco de Vélez",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Los Lagos",
+        "countrySubdivisionName": "Los Lagos",
+        "countrySubdivisionCode": "LL",
+        "postalCode": "570",
+        "countryCode": "CL",
+        "country": "Chile",
+        "countryCodeISO3": "CHL",
+        "freeformAddress": "Calle Goleta Ancud KM 8, 5700000, Curaco de Vélez, Los Lagos",
+        "localName": "Curaco de Vélez"
+      },
+      "position": {
+        "lat": -42.43884,
+        "lon": -73.59967
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -42.43794,
+          "lon": -73.60089
+        },
+        "btmRightPoint": {
+          "lat": -42.43974,
+          "lon": -73.59845
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -42.43878,
+            "lon": -73.59955
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Wwa_u9QA3TRaXVQMQPVleA",
+      "score": 2.0239999294,
+      "info": "search:ta:250009014294754-FR",
+      "poi": {
+        "name": "Médan",
+        "phone": "+33 5 56 28 03 06",
+        "categorySet": [
+          {
+            "id": 9361032
+          }
+        ],
+        "categories": [
+          "house garden: garden centers services",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "house garden: garden centers services"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ],
+        "url": "www.medan-sa.com"
+      },
+      "address": {
+        "streetName": "Avenue René Antoune",
+        "municipality": "Eysines",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Nouvelle-Aquitaine",
+        "countrySubdivisionName": "Nouvelle-Aquitaine",
+        "countrySubdivisionCode": "NAQ",
+        "postalCode": "33320",
+        "countryCode": "FR",
+        "country": "France",
+        "countryCodeISO3": "FRA",
+        "freeformAddress": "75 Avenue René Antoune, 33320 Eysines",
+        "localName": "Eysines"
+      },
+      "position": {
+        "lat": 44.872013,
+        "lon": -0.649387
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 44.87291,
+          "lon": -0.65066
+        },
+        "btmRightPoint": {
+          "lat": 44.87111,
+          "lon": -0.64812
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 44.87184,
+            "lon": -0.65034
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "7Zi4sgIfVmxoPCpwh6CgpQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006307550-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7302004
+          }
+        ],
+        "categories": [
+          "hiking",
+          "trail system"
+        ],
+        "classifications": [
+          {
+            "code": "TRAIL_SYSTEM",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hiking"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "trail system"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Rw. Cangkuk",
+        "municipalitySubdivision": "Medan Denai",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Tegal Sari Mandala III",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20227",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Rw. Cangkuk, Medan Denai Sub District, Medan District, Sumatera Utara 20227",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.5779,
+        "lon": 98.7157
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5788,
+          "lon": 98.7148
+        },
+        "btmRightPoint": {
+          "lat": 3.577,
+          "lon": 98.7166
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.57804,
+            "lon": 98.7157
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "mbelDdx4u6BdaNUbLcsEoA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002711861-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Gunung Tua",
+        "municipality": "Kota Bogor",
+        "municipalitySecondarySubdivision": "Susukan",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "16920",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Gunung Tua, Kota Bogor District, Jawa Barat 16920",
+        "localName": "Kota Bogor"
+      },
+      "position": {
+        "lat": -6.4763,
+        "lon": 106.7935
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.4754,
+          "lon": 106.79259
+        },
+        "btmRightPoint": {
+          "lat": -6.4772,
+          "lon": 106.79441
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.47566,
+            "lon": 106.7935
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "C67WG2ZOiLcJ4_nL6gY3_g",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006800464-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Medan City",
+        "municipalitySubdivision": "Medan Amplas",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Timbang Deli",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20148",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Medan City, Medan Amplas Sub District, Medan District, Sumatera Utara 20148",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.5378,
+        "lon": 98.728
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5387,
+          "lon": 98.7271
+        },
+        "btmRightPoint": {
+          "lat": 3.5369,
+          "lon": 98.7289
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.53811,
+            "lon": 98.72806
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "gb4QKzhgUQNXblGAg_AzGA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006996344-ID",
+      "poi": {
+        "name": "Medan",
+        "phone": "+62 822-4944-674",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Medan Deli",
+        "municipalitySubdivision": "Medan Deli",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Titi Papan",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20244",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Medan Deli, Medan Deli Sub District, Medan District, Sumatera Utara 20244",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.686,
+        "lon": 98.6789
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.68722,
+          "lon": 98.67768
+        },
+        "btmRightPoint": {
+          "lat": 3.68478,
+          "lon": 98.68012
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.68572,
+            "lon": 98.68009
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "kTPDyxaaFuSxAnh4evhUqg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001063202-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Lima Puluh",
+        "municipalitySubdivision": "Limapuluh",
+        "municipality": "Batu Bara",
+        "municipalitySecondarySubdivision": "Lima Puluh Kota",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "21255",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Lima Puluh, Limapuluh Sub District, Batu Bara District, Sumatera Utara 21255",
+        "localName": "Batu Bara"
+      },
+      "position": {
+        "lat": 3.171066,
+        "lon": 99.421382
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.17197,
+          "lon": 99.42048
+        },
+        "btmRightPoint": {
+          "lat": 3.17017,
+          "lon": 99.42228
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.17102,
+            "lon": 99.42126
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "shmcdM40xrBmY4wDjM7rTA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002337340-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7314006
+          }
+        ],
+        "categories": [
+          "hotel/motel",
+          "motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "motel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Lintas Sumatra",
+        "municipality": "Labuhan Batu",
+        "municipalitySecondarySubdivision": "Perkebunan Pernantian",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "21452",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Lintas Sumatra, Labuhan Batu District, Sumatera Utara 21452",
+        "localName": "Labuhan Batu"
+      },
+      "position": {
+        "lat": 2.254201,
+        "lon": 99.776945
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 2.2551,
+          "lon": 99.77604
+        },
+        "btmRightPoint": {
+          "lat": 2.2533,
+          "lon": 99.77785
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 2.2542,
+            "lon": 99.77703
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "iAoTWYfNOcI83SsLNE2gJQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002260844-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Magiao",
+        "municipality": "Gunungsitoli",
+        "municipalitySecondarySubdivision": "Saombo",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "22810",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Magiao 28, Gunungsitoli District, Sumatera Utara 22810",
+        "localName": "Gunungsitoli"
+      },
+      "position": {
+        "lat": 1.292603,
+        "lon": 97.609799
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.2935,
+          "lon": 97.6089
+        },
+        "btmRightPoint": {
+          "lat": 1.2917,
+          "lon": 97.6107
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.29252,
+            "lon": 97.60983
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "AmRFnq6Wrn6kTPCmEDKOQA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001518752-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7372006
+          }
+        ],
+        "categories": [
+          "high school",
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "high school"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Rahmat No.2",
+        "municipalitySubdivision": "Labuhan Deli",
+        "municipality": "Deli Serdang",
+        "municipalitySecondarySubdivision": "Manunggal",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20242",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Rahmat No.2, Labuhan Deli Sub District, Deli Serdang District, Sumatera Utara 20242",
+        "localName": "Deli Serdang"
+      },
+      "position": {
+        "lat": 3.665968,
+        "lon": 98.658276
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.66687,
+          "lon": 98.65737
+        },
+        "btmRightPoint": {
+          "lat": 3.66507,
+          "lon": 98.65918
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.66597,
+            "lon": 98.65756
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "zHQvEjUI6Ortoyngra36qA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002410373-ID",
+      "poi": {
+        "name": "Medan",
+        "phone": "+62 823-6512-777",
+        "categorySet": [
+          {
+            "id": 7320004
+          }
+        ],
+        "categories": [
+          "sports center"
+        ],
+        "classifications": [
+          {
+            "code": "SPORTS_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "sports center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Iskandar Muda",
+        "municipalitySubdivision": "Tebing Tinggi Kota",
+        "municipality": "Tebing Tinggi",
+        "municipalitySecondarySubdivision": "Pasar Gambir",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20628",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Iskandar Muda, Tebing Tinggi Kota Sub District, Tebing Tinggi District, Sumatera Utara 20628",
+        "localName": "Tebing Tinggi"
+      },
+      "position": {
+        "lat": 3.32833,
+        "lon": 99.161041
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.32994,
+          "lon": 99.15943
+        },
+        "btmRightPoint": {
+          "lat": 3.32672,
+          "lon": 99.16265
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.32692,
+            "lon": 99.16026
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "OvgkrdDdOSiv2FNzGK9Iug",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002339256-ID",
+      "poi": {
+        "name": "Medan",
+        "phone": "+62 626 2222791",
+        "categorySet": [
+          {
+            "id": 7304005
+          }
+        ],
+        "categories": [
+          "chalet",
+          "holiday rental"
+        ],
+        "classifications": [
+          {
+            "code": "HOLIDAY_RENTAL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chalet"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "holiday rental"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Cipto No.114",
+        "municipalitySubdivision": "Siantar Selatan",
+        "municipality": "Pematang Siantar",
+        "municipalitySecondarySubdivision": "Simalungun",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "21145",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Cipto No.114, Siantar Selatan Sub District, Pematang Siantar District, Sumatera Utara 21145",
+        "localName": "Pematang Siantar"
+      },
+      "position": {
+        "lat": 2.956199,
+        "lon": 99.066201
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 2.9571,
+          "lon": 99.0653
+        },
+        "btmRightPoint": {
+          "lat": 2.9553,
+          "lon": 99.0671
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 2.95628,
+            "lon": 99.06616
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "vC_yan15OKqcaeWvXrANnA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006004361116-ID",
+      "poi": {
+        "name": "Medan",
+        "phone": "+62 813-6061-623",
+        "categorySet": [
+          {
+            "id": 7335004
+          }
+        ],
+        "categories": [
+          "agriculture",
+          "farm"
+        ],
+        "classifications": [
+          {
+            "code": "AGRICULTURE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "agriculture"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "farm"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Jamin Ginting",
+        "municipality": "Deli Serdang",
+        "municipalitySecondarySubdivision": "Bandar Baru",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20357",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Jamin Ginting, Deli Serdang District, Sumatera Utara 20357",
+        "localName": "Deli Serdang"
+      },
+      "position": {
+        "lat": 3.271596,
+        "lon": 98.548503
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.2725,
+          "lon": 98.5476
+        },
+        "btmRightPoint": {
+          "lat": 3.2707,
+          "lon": 98.5494
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.27167,
+            "lon": 98.54845
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "aMR1JnniNY5JWWZ1BAZzxA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003032115-ID",
+      "poi": {
+        "name": "Medan",
+        "phone": "+62 818-0361-548",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "No. 42",
+        "municipalitySubdivision": "Montong Gading",
+        "municipality": "Lombok",
+        "municipalitySecondarySubdivision": "Pesanggrahan",
+        "countrySubdivision": "Nusa Tenggara Barat",
+        "countrySubdivisionName": "Nusa Tenggara Barat",
+        "countrySubdivisionCode": "NB",
+        "postalCode": "83663",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "No. 42 2, Montong Gading Sub District, Lombok District, Nusa Tenggara Barat 83663",
+        "localName": "Lombok"
+      },
+      "position": {
+        "lat": -8.5904,
+        "lon": 116.4055
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.5895,
+          "lon": 116.40459
+        },
+        "btmRightPoint": {
+          "lat": -8.5913,
+          "lon": 116.40641
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.59042,
+            "lon": 116.40534
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "80wvioiA4M_Y4ssuuVKBgw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006004114162-ID",
+      "poi": {
+        "name": "Medan",
+        "phone": "+62 813-7035-159",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Simpang Selayang Kec. Medan Tuntungan",
+        "municipalitySubdivision": "Medan Tuntungan",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Simpang Selayang",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20135",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Simpang Selayang Kec. Medan Tuntungan 135, Medan Tuntungan Sub District, Medan District, Sumatera Utara 20135",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.530238,
+        "lon": 98.610653
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.53114,
+          "lon": 98.60975
+        },
+        "btmRightPoint": {
+          "lat": 3.52934,
+          "lon": 98.61155
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.53018,
+            "lon": 98.61072
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "zvcHeQncYyvI_gis6-nqXw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006005209363-ID",
+      "poi": {
+        "name": "Medan",
+        "phone": "+62 813-6138-9745",
+        "categorySet": [
+          {
+            "id": 9376002
+          }
+        ],
+        "categories": [
+          "café",
+          "café/pub"
+        ],
+        "classifications": [
+          {
+            "code": "CAFE_PUB",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "café"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "café/pub"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Teuku Cik Ditiro",
+        "municipalitySubdivision": "Langsa Baro",
+        "municipality": "Langsa",
+        "municipalitySecondarySubdivision": "Paya Bujok Tunong",
+        "countrySubdivision": "Aceh",
+        "countrySubdivisionName": "Aceh",
+        "countrySubdivisionCode": "AC",
+        "postalCode": "24354",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Teuku Cik Ditiro, Langsa Baro Sub District, Langsa District, Aceh 24354",
+        "localName": "Langsa"
+      },
+      "position": {
+        "lat": 4.4758,
+        "lon": 97.9539
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 4.4767,
+          "lon": 97.953
+        },
+        "btmRightPoint": {
+          "lat": 4.4749,
+          "lon": 97.9548
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 4.47569,
+            "lon": 97.954
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "FwMvbO29wv63D69K-h0iow",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007067322-ID",
+      "poi": {
+        "name": "Medan",
+        "phone": "+62 813-7736-251",
+        "categorySet": [
+          {
+            "id": 9383
+          }
+        ],
+        "categories": [
+          "industrial building"
+        ],
+        "classifications": [
+          {
+            "code": "INDUSTRIAL_BUILDING",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "industrial building"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Medan - Sampali Road",
+        "municipalitySubdivision": "Percut Sei Tuan",
+        "municipality": "Deli Serdang",
+        "municipalitySecondarySubdivision": "Sampali",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20371",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Medan - Sampali Road, Percut Sei Tuan Sub District, Deli Serdang District, Sumatera Utara 20371",
+        "localName": "Deli Serdang"
+      },
+      "position": {
+        "lat": 3.637201,
+        "lon": 98.716267
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.6381,
+          "lon": 98.71537
+        },
+        "btmRightPoint": {
+          "lat": 3.6363,
+          "lon": 98.71717
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.6372,
+            "lon": 98.71636
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "zouT-Tb7y5Vc3dXh2LyHcQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000111234-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Pematang Siantar-Kisaran",
+        "municipalitySubdivision": "Tanah Jawa",
+        "municipality": "Simalungun",
+        "municipalitySecondarySubdivision": "Balimbingan",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "21181",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Pematang Siantar-Kisaran, Tanah Jawa Sub District, Simalungun District, Sumatera Utara 21181",
+        "localName": "Simalungun"
+      },
+      "position": {
+        "lat": 2.886241,
+        "lon": 99.163402
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 2.88714,
+          "lon": 99.1625
+        },
+        "btmRightPoint": {
+          "lat": 2.88534,
+          "lon": 99.1643
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 2.88615,
+            "lon": 99.1634
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "55FXEX6QQZtyvP8pINeXDw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007677312-ID",
+      "poi": {
+        "name": "Medan",
+        "phone": "+62 61 4567965",
+        "categorySet": [
+          {
+            "id": 9155002
+          }
+        ],
+        "categories": [
+          "car wash"
+        ],
+        "classifications": [
+          {
+            "code": "CAR_WASH",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "car wash"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kaliampuh",
+        "municipality": "Sidoarjo",
+        "municipalitySecondarySubdivision": "Kalipecabean",
+        "countrySubdivision": "Jawa Timur",
+        "countrySubdivisionName": "Jawa Timur",
+        "countrySubdivisionCode": "JI",
+        "postalCode": "61271",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kaliampuh, Sidoarjo District, Jawa Timur 61271",
+        "localName": "Sidoarjo"
+      },
+      "position": {
+        "lat": -7.479188,
+        "lon": 112.74338
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.47829,
+          "lon": 112.74247
+        },
+        "btmRightPoint": {
+          "lat": -7.48009,
+          "lon": 112.74429
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.4791,
+            "lon": 112.7434
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "-h272D8V5PYWE5G4XojqfA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001286483-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7372005
+          }
+        ],
+        "categories": [
+          "primary school",
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "primary school"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gg. Berdikari No.122",
+        "municipalitySubdivision": "Medan Amplas",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Sitirejo III",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20219",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gg. Berdikari No.122, Medan Amplas Sub District, Medan District, Sumatera Utara 20219",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.548799,
+        "lon": 98.706714
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5497,
+          "lon": 98.70581
+        },
+        "btmRightPoint": {
+          "lat": 3.5479,
+          "lon": 98.70762
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.5488,
+            "lon": 98.70662
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "JONVaq_9l_t81f9Xjks3tQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007519831-ID",
+      "poi": {
+        "name": "Medan",
+        "phone": "+62 852-0790-113",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sibiru-Biru",
+        "municipality": "Deli Serdang",
+        "municipalitySecondarySubdivision": "Aji Baho",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20358",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Sibiru-Biru, Deli Serdang District, Sumatera Utara 20358",
+        "localName": "Deli Serdang"
+      },
+      "position": {
+        "lat": 3.4439,
+        "lon": 98.6948
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.4448,
+          "lon": 98.6939
+        },
+        "btmRightPoint": {
+          "lat": 3.443,
+          "lon": 98.6957
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.4448,
+            "lon": 98.69486
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "dVnf1SEaW_4Wy7arzux_Yg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007104750-ID",
+      "poi": {
+        "name": "Medan",
+        "phone": "+62 61 7867696",
+        "categorySet": [
+          {
+            "id": 9378
+          }
+        ],
+        "categories": [
+          "leisure center"
+        ],
+        "classifications": [
+          {
+            "code": "LEISURE_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "leisure center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Medan Johor",
+        "municipalitySubdivision": "Medan Johor",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Pangkalan Masyhur",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20143",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Medan Johor, Medan Johor Sub District, Medan District, Sumatera Utara 20143",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.535359,
+        "lon": 98.663085
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.53626,
+          "lon": 98.66218
+        },
+        "btmRightPoint": {
+          "lat": 3.53446,
+          "lon": 98.66399
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.53534,
+            "lon": 98.66296
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "TOAgghuzavN4YpdsL_71PA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006004684751-ID",
+      "poi": {
+        "name": "Medan",
+        "phone": "+62 813-6927-900",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl Proklamator No",
+        "municipality": "Lampung",
+        "municipalitySecondarySubdivision": "Seputih Jaya",
+        "countrySubdivision": "Lampung",
+        "countrySubdivisionName": "Lampung",
+        "countrySubdivisionCode": "LA",
+        "postalCode": "34163",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl Proklamator No 86, Lampung District, Lampung 34163",
+        "localName": "Lampung"
+      },
+      "position": {
+        "lat": -4.952733,
+        "lon": 105.212255
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -4.95183,
+          "lon": 105.21135
+        },
+        "btmRightPoint": {
+          "lat": -4.95363,
+          "lon": 105.21316
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -4.95337,
+            "lon": 105.21213
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "JW4oUcw7cKchelybj-76qg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006762314-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7332
+          }
+        ],
+        "categories": [
+          "market"
+        ],
+        "classifications": [
+          {
+            "code": "MARKET",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "market"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Tj. Morawa",
+        "municipalitySubdivision": "Tanjung Morawa",
+        "municipality": "Deli Serdang",
+        "municipalitySecondarySubdivision": "Limau Manis",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20362",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Tj. Morawa, Tanjung Morawa Sub District, Deli Serdang District, Sumatera Utara 20362",
+        "localName": "Deli Serdang"
+      },
+      "position": {
+        "lat": 3.5138,
+        "lon": 98.7756
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5147,
+          "lon": 98.7747
+        },
+        "btmRightPoint": {
+          "lat": 3.5129,
+          "lon": 98.7765
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.51362,
+            "lon": 98.77554
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "qupgkTHsFPzOezWiGk53EA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006005303851-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Ah2",
+        "municipality": "Kudus",
+        "municipalitySecondarySubdivision": "Gondoharum",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "59382",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Ah2, Kudus District, Jawa Tengah 59382",
+        "localName": "Kudus"
+      },
+      "position": {
+        "lat": -6.7954,
+        "lon": 110.9613
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.7945,
+          "lon": 110.96039
+        },
+        "btmRightPoint": {
+          "lat": -6.7963,
+          "lon": 110.96221
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.79551,
+            "lon": 110.96132
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "KHPsGma4GL67rePW1iz4Rw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000766638-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7372002
+          }
+        ],
+        "categories": [
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Titi Baru Klambir Lima Kb. Kec. Hamparan Perak",
+        "municipality": "Deli Serdang",
+        "municipalitySecondarySubdivision": "Klumpang Kebon",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20374",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Titi Baru Klambir Lima Kb. Kec. Hamparan Perak, Deli Serdang District, Sumatera Utara 20374",
+        "localName": "Deli Serdang"
+      },
+      "position": {
+        "lat": 3.6592,
+        "lon": 98.5972
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.6601,
+          "lon": 98.5963
+        },
+        "btmRightPoint": {
+          "lat": 3.6583,
+          "lon": 98.5981
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.6592,
+            "lon": 98.59731
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "9Kv7Lkn-8pbtQl5M8wKG5A",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003909813-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 9153
+          }
+        ],
+        "categories": [
+          "welfare organization"
+        ],
+        "classifications": [
+          {
+            "code": "WELFARE_ORGANIZATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "welfare organization"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Besar Pagurawan",
+        "municipalitySubdivision": "Medang Deras",
+        "municipality": "Batu Bara",
+        "municipalitySecondarySubdivision": "Pagurawan",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "21258",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Besar Pagurawan, Medang Deras Sub District, Batu Bara District, Sumatera Utara 21258",
+        "localName": "Batu Bara"
+      },
+      "position": {
+        "lat": 3.4108,
+        "lon": 99.3148
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.4117,
+          "lon": 99.3139
+        },
+        "btmRightPoint": {
+          "lat": 3.4099,
+          "lon": 99.3157
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.41094,
+            "lon": 99.31487
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "F5ZuSnTzE6inQuQyvD4JiA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001534670-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7339002
+          }
+        ],
+        "categories": [
+          "church",
+          "place of worship"
+        ],
+        "classifications": [
+          {
+            "code": "PLACE_OF_WORSHIP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "place of worship"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "church"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Buntu",
+        "municipalitySubdivision": "Medan Helvetia",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Cinta Damai",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20126",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Buntu, Medan Helvetia Sub District, Medan District, Sumatera Utara 20126",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.597808,
+        "lon": 98.613901
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.59871,
+          "lon": 98.613
+        },
+        "btmRightPoint": {
+          "lat": 3.59691,
+          "lon": 98.6148
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.59772,
+            "lon": 98.61389
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "3ilTSh1kXF8GFWQSo_Lu1Q",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007473973-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7369
+          }
+        ],
+        "categories": [
+          "open parking area"
+        ],
+        "classifications": [
+          {
+            "code": "OPEN_PARKING_AREA",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "open parking area"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Medan Tembung",
+        "municipalitySubdivision": "Medan Tembung",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Desa Tembung",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "22742",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Medan Tembung, Medan Tembung Sub District, Medan District, Sumatera Utara 22742",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.5973,
+        "lon": 98.7362
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5982,
+          "lon": 98.7353
+        },
+        "btmRightPoint": {
+          "lat": 3.5964,
+          "lon": 98.7371
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.59699,
+            "lon": 98.73619
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "anCrIU5pFguFNIvrnYBmoA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006005543685-ID",
+      "poi": {
+        "name": "Medan",
+        "phone": "+62 822-4926-270",
+        "categorySet": [
+          {
+            "id": 9361075
+          }
+        ],
+        "categories": [
+          "mobile phone shop",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "mobile phone shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. M. Basir No.25",
+        "municipalitySubdivision": "Medan Johor",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Pangkalan Masyhur",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20219",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. M. Basir No.25, Medan Johor Sub District, Medan District, Sumatera Utara 20219",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.5383,
+        "lon": 98.6824
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5392,
+          "lon": 98.6815
+        },
+        "btmRightPoint": {
+          "lat": 3.5374,
+          "lon": 98.6833
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.53867,
+            "lon": 98.68249
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "XxpCOeU3qMqTjXWeGNd0kA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007484105-ID",
+      "poi": {
+        "name": "Medan",
+        "phone": "+62 61 4567965",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Medan Kota",
+        "municipalitySubdivision": "Medan Sunggal",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Lalang",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20123",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Medan Kota, Medan Sunggal Sub District, Medan District, Sumatera Utara 20123",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.590527,
+        "lon": 98.616864
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.59143,
+          "lon": 98.61596
+        },
+        "btmRightPoint": {
+          "lat": 3.58963,
+          "lon": 98.61777
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.59061,
+            "lon": 98.6169
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "nnXKPZEMCWwA9FM7LNxblA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007798083-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Medan Kota",
+        "municipalitySubdivision": "Medan Johor",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Gedung Johor",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20147",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Medan Kota, Medan Johor Sub District, Medan District, Sumatera Utara 20147",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.5251,
+        "lon": 98.6743
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.526,
+          "lon": 98.6734
+        },
+        "btmRightPoint": {
+          "lat": 3.5242,
+          "lon": 98.6752
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.52511,
+            "lon": 98.6742
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "RnnuWEqYpyodpfM8-oCKuQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006937479-ID",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 9361037
+          }
+        ],
+        "categories": [
+          "newsagents tobacconists",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "newsagents tobacconists"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Hm. Joni No.119",
+        "municipalitySubdivision": "Medan Area",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Pasar Merah Timur",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20226",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Hm. Joni No.119, Medan Area Sub District, Medan District, Sumatera Utara 20226",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.568528,
+        "lon": 98.705652
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.56943,
+          "lon": 98.70475
+        },
+        "btmRightPoint": {
+          "lat": 3.56763,
+          "lon": 98.70655
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.5685,
+            "lon": 98.70556
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "s8W_uWr0y3ZUlx7BGyOXiQ",
+      "score": 2.0239999294,
+      "info": "search:ta:380009033450542-IT",
+      "poi": {
+        "name": "Medan",
+        "categorySet": [
+          {
+            "id": 9361025
+          }
+        ],
+        "categories": [
+          "food drinks: wine spirits",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: wine spirits"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Località Campochiarenti",
+        "municipality": "San Gimignano",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Toscana",
+        "countrySubdivisionName": "Toscana",
+        "countrySubdivisionCode": "52",
+        "postalCode": "53037",
+        "countryCode": "IT",
+        "country": "Italia",
+        "countryCodeISO3": "ITA",
+        "freeformAddress": "Località Campochiarenti, 53037 San Gimignano",
+        "localName": "San Gimignano"
+      },
+      "position": {
+        "lat": 43.475099,
+        "lon": 11.094771
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 43.476,
+          "lon": 11.09353
+        },
+        "btmRightPoint": {
+          "lat": 43.4742,
+          "lon": 11.09601
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 43.47513,
+            "lon": 11.09489
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "cKWucG7dF-nNOVHr9fAcNQ",
+      "score": 2.0239999294,
+      "info": "search:ta:643007000609966-RU",
+      "poi": {
+        "name": "MEDAN",
+        "phone": "+7 844 233-30-03",
+        "categorySet": [
+          {
+            "id": 9361043
+          }
+        ],
+        "categories": [
+          "medical supplies equipment",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "medical supplies equipment"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ],
+        "url": "med-an.ru"
+      },
+      "address": {
+        "streetName": "Aviatorskaya ulitsa",
+        "municipality": "Volgograd",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Yuzhnyy Federal'nyy Okrug",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "400119",
+        "countryCode": "RU",
+        "country": "Rossiya",
+        "countryCodeISO3": "RUS",
+        "freeformAddress": "Aviatorskaya ulitsa, 1/1, Volgograd, 400119",
+        "localName": "Volgograd"
+      },
+      "position": {
+        "lat": 48.678755,
+        "lon": 44.47673
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 48.67965,
+          "lon": 44.47537
+        },
+        "btmRightPoint": {
+          "lat": 48.67786,
+          "lon": 44.47809
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 48.67891,
+            "lon": 44.47645
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "rF8Qb_Ut3f5nqBES-ISKnw",
+      "score": 2.0239999294,
+      "info": "search:ta:643009010720246-RU",
+      "poi": {
+        "name": "MEDAN",
+        "phone": "+7 844 233-30-03",
+        "categorySet": [
+          {
+            "id": 9361043
+          }
+        ],
+        "categories": [
+          "medical supplies equipment",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "medical supplies equipment"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ],
+        "url": "med-an.ru"
+      },
+      "address": {
+        "streetName": "Ulitsa Nikolaya Otrady",
+        "municipality": "Volgograd",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Yuzhnyy Federal'nyy Okrug",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "400033",
+        "countryCode": "RU",
+        "country": "Rossiya",
+        "countryCodeISO3": "RUS",
+        "freeformAddress": "Ulitsa Nikolaya Otrady, 13Б, Volgograd, 400033",
+        "localName": "Volgograd"
+      },
+      "position": {
+        "lat": 48.820577,
+        "lon": 44.632156
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 48.82148,
+          "lon": 44.63079
+        },
+        "btmRightPoint": {
+          "lat": 48.81968,
+          "lon": 44.63352
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 48.82077,
+            "lon": 44.63206
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "0TTaaet29pFO0RI4SQNz6w",
+      "score": 2.0239999294,
+      "info": "search:ta:643009001477143-RU",
+      "poi": {
+        "name": "MEDAN",
+        "phone": "+7 844 233-30-03",
+        "categorySet": [
+          {
+            "id": 9361043
+          }
+        ],
+        "categories": [
+          "medical supplies equipment",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "medical supplies equipment"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ],
+        "url": "med-an.ru"
+      },
+      "address": {
+        "streetName": "Prospekt Lenina",
+        "municipality": "Volgograd",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Yuzhnyy Federal'nyy Okrug",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "400005",
+        "countryCode": "RU",
+        "country": "Rossiya",
+        "countryCodeISO3": "RUS",
+        "freeformAddress": "Prospekt Lenina, 73, Volgograd, 400005",
+        "localName": "Volgograd"
+      },
+      "position": {
+        "lat": 48.755576,
+        "lon": 44.55096
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 48.75648,
+          "lon": 44.5496
+        },
+        "btmRightPoint": {
+          "lat": 48.75468,
+          "lon": 44.55232
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 48.75544,
+            "lon": 44.55111
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "46isM23KOP_Vd2OsBr0rCA",
+      "score": 2.0239999294,
+      "info": "search:ta:643009001414676-RU",
+      "poi": {
+        "name": "MEDAN",
+        "phone": "+7 844 233-30-03",
+        "categorySet": [
+          {
+            "id": 9361043
+          }
+        ],
+        "categories": [
+          "medical supplies equipment",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "medical supplies equipment"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ],
+        "url": "med-an.ru"
+      },
+      "address": {
+        "streetName": "Prospekt Geroyev Stalingrada",
+        "municipality": "Volgograd",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Yuzhnyy Federal'nyy Okrug",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "400026",
+        "countryCode": "RU",
+        "country": "Rossiya",
+        "countryCodeISO3": "RUS",
+        "freeformAddress": "Prospekt Geroyev Stalingrada, 48, Volgograd, 400026",
+        "localName": "Volgograd"
+      },
+      "position": {
+        "lat": 48.512781,
+        "lon": 44.545295
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 48.51368,
+          "lon": 44.54394
+        },
+        "btmRightPoint": {
+          "lat": 48.51188,
+          "lon": 44.54665
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 48.51274,
+            "lon": 44.5455
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "dOdyKyDxVZTvGssfinGilQ",
+      "score": 2.0239999294,
+      "info": "search:ta:643009001469726-RU",
+      "poi": {
+        "name": "MEDAN",
+        "phone": "+7 844 233-30-03",
+        "categorySet": [
+          {
+            "id": 9361043
+          }
+        ],
+        "categories": [
+          "medical supplies equipment",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "medical supplies equipment"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ],
+        "url": "med-an.ru"
+      },
+      "address": {
+        "streetName": "Lenina prospekt",
+        "municipality": "Volgograd",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Yuzhnyy Federal'nyy Okrug",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "400005",
+        "countryCode": "RU",
+        "country": "Rossiya",
+        "countryCodeISO3": "RUS",
+        "freeformAddress": "Lenina prospekt, 25, Volgograd, 400005",
+        "localName": "Volgograd"
+      },
+      "position": {
+        "lat": 48.713401,
+        "lon": 44.525762
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 48.7143,
+          "lon": 44.5244
+        },
+        "btmRightPoint": {
+          "lat": 48.7125,
+          "lon": 44.52712
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 48.71351,
+            "lon": 44.52565
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "zEs7Hxnl3m-iZ0ApItAs9w",
+      "score": 2.0239999294,
+      "info": "search:ta:643007000631353-RU",
+      "poi": {
+        "name": "MEDAN",
+        "categorySet": [
+          {
+            "id": 9361043
+          }
+        ],
+        "categories": [
+          "medical supplies equipment",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "medical supplies equipment"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ],
+        "url": "med-an.ru"
+      },
+      "address": {
+        "streetName": "Ulitsa Mira",
+        "municipality": "Volzhskiy",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Yuzhnyy Federal'nyy Okrug",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "404131",
+        "countryCode": "RU",
+        "country": "Rossiya",
+        "countryCodeISO3": "RUS",
+        "freeformAddress": "Ulitsa Mira, 75, Volzhskiy, 404131",
+        "localName": "Volzhskiy"
+      },
+      "position": {
+        "lat": 48.769576,
+        "lon": 44.807113
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 48.77048,
+          "lon": 44.80575
+        },
+        "btmRightPoint": {
+          "lat": 48.76868,
+          "lon": 44.80848
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 48.76964,
+            "lon": 44.80725
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "oZeBU8rN6CZiN6w6A8Cj_w",
+      "score": 2.0239999294,
+      "info": "search:ta:643007000658478-RU",
+      "poi": {
+        "name": "MEDAN",
+        "phone": "+7 844 233-30-03",
+        "categorySet": [
+          {
+            "id": 9361043
+          }
+        ],
+        "categories": [
+          "medical supplies equipment",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "medical supplies equipment"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ],
+        "url": "med-an.ru"
+      },
+      "address": {
+        "streetName": "Yeletskaya ulitsa",
+        "municipality": "Volgograd",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Yuzhnyy Federal'nyy Okrug",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "400120",
+        "countryCode": "RU",
+        "country": "Rossiya",
+        "countryCodeISO3": "RUS",
+        "freeformAddress": "Yeletskaya ulitsa, 16, Volgograd, 400120",
+        "localName": "Volgograd"
+      },
+      "position": {
+        "lat": 48.702646,
+        "lon": 44.483526
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 48.70355,
+          "lon": 44.48216
+        },
+        "btmRightPoint": {
+          "lat": 48.70175,
+          "lon": 44.48489
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 48.70265,
+            "lon": 44.48381
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "tWOqYy4kd-dVAoYH_PzIig",
+      "score": 2.0239999294,
+      "info": "search:ta:643009010655214-RU",
+      "poi": {
+        "name": "MEDAN",
+        "phone": "+7 844 233-30-03",
+        "categorySet": [
+          {
+            "id": 9361043
+          }
+        ],
+        "categories": [
+          "medical supplies equipment",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "medical supplies equipment"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ],
+        "url": "med-an.ru"
+      },
+      "address": {
+        "streetName": "KIM ulitsa",
+        "municipality": "Volgograd",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Yuzhnyy Federal'nyy Okrug",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "400001",
+        "countryCode": "RU",
+        "country": "Rossiya",
+        "countryCodeISO3": "RUS",
+        "freeformAddress": "KIM ulitsa, 8, Volgograd, 400001",
+        "localName": "Volgograd"
+      },
+      "position": {
+        "lat": 48.698103,
+        "lon": 44.500965
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 48.699,
+          "lon": 44.4996
+        },
+        "btmRightPoint": {
+          "lat": 48.6972,
+          "lon": 44.50233
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 48.69819,
+            "lon": 44.50091
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "nBChH_HpPLJf4vInqaVtRA",
+      "score": 2.0239999294,
+      "info": "search:ta:643007000675053-RU",
+      "poi": {
+        "name": "MEDAN",
+        "phone": "+7 844 233-30-03",
+        "categorySet": [
+          {
+            "id": 9373003
+          }
+        ],
+        "categories": [
+          "doctor",
+          "specialist"
+        ],
+        "classifications": [
+          {
+            "code": "DOCTOR",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "doctor"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "specialist"
+              }
+            ]
+          }
+        ],
+        "url": "med-an.ru"
+      },
+      "address": {
+        "streetName": "Ulitsa Parkhomenko",
+        "municipality": "Volgograd",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Yuzhnyy Federal'nyy Okrug",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "400050",
+        "countryCode": "RU",
+        "country": "Rossiya",
+        "countryCodeISO3": "RUS",
+        "freeformAddress": "Ulitsa Parkhomenko, 5, Volgograd, 400050",
+        "localName": "Volgograd"
+      },
+      "position": {
+        "lat": 48.714405,
+        "lon": 44.510653
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 48.7153,
+          "lon": 44.50929
+        },
+        "btmRightPoint": {
+          "lat": 48.71351,
+          "lon": 44.51202
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 48.71447,
+            "lon": 44.51042
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "mGjbQdSj5iNa1eJtCJWcGQ",
+      "score": 2.0041568279,
+      "info": "search:ta:032009002187628-AR",
+      "poi": {
+        "name": "Medan Diego",
+        "categorySet": [
+          {
+            "id": 7377002
+          }
+        ],
+        "categories": [
+          "college/university"
+        ],
+        "classifications": [
+          {
+            "code": "COLLEGE_UNIVERSITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "college/university"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Calle Blanco Encalada",
+        "municipalitySubdivision": "Villa Urquiza",
+        "municipality": "Buenos Aires",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Ciudad Autónoma de Buenos Aires",
+        "countrySubdivisionName": "Ciudad Autónoma de Buenos Aires",
+        "countrySubdivisionCode": "C",
+        "postalCode": "C1431",
+        "countryCode": "AR",
+        "country": "Argentina",
+        "countryCodeISO3": "ARG",
+        "freeformAddress": "Calle Blanco Encalada 4402, C1431CDA Buenos Aires Ciudad Autónoma de Buenos Aires",
+        "localName": "Buenos Aires"
+      },
+      "position": {
+        "lat": -34.571438,
+        "lon": -58.47935
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -34.57054,
+          "lon": -58.48044
+        },
+        "btmRightPoint": {
+          "lat": -34.57234,
+          "lon": -58.47826
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -34.57133,
+            "lon": -58.47935
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "nW9hUQx_l60k7MamH0KUgA",
+      "score": 2.0041568279,
+      "info": "search:ta:032009003391635-AR",
+      "poi": {
+        "name": "Medan Monica",
+        "phone": "+54 11 4744-0768",
+        "categorySet": [
+          {
+            "id": 9375
+          }
+        ],
+        "categories": [
+          "veterinarian"
+        ],
+        "classifications": [
+          {
+            "code": "VETERINARIAN",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "veterinarian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Calle Constitución",
+        "municipality": "San Fernando",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Provincia de Buenos Aires",
+        "countrySubdivisionName": "Provincia de Buenos Aires",
+        "countrySubdivisionCode": "B",
+        "postalCode": "B1646",
+        "countryCode": "AR",
+        "country": "Argentina",
+        "countryCodeISO3": "ARG",
+        "freeformAddress": "Calle Constitución 432, B1646CXA San Fernando Provincia de Buenos Aires",
+        "localName": "San Fernando"
+      },
+      "position": {
+        "lat": -34.437008,
+        "lon": -58.561649
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -34.43611,
+          "lon": -58.56274
+        },
+        "btmRightPoint": {
+          "lat": -34.43791,
+          "lon": -58.56056
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -34.43708,
+            "lon": -58.56171
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "aoOT9zAUyc1a8xNLcBzegg",
+      "score": 2.0041568279,
+      "info": "search:ta:032009000166106-AR",
+      "poi": {
+        "name": "Estudio Medan",
+        "categorySet": [
+          {
+            "id": 9352032
+          }
+        ],
+        "categories": [
+          "company",
+          "construction"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "construction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Avenida del Mirador",
+        "municipalitySubdivision": "Nordelta",
+        "municipality": "Tigre",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Provincia de Buenos Aires",
+        "countrySubdivisionName": "Provincia de Buenos Aires",
+        "countrySubdivisionCode": "B",
+        "postalCode": "",
+        "countryCode": "AR",
+        "country": "Argentina",
+        "countryCodeISO3": "ARG",
+        "freeformAddress": "Avenida del Mirador 220, Tigre Provincia de Buenos Aires",
+        "localName": "Tigre"
+      },
+      "position": {
+        "lat": -34.394614,
+        "lon": -58.650302
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -34.39371,
+          "lon": -58.65139
+        },
+        "btmRightPoint": {
+          "lat": -34.39551,
+          "lon": -58.64921
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -34.39461,
+            "lon": -58.6503
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "YaO_zBuXNDZw_YFYf3ssmw",
+      "score": 2.0041568279,
+      "info": "search:ta:036006000050937-AU",
+      "poi": {
+        "name": "Medan Ciak",
+        "phone": "+61 403 363 326",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ],
+        "url": "www.medanciak.com.au"
+      },
+      "address": {
+        "streetName": "Sussex Street",
+        "municipalitySubdivision": "Sydney CBD",
+        "municipality": "Sydney",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "New South Wales",
+        "countrySubdivisionName": "New South Wales",
+        "countrySubdivisionCode": "NSW",
+        "postalCode": "2000",
+        "countryCode": "AU",
+        "country": "Australia",
+        "countryCodeISO3": "AUS",
+        "freeformAddress": "339 Sussex Street, Sydney CBD, NSW, 2000",
+        "localName": "Sydney CBD"
+      },
+      "position": {
+        "lat": -33.875595,
+        "lon": 151.204371
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -33.8747,
+          "lon": 151.20329
+        },
+        "btmRightPoint": {
+          "lat": -33.87649,
+          "lon": 151.20545
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -33.87559,
+            "lon": 151.20442
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "PUEY897ju_VtA7iRq6_GcQ",
+      "score": 2.0041568279,
+      "info": "search:ta:096009000064005-BN",
+      "poi": {
+        "name": "Medan Citis",
+        "categorySet": [
+          {
+            "id": 9382
+          }
+        ],
+        "categories": [
+          "commercial building"
+        ],
+        "classifications": [
+          {
+            "code": "COMMERCIAL_BUILDING",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "commercial building"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Simpang 13",
+        "municipalitySubdivision": "Kampung Jaya Setia",
+        "municipality": "Bandar Seri Begawan",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Brunei Muara",
+        "countrySubdivisionName": "Brunei Muara",
+        "countrySubdivisionCode": "BM",
+        "postalCode": "BBBE3713",
+        "countryCode": "BN",
+        "country": "Brunei",
+        "countryCodeISO3": "BRN",
+        "freeformAddress": "Simpang 13, Bandar Seri Begawan, BBBE3713 Brunei Muara",
+        "localName": "Bandar Seri Begawan"
+      },
+      "position": {
+        "lat": 4.938821,
+        "lon": 114.939833
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 4.93972,
+          "lon": 114.93893
+        },
+        "btmRightPoint": {
+          "lat": 4.93792,
+          "lon": 114.94074
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 4.93884,
+            "lon": 114.93914
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "i81JH1r2WNtf5pfG8uaJZA",
+      "score": 2.0041568279,
+      "info": "search:ta:124359004075886-CA",
+      "poi": {
+        "name": "Medan Scientific",
+        "phone": "+1 905-564-1080",
+        "categorySet": [
+          {
+            "id": 9352
+          }
+        ],
+        "categories": [
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tomken Road",
+        "municipality": "Mississauga",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "ON",
+        "countrySubdivisionName": "Ontario",
+        "countrySubdivisionCode": "ON",
+        "postalCode": "L5T",
+        "countryCode": "CA",
+        "country": "Canada",
+        "countryCodeISO3": "CAN",
+        "freeformAddress": "6050 Tomken Road, Mississauga ON L5T 1X8",
+        "localName": "Mississauga"
+      },
+      "position": {
+        "lat": 43.646737,
+        "lon": -79.659693
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 43.64764,
+          "lon": -79.66094
+        },
+        "btmRightPoint": {
+          "lat": 43.64584,
+          "lon": -79.65845
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 43.64681,
+            "lon": -79.65962
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "pTc1QnaRJy2hL9Y_7hZ-Ow",
+      "score": 2.0041568279,
+      "info": "search:ta:152007000078858-CL",
+      "poi": {
+        "name": "Agroturismo El Medán",
+        "categorySet": [
+          {
+            "id": 7315085
+          }
+        ],
+        "categories": [
+          "armenian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "armenian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "W-59",
+        "municipality": "Curaco de Vélez",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Los Lagos",
+        "countrySubdivisionName": "Los Lagos",
+        "countrySubdivisionCode": "LL",
+        "postalCode": "570",
+        "countryCode": "CL",
+        "country": "Chile",
+        "countryCodeISO3": "CHL",
+        "freeformAddress": "W-59, 5700000, Curaco de Vélez, Los Lagos",
+        "localName": "Curaco de Vélez"
+      },
+      "position": {
+        "lat": -42.442279,
+        "lon": -73.562487
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -42.44138,
+          "lon": -73.56371
+        },
+        "btmRightPoint": {
+          "lat": -42.44318,
+          "lon": -73.56127
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -42.44231,
+            "lon": -73.5626
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "vwtoe4xhlferZaUvt9t11A",
+      "score": 2.0041568279,
+      "info": "search:ta:152007000074179-CL",
+      "poi": {
+        "name": "El Medán Sanguchería",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Calle Doctor Ahues",
+        "municipality": "Quellón",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Los Lagos",
+        "countrySubdivisionName": "Los Lagos",
+        "countrySubdivisionCode": "LL",
+        "postalCode": "579",
+        "countryCode": "CL",
+        "country": "Chile",
+        "countryCodeISO3": "CHL",
+        "freeformAddress": "Calle Doctor Ahues 105, 5790433, Quellón, Los Lagos",
+        "localName": "Quellón"
+      },
+      "position": {
+        "lat": -43.115311,
+        "lon": -73.612436
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -43.11355,
+          "lon": -73.61485
+        },
+        "btmRightPoint": {
+          "lat": -43.11708,
+          "lon": -73.61002
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -43.11537,
+            "lon": -73.61002
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "oKG8FzJIYJMw11-8OFgMQA",
+      "score": 2.0041568279,
+      "info": "search:ta:818009001298118-EG",
+      "poi": {
+        "name": "Medan Center",
+        "categorySet": [
+          {
+            "id": 9361002
+          }
+        ],
+        "categories": [
+          "book shops",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "book shops"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Khalid Ibn El Walid",
+        "municipalitySubdivision": "Qesm 1st El Mansoura",
+        "municipality": "El Mansoura",
+        "municipalitySecondarySubdivision": "Qesm 1st Meet Talkha",
+        "countrySubdivision": "El Daqahlia",
+        "countrySubdivisionName": "El Daqahlia",
+        "countrySubdivisionCode": "DK",
+        "postalCode": "",
+        "countryCode": "EG",
+        "country": "Egypt",
+        "countryCodeISO3": "EGY",
+        "freeformAddress": "Khalid Ibn El Walid, El Mansoura, El Daqahlia",
+        "localName": "El Mansoura"
+      },
+      "position": {
+        "lat": 31.040475,
+        "lon": 31.364591
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 31.04137,
+          "lon": 31.36354
+        },
+        "btmRightPoint": {
+          "lat": 31.03958,
+          "lon": 31.36564
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 31.04039,
+            "lon": 31.36456
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "9nSWrDPqZSbFURiU4tMzVQ",
+      "score": 2.0041568279,
+      "info": "search:ta:818009001545970-EG",
+      "poi": {
+        "name": "El Medan",
+        "categorySet": [
+          {
+            "id": 9158
+          }
+        ],
+        "categories": [
+          "media facility"
+        ],
+        "classifications": [
+          {
+            "code": "MEDIA_FACILITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "media facility"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mahmoud Rahmy",
+        "municipalitySubdivision": "Qesm El Agoza",
+        "municipality": "Giza",
+        "municipalitySecondarySubdivision": "El Eelam-El Awkaf",
+        "countrySubdivision": "Giza",
+        "countrySubdivisionName": "Giza",
+        "countrySubdivisionCode": "GZ",
+        "postalCode": "",
+        "countryCode": "EG",
+        "country": "Egypt",
+        "countryCodeISO3": "EGY",
+        "freeformAddress": "Mahmoud Rahmy, Giza, Giza",
+        "localName": "Giza"
+      },
+      "position": {
+        "lat": 30.065037,
+        "lon": 31.206651
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 30.06594,
+          "lon": 31.20561
+        },
+        "btmRightPoint": {
+          "lat": 30.06414,
+          "lon": 31.20769
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 30.06509,
+            "lon": 31.20657
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ouRMVtNBmWNwLan3QvpeWw",
+      "score": 2.0041568279,
+      "info": "search:ta:818009001247515-EG",
+      "poi": {
+        "name": "Mahmoud Medan",
+        "categorySet": [
+          {
+            "id": 9663003
+          }
+        ],
+        "categories": [
+          "health care service",
+          "personal care facility"
+        ],
+        "classifications": [
+          {
+            "code": "HEALTH_CARE_SERVICE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "health care service"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "personal care facility"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gamal Abd El Nasser",
+        "municipalitySubdivision": "Qesm New Domiat",
+        "municipality": "New Domiat",
+        "municipalitySecondarySubdivision": "Domiat El Gadida",
+        "countrySubdivision": "Domiat",
+        "countrySubdivisionName": "Domiat",
+        "countrySubdivisionCode": "DT",
+        "postalCode": "",
+        "countryCode": "EG",
+        "country": "Egypt",
+        "countryCodeISO3": "EGY",
+        "freeformAddress": "Gamal Abd El Nasser, New Domiat, Domiat",
+        "localName": "New Domiat"
+      },
+      "position": {
+        "lat": 31.437102,
+        "lon": 31.681369
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 31.438,
+          "lon": 31.68031
+        },
+        "btmRightPoint": {
+          "lat": 31.4362,
+          "lon": 31.68242
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 31.43702,
+            "lon": 31.6814
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "RA4MCJkCPWLotaUMu4_VzQ",
+      "score": 2.0041568279,
+      "info": "search:ta:724006001844734-ES",
+      "poi": {
+        "name": "Hermanos Medan",
+        "phone": "+34 962 41 17 18",
+        "categorySet": [
+          {
+            "id": 9352011
+          }
+        ],
+        "categories": [
+          "company",
+          "manufacturing"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "manufacturing"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Calle de Santa Llúcia",
+        "municipality": "Alzira",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Comunidad Valenciana",
+        "countrySubdivisionName": "Comunidad Valenciana",
+        "countrySubdivisionCode": "VC",
+        "postalCode": "46600",
+        "countryCode": "ES",
+        "country": "España",
+        "countryCodeISO3": "ESP",
+        "freeformAddress": "Calle de Santa Llúcia, 39, 46600 Alzira",
+        "localName": "Alzira"
+      },
+      "position": {
+        "lat": 39.152267,
+        "lon": -0.442112
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 39.15317,
+          "lon": -0.44327
+        },
+        "btmRightPoint": {
+          "lat": 39.15137,
+          "lon": -0.44095
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 39.15219,
+            "lon": -0.44206
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "M7X9IqYrfpy7lFvB2VTVxw",
+      "score": 2.0041568279,
+      "info": "search:ta:250009040514992-FR",
+      "poi": {
+        "name": "Medan Celine",
+        "categorySet": [
+          {
+            "id": 9352039
+          }
+        ],
+        "categories": [
+          "company",
+          "services"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "services"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rue des Châtaigniers",
+        "municipalitySubdivision": "La Bassetière",
+        "municipality": "Saint-Julien-des-Landes",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Pays de la Loire",
+        "countrySubdivisionName": "Pays de la Loire",
+        "countrySubdivisionCode": "PDL",
+        "postalCode": "85150",
+        "countryCode": "FR",
+        "country": "France",
+        "countryCodeISO3": "FRA",
+        "freeformAddress": "10 Rue des Châtaigniers, 85150 Saint-Julien-des-Landes",
+        "localName": "Saint-Julien-des-Landes"
+      },
+      "position": {
+        "lat": 46.632339,
+        "lon": -1.709136
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 46.63324,
+          "lon": -1.71045
+        },
+        "btmRightPoint": {
+          "lat": 46.63144,
+          "lon": -1.70783
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 46.63242,
+            "lon": -1.70919
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "IjmnMPtM_Dt4SV3Ku8oKVg",
+      "score": 2.0041568279,
+      "info": "search:ta:250009013633302-FR",
+      "poi": {
+        "name": "Medan Samuel",
+        "categorySet": [
+          {
+            "id": 9663
+          }
+        ],
+        "categories": [
+          "health care service"
+        ],
+        "classifications": [
+          {
+            "code": "HEALTH_CARE_SERVICE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "health care service"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rue de Negreneys",
+        "municipality": "Toulouse",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Occitanie",
+        "countrySubdivisionName": "Occitanie",
+        "countrySubdivisionCode": "OCC",
+        "postalCode": "31200",
+        "countryCode": "FR",
+        "country": "France",
+        "countryCodeISO3": "FRA",
+        "freeformAddress": "14 Rue de Negreneys, 31200 Toulouse",
+        "localName": "Toulouse"
+      },
+      "position": {
+        "lat": 43.617115,
+        "lon": 1.440919
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 43.61801,
+          "lon": 1.43968
+        },
+        "btmRightPoint": {
+          "lat": 43.61622,
+          "lon": 1.44216
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 43.61712,
+            "lon": 1.44079
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "G_zC10blNbVn3AYgqBoHQg",
+      "score": 2.0041568279,
+      "info": "search:ta:250009009391351-FR",
+      "poi": {
+        "name": "Medan Nicolas",
+        "categorySet": [
+          {
+            "id": 9361024
+          }
+        ],
+        "categories": [
+          "food drinks: food shops",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: food shops"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rue de Chambly",
+        "municipality": "Champagne-sur-Oise",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Île-de-France",
+        "countrySubdivisionName": "Île-de-France",
+        "countrySubdivisionCode": "IDF",
+        "postalCode": "95660",
+        "countryCode": "FR",
+        "country": "France",
+        "countryCodeISO3": "FRA",
+        "freeformAddress": "44 Rue de Chambly, 95660 Champagne-sur-Oise",
+        "localName": "Champagne-sur-Oise"
+      },
+      "position": {
+        "lat": 49.141476,
+        "lon": 2.2396
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 49.14238,
+          "lon": 2.23823
+        },
+        "btmRightPoint": {
+          "lat": 49.14058,
+          "lon": 2.24097
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 49.14149,
+            "lon": 2.23946
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "GbpteE4nZVyp7foeswpWJw",
+      "score": 2.0041568279,
+      "info": "search:ta:250009010934800-FR",
+      "poi": {
+        "name": "Medan Didier",
+        "phone": "+33 9 51 94 90 68",
+        "categorySet": [
+          {
+            "id": 9373
+          }
+        ],
+        "categories": [
+          "doctor"
+        ],
+        "classifications": [
+          {
+            "code": "DOCTOR",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "doctor"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Boulevard des Ferrières",
+        "municipality": "Le Muy",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Provence-Alpes-Côte d'Azur",
+        "countrySubdivisionName": "Provence-Alpes-Côte d'Azur",
+        "countrySubdivisionCode": "PAC",
+        "postalCode": "83490",
+        "countryCode": "FR",
+        "country": "France",
+        "countryCodeISO3": "FRA",
+        "freeformAddress": "30 Boulevard des Ferrières, 83490 Le Muy",
+        "localName": "Le Muy"
+      },
+      "position": {
+        "lat": 43.472944,
+        "lon": 6.560704
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 43.47384,
+          "lon": 6.55946
+        },
+        "btmRightPoint": {
+          "lat": 43.47204,
+          "lon": 6.56194
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 43.47291,
+            "lon": 6.56071
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "UZZS5lMcTx8LEoXw0BGeDA",
+      "score": 2.0041568279,
+      "info": "search:ta:250009004787929-FR",
+      "poi": {
+        "name": "Medan-Lasserre",
+        "categorySet": [
+          {
+            "id": 9352039
+          }
+        ],
+        "categories": [
+          "company",
+          "services"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "services"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Avenue Simón Bolívar",
+        "municipalitySubdivision": "19ème Arrondissement",
+        "municipality": "Paris",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Île-de-France",
+        "countrySubdivisionName": "Île-de-France",
+        "countrySubdivisionCode": "IDF",
+        "postalCode": "75019",
+        "countryCode": "FR",
+        "country": "France",
+        "countryCodeISO3": "FRA",
+        "freeformAddress": "59 Avenue Simón Bolívar, 75019 Paris",
+        "localName": "Paris"
+      },
+      "position": {
+        "lat": 48.876311,
+        "lon": 2.378623
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 48.87721,
+          "lon": 2.37726
+        },
+        "btmRightPoint": {
+          "lat": 48.87541,
+          "lon": 2.37999
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 48.87641,
+            "lon": 2.37864
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "7jFwMEyu8LQgMmhAWzPPYQ",
+      "score": 2.0041568279,
+      "info": "search:ta:250009012044910-FR",
+      "poi": {
+        "name": "Medan Dominique",
+        "categorySet": [
+          {
+            "id": 9373
+          }
+        ],
+        "categories": [
+          "doctor"
+        ],
+        "classifications": [
+          {
+            "code": "DOCTOR",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "doctor"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Le Clos des Cèdres",
+        "municipality": "Cornebarrieu",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Occitanie",
+        "countrySubdivisionName": "Occitanie",
+        "countrySubdivisionCode": "OCC",
+        "postalCode": "31700",
+        "countryCode": "FR",
+        "country": "France",
+        "countryCodeISO3": "FRA",
+        "freeformAddress": "Le Clos des Cèdres, 31700 Cornebarrieu",
+        "localName": "Cornebarrieu"
+      },
+      "position": {
+        "lat": 43.658815,
+        "lon": 1.311619
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 43.65971,
+          "lon": 1.31038
+        },
+        "btmRightPoint": {
+          "lat": 43.65792,
+          "lon": 1.31286
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 43.65882,
+            "lon": 1.31162
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "MWUatHdIZ4TBvMlrsHQihQ",
+      "score": 2.0041568279,
+      "info": "search:ta:250009012571195-FR",
+      "poi": {
+        "name": "Medan Alexandre",
+        "categorySet": [
+          {
+            "id": 9352003
+          }
+        ],
+        "categories": [
+          "advertising/marketing",
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "advertising/marketing"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rue de Charonne",
+        "municipalitySubdivision": "11ème Arrondissement",
+        "municipality": "Paris",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Île-de-France",
+        "countrySubdivisionName": "Île-de-France",
+        "countrySubdivisionCode": "IDF",
+        "postalCode": "75011",
+        "countryCode": "FR",
+        "country": "France",
+        "countryCodeISO3": "FRA",
+        "freeformAddress": "26 Rue de Charonne, 75011 Paris",
+        "localName": "Paris"
+      },
+      "position": {
+        "lat": 48.853168,
+        "lon": 2.375236
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 48.85407,
+          "lon": 2.37387
+        },
+        "btmRightPoint": {
+          "lat": 48.85227,
+          "lon": 2.3766
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 48.85327,
+            "lon": 2.3753
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "rpgdg95wCJHydffCACGfSQ",
+      "score": 2.0041568279,
+      "info": "search:ta:254009000011716-GF",
+      "poi": {
+        "name": "Ls Medan",
+        "categorySet": [
+          {
+            "id": 7332005
+          }
+        ],
+        "categories": [
+          "market",
+          "supermarkets hypermarkets"
+        ],
+        "classifications": [
+          {
+            "code": "MARKET",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "market"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "supermarkets hypermarkets"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rue du Gouverneur Général Félix Éboué",
+        "municipality": "Cayenne",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Guyane Française",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "97300",
+        "countryCode": "GF",
+        "country": "Guyane Française",
+        "countryCodeISO3": "GUF",
+        "freeformAddress": "Rue du Gouverneur Général Félix Éboué, Cayenne, Guyane Française, 97300",
+        "localName": "Cayenne"
+      },
+      "position": {
+        "lat": 4.93917,
+        "lon": -52.328205
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 4.94007,
+          "lon": -52.32911
+        },
+        "btmRightPoint": {
+          "lat": 4.93827,
+          "lon": -52.3273
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 4.93913,
+            "lon": -52.32837
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "qQmkMam95LcD5ImmA8NDyg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006481747-ID",
+      "poi": {
+        "name": "Medan Cctv",
+        "phone": "+62 61 88817733",
+        "categorySet": [
+          {
+            "id": 9361013
+          }
+        ],
+        "categories": [
+          "electrical, office it: consumer electronics",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "electrical, office it: consumer electronics"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "No.46",
+        "municipalitySubdivision": "Medan Maimun",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Hamdan",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20151",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "No.46, Medan Maimun Sub District, Medan District, Sumatera Utara 20151",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.577996,
+        "lon": 98.678789
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5789,
+          "lon": 98.67789
+        },
+        "btmRightPoint": {
+          "lat": 3.5771,
+          "lon": 98.67969
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.57803,
+            "lon": 98.67887
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "yt-RYDzMvYFZ7WOQuKiRxQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003196140-ID",
+      "poi": {
+        "name": "Syahenna Medan",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gg. Senen Ling Vi",
+        "municipalitySubdivision": "Medan Marelan",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Tanah Enam Ratus",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20256",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gg. Senen Ling Vi, Medan Marelan Sub District, Medan District, Sumatera Utara 20256",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.685179,
+        "lon": 98.63917
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.68608,
+          "lon": 98.63827
+        },
+        "btmRightPoint": {
+          "lat": 3.68428,
+          "lon": 98.64007
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.685,
+            "lon": 98.63917
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "rzddsnme7-AWwB2EBPzVvA",
+      "score": 2.0041568279,
+      "info": "search:ta:360007000088830-ID",
+      "poi": {
+        "name": "Dprimahotel Medan",
+        "phone": "+62 626 14561077",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              }
+            ]
+          }
+        ],
+        "url": "www.dprimahotelmedan.com/"
+      },
+      "address": {
+        "streetName": "Jl. St.Ka. No.1",
+        "municipalitySubdivision": "Medan Barat",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Kesawan",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20231",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. St.Ka. No.1, Medan Barat Sub District, Medan District, Sumatera Utara 20231",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.5909,
+        "lon": 98.6798
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5918,
+          "lon": 98.6789
+        },
+        "btmRightPoint": {
+          "lat": 3.59,
+          "lon": 98.6807
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.5908,
+            "lon": 98.67952
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "IlpxQmOC6ytMgm1WagiL4g",
+      "score": 2.0041568279,
+      "info": "search:ta:360009000148571-ID",
+      "poi": {
+        "name": "BPM Medan",
+        "categorySet": [
+          {
+            "id": 7367
+          }
+        ],
+        "categories": [
+          "government office"
+        ],
+        "classifications": [
+          {
+            "code": "GOVERNMENT_OFFICE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "government office"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gang Jaya",
+        "municipalitySubdivision": "Medan Johor",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Kwala Bekala",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20142",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gang Jaya 112, Medan Johor Sub District, Medan District, Sumatera Utara 20142",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.540359,
+        "lon": 98.660645
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.54126,
+          "lon": 98.65974
+        },
+        "btmRightPoint": {
+          "lat": 3.53946,
+          "lon": 98.66155
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.54035,
+            "lon": 98.66051
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "y3OWuss_nxLKlnkNl0Z4og",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007961287-ID",
+      "poi": {
+        "name": "Soloco Medan",
+        "categorySet": [
+          {
+            "id": 7326
+          }
+        ],
+        "categories": [
+          "pharmacy"
+        ],
+        "classifications": [
+          {
+            "code": "PHARMACY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "pharmacy"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Gatot Subroto No.80",
+        "municipalitySubdivision": "Medan Petisah",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Sei Putih Barat",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20123",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Gatot Subroto No.80, Medan Petisah Sub District, Medan District, Sumatera Utara 20123",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.59258,
+        "lon": 98.64743
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.59348,
+          "lon": 98.64653
+        },
+        "btmRightPoint": {
+          "lat": 3.59168,
+          "lon": 98.64833
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.59258,
+            "lon": 98.64727
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "wBXBl8uXLLagZ6pEVzfiEQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006881576-ID",
+      "poi": {
+        "name": "Deabehel Medan",
+        "phone": "+62 813-7638-315",
+        "categorySet": [
+          {
+            "id": 9373
+          }
+        ],
+        "categories": [
+          "doctor"
+        ],
+        "classifications": [
+          {
+            "code": "DOCTOR",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "doctor"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Unnamed Road",
+        "municipalitySubdivision": "Patumbak",
+        "municipality": "Deli Serdang",
+        "municipalitySecondarySubdivision": "Marindal Dua",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20149",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Unnamed Road, Patumbak Sub District, Deli Serdang District, Sumatera Utara 20149",
+        "localName": "Deli Serdang"
+      },
+      "position": {
+        "lat": 3.5277,
+        "lon": 98.726
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5286,
+          "lon": 98.7251
+        },
+        "btmRightPoint": {
+          "lat": 3.5268,
+          "lon": 98.7269
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.52859,
+            "lon": 98.72556
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "R2-DwqmeDNtOcj28F7QXjA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001736438-ID",
+      "poi": {
+        "name": "Soto Medan",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Rambutan",
+        "municipalitySubdivision": "Marpoyan Damai",
+        "municipality": "Pekanbaru",
+        "municipalitySecondarySubdivision": "Sidomulyo Timur",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28125",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Rambutan, Marpoyan Damai Sub District, Pekanbaru District, Riau 28125",
+        "localName": "Pekanbaru"
+      },
+      "position": {
+        "lat": 0.475216,
+        "lon": 101.427771
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 0.47612,
+          "lon": 101.42687
+        },
+        "btmRightPoint": {
+          "lat": 0.47432,
+          "lon": 101.42867
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 0.47537,
+            "lon": 101.4277
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Ku5ox4_DXkc9NHnXi_aSoA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006002083692-ID",
+      "poi": {
+        "name": "Soto Medan",
+        "phone": "+62 813-4065-401",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tj. Sengkuang",
+        "municipalitySubdivision": "Batu Ampar",
+        "municipality": "Batam",
+        "municipalitySecondarySubdivision": "Tanjung Sengkuang",
+        "countrySubdivision": "Kepulauan Riau",
+        "countrySubdivisionName": "Kepulauan Riau",
+        "countrySubdivisionCode": "KR",
+        "postalCode": "29444",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Tj. Sengkuang, Batu Ampar Sub District, Batam District, Kepulauan Riau 29444",
+        "localName": "Batam"
+      },
+      "position": {
+        "lat": 1.1698,
+        "lon": 104.0166
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.1707,
+          "lon": 104.0157
+        },
+        "btmRightPoint": {
+          "lat": 1.1689,
+          "lon": 104.0175
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.16992,
+            "lon": 104.01659
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "2DkD8OAFwJbLMJzBW4mqtg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006000067794-ID",
+      "poi": {
+        "name": "Medan Jok",
+        "phone": "+62 852-6826-777",
+        "categorySet": [
+          {
+            "id": 7310008
+          }
+        ],
+        "categories": [
+          "motorcycle repair",
+          "repair facility"
+        ],
+        "classifications": [
+          {
+            "code": "REPAIR_FACILITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "motorcycle repair"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "repair facility"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Adam Malik",
+        "municipalitySubdivision": "Gading Cempaka",
+        "municipality": "Bengkulu",
+        "municipalitySecondarySubdivision": "Sidomulyo",
+        "countrySubdivision": "Bengkulu",
+        "countrySubdivisionName": "Bengkulu",
+        "countrySubdivisionCode": "BE",
+        "postalCode": "38229",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Adam Malik, Gading Cempaka Sub District, Bengkulu District, Bengkulu 38229",
+        "localName": "Bengkulu"
+      },
+      "position": {
+        "lat": -3.831255,
+        "lon": 102.307241
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.83036,
+          "lon": 102.30634
+        },
+        "btmRightPoint": {
+          "lat": -3.83215,
+          "lon": 102.30814
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.83132,
+            "lon": 102.30718
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1U0IDN3hD7GZLFZAgJytXQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007817461-ID",
+      "poi": {
+        "name": "Rstore Medan",
+        "phone": "+62 812-6070-778",
+        "categorySet": [
+          {
+            "id": 9361075
+          }
+        ],
+        "categories": [
+          "mobile phone shop",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "mobile phone shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Perjuangan No.76",
+        "municipalitySubdivision": "Medan Perjuangan",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Sei Kera Hilir I",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20222",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Perjuangan No.76, Medan Perjuangan Sub District, Medan District, Sumatera Utara 20222",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.603462,
+        "lon": 98.70076
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.60436,
+          "lon": 98.69986
+        },
+        "btmRightPoint": {
+          "lat": 3.60256,
+          "lon": 98.70166
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.60365,
+            "lon": 98.70077
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Lo6-_ZnoVtOCZDlFNv8nJQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007772993-ID",
+      "poi": {
+        "name": "Widolshop Medan",
+        "phone": "+62 823-6440-918",
+        "categorySet": [
+          {
+            "id": 9361006
+          }
+        ],
+        "categories": [
+          "clothing accessories: general",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: general"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Medan Sunggal",
+        "municipalitySubdivision": "Medan Sunggal",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Tanjung Rejo",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20122",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Medan Sunggal, Medan Sunggal Sub District, Medan District, Sumatera Utara 20122",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.571493,
+        "lon": 98.630194
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.57239,
+          "lon": 98.62929
+        },
+        "btmRightPoint": {
+          "lat": 3.57059,
+          "lon": 98.6311
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.57149,
+            "lon": 98.63028
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "lr1NCLgFRfvg0jIBrHzYdQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360009000608603-ID",
+      "poi": {
+        "name": "Medan Toy'S",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Bawean",
+        "municipalitySubdivision": "Medan Timur",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Gang Buntu",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20232",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Bawean, Medan Timur Sub District, Medan District, Sumatera Utara 20232",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.587334,
+        "lon": 98.684922
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.58823,
+          "lon": 98.68402
+        },
+        "btmRightPoint": {
+          "lat": 3.58643,
+          "lon": 98.68582
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.58745,
+            "lon": 98.68488
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "rgJUyPuINg9fNh6jKgvk6Q",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003948315-ID",
+      "poi": {
+        "name": "Radjasewa Medan",
+        "phone": "+62 822-7425-180",
+        "categorySet": [
+          {
+            "id": 9361035
+          }
+        ],
+        "categories": [
+          "house garden: painting decorating",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "house garden: painting decorating"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Blok.Q",
+        "municipalitySubdivision": "Medan Tuntungan",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Tanjung Selamat",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20134",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Blok.Q 68, Medan Tuntungan Sub District, Medan District, Sumatera Utara 20134",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.545728,
+        "lon": 98.612799
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.54663,
+          "lon": 98.6119
+        },
+        "btmRightPoint": {
+          "lat": 3.54483,
+          "lon": 98.6137
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.54564,
+            "lon": 98.6128
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "-Q5C3_wHi22-IOFcSBrVEA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006937360-ID",
+      "poi": {
+        "name": "Tobacco Medan",
+        "categorySet": [
+          {
+            "id": 9361037
+          }
+        ],
+        "categories": [
+          "newsagents tobacconists",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "newsagents tobacconists"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Percut Sei Tuan",
+        "municipalitySubdivision": "Percut Sei Tuan",
+        "municipality": "Deli Serdang",
+        "municipalitySecondarySubdivision": "Bandar Setia",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20371",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Percut Sei Tuan, Percut Sei Tuan Sub District, Deli Serdang District, Sumatera Utara 20371",
+        "localName": "Deli Serdang"
+      },
+      "position": {
+        "lat": 3.6189,
+        "lon": 98.7527
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.6198,
+          "lon": 98.7518
+        },
+        "btmRightPoint": {
+          "lat": 3.618,
+          "lon": 98.7536
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.61838,
+            "lon": 98.75318
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "WLu961PxRRBeWbG3C2bYsw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003366304-ID",
+      "poi": {
+        "name": "Medan Toko",
+        "phone": "+62 624 31862627",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Wanea",
+        "municipality": "Manado",
+        "municipalitySecondarySubdivision": "Bumi Nyiur",
+        "countrySubdivision": "Sulawesi Utara",
+        "countrySubdivisionName": "Sulawesi Utara",
+        "countrySubdivisionCode": "SA",
+        "postalCode": "95115",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Wanea, Manado District, Sulawesi Utara 95115",
+        "localName": "Manado"
+      },
+      "position": {
+        "lat": 1.461527,
+        "lon": 124.847979
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.46243,
+          "lon": 124.84708
+        },
+        "btmRightPoint": {
+          "lat": 1.46063,
+          "lon": 124.84888
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.46146,
+            "lon": 124.84804
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "3TsdgJePQDKjCi1mRHzzvQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006890470-ID",
+      "poi": {
+        "name": "Scooter Medan",
+        "phone": "+62 813-2755-269",
+        "categorySet": [
+          {
+            "id": 9352038
+          }
+        ],
+        "categories": [
+          "company",
+          "equipment rental"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "equipment rental"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Jamin Ginting No.Km",
+        "municipalitySubdivision": "Medan Tuntungan",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Mangga",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20142",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Jamin Ginting No.Km 8, Medan Tuntungan Sub District, Medan District, Sumatera Utara 20142",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.520941,
+        "lon": 98.640633
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.52184,
+          "lon": 98.63973
+        },
+        "btmRightPoint": {
+          "lat": 3.52004,
+          "lon": 98.64153
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.52089,
+            "lon": 98.64071
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "8BdIR8nwuP6XstbQAkjs-g",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001595809-ID",
+      "poi": {
+        "name": "Teri Medan",
+        "phone": "+62 819-1622-227",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Dalung",
+        "municipalitySubdivision": "Kuta Utara",
+        "municipality": "Badung",
+        "municipalitySecondarySubdivision": "Dalung",
+        "countrySubdivision": "Bali",
+        "countrySubdivisionName": "Bali",
+        "countrySubdivisionCode": "BA",
+        "postalCode": "80361",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Dalung, Kuta Utara Sub District, Badung District, Bali 80361",
+        "localName": "Badung"
+      },
+      "position": {
+        "lat": -8.6219,
+        "lon": 115.165
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.621,
+          "lon": 115.16409
+        },
+        "btmRightPoint": {
+          "lat": -8.6228,
+          "lon": 115.16591
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.62188,
+            "lon": 115.16572
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "iXbm3R22E6cdXykrxl2goQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001561971-ID",
+      "poi": {
+        "name": "Soto Medan",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kencana",
+        "municipality": "Rokan",
+        "municipalitySecondarySubdivision": "Jaya Agung",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28992",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kencana, Rokan District, Riau 28992",
+        "localName": "Rokan"
+      },
+      "position": {
+        "lat": 1.6742,
+        "lon": 100.4934
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.6751,
+          "lon": 100.4925
+        },
+        "btmRightPoint": {
+          "lat": 1.6733,
+          "lon": 100.4943
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.67437,
+            "lon": 100.49346
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "DufaSZXVTwftFiaBAAeW3A",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003168447-ID",
+      "poi": {
+        "name": "Mmbc Medan",
+        "phone": "+62 812-7240-931",
+        "categorySet": [
+          {
+            "id": 9361041
+          }
+        ],
+        "categories": [
+          "shop",
+          "travel agents"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "travel agents"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Nuri",
+        "municipalitySubdivision": "Percut Sei Tuan",
+        "municipality": "Deli Serdang",
+        "municipalitySecondarySubdivision": "Kenangan Baru",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20224",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Nuri 4, Percut Sei Tuan Sub District, Deli Serdang District, Sumatera Utara 20224",
+        "localName": "Deli Serdang"
+      },
+      "position": {
+        "lat": 3.588347,
+        "lon": 98.72
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.58925,
+          "lon": 98.7191
+        },
+        "btmRightPoint": {
+          "lat": 3.58745,
+          "lon": 98.7209
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.58844,
+            "lon": 98.72
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "tqhz7YgqoTt18ylEKZ_htQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006309726-ID",
+      "poi": {
+        "name": "Toyota Medan",
+        "phone": "+62 823-6495-6235",
+        "categorySet": [
+          {
+            "id": 9910002
+          }
+        ],
+        "categories": [
+          "automotive dealer",
+          "car"
+        ],
+        "classifications": [
+          {
+            "code": "AUTOMOTIVE_DEALER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "automotive dealer"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "car"
+              }
+            ]
+          }
+        ],
+        "url": "www.toyotasumut.com"
+      },
+      "address": {
+        "streetName": "Jalan Sisingamangaraja",
+        "municipalitySubdivision": "Medan Amplas",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Harjosari I",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20147",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Sisingamangaraja, Medan Amplas Sub District, Medan District, Sumatera Utara 20147",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.538072,
+        "lon": 98.707614
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.53897,
+          "lon": 98.70671
+        },
+        "btmRightPoint": {
+          "lat": 3.53717,
+          "lon": 98.70852
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.53798,
+            "lon": 98.7076
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "OjwtmWuP6xaWC02onlJAIw",
+      "score": 2.0041568279,
+      "info": "search:ta:360009000887604-ID",
+      "poi": {
+        "name": "BKP Medan",
+        "categorySet": [
+          {
+            "id": 7367
+          }
+        ],
+        "categories": [
+          "government office"
+        ],
+        "classifications": [
+          {
+            "code": "GOVERNMENT_OFFICE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "government office"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Jenderal AH Nasution",
+        "municipalitySubdivision": "Medan Johor",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Pangkalan Masyhur",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20143",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Jenderal AH Nasution, Medan Johor Sub District, Medan District, Sumatera Utara 20143",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.542094,
+        "lon": 98.676271
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.54299,
+          "lon": 98.67537
+        },
+        "btmRightPoint": {
+          "lat": 3.54119,
+          "lon": 98.67717
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.54181,
+            "lon": 98.67626
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "An3kVuLlSO69srBmlHedhA",
+      "score": 2.0041568279,
+      "info": "search:ta:360009000588236-ID",
+      "poi": {
+        "name": "Medan Jaya",
+        "categorySet": [
+          {
+            "id": 7310
+          }
+        ],
+        "categories": [
+          "repair facility"
+        ],
+        "classifications": [
+          {
+            "code": "REPAIR_FACILITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "repair facility"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Bambu 2",
+        "municipalitySubdivision": "Medan Timur",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Durian",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20235",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Bambu 2, Medan Timur Sub District, Medan District, Sumatera Utara 20235",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.60715,
+        "lon": 98.676242
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.60805,
+          "lon": 98.67534
+        },
+        "btmRightPoint": {
+          "lat": 3.60625,
+          "lon": 98.67714
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.60705,
+            "lon": 98.67627
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "CSUGxjcpHvYHlmOHAsptGg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006614725-ID",
+      "poi": {
+        "name": "Tumpeng Medan",
+        "phone": "+62 812-6500-198",
+        "categorySet": [
+          {
+            "id": 9352043
+          }
+        ],
+        "categories": [
+          "catering",
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "catering"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Blok A",
+        "municipalitySubdivision": "Medan Amplas",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Harjosari II",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20148",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Blok A 2, Medan Amplas Sub District, Medan District, Sumatera Utara 20148",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.530894,
+        "lon": 98.713076
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.53179,
+          "lon": 98.71217
+        },
+        "btmRightPoint": {
+          "lat": 3.52999,
+          "lon": 98.71398
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.53092,
+            "lon": 98.71316
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "bfJa1YWWFXJ1PyK-KKApBw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007679983-ID",
+      "poi": {
+        "name": "Elisabeth Medan",
+        "phone": "+62 61 4144737",
+        "categorySet": [
+          {
+            "id": 7321002
+          }
+        ],
+        "categories": [
+          "general",
+          "hospital/polyclinic"
+        ],
+        "classifications": [
+          {
+            "code": "HOSPITAL_POLYCLINIC",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "general"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hospital/polyclinic"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Medan Maimun",
+        "municipalitySubdivision": "Medan Maimun",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Jati",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20151",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Medan Maimun, Medan Maimun Sub District, Medan District, Sumatera Utara 20151",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.575351,
+        "lon": 98.676884
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.57625,
+          "lon": 98.67598
+        },
+        "btmRightPoint": {
+          "lat": 3.57445,
+          "lon": 98.67779
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.57564,
+            "lon": 98.67684
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "IFLCPeptmlYCWixMKhW-Kw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001567853-ID",
+      "poi": {
+        "name": "Lontong Medan",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Raya Petapahan - Bangkinang",
+        "municipalitySubdivision": "Tapung Hulu",
+        "municipality": "Kampar",
+        "municipalitySecondarySubdivision": "Kusau Makmur",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28464",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Raya Petapahan - Bangkinang, Tapung Hulu Sub District, Kampar District, Riau 28464",
+        "localName": "Kampar"
+      },
+      "position": {
+        "lat": 0.6296,
+        "lon": 100.8325
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 0.6305,
+          "lon": 100.8316
+        },
+        "btmRightPoint": {
+          "lat": 0.6287,
+          "lon": 100.8334
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 0.62976,
+            "lon": 100.83248
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "HCZEAlKXad2i9kRqqTc0iQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006005809412-ID",
+      "poi": {
+        "name": "Soto Medan",
+        "phone": "+62 813-8750-1379",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Nusa Indah No.26",
+        "municipalitySubdivision": "Lubuk Baja",
+        "municipality": "Batam",
+        "municipalitySecondarySubdivision": "Baloi Indah",
+        "countrySubdivision": "Kepulauan Riau",
+        "countrySubdivisionName": "Kepulauan Riau",
+        "countrySubdivisionCode": "KR",
+        "postalCode": "29444",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Nusa Indah No.26, Lubuk Baja Sub District, Batam District, Kepulauan Riau 29444",
+        "localName": "Batam"
+      },
+      "position": {
+        "lat": 1.133147,
+        "lon": 104.004314
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.13405,
+          "lon": 104.00341
+        },
+        "btmRightPoint": {
+          "lat": 1.13225,
+          "lon": 104.00521
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.13302,
+            "lon": 104.00437
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    }
+  ]
+}

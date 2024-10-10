@@ -1,0 +1,7584 @@
+{
+  "summary": {
+    "query": "singapore",
+    "queryType": "NON_NEAR",
+    "queryTime": 474,
+    "numResults": 100,
+    "offset": 0,
+    "totalResults": 100,
+    "fuzzyLevel": 1
+  },
+  "results": [
+    {
+      "type": "POI",
+      "id": "vmtduNvn0v5SgACXa_rjBA",
+      "score": 2.6342635155,
+      "info": "search:ta:702009000038242-SG",
+      "poi": {
+        "name": "Singapore Flyer",
+        "phone": "+65 6333 3311",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.singaporeflyer.com"
+      },
+      "address": {
+        "streetName": "Raffles Avenue",
+        "municipalitySubdivision": "Downtown Core",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "03",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "30 Raffles Avenue, Singapore, 039803",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.289547,
+        "lon": 103.863594
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.29045,
+          "lon": 103.86269
+        },
+        "btmRightPoint": {
+          "lat": 1.28865,
+          "lon": 103.86449
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.2897,
+            "lon": 103.86377
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "e9Z3LUYacB5Gnr1VfDGquA",
+      "score": 2.4851543903,
+      "info": "search:ta:702009000098712-SG",
+      "poi": {
+        "name": "The Singapore Mint",
+        "categorySet": [
+          {
+            "id": 9383
+          }
+        ],
+        "categories": [
+          "industrial building"
+        ],
+        "classifications": [
+          {
+            "code": "INDUSTRIAL_BUILDING",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "industrial building"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Teban Gardens Crescent",
+        "municipalitySubdivision": "Jurong East",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "608928",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "20 Teban Gardens Crescent, Singapore, 608928",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.32526,
+        "lon": 103.739476
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.32616,
+          "lon": 103.73858
+        },
+        "btmRightPoint": {
+          "lat": 1.32436,
+          "lon": 103.74038
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.325,
+            "lon": 103.73927
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "yM6S6rm-qJXm9oI_-r5APA",
+      "score": 2.461026907,
+      "info": "search:ta:702009000052645-SG",
+      "poi": {
+        "name": "Raffles Hotel Singapore",
+        "phone": "+65 6337 1886",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ],
+        "url": "www.raffles.com"
+      },
+      "address": {
+        "streetName": "Beach Road",
+        "municipalitySubdivision": "Downtown Core",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "18",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "1 Beach Road, Singapore, 189673",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.294694,
+        "lon": 103.854647
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.29606,
+          "lon": 103.85328
+        },
+        "btmRightPoint": {
+          "lat": 1.29332,
+          "lon": 103.85602
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.29605,
+            "lon": 103.85445
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.29462,
+            "lon": 103.85475
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ryi8HotXPBEak_Ac11pgxg",
+      "score": 2.337975502,
+      "info": "search:ta:458013025045406-MY",
+      "poi": {
+        "name": "Tanjung Kupang Checkpoint Tuas Checkpoint",
+        "categorySet": [
+          {
+            "id": 7366
+          }
+        ],
+        "categories": [
+          "frontier crossing"
+        ],
+        "classifications": [
+          {
+            "code": "FRONTIER_CROSSING",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "frontier crossing"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Lebuhraya Laluan Ke II",
+        "municipalitySubdivision": "Kampung Ladang",
+        "municipality": "Gelang Patah",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Johor",
+        "countrySubdivisionName": "Johor",
+        "countrySubdivisionCode": "1",
+        "postalCode": "81550",
+        "countryCode": "MY",
+        "country": "Malaysia",
+        "countryCodeISO3": "MYS",
+        "freeformAddress": "Lebuhraya Laluan Ke II, Kampung Ladang, 81550 Gelang Patah, Johor",
+        "localName": "Gelang Patah"
+      },
+      "position": {
+        "lat": 1.359221,
+        "lon": 103.621932
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.36012,
+          "lon": 103.62103
+        },
+        "btmRightPoint": {
+          "lat": 1.35832,
+          "lon": 103.62283
+        }
+      },
+      "entryPoints": null,
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "b4v1SLCPNXQYq3LkWmUVOQ",
+      "score": 2.337975502,
+      "info": "search:ta:702013000235971-SG",
+      "poi": {
+        "name": "Tuas Checkpoint Tanjung Kupang Checkpoint",
+        "categorySet": [
+          {
+            "id": 7366
+          }
+        ],
+        "categories": [
+          "frontier crossing"
+        ],
+        "classifications": [
+          {
+            "code": "FRONTIER_CROSSING",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "frontier crossing"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Second Link",
+        "municipalitySubdivision": "Tuas",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "63",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "Second Link, Singapore, 63",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.34971,
+        "lon": 103.63443
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.35061,
+          "lon": 103.63353
+        },
+        "btmRightPoint": {
+          "lat": 1.34881,
+          "lon": 103.63533
+        }
+      },
+      "entryPoints": null,
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1f7IyPam_8nbYahDE-Cp1Q",
+      "score": 2.3154950142,
+      "info": "search:ta:458013025051019-MY",
+      "poi": {
+        "name": "Tambak Johor Checkpoint Woodlands Checkpoint",
+        "categorySet": [
+          {
+            "id": 7366
+          }
+        ],
+        "categories": [
+          "frontier crossing"
+        ],
+        "classifications": [
+          {
+            "code": "FRONTIER_CROSSING",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "frontier crossing"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tambak Johor",
+        "municipalitySubdivision": "Tanjung Puteri",
+        "municipality": "Johor Bahru",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Johor",
+        "countrySubdivisionName": "Johor",
+        "countrySubdivisionCode": "1",
+        "postalCode": "80000",
+        "countryCode": "MY",
+        "country": "Malaysia",
+        "countryCodeISO3": "MYS",
+        "freeformAddress": "Tambak Johor, Tanjung Puteri, 80000 Johor Bahru, Johor",
+        "localName": "Johor Bahru"
+      },
+      "position": {
+        "lat": 1.455209,
+        "lon": 103.7685
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.45611,
+          "lon": 103.7676
+        },
+        "btmRightPoint": {
+          "lat": 1.45431,
+          "lon": 103.7694
+        }
+      },
+      "entryPoints": null,
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "KvCHEiZm3lYgCofIX8dDpQ",
+      "score": 2.3154950142,
+      "info": "search:ta:702013000221258-SG",
+      "poi": {
+        "name": "Woodlands Checkpoint Tambak Johor Checkpoint",
+        "categorySet": [
+          {
+            "id": 7366
+          }
+        ],
+        "categories": [
+          "frontier crossing"
+        ],
+        "classifications": [
+          {
+            "code": "FRONTIER_CROSSING",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "frontier crossing"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Causeway",
+        "municipalitySubdivision": "Woodlands",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "73",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "Causeway, Singapore, 73",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.449244,
+        "lon": 103.76999
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.45014,
+          "lon": 103.76909
+        },
+        "btmRightPoint": {
+          "lat": 1.44834,
+          "lon": 103.77089
+        }
+      },
+      "entryPoints": null,
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "UsogSvlGszv0Dpn5H5-H5g",
+      "score": 2.1247806549,
+      "info": "search:ta:702009000043646-SG",
+      "poi": {
+        "name": "Singapore Changi Airport",
+        "phone": "+65 6595 6868",
+        "categorySet": [
+          {
+            "id": 7383002
+          }
+        ],
+        "categories": [
+          "airport",
+          "public authority"
+        ],
+        "classifications": [
+          {
+            "code": "AIRPORT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "airport"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "public authority"
+              }
+            ]
+          }
+        ],
+        "url": "www.changiairport.com"
+      },
+      "address": {
+        "streetName": "Airport Boulevard",
+        "municipalitySubdivision": "Changi",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "81",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "80 Airport Boulevard, Singapore, 819653",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.362086,
+        "lon": 103.990691
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.38985,
+          "lon": 103.97065
+        },
+        "btmRightPoint": {
+          "lat": 1.31215,
+          "lon": 104.04369
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "minor",
+          "position": {
+            "lat": 1.35535,
+            "lon": 103.98693
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.35634,
+            "lon": 103.98855
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.33932,
+            "lon": 103.98316
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.35526,
+            "lon": 103.98705
+          }
+        },
+        {
+          "type": "minor",
+          "position": {
+            "lat": 1.35633,
+            "lon": 103.98868
+          }
+        },
+        {
+          "type": "minor",
+          "position": {
+            "lat": 1.33566,
+            "lon": 103.98219
+          }
+        },
+        {
+          "type": "minor",
+          "position": {
+            "lat": 1.36102,
+            "lon": 103.99007
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.36127,
+            "lon": 103.98974
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": "00005347-5000-3c00-0000-00005968577a"
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "0SpLias6mX8tUlMg_S3_9Q",
+      "score": 2.1244060993,
+      "info": "search:ta:784008000025760-AE",
+      "poi": {
+        "name": "Singapore Pavilion",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sidr Avenue",
+        "municipalitySubdivision": "Madinat Al Maktoum",
+        "municipality": "Dubai",
+        "municipalitySecondarySubdivision": "Madinat Al Mataar",
+        "countrySubdivision": "Dubai",
+        "countrySubdivisionName": "Dubai",
+        "countrySubdivisionCode": "DU",
+        "postalCode": "",
+        "countryCode": "AE",
+        "country": "United Arab Emirates",
+        "countryCodeISO3": "ARE",
+        "freeformAddress": "201, Sidr Avenue, Madinat Al Maktoum, Dubai, Dubai",
+        "localName": "Dubai"
+      },
+      "position": {
+        "lat": 24.958929,
+        "lon": 55.155858
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 24.95983,
+          "lon": 55.15487
+        },
+        "btmRightPoint": {
+          "lat": 24.95803,
+          "lon": 55.15685
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 24.95879,
+            "lon": 55.15562
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "S-tX6xLLjYlA1J1_SJr1Kw",
+      "score": 2.1244060993,
+      "info": "search:ta:702009000440630-SG",
+      "poi": {
+        "name": "iFly Singapore",
+        "phone": "+65 6571 0000",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.iflysingapore.com"
+      },
+      "address": {
+        "streetName": "Siloso Beach Walk",
+        "municipalitySubdivision": "Sentosa",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "09",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "43 Siloso Beach Walk, Singapore, 099010",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.252131,
+        "lon": 103.817547
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.25303,
+          "lon": 103.81665
+        },
+        "btmRightPoint": {
+          "lat": 1.25123,
+          "lon": 103.81845
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.25168,
+            "lon": 103.81782
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "tVshOE7dpqM8cL52-v7PAA",
+      "score": 2.1244060993,
+      "info": "search:ta:702009000055979-SG",
+      "poi": {
+        "name": "Takashimaya Singapore",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.takashimaya-sin.com"
+      },
+      "address": {
+        "streetName": "Orchard Road",
+        "municipalitySubdivision": "Orchard",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "23",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "391 Orchard Road, Singapore, 238874",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.302845,
+        "lon": 103.834652
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.30374,
+          "lon": 103.83375
+        },
+        "btmRightPoint": {
+          "lat": 1.30195,
+          "lon": 103.83555
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.30222,
+            "lon": 103.83436
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.30323,
+            "lon": 103.83512
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "MumseuHJPb58uXkyreLPvQ",
+      "score": 2.1244060993,
+      "info": "search:ta:702007000022066-SG",
+      "poi": {
+        "name": "Fga Singapore",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Playfair Road",
+        "municipalitySubdivision": "Toa Payoh",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "36",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "Playfair Road, Singapore, 367988",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.33385,
+        "lon": 103.88622
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.33475,
+          "lon": 103.88532
+        },
+        "btmRightPoint": {
+          "lat": 1.33295,
+          "lon": 103.88712
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.33399,
+            "lon": 103.88661
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "MgyzoAZeZNvPnq65m-ZRKw",
+      "score": 2.1244060993,
+      "info": "search:ta:702009000430033-SG",
+      "poi": {
+        "name": "Images of Singapore",
+        "phone": "+65 6275 0388",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.sentosa.com.sg"
+      },
+      "address": {
+        "streetName": "Imbiah Road",
+        "municipalitySubdivision": "Sentosa",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "09",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "40 Imbiah Road, Singapore, 099700",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.25416,
+        "lon": 103.817687
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.25506,
+          "lon": 103.81679
+        },
+        "btmRightPoint": {
+          "lat": 1.25326,
+          "lon": 103.81859
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.25472,
+            "lon": 103.81745
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "4CICOM4hBwsHGXkoGYH1Hg",
+      "score": 2.1244060993,
+      "info": "search:ta:702007000027081-SG",
+      "poi": {
+        "name": "Parliament of Singapore",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ],
+        "url": "www.parliament.gov.sg/"
+      },
+      "address": {
+        "streetName": "Parliament Place",
+        "municipalitySubdivision": "Downtown Core",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "17",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "Parliament Place, Singapore, 17",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.289363,
+        "lon": 103.849854
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.29026,
+          "lon": 103.84895
+        },
+        "btmRightPoint": {
+          "lat": 1.28846,
+          "lon": 103.85075
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.28996,
+            "lon": 103.8503
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "PjxmX4Bl9L-og1DGv8lXkw",
+      "score": 2.1037807465,
+      "info": "search:ta:702007000021691-SG",
+      "poi": {
+        "name": "National University of Singapore",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ],
+        "url": "www.nus.edu.sg/"
+      },
+      "address": {
+        "streetName": "Lower Kent Ridge Road",
+        "municipalitySubdivision": "Queenstown",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "11",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "21 Lower Kent Ridge Road, Singapore, 11",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.29711,
+        "lon": 103.77762
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.29801,
+          "lon": 103.77672
+        },
+        "btmRightPoint": {
+          "lat": 1.29621,
+          "lon": 103.77852
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.29754,
+            "lon": 103.77784
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "vHC-ni7wizQ_YLj_6Atkkw",
+      "score": 2.1037807465,
+      "info": "search:ta:702009000056360-SG",
+      "poi": {
+        "name": "Singapore Art Museum",
+        "phone": "+65 6332 3222",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.singaporeartmuseum.sg"
+      },
+      "address": {
+        "streetName": "Bras Basah Road",
+        "municipalitySubdivision": "Museum",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "18",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "71 Bras Basah Road, Singapore, 189555",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.297199,
+        "lon": 103.850911
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.2981,
+          "lon": 103.85001
+        },
+        "btmRightPoint": {
+          "lat": 1.2963,
+          "lon": 103.85181
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.29718,
+            "lon": 103.85045
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "91ik54nx2mG4xY0u9ZKL8w",
+      "score": 2.1037807465,
+      "info": "search:ta:702009000429610-SG",
+      "poi": {
+        "name": "Singapore Cable Car",
+        "phone": "+65 6377 9662",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.singaporecablecar.com.sg"
+      },
+      "address": {
+        "streetName": "Mount Faber Road",
+        "municipalitySubdivision": "Bukit Merah",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "09",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "109 Mount Faber Road, Singapore, 099203",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.271075,
+        "lon": 103.819352
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.27197,
+          "lon": 103.81845
+        },
+        "btmRightPoint": {
+          "lat": 1.27018,
+          "lon": 103.82025
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.27145,
+            "lon": 103.81935
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "v9D8qB0hszpkUzRbf2qCEw",
+      "score": 2.1037807465,
+      "info": "search:ta:702002000163226-SG",
+      "poi": {
+        "name": "Singapore Philatelic Museum",
+        "phone": "+65 6337 3888",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.spm.org.sg"
+      },
+      "address": {
+        "streetName": "Coleman Street",
+        "municipalitySubdivision": "Museum",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "17",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "23B Coleman Street, Singapore, 179807",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.292904,
+        "lon": 103.848784
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.2938,
+          "lon": 103.84788
+        },
+        "btmRightPoint": {
+          "lat": 1.292,
+          "lon": 103.84968
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.29293,
+            "lon": 103.84895
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "2dup0EPqJct9ClZoSBvDqg",
+      "score": 2.1037807465,
+      "info": "search:ta:702009000073004-SG",
+      "poi": {
+        "name": "Singapore Repertory Theatre",
+        "phone": "+65 6733 8166",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.srt.com.sg"
+      },
+      "address": {
+        "streetName": "Merbau Road",
+        "municipalitySubdivision": "Singapore River",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "23",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "20 Merbau Road, Singapore, 239035",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.291336,
+        "lon": 103.841684
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.29224,
+          "lon": 103.84078
+        },
+        "btmRightPoint": {
+          "lat": 1.29044,
+          "lon": 103.84258
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.29127,
+            "lon": 103.84187
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "HGTe2eUiiHI38JviaMMp9w",
+      "score": 2.1037807465,
+      "info": "search:ta:702007000027202-SG",
+      "poi": {
+        "name": "Singapore Sports Hub",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ],
+        "url": "www.sportshub.com.sg/"
+      },
+      "address": {
+        "streetName": "Mountbatten Road",
+        "municipalitySubdivision": "Kallang",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "39",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "Mountbatten Road, Singapore, 39",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.30493,
+        "lon": 103.88263
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.30583,
+          "lon": 103.88173
+        },
+        "btmRightPoint": {
+          "lat": 1.30403,
+          "lon": 103.88353
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.30523,
+            "lon": 103.88296
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "88Whm94rr2ahh52aLI3EKw",
+      "score": 2.1037807465,
+      "info": "search:ta:702009000042941-SG",
+      "poi": {
+        "name": "National Museum of Singapore",
+        "phone": "+65 6332 3659",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.nationalmuseum.sg"
+      },
+      "address": {
+        "streetName": "Stamford Road",
+        "municipalitySubdivision": "Museum",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "17",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "93 Stamford Road, Singapore, 178897",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.296758,
+        "lon": 103.848798
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.29766,
+          "lon": 103.8479
+        },
+        "btmRightPoint": {
+          "lat": 1.29586,
+          "lon": 103.8497
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.29707,
+            "lon": 103.84825
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "IzpE0_ccm9M_LuDe8i0KQw",
+      "score": 2.1037807465,
+      "info": "search:ta:702009000344962-SG",
+      "poi": {
+        "name": "Singapore River Cruise",
+        "phone": "+65 6336 6111",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.rivercruise.com.sg"
+      },
+      "address": {
+        "streetName": "North Bridge Road",
+        "municipalitySubdivision": "Downtown Core",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "17",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "1 North Bridge Road, Singapore, 179094",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.289855,
+        "lon": 103.849136
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.29075,
+          "lon": 103.84824
+        },
+        "btmRightPoint": {
+          "lat": 1.28896,
+          "lon": 103.85004
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.28952,
+            "lon": 103.84958
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Gs8GxavyMz_abXJMiRMdIg",
+      "score": 2.1037807465,
+      "info": "search:ta:702007000027074-SG",
+      "poi": {
+        "name": "Singapore Momentum Sculpture",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Finlayson Green",
+        "municipalitySubdivision": "Downtown Core",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "04",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "2 Finlayson Green, Singapore, 049247",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.28208,
+        "lon": 103.85152
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.28298,
+          "lon": 103.85062
+        },
+        "btmRightPoint": {
+          "lat": 1.28118,
+          "lon": 103.85242
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.28234,
+            "lon": 103.8517
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "SuTpD0kPP8D3Ev963tFH-Q",
+      "score": 2.1037807465,
+      "info": "search:ta:702009000042639-SG",
+      "poi": {
+        "name": "DFS Galleria Singapore",
+        "phone": "+65 6229 8100",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.dfsgalleria.com"
+      },
+      "address": {
+        "streetName": "Scotts Road",
+        "municipalitySubdivision": "Orchard",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "22",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "25 Scotts Road, Singapore, 228220",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.307054,
+        "lon": 103.83239
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.30795,
+          "lon": 103.83149
+        },
+        "btmRightPoint": {
+          "lat": 1.30615,
+          "lon": 103.83329
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.307,
+            "lon": 103.83261
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.30699,
+            "lon": 103.83261
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "qdPY-FYtfdDI64t5zaWYsA",
+      "score": 2.1037807465,
+      "info": "search:ta:702009000435067-SG",
+      "poi": {
+        "name": "Singapore City Gallery",
+        "phone": "+65 6321 8321",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.singaporecitygallery.sg"
+      },
+      "address": {
+        "streetName": "Maxwell Road",
+        "municipalitySubdivision": "Downtown Core",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "06",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "45 Maxwell Road, Singapore, 069118",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.279564,
+        "lon": 103.845383
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.28046,
+          "lon": 103.84448
+        },
+        "btmRightPoint": {
+          "lat": 1.27866,
+          "lon": 103.84628
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.27927,
+            "lon": 103.84518
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "D2eTYsEj7Z0czWGs8-cyYQ",
+      "score": 2.1037807465,
+      "info": "search:ta:702009000031836-SG",
+      "poi": {
+        "name": "Singapore Science Centre",
+        "phone": "+65 6425 2500",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.science.edu.sg"
+      },
+      "address": {
+        "streetName": "Science Centre Road",
+        "municipalitySubdivision": "Jurong East",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "60",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "15 Science Centre Road, Singapore, 609081",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.333403,
+        "lon": 103.736532
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.3343,
+          "lon": 103.73563
+        },
+        "btmRightPoint": {
+          "lat": 1.3325,
+          "lon": 103.73743
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.333,
+            "lon": 103.73696
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "KlO4ksn07pf-dEm86YIaNw",
+      "score": 2.1037807465,
+      "info": "search:ta:702009000083857-SG",
+      "poi": {
+        "name": "Singapore Turf Club",
+        "phone": "+65 6879 1000",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.turfclub.com.sg"
+      },
+      "address": {
+        "streetName": "Turf Club Avenue",
+        "municipalitySubdivision": "Sungei Kadut",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "73",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "1 Turf Club Avenue, Singapore, 738078",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.422656,
+        "lon": 103.762456
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.42466,
+          "lon": 103.76045
+        },
+        "btmRightPoint": {
+          "lat": 1.42065,
+          "lon": 103.76446
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "minor",
+          "position": {
+            "lat": 1.42124,
+            "lon": 103.76104
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.42131,
+            "lon": 103.76101
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "gqhBFzcVK_30jSye5zbM7A",
+      "score": 2.1037807465,
+      "info": "search:ta:702007000025813-SG",
+      "poi": {
+        "name": "The Singapore Buddhist Lodge",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ],
+        "url": "www.sbl.org.sg/chn/index.aspx"
+      },
+      "address": {
+        "streetName": "Kim Yam Road",
+        "municipalitySubdivision": "River Valley",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "23",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "17 Kim Yam Road, Singapore, 239329",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.29448,
+        "lon": 103.83896
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.29538,
+          "lon": 103.83806
+        },
+        "btmRightPoint": {
+          "lat": 1.29358,
+          "lon": 103.83986
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.29449,
+            "lon": 103.8387
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "0ahj29Fdbb5UamlxbH-4Qg",
+      "score": 2.1037807465,
+      "info": "search:ta:702007000025677-SG",
+      "poi": {
+        "name": "The American Club Singapore",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ],
+        "url": "www.amclub.org.sg"
+      },
+      "address": {
+        "streetName": "Claymore Hill",
+        "municipalitySubdivision": "Newton",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "22",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "10 Claymore Hill, Singapore, 229573",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.308262,
+        "lon": 103.832389
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.30916,
+          "lon": 103.83149
+        },
+        "btmRightPoint": {
+          "lat": 1.30736,
+          "lon": 103.83329
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.30786,
+            "lon": 103.83196
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "WktuiQmH4KcFpn2RLDmN8w",
+      "score": 2.1037807465,
+      "info": "search:ta:702009000454644-SG",
+      "poi": {
+        "name": "Singapore Crocodile Farm",
+        "categorySet": [
+          {
+            "id": 7376004
+          }
+        ],
+        "categories": [
+          "important tourist attraction",
+          "natural tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "natural tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Upper Serangoon Road",
+        "municipalitySubdivision": "Hougang",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "53",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "790 Upper Serangoon Road, Singapore, 534063",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.354652,
+        "lon": 103.879627
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.35555,
+          "lon": 103.87873
+        },
+        "btmRightPoint": {
+          "lat": 1.35375,
+          "lon": 103.88053
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.35492,
+            "lon": 103.8794
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "19U8FAtkDvcXSYBALGDJew",
+      "score": 2.1037807465,
+      "info": "search:ta:702009000428328-SG",
+      "poi": {
+        "name": "Universal Studios Singapore",
+        "phone": "+65 6577 8888",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.rwsentosa.com"
+      },
+      "address": {
+        "streetName": "Sentosa Gateway",
+        "municipalitySubdivision": "Sentosa",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "09",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "30 Sentosa Gateway, Singapore, 098140",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.254619,
+        "lon": 103.823465
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.26049,
+          "lon": 103.81759
+        },
+        "btmRightPoint": {
+          "lat": 1.24874,
+          "lon": 103.82934
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.25807,
+            "lon": 103.81871
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "eDqtdOP5O-E1qm_hUoHP1Q",
+      "score": 2.1037807465,
+      "info": "search:ta:702009000435187-SG",
+      "poi": {
+        "name": "Singapore Chinese Orchestra",
+        "phone": "+65 6557 4030",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.sco.com.sg"
+      },
+      "address": {
+        "streetName": "Shenton Way",
+        "municipalitySubdivision": "Downtown Core",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "06",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "7 Shenton Way, Singapore, 068809",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.276286,
+        "lon": 103.84893
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.27723,
+          "lon": 103.84798
+        },
+        "btmRightPoint": {
+          "lat": 1.27534,
+          "lon": 103.84988
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.27723,
+            "lon": 103.84885
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "iuNGdPO2vq2X9eJHIlJv4w",
+      "score": 2.1037807465,
+      "info": "search:ta:702009000453355-SG",
+      "poi": {
+        "name": "Singapore Symphony Orchestra",
+        "phone": "+65 6602 4200",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.sso.org.sg"
+      },
+      "address": {
+        "streetName": "Battery Road",
+        "municipalitySubdivision": "Downtown Core",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "04",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "4 Battery Road, Singapore, 04",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.288497,
+        "lon": 103.851621
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.2894,
+          "lon": 103.85072
+        },
+        "btmRightPoint": {
+          "lat": 1.2876,
+          "lon": 103.85252
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.28877,
+            "lon": 103.85187
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "15bHARnw-jTkBAHJ_TEMVw",
+      "score": 2.0835521221,
+      "info": "search:ta:702009000439592-SG",
+      "poi": {
+        "name": "Singapore Coins \u0026 Notes Museum",
+        "phone": "+65 6222 2486",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.singaporecoinsandnotesmuseum.com"
+      },
+      "address": {
+        "streetName": "Pagoda Street",
+        "municipalitySubdivision": "Outram",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "05",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "40 Pagoda Street, Singapore, 059199",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.283495,
+        "lon": 103.844496
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.28439,
+          "lon": 103.8436
+        },
+        "btmRightPoint": {
+          "lat": 1.2826,
+          "lon": 103.8454
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.28337,
+            "lon": 103.84438
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "HWVecYESCuBhY5kmxrl6Pg",
+      "score": 2.0835521221,
+      "info": "search:ta:702009000083585-SG",
+      "poi": {
+        "name": "Singapore Tyler Print Institute",
+        "phone": "+65 6336 3663",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.stpi.com.sg"
+      },
+      "address": {
+        "streetName": "Robertson Quay",
+        "municipalitySubdivision": "Singapore River",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "23",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "41 Robertson Quay, Singapore, 238236",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.290938,
+        "lon": 103.840283
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.29184,
+          "lon": 103.83938
+        },
+        "btmRightPoint": {
+          "lat": 1.29004,
+          "lon": 103.84118
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.29074,
+            "lon": 103.84036
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "JO7YsHErJKyaTqaFh381VQ",
+      "score": 2.0835521221,
+      "info": "search:ta:702009002617703-SG",
+      "poi": {
+        "name": "The Shopping Gallery Hilton Singapore",
+        "phone": "+65 6737 2233",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.hiltonshoppinggallery.com"
+      },
+      "address": {
+        "streetName": "Orchard Road",
+        "municipalitySubdivision": "Orchard",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "23",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "581 Orchard Road, Singapore, 238883",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.305802,
+        "lon": 103.829161
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.3067,
+          "lon": 103.82826
+        },
+        "btmRightPoint": {
+          "lat": 1.3049,
+          "lon": 103.83006
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.30599,
+            "lon": 103.82953
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Rp12XhNDGvUKOajif0GZNA",
+      "score": 2.0835521221,
+      "info": "search:ta:702007000026123-SG",
+      "poi": {
+        "name": "Singapore Hong San See",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mohamed Sultan Road",
+        "municipalitySubdivision": "River Valley",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "23",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "31 Mohamed Sultan Road, Singapore, 238975",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.29277,
+        "lon": 103.841118
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.29367,
+          "lon": 103.84022
+        },
+        "btmRightPoint": {
+          "lat": 1.29187,
+          "lon": 103.84202
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.29272,
+            "lon": 103.84119
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "RXEU6mt7v2d2kpA4BJiM8Q",
+      "score": 2.0835521221,
+      "info": "search:ta:702009000038507-SG",
+      "poi": {
+        "name": "Pioneers of Singapore Surrender Chamber",
+        "categorySet": [
+          {
+            "id": 7376003
+          }
+        ],
+        "categories": [
+          "important tourist attraction",
+          "monument"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "monument"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Siloso Road",
+        "municipalitySubdivision": "Sentosa",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "09",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "Siloso Road, Singapore, 098969",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.259587,
+        "lon": 103.809765
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.26049,
+          "lon": 103.80887
+        },
+        "btmRightPoint": {
+          "lat": 1.25869,
+          "lon": 103.81066
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.25952,
+            "lon": 103.80969
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Ys2khTxy3eEcIdLoLTxUKg",
+      "score": 2.0835521221,
+      "info": "search:ta:702007000037346-SG",
+      "poi": {
+        "name": "Kingdom Life Church Singapore",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.kingdomlifechurch.sg"
+      },
+      "address": {
+        "municipalitySubdivision": "Novena",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "30",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "Singapore, 30",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.320064,
+        "lon": 103.844584
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.32096,
+          "lon": 103.84368
+        },
+        "btmRightPoint": {
+          "lat": 1.31916,
+          "lon": 103.84548
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.31996,
+            "lon": 103.84442
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "gZxVgMRoDSGQMfGRb1EZMg",
+      "score": 2.0835521221,
+      "info": "search:ta:702009000082862-SG",
+      "poi": {
+        "name": "F1 Singapore Grand Prix",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.singaporegp.sg"
+      },
+      "address": {
+        "streetName": "Raffles Avenue",
+        "municipalitySubdivision": "Downtown Core",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "03",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "Raffles Avenue, Singapore, 039805",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.289362,
+        "lon": 103.858966
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.29026,
+          "lon": 103.85807
+        },
+        "btmRightPoint": {
+          "lat": 1.28846,
+          "lon": 103.85987
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.28965,
+            "lon": 103.85901
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "jz3ZrQ6oh_UBdmw5NarDvg",
+      "score": 2.0835521221,
+      "info": "search:ta:702007000025784-SG",
+      "poi": {
+        "name": "Singapore Chinese Cultural Centre",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ],
+        "url": "www.singaporeccc.org.sg"
+      },
+      "address": {
+        "streetName": "Straits Boulevard",
+        "municipalitySubdivision": "Downtown Core",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "01",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "1 Straits Boulevard, Singapore, 018906",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.275822,
+        "lon": 103.849521
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.27672,
+          "lon": 103.84862
+        },
+        "btmRightPoint": {
+          "lat": 1.27492,
+          "lon": 103.85042
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.27513,
+            "lon": 103.84972
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "-fyKdgP1tqnBbO1cbpvl8Q",
+      "score": 2.0835521221,
+      "info": "search:ta:702009000437337-SG",
+      "poi": {
+        "name": "The Fullerton Bay Hotel Singapore",
+        "phone": "+65 6333 8388",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.fullertonbayhotel.com"
+      },
+      "address": {
+        "streetName": "Collyer Ouay",
+        "municipalitySubdivision": "Downtown Core",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "04",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "80 Collyer Ouay, Singapore, 049326",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.283956,
+        "lon": 103.85327
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.28486,
+          "lon": 103.85237
+        },
+        "btmRightPoint": {
+          "lat": 1.28306,
+          "lon": 103.85417
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.28394,
+            "lon": 103.85312
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "WRDdL5ocRgo_uXgOdEBWaw",
+      "score": 2.0835521221,
+      "info": "search:ta:702009000083918-SG",
+      "poi": {
+        "name": "InterContinental Singapore Robertson Quay",
+        "phone": "+65 6849 8686",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.galleryhotel.com.sg"
+      },
+      "address": {
+        "streetName": "Nanson Road",
+        "municipalitySubdivision": "Singapore River",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "23",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "1 Nanson Road, Singapore, 238909",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.290147,
+        "lon": 103.838678
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.29105,
+          "lon": 103.83778
+        },
+        "btmRightPoint": {
+          "lat": 1.28925,
+          "lon": 103.83958
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.2901,
+            "lon": 103.83889
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "C250Aj02kavoU_Owv8UGKA",
+      "score": 2.0637090206,
+      "info": "search:ta:360006003046934-ID",
+      "poi": {
+        "name": "Singapore Land Waterpark Batu Bara",
+        "phone": "+62 852-9770-496",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Lintas Sumatra No.Km",
+        "municipality": "Batu Bara",
+        "municipalitySecondarySubdivision": "Perkebunan Sei Balai",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "21253",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Lintas Sumatra No.Km 141, Batu Bara District, Sumatera Utara 21253",
+        "localName": "Batu Bara"
+      },
+      "position": {
+        "lat": 3.1168,
+        "lon": 99.5845
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.1177,
+          "lon": 99.5836
+        },
+        "btmRightPoint": {
+          "lat": 3.1159,
+          "lon": 99.5854
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.11633,
+            "lon": 99.58398
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "XAofrSWx6KpnuNIujh0nuA",
+      "score": 2.0637090206,
+      "info": "search:ta:702007000024059-SG",
+      "poi": {
+        "name": "Statue: A Great Emporium Singapore",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rivervale Drive",
+        "municipalitySubdivision": "Sengkang",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "54",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "Rivervale Drive, Singapore, 540118",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.38538,
+        "lon": 103.90182
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.38628,
+          "lon": 103.90092
+        },
+        "btmRightPoint": {
+          "lat": 1.38448,
+          "lon": 103.90272
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.38508,
+            "lon": 103.9019
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "HMc4TW-Tkgu_zfcC3nfN1w",
+      "score": 2.0637090206,
+      "info": "search:ta:702009000442966-SG",
+      "poi": {
+        "name": "Underwater World Singapore \u0026 Dolphin Lagoon",
+        "phone": "+65 6275 0030",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ],
+        "url": "www.underwaterworld.com.sg"
+      },
+      "address": {
+        "streetName": "Siloso Road",
+        "municipalitySubdivision": "Sentosa",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "09",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "80 Siloso Road, Singapore, 098969",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.258567,
+        "lon": 103.811213
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.25947,
+          "lon": 103.81031
+        },
+        "btmRightPoint": {
+          "lat": 1.25767,
+          "lon": 103.81211
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.25809,
+            "lon": 103.81094
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "UluOrsGCt1Zmn7sdhJm9hQ",
+      "score": 2.0637090206,
+      "info": "search:ta:702007000022063-SG",
+      "poi": {
+        "name": "11 Playfair Road Singapore 367986",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ],
+        "url": "livingspring.org.sg"
+      },
+      "address": {
+        "streetName": "Playfair Road",
+        "municipalitySubdivision": "Toa Payoh",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "36",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "Playfair Road, Singapore, 367989",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.33378,
+        "lon": 103.88636
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.33468,
+          "lon": 103.88546
+        },
+        "btmRightPoint": {
+          "lat": 1.33288,
+          "lon": 103.88726
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.33388,
+            "lon": 103.88665
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "RUJ9qRBcRVWug32CSCWPcw",
+      "score": 2.0637090206,
+      "info": "search:ta:702009000084624-SG",
+      "poi": {
+        "name": "Duck \u0026 Hippo Singapore Botanical Gardens",
+        "phone": "+65 6338 6877",
+        "categorySet": [
+          {
+            "id": 7376004
+          }
+        ],
+        "categories": [
+          "important tourist attraction",
+          "natural tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "natural tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ],
+        "url": "www.ducktours.com.sg"
+      },
+      "address": {
+        "streetName": "Cluny Road",
+        "municipalitySubdivision": "Tanglin",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "25",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "1 Cluny Road, Singapore, 259569",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.315687,
+        "lon": 103.816177
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.31659,
+          "lon": 103.81528
+        },
+        "btmRightPoint": {
+          "lat": 1.31479,
+          "lon": 103.81708
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.31534,
+            "lon": 103.81641
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "4egw0nROy1Al1pK8iwyQNA",
+      "score": 2.0442399979,
+      "info": "search:ta:360006002841368-ID",
+      "poi": {
+        "name": "Patung Merlion Singapore Dawuhan Millenial Garden",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Lingk. Krajan Dawuhan Kec. Situbondo",
+        "municipality": "Situbondo",
+        "municipalitySecondarySubdivision": "Dawuhan",
+        "countrySubdivision": "Jawa Timur",
+        "countrySubdivisionName": "Jawa Timur",
+        "countrySubdivisionCode": "JI",
+        "postalCode": "68311",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Lingk. Krajan Dawuhan Kec. Situbondo 3, Situbondo District, Jawa Timur 68311",
+        "localName": "Situbondo"
+      },
+      "position": {
+        "lat": -7.701914,
+        "lon": 114.005624
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.70101,
+          "lon": 114.00472
+        },
+        "btmRightPoint": {
+          "lat": -7.70281,
+          "lon": 114.00653
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.70187,
+            "lon": 114.00555
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "cLq2YQY8Up9fAJCTf_YIeg",
+      "score": 2.0442399979,
+      "info": "search:ta:702007000026969-SG",
+      "poi": {
+        "name": "Foundation Stone of the Monument of the Early Founders of Singapore",
+        "categorySet": [
+          {
+            "id": 7376003
+          }
+        ],
+        "categories": [
+          "important tourist attraction",
+          "monument"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "monument"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Fullerton Square",
+        "municipalitySubdivision": "Downtown Core",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "04",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "Fullerton Square, Singapore, 049178",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.2862,
+        "lon": 103.85298
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.2871,
+          "lon": 103.85208
+        },
+        "btmRightPoint": {
+          "lat": 1.2853,
+          "lon": 103.85388
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.28605,
+            "lon": 103.85269
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "yNm9P2IE0vIMKV4DxZp5bw",
+      "score": 2.0442399979,
+      "info": "search:ta:702007000020324-SG",
+      "poi": {
+        "name": "Statue: From Chettiars To Financiers Singapore",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Riviera Drive",
+        "municipalitySubdivision": "Bedok",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "46",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "Riviera Drive, Singapore, 467197",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.31652,
+        "lon": 103.943
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.31742,
+          "lon": 103.9421
+        },
+        "btmRightPoint": {
+          "lat": 1.31562,
+          "lon": 103.9439
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.31632,
+            "lon": 103.94302
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "kieinEo7FHRddlFU0FlJZg",
+      "score": 2.0239999294,
+      "info": "search:ta:784008000025759-AE",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9376002
+          }
+        ],
+        "categories": [
+          "café",
+          "café/pub"
+        ],
+        "classifications": [
+          {
+            "code": "CAFE_PUB",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "café/pub"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "café"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sidr Avenue",
+        "municipalitySubdivision": "Madinat Al Maktoum",
+        "municipality": "Dubai",
+        "municipalitySecondarySubdivision": "Madinat Al Mataar",
+        "countrySubdivision": "Dubai",
+        "countrySubdivisionName": "Dubai",
+        "countrySubdivisionCode": "DU",
+        "postalCode": "",
+        "countryCode": "AE",
+        "country": "United Arab Emirates",
+        "countryCodeISO3": "ARE",
+        "freeformAddress": "201, Sidr Avenue, Madinat Al Maktoum, Dubai, Dubai",
+        "localName": "Dubai"
+      },
+      "position": {
+        "lat": 24.958929,
+        "lon": 55.155858
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 24.95983,
+          "lon": 55.15487
+        },
+        "btmRightPoint": {
+          "lat": 24.95803,
+          "lon": 55.15685
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 24.95881,
+            "lon": 55.15561
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "kTLv0nswoAkOBFKb15O_vQ",
+      "score": 2.0239999294,
+      "info": "search:ta:056009001874472-BE",
+      "poi": {
+        "name": "Singapore",
+        "phone": "+32 483 36 57 54",
+        "categorySet": [
+          {
+            "id": 7315012
+          }
+        ],
+        "categories": [
+          "chinese",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chinese"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ],
+        "url": "www.singaporerestaurant.be"
+      },
+      "address": {
+        "streetName": "August Van Putlei",
+        "municipality": "Borsbeek",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Vlaams Gewest",
+        "countrySubdivisionName": "Vlaams Gewest",
+        "countrySubdivisionCode": "VLG",
+        "postalCode": "2150",
+        "countryCode": "BE",
+        "country": "België",
+        "countryCodeISO3": "BEL",
+        "freeformAddress": "August Van Putlei 3, 2150 Borsbeek",
+        "localName": "Borsbeek"
+      },
+      "position": {
+        "lat": 51.1962,
+        "lon": 4.47975
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 51.1971,
+          "lon": 4.47831
+        },
+        "btmRightPoint": {
+          "lat": 51.1953,
+          "lon": 4.48119
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 51.19611,
+            "lon": 4.4797
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "sgusXNezcJGgNy2hiVpexQ",
+      "score": 2.0239999294,
+      "info": "search:ta:076009026572172-BR",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9352008
+          }
+        ],
+        "categories": [
+          "company",
+          "mail/package/freight delivery"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "mail/package/freight delivery"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rua Utinga",
+        "municipalitySubdivision": "Pimentas",
+        "municipality": "Guarulhos",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "São Paulo",
+        "countrySubdivisionName": "São Paulo",
+        "countrySubdivisionCode": "SP",
+        "postalCode": "07241",
+        "countryCode": "BR",
+        "country": "Brasil",
+        "countryCodeISO3": "BRA",
+        "freeformAddress": "Rua Utinga, 404, 07241-410, Guarulhos",
+        "localName": "Guarulhos"
+      },
+      "position": {
+        "lat": -23.452129,
+        "lon": -46.425464
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -23.45123,
+          "lon": -46.42644
+        },
+        "btmRightPoint": {
+          "lat": -23.45303,
+          "lon": -46.42448
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -23.45204,
+            "lon": -46.42548
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "TBDdj17yWAAUO2IO5zxFTQ",
+      "score": 2.0239999294,
+      "info": "search:ta:076006004803114-BR",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Avenida da Saúde",
+        "municipalitySubdivision": "Campo Limpo",
+        "municipality": "Americana",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "São Paulo",
+        "countrySubdivisionName": "São Paulo",
+        "countrySubdivisionCode": "SP",
+        "postalCode": "13478",
+        "countryCode": "BR",
+        "country": "Brasil",
+        "countryCodeISO3": "BRA",
+        "freeformAddress": "Avenida da Saúde, 13478-640, Americana",
+        "localName": "Americana"
+      },
+      "position": {
+        "lat": -22.73455,
+        "lon": -47.31108
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -22.73365,
+          "lon": -47.31206
+        },
+        "btmRightPoint": {
+          "lat": -22.73545,
+          "lon": -47.3101
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -22.73472,
+            "lon": -47.31133
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "kiPGK_N5Ptf-rWPkrbK98Q",
+      "score": 2.0239999294,
+      "info": "search:ta:203009000240931-CZ",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 7315012
+          }
+        ],
+        "categories": [
+          "chinese",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chinese"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Školní",
+        "municipalitySubdivision": "Město",
+        "municipality": "Domažlice",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Plzeňský",
+        "countrySubdivisionName": "Plzeňský",
+        "countrySubdivisionCode": "32",
+        "postalCode": "34401",
+        "countryCode": "CZ",
+        "country": "Česko",
+        "countryCodeISO3": "CZE",
+        "freeformAddress": "Školní 104, 34401 Domažlice",
+        "localName": "Domažlice"
+      },
+      "position": {
+        "lat": 49.440799,
+        "lon": 12.929477
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 49.4417,
+          "lon": 12.92809
+        },
+        "btmRightPoint": {
+          "lat": 49.4399,
+          "lon": 12.93086
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 49.44097,
+            "lon": 12.92944
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "pAd6hXeLgo07em7kqk7joA",
+      "score": 2.0239999294,
+      "info": "search:ta:276007000106815-DE",
+      "poi": {
+        "name": "Singapore",
+        "phone": "+49 941 447469",
+        "categorySet": [
+          {
+            "id": 9376
+          }
+        ],
+        "categories": [
+          "café/pub"
+        ],
+        "classifications": [
+          {
+            "code": "CAFE_PUB",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "café/pub"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Im Gewerbepark",
+        "municipalitySubdivision": "Weichs",
+        "municipality": "Regensburg",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Bayern",
+        "countrySubdivisionName": "Bayern",
+        "countrySubdivisionCode": "BY",
+        "postalCode": "93059",
+        "countryCode": "DE",
+        "country": "Deutschland",
+        "countryCodeISO3": "DEU",
+        "freeformAddress": "Im Gewerbepark 47, 93059 Regensburg",
+        "localName": "Regensburg"
+      },
+      "position": {
+        "lat": 49.030144,
+        "lon": 12.130137
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 49.03104,
+          "lon": 12.12877
+        },
+        "btmRightPoint": {
+          "lat": 49.02924,
+          "lon": 12.13151
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 49.03054,
+            "lon": 12.12991
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Cb-nghYy1zdS7ED35uu-YQ",
+      "score": 2.0239999294,
+      "info": "search:ta:246009003728648-FI",
+      "poi": {
+        "name": "Singapore",
+        "phone": "+358 9 6942763",
+        "categorySet": [
+          {
+            "id": 7315048
+          }
+        ],
+        "categories": [
+          "restaurant",
+          "thai"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "thai"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ],
+        "url": "www.kamppi.fi/en/retailer/singapore-hot-wok"
+      },
+      "address": {
+        "streetName": "Lapinlahdenkatu",
+        "municipality": "Helsinki",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Uusimaa",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "00180",
+        "countryCode": "FI",
+        "country": "Suomi",
+        "countryCodeISO3": "FIN",
+        "freeformAddress": "Lapinlahdenkatu 29, 00180 Helsinki",
+        "localName": "Helsinki"
+      },
+      "position": {
+        "lat": 60.167551,
+        "lon": 24.924482
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 60.16845,
+          "lon": 24.92267
+        },
+        "btmRightPoint": {
+          "lat": 60.16665,
+          "lon": 24.92629
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 60.16734,
+            "lon": 24.92434
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "w786y_40NwTydW13rkuk5g",
+      "score": 2.0239999294,
+      "info": "search:ta:826009012818386-GB",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9352039
+          }
+        ],
+        "categories": [
+          "company",
+          "services"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "services"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Highlands Road",
+        "municipalitySubdivision": "Solihull",
+        "municipality": "Birmingham",
+        "municipalitySecondarySubdivision": "Shirley",
+        "countrySubdivision": "ENG",
+        "countrySubdivisionName": "England",
+        "countrySubdivisionCode": "ENG",
+        "postalCode": "B90",
+        "countryCode": "GB",
+        "country": "United Kingdom",
+        "countryCodeISO3": "GBR",
+        "freeformAddress": "8 Highlands Road, Solihull, Birmingham, B90 4ND",
+        "localName": "Birmingham"
+      },
+      "position": {
+        "lat": 52.397092,
+        "lon": -1.802304
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 52.39799,
+          "lon": -1.80378
+        },
+        "btmRightPoint": {
+          "lat": 52.39619,
+          "lon": -1.80083
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 52.39709,
+            "lon": -1.8023
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "i65mXuQcQcWWtzZA9HXgBA",
+      "score": 2.0239999294,
+      "info": "search:ta:300009000263971-GR",
+      "poi": {
+        "name": "Singapore",
+        "phone": "+30 21 0988 9688",
+        "categorySet": [
+          {
+            "id": 7315012
+          }
+        ],
+        "categories": [
+          "chinese",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chinese"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Leoforos Agias Varvaras",
+        "municipality": "Palaio Faliro",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Attiki",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "175 63",
+        "countryCode": "GR",
+        "country": "Elláda",
+        "countryCodeISO3": "GRC",
+        "freeformAddress": "Leoforos Agias Varvaras 60, Palaio Faliro 175 63",
+        "localName": "Palaio Faliro"
+      },
+      "position": {
+        "lat": 37.921925,
+        "lon": 23.713989
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 37.92282,
+          "lon": 23.71285
+        },
+        "btmRightPoint": {
+          "lat": 37.92103,
+          "lon": 23.71513
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 37.92183,
+            "lon": 23.71399
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Kb3by41mueFw-BddgVsaeg",
+      "score": 2.0239999294,
+      "info": "search:ta:344009000048762-HK",
+      "poi": {
+        "name": "Singapore",
+        "phone": "+852 2527 2212",
+        "categorySet": [
+          {
+            "id": 7365
+          }
+        ],
+        "categories": [
+          "embassy"
+        ],
+        "classifications": [
+          {
+            "code": "EMBASSY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "embassy"
+              }
+            ]
+          }
+        ],
+        "url": "www.mfa.gov.sg/hongkong"
+      },
+      "address": {
+        "streetName": "Harcourt Road",
+        "municipalitySubdivision": "Admiralty",
+        "municipality": "Hong Kong",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Hong Kong",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "",
+        "countryCode": "HK",
+        "country": "Hong Kong SAR",
+        "countryCodeISO3": "HKG",
+        "freeformAddress": "18, Harcourt Road, Admiralty, Central \u0026 Western District, Hong Kong",
+        "localName": "Central \u0026 Western District"
+      },
+      "position": {
+        "lat": 22.279304,
+        "lon": 114.165531
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 22.2802,
+          "lon": 114.16456
+        },
+        "btmRightPoint": {
+          "lat": 22.2784,
+          "lon": 114.1665
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 22.27965,
+            "lon": 114.16512
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "BgFCxundvnSpUqXrl1QV0g",
+      "score": 2.0239999294,
+      "info": "search:ta:360006004446487-ID",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9361005
+          }
+        ],
+        "categories": [
+          "clothing accessories: footwear shoe repairs",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: footwear shoe repairs"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sukajadi Gg. Durian",
+        "municipalitySubdivision": "Dumai Barat",
+        "municipality": "Dumai",
+        "municipalitySecondarySubdivision": "Simpang Tetap Darul Ihsan",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28826",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sukajadi Gg. Durian, Dumai Barat Sub District, Dumai District, Riau 28826",
+        "localName": "Dumai"
+      },
+      "position": {
+        "lat": 1.6767,
+        "lon": 101.4049
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.6776,
+          "lon": 101.404
+        },
+        "btmRightPoint": {
+          "lat": 1.6758,
+          "lon": 101.4058
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.67629,
+            "lon": 101.40436
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "KFx9faefqGzXptH8Cl232w",
+      "score": 2.0239999294,
+      "info": "search:ta:356001000378643-IN",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9361041
+          }
+        ],
+        "categories": [
+          "shop",
+          "travel agents"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "travel agents"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Connaught Place",
+        "municipalitySubdivision": "Barakhamba",
+        "municipality": "New Delhi",
+        "municipalitySecondarySubdivision": "Fire Brigade Lane",
+        "countrySubdivision": "Delhi",
+        "countrySubdivisionName": "Delhi",
+        "countrySubdivisionCode": "DL",
+        "postalCode": "110001",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Connaught Place, Fire Brigade Lane, Barakhamba, New Delhi 110001, Delhi",
+        "localName": "New Delhi"
+      },
+      "position": {
+        "lat": 28.63023,
+        "lon": 77.226042
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 28.63113,
+          "lon": 77.22502
+        },
+        "btmRightPoint": {
+          "lat": 28.62933,
+          "lon": 77.22707
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 28.63033,
+            "lon": 77.22599
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "zd5H0QY8j2kUm_iYCBZUlg",
+      "score": 2.0239999294,
+      "info": "search:ta:380009039253839-IT",
+      "poi": {
+        "name": "Singapore",
+        "phone": "+39 02 4895 2129",
+        "categorySet": [
+          {
+            "id": 7315012
+          }
+        ],
+        "categories": [
+          "chinese",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chinese"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Via Vincenzo Foppa",
+        "municipality": "Milano",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Lombardia",
+        "countrySubdivisionName": "Lombardia",
+        "countrySubdivisionCode": "25",
+        "postalCode": "20144",
+        "countryCode": "IT",
+        "country": "Italia",
+        "countryCodeISO3": "ITA",
+        "freeformAddress": "Via Vincenzo Foppa 40, 20144 Milano",
+        "localName": "Milano"
+      },
+      "position": {
+        "lat": 45.45703,
+        "lon": 9.15776
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 45.45793,
+          "lon": 9.15648
+        },
+        "btmRightPoint": {
+          "lat": 45.45613,
+          "lon": 9.15904
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 45.45687,
+            "lon": 9.15787
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "aCwY7ggoKVUpEagWpq1c2A",
+      "score": 2.0239999294,
+      "info": "search:ta:116009000030846-KH",
+      "poi": {
+        "name": "Singapore",
+        "phone": "+855 15 845 422",
+        "categorySet": [
+          {
+            "id": 9361067
+          }
+        ],
+        "categories": [
+          "beauty salon",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "beauty salon"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Preah Trasak Paem Street",
+        "municipality": "Boeng Keng Kang Muoy",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Phnom Penh",
+        "countrySubdivisionName": "Phnom Penh",
+        "countrySubdivisionCode": "12",
+        "postalCode": "120102",
+        "countryCode": "KH",
+        "country": "Cambodia",
+        "countryCodeISO3": "KHM",
+        "freeformAddress": "Preah Trasak Paem Street Chamkar Mon, Phnom Penh, 120102",
+        "localName": "Chamkar Mon"
+      },
+      "position": {
+        "lat": 11.555743,
+        "lon": 104.923245
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 11.55664,
+          "lon": 104.92233
+        },
+        "btmRightPoint": {
+          "lat": 11.55484,
+          "lon": 104.92416
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 11.55591,
+            "lon": 104.92324
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "gq0ZLAvQBmz7MmBSjbJe-w",
+      "score": 2.0239999294,
+      "info": "search:ta:104009000067060-MM",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9361075
+          }
+        ],
+        "categories": [
+          "mobile phone shop",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "mobile phone shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Thandar Street",
+        "municipalitySubdivision": "Dagon Myothit (South)",
+        "municipality": "Yangon",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Yangon Region",
+        "countrySubdivisionName": "Yangon Region",
+        "countrySubdivisionCode": "6",
+        "postalCode": "11031",
+        "countryCode": "MM",
+        "country": "Myanmar",
+        "countryCodeISO3": "MMR",
+        "freeformAddress": "Thandar Street Yangon Region, Yangon Region, 11031",
+        "localName": "Yangon Region"
+      },
+      "position": {
+        "lat": 16.89942,
+        "lon": 96.161719
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 16.90032,
+          "lon": 96.16078
+        },
+        "btmRightPoint": {
+          "lat": 16.89852,
+          "lon": 96.16266
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 16.89949,
+            "lon": 96.16178
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ukKJ3VGNh9glYHhdbg0RWw",
+      "score": 2.0239999294,
+      "info": "search:ta:104009000001008-MM",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 7311
+          }
+        ],
+        "categories": [
+          "petrol station"
+        ],
+        "classifications": [
+          {
+            "code": "PETROL_STATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "petrol station"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Boundary Road",
+        "municipalitySubdivision": "Mandalay Region",
+        "municipality": "Mahaaungmye",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Mandalay Region",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "05031",
+        "countryCode": "MM",
+        "country": "Myanmar",
+        "countryCodeISO3": "MMR",
+        "freeformAddress": "Boundary Road Mandalay District, Mandalay Region, 05031",
+        "localName": "Mandalay District"
+      },
+      "position": {
+        "lat": 21.95431,
+        "lon": 96.129717
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 21.95521,
+          "lon": 96.12875
+        },
+        "btmRightPoint": {
+          "lat": 21.95341,
+          "lon": 96.13069
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 21.95428,
+            "lon": 96.12995
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "mTE8cJWgbRDIpxhIJeYlYw",
+      "score": 2.0239999294,
+      "info": "search:ta:104009000018886-MM",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9361080
+          }
+        ],
+        "categories": [
+          "glass windows",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "glass windows"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "68th Street",
+        "municipalitySubdivision": "Mandalay Region",
+        "municipality": "Chanmyathazi",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Mandalay Region",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "05041",
+        "countryCode": "MM",
+        "country": "Myanmar",
+        "countryCodeISO3": "MMR",
+        "freeformAddress": "68th Street Mandalay District, Mandalay Region, 05041",
+        "localName": "Mandalay District"
+      },
+      "position": {
+        "lat": 21.934597,
+        "lon": 96.101002
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 21.9355,
+          "lon": 96.10003
+        },
+        "btmRightPoint": {
+          "lat": 21.9337,
+          "lon": 96.10197
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 21.93459,
+            "lon": 96.10122
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Sz4-j3AP3M2vNZpXIASnPg",
+      "score": 2.0239999294,
+      "info": "search:ta:104009000020771-MM",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9361080
+          }
+        ],
+        "categories": [
+          "glass windows",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "glass windows"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "84th Street",
+        "municipalitySubdivision": "Mandalay Region",
+        "municipality": "Aungmyaythazan",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Mandalay Region",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "05011",
+        "countryCode": "MM",
+        "country": "Myanmar",
+        "countryCodeISO3": "MMR",
+        "freeformAddress": "84th Street Mandalay District, Mandalay Region, 05011",
+        "localName": "Mandalay District"
+      },
+      "position": {
+        "lat": 21.984853,
+        "lon": 96.078069
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 21.98575,
+          "lon": 96.0771
+        },
+        "btmRightPoint": {
+          "lat": 21.98395,
+          "lon": 96.07904
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 21.98486,
+            "lon": 96.07791
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "URzr7cVxqQMom2VUtFG0qA",
+      "score": 2.0239999294,
+      "info": "search:ta:104009000020104-MM",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9361075
+          }
+        ],
+        "categories": [
+          "mobile phone shop",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "mobile phone shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Yangon-Mandalay Road",
+        "municipality": "Pyu",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Bago Region",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "08141",
+        "countryCode": "MM",
+        "country": "Myanmar",
+        "countryCodeISO3": "MMR",
+        "freeformAddress": "Yangon-Mandalay Road Toungoo District, Bago Region, 08141",
+        "localName": "Toungoo District"
+      },
+      "position": {
+        "lat": 18.541644,
+        "lon": 96.430505
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 18.54254,
+          "lon": 96.42956
+        },
+        "btmRightPoint": {
+          "lat": 18.54074,
+          "lon": 96.43145
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 18.54161,
+            "lon": 96.4303
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "KDBN3vltFs6oa3WXf9NEeA",
+      "score": 2.0239999294,
+      "info": "search:ta:104009000028472-MM",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9361081
+          }
+        ],
+        "categories": [
+          "shop",
+          "variety store"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "variety store"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Yangon-Mandalay Road",
+        "municipality": "Pyu",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Bago Region",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "08141",
+        "countryCode": "MM",
+        "country": "Myanmar",
+        "countryCodeISO3": "MMR",
+        "freeformAddress": "Yangon-Mandalay Road Toungoo District, Bago Region, 08141",
+        "localName": "Toungoo District"
+      },
+      "position": {
+        "lat": 18.545452,
+        "lon": 96.429487
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 18.54635,
+          "lon": 96.42854
+        },
+        "btmRightPoint": {
+          "lat": 18.54455,
+          "lon": 96.43044
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 18.54548,
+            "lon": 96.42968
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "eooDnC3K0DVIdicxXoOmRA",
+      "score": 2.0239999294,
+      "info": "search:ta:104009000045140-MM",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 7310004
+          }
+        ],
+        "categories": [
+          "general car repair servicing",
+          "repair facility"
+        ],
+        "classifications": [
+          {
+            "code": "REPAIR_FACILITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "repair facility"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "general car repair servicing"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Pyi Htaung Su Main Road",
+        "municipalitySubdivision": "Dagon Myothit (South)",
+        "municipality": "Yangon",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Yangon Region",
+        "countrySubdivisionName": "Yangon Region",
+        "countrySubdivisionCode": "6",
+        "postalCode": "11431",
+        "countryCode": "MM",
+        "country": "Myanmar",
+        "countryCodeISO3": "MMR",
+        "freeformAddress": "Pyi Htaung Su Main Road Yangon Region, Yangon Region, 11431",
+        "localName": "Yangon Region"
+      },
+      "position": {
+        "lat": 16.838534,
+        "lon": 96.232805
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 16.83943,
+          "lon": 96.23187
+        },
+        "btmRightPoint": {
+          "lat": 16.83763,
+          "lon": 96.23374
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 16.83843,
+            "lon": 96.23263
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "oT6xHA_EApiZvrxxR8thjA",
+      "score": 2.0239999294,
+      "info": "search:ta:104009000010473-MM",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9376007
+          }
+        ],
+        "categories": [
+          "café/pub",
+          "microbrewery/beer garden"
+        ],
+        "classifications": [
+          {
+            "code": "CAFE_PUB",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "café/pub"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "microbrewery/beer garden"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "25th Street",
+        "municipalitySubdivision": "Hlaingthaya",
+        "municipality": "Yangon",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Yangon Region",
+        "countrySubdivisionName": "Yangon Region",
+        "countrySubdivisionCode": "6",
+        "postalCode": "11141",
+        "countryCode": "MM",
+        "country": "Myanmar",
+        "countryCodeISO3": "MMR",
+        "freeformAddress": "25th Street Yangon Region, Yangon Region, 11141",
+        "localName": "Yangon Region"
+      },
+      "position": {
+        "lat": 16.774726,
+        "lon": 96.153451
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 16.77563,
+          "lon": 96.15251
+        },
+        "btmRightPoint": {
+          "lat": 16.77383,
+          "lon": 96.15439
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 16.77457,
+            "lon": 96.15343
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "MkXfx367t3rEN1Crflch5A",
+      "score": 2.0239999294,
+      "info": "search:ta:104009000026440-MM",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9373002
+          }
+        ],
+        "categories": [
+          "doctor",
+          "general practitioner"
+        ],
+        "classifications": [
+          {
+            "code": "DOCTOR",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "general practitioner"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "doctor"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Bo Ywe Street",
+        "municipalitySubdivision": "Hlaingthaya",
+        "municipality": "Yangon",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Yangon Region",
+        "countrySubdivisionName": "Yangon Region",
+        "countrySubdivisionCode": "6",
+        "postalCode": "11141",
+        "countryCode": "MM",
+        "country": "Myanmar",
+        "countryCodeISO3": "MMR",
+        "freeformAddress": "Bo Ywe Street 30 Yangon Region, Yangon Region, 11141",
+        "localName": "Yangon Region"
+      },
+      "position": {
+        "lat": 16.773123,
+        "lon": 96.151818
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 16.77402,
+          "lon": 96.15088
+        },
+        "btmRightPoint": {
+          "lat": 16.77222,
+          "lon": 96.15276
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 16.77313,
+            "lon": 96.15172
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "YywxXJYxOd_aW4q_tmftOw",
+      "score": 2.0239999294,
+      "info": "search:ta:104009000001396-MM",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9361061
+          }
+        ],
+        "categories": [
+          "shop",
+          "specialty foods"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "specialty foods"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Yangon-Mandalay Road",
+        "municipality": "Toungoo",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Bago Region",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "08101",
+        "countryCode": "MM",
+        "country": "Myanmar",
+        "countryCodeISO3": "MMR",
+        "freeformAddress": "Yangon-Mandalay Road Toungoo District, Bago Region, 08101",
+        "localName": "Toungoo District"
+      },
+      "position": {
+        "lat": 19.081388,
+        "lon": 96.360869
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 19.08229,
+          "lon": 96.35992
+        },
+        "btmRightPoint": {
+          "lat": 19.08049,
+          "lon": 96.36182
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 19.08141,
+            "lon": 96.3612
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "mi1ZF2Dr0s5-hxWYQpYraA",
+      "score": 2.0239999294,
+      "info": "search:ta:104009000011095-MM",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9361081
+          }
+        ],
+        "categories": [
+          "shop",
+          "variety store"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "variety store"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "26th Street",
+        "municipalitySubdivision": "Mandalay Region",
+        "municipality": "Chanayethazan",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Mandalay Region",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "05021",
+        "countryCode": "MM",
+        "country": "Myanmar",
+        "countryCodeISO3": "MMR",
+        "freeformAddress": "26th Street Mandalay District, Mandalay Region, 05021",
+        "localName": "Mandalay District"
+      },
+      "position": {
+        "lat": 21.983204,
+        "lon": 96.080348
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 21.9841,
+          "lon": 96.07938
+        },
+        "btmRightPoint": {
+          "lat": 21.9823,
+          "lon": 96.08132
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 21.98336,
+            "lon": 96.08036
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "jG_JfzdW1hhgqBrlAmDyAQ",
+      "score": 2.0239999294,
+      "info": "search:ta:643009024810234-RU",
+      "poi": {
+        "name": "SINGAPORE",
+        "phone": "+7 921 935-45-64",
+        "categorySet": [
+          {
+            "id": 7315012
+          }
+        ],
+        "categories": [
+          "chinese",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chinese"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ],
+        "url": "singapore-spb.ru"
+      },
+      "address": {
+        "streetName": "Московский проспект",
+        "municipality": "Санкт-Петербург",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Северо-Западный Федеральный Округ",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "196084",
+        "countryCode": "RU",
+        "country": "Россия",
+        "countryCodeISO3": "RUS",
+        "freeformAddress": "Московский проспект, Санкт-Петербург, 196084",
+        "localName": "Санкт-Петербург"
+      },
+      "position": {
+        "lat": 59.888935,
+        "lon": 30.315751
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 59.88983,
+          "lon": 30.31396
+        },
+        "btmRightPoint": {
+          "lat": 59.88804,
+          "lon": 30.31754
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 59.88865,
+            "lon": 30.31576
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "T9pLmgF6c3cwbbZuFQYWvA",
+      "score": 2.0239999294,
+      "info": "search:ta:702006000005006-SG",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Toh Guan Road East",
+        "municipalitySubdivision": "Clementi",
+        "municipality": "Singapore",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "60",
+        "countryCode": "SG",
+        "country": "Singapore",
+        "countryCodeISO3": "SGP",
+        "freeformAddress": "Toh Guan Road East, Singapore, 608833",
+        "localName": "Singapore"
+      },
+      "position": {
+        "lat": 1.3389,
+        "lon": 103.75
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.3398,
+          "lon": 103.7491
+        },
+        "btmRightPoint": {
+          "lat": 1.338,
+          "lon": 103.7509
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.33889,
+            "lon": 103.75002
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "_sNHzBfF6ZCKAKjQqbWHHw",
+      "score": 2.0239999294,
+      "info": "search:ta:764009002304787-TH",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 9352
+          }
+        ],
+        "categories": [
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Soi Trangkapoom",
+        "municipality": "Kantang",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Changwat Trang",
+        "countrySubdivisionName": "Changwat Trang",
+        "countrySubdivisionCode": "92",
+        "postalCode": "92110",
+        "countryCode": "TH",
+        "country": "Prathet Thai",
+        "countryCodeISO3": "THA",
+        "freeformAddress": "Soi Trangkapoom, Amphoe Kantang District, Changwat Trang 92110",
+        "localName": "Amphoe Kantang"
+      },
+      "position": {
+        "lat": 7.405757,
+        "lon": 99.510842
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 7.40666,
+          "lon": 99.50994
+        },
+        "btmRightPoint": {
+          "lat": 7.40486,
+          "lon": 99.51175
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 7.40561,
+            "lon": 99.51086
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "dkaTZqk0KyuUWzMqXMQSxA",
+      "score": 2.0239999294,
+      "info": "search:ta:840277000007730-US",
+      "poi": {
+        "name": "Singapore",
+        "phone": "+1 612-729-2939",
+        "categorySet": [
+          {
+            "id": 7315012
+          }
+        ],
+        "categories": [
+          "chinese",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chinese"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "34th Avenue South",
+        "municipality": "Minneapolis",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "MN",
+        "countrySubdivisionName": "Minnesota",
+        "countrySubdivisionCode": "MN",
+        "postalCode": "55417",
+        "countryCode": "US",
+        "country": "United States",
+        "countryCodeISO3": "USA",
+        "freeformAddress": "5554 34th Avenue South, Minneapolis, MN 55417",
+        "localName": "Minneapolis"
+      },
+      "position": {
+        "lat": 44.90189,
+        "lon": -93.22334
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 44.90279,
+          "lon": -93.22461
+        },
+        "btmRightPoint": {
+          "lat": 44.90099,
+          "lon": -93.22207
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 44.90189,
+            "lon": -93.22293
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1x9mL9KF-cj8nvH0iNBUAw",
+      "score": 2.0239999294,
+      "info": "search:ta:840487000330020-US",
+      "poi": {
+        "name": "Singapore",
+        "phone": "+1 210-541-0608",
+        "categorySet": [
+          {
+            "id": 7315012
+          }
+        ],
+        "categories": [
+          "chinese",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chinese"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ],
+        "url": "www.singaporerestaurantsa.com"
+      },
+      "address": {
+        "streetName": "McCarty Road",
+        "municipality": "San Antonio",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "TX",
+        "countrySubdivisionName": "Texas",
+        "countrySubdivisionCode": "TX",
+        "postalCode": "78216",
+        "countryCode": "US",
+        "country": "United States",
+        "countryCodeISO3": "USA",
+        "freeformAddress": "445 McCarty Road, San Antonio, TX 78216",
+        "localName": "San Antonio"
+      },
+      "position": {
+        "lat": 29.529365,
+        "lon": -98.499585
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 29.53026,
+          "lon": -98.50062
+        },
+        "btmRightPoint": {
+          "lat": 29.52847,
+          "lon": -98.49855
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 29.52886,
+            "lon": -98.49974
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "alTr1yDr5cM_vtwIzFqjXA",
+      "score": 2.0239999294,
+      "info": "search:ta:710009004036856-ZA",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 8099027
+          }
+        ],
+        "categories": [
+          "geographic feature",
+          "locale"
+        ],
+        "classifications": [
+          {
+            "code": "GEOGRAPHIC_FEATURE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "geographic feature"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "locale"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "D2015",
+        "municipality": "Modimolle-Mookgophong",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Limpopo",
+        "countrySubdivisionName": "Limpopo",
+        "countrySubdivisionCode": "LP",
+        "postalCode": "",
+        "countryCode": "ZA",
+        "country": "South Africa",
+        "countryCodeISO3": "ZAF",
+        "freeformAddress": "D2015, Modimolle-Mookgophong",
+        "localName": "Modimolle-Mookgophong"
+      },
+      "position": {
+        "lat": -24.561432,
+        "lon": 29.315421
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -24.56053,
+          "lon": 29.31443
+        },
+        "btmRightPoint": {
+          "lat": -24.56233,
+          "lon": 29.31641
+        }
+      },
+      "entryPoints": null,
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "knGjJnaMwlU2TLUKXWWtGQ",
+      "score": 2.0239999294,
+      "info": "search:ta:710009004050227-ZA",
+      "poi": {
+        "name": "Singapore",
+        "categorySet": [
+          {
+            "id": 8099027
+          }
+        ],
+        "categories": [
+          "geographic feature",
+          "locale"
+        ],
+        "classifications": [
+          {
+            "code": "GEOGRAPHIC_FEATURE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "geographic feature"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "locale"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "D885",
+        "municipality": "Modimolle-Mookgophong",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Limpopo",
+        "countrySubdivisionName": "Limpopo",
+        "countrySubdivisionCode": "LP",
+        "postalCode": "",
+        "countryCode": "ZA",
+        "country": "South Africa",
+        "countryCodeISO3": "ZAF",
+        "freeformAddress": "D885, Modimolle-Mookgophong",
+        "localName": "Modimolle-Mookgophong"
+      },
+      "position": {
+        "lat": -24.540574,
+        "lon": 29.318467
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -24.53967,
+          "lon": 29.31748
+        },
+        "btmRightPoint": {
+          "lat": -24.54147,
+          "lon": 29.31946
+        }
+      },
+      "entryPoints": null,
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "2E2REFLvArf4fVUIUYpBig",
+      "score": 2.0041568279,
+      "info": "search:ta:784009000126030-AE",
+      "poi": {
+        "name": "Singapore Jewellery",
+        "categorySet": [
+          {
+            "id": 9361036
+          }
+        ],
+        "categories": [
+          "jewelry, clocks watches",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "jewelry, clocks watches"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "61 Street",
+        "municipalitySubdivision": "City Center Sector",
+        "municipality": "Ajman",
+        "municipalitySecondarySubdivision": "Nakheel 1",
+        "countrySubdivision": "Ajman",
+        "countrySubdivisionName": "Ajman",
+        "countrySubdivisionCode": "AJ",
+        "postalCode": "",
+        "countryCode": "AE",
+        "country": "United Arab Emirates",
+        "countryCodeISO3": "ARE",
+        "freeformAddress": "61 Street, City Center Sector, Ajman, Ajman",
+        "localName": "Ajman"
+      },
+      "position": {
+        "lat": 25.411691,
+        "lon": 55.443217
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 25.41259,
+          "lon": 55.44222
+        },
+        "btmRightPoint": {
+          "lat": 25.41079,
+          "lon": 55.44421
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 25.41173,
+            "lon": 55.44312
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Icv3N91CV61TxfR2PmVLgg",
+      "score": 2.0041568279,
+      "info": "search:ta:784001000030678-AE",
+      "poi": {
+        "name": "Singapore Cargo",
+        "categorySet": [
+          {
+            "id": 9361041
+          }
+        ],
+        "categories": [
+          "shop",
+          "travel agents"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "travel agents"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "1B Street",
+        "municipalitySubdivision": "Deira",
+        "municipality": "Dubai",
+        "municipalitySecondarySubdivision": "Ayal Nasir",
+        "countrySubdivision": "Dubai",
+        "countrySubdivisionName": "Dubai",
+        "countrySubdivisionCode": "DU",
+        "postalCode": "",
+        "countryCode": "AE",
+        "country": "United Arab Emirates",
+        "countryCodeISO3": "ARE",
+        "freeformAddress": "1B Street, Deira, Dubai, Dubai",
+        "localName": "Dubai"
+      },
+      "position": {
+        "lat": 25.273524,
+        "lon": 55.302671
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 25.27442,
+          "lon": 55.30168
+        },
+        "btmRightPoint": {
+          "lat": 25.27262,
+          "lon": 55.30367
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 25.27354,
+            "lon": 55.30252
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "-4EAHfTcNdlHt5ez_ahrYg",
+      "score": 2.0041568279,
+      "info": "search:ta:784001000115039-AE",
+      "poi": {
+        "name": "Singapore Plaza",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "50B Street",
+        "municipalitySubdivision": "Bur Dubai",
+        "municipality": "Dubai",
+        "municipalitySecondarySubdivision": "Al Souq Al Kabeer",
+        "countrySubdivision": "Dubai",
+        "countrySubdivisionName": "Dubai",
+        "countrySubdivisionCode": "DU",
+        "postalCode": "",
+        "countryCode": "AE",
+        "country": "United Arab Emirates",
+        "countryCodeISO3": "ARE",
+        "freeformAddress": "50B Street, Bur Dubai, Dubai, Dubai",
+        "localName": "Dubai"
+      },
+      "position": {
+        "lat": 25.261429,
+        "lon": 55.296399
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 25.26233,
+          "lon": 55.2954
+        },
+        "btmRightPoint": {
+          "lat": 25.26053,
+          "lon": 55.29739
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 25.26143,
+            "lon": 55.2963
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "QwPqkeeF3o2vXaF4sDcXxA",
+      "score": 2.0041568279,
+      "info": "search:ta:784009000005421-AE",
+      "poi": {
+        "name": "Singapore Airlines",
+        "phone": "+971 2 622 3500",
+        "categorySet": [
+          {
+            "id": 9361041
+          }
+        ],
+        "categories": [
+          "shop",
+          "travel agents"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "travel agents"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Khalifa Bin Zayed Street",
+        "municipalitySubdivision": "Al Danah",
+        "municipality": "Abu Dhabi",
+        "municipalitySecondarySubdivision": "E2",
+        "countrySubdivision": "Abu Dhabi",
+        "countrySubdivisionName": "Abu Dhabi",
+        "countrySubdivisionCode": "AZ",
+        "postalCode": "22206",
+        "countryCode": "AE",
+        "country": "United Arab Emirates",
+        "countryCodeISO3": "ARE",
+        "freeformAddress": "Khalifa Bin Zayed Street, Al Danah, Abu Dhabi, Abu Dhabi",
+        "localName": "Abu Dhabi"
+      },
+      "position": {
+        "lat": 24.489187,
+        "lon": 54.357852
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 24.49009,
+          "lon": 54.35686
+        },
+        "btmRightPoint": {
+          "lat": 24.48829,
+          "lon": 54.35884
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 24.48925,
+            "lon": 54.35792
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "FNl4jQll-NlQzRKa5l91aw",
+      "score": 2.0041568279,
+      "info": "search:ta:784009000112613-AE",
+      "poi": {
+        "name": "Singapore Jewellery",
+        "categorySet": [
+          {
+            "id": 9361036
+          }
+        ],
+        "categories": [
+          "jewelry, clocks watches",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "jewelry, clocks watches"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Al Majaz",
+        "municipality": "Sharjah City",
+        "municipalitySecondarySubdivision": "Majaz 1",
+        "countrySubdivision": "Sharjah",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "",
+        "countryCode": "AE",
+        "country": "United Arab Emirates",
+        "countryCodeISO3": "ARE",
+        "freeformAddress": "Al Majaz, Sharjah City, Sharjah",
+        "localName": "Sharjah City"
+      },
+      "position": {
+        "lat": 25.345901,
+        "lon": 55.384701
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 25.3468,
+          "lon": 55.38371
+        },
+        "btmRightPoint": {
+          "lat": 25.345,
+          "lon": 55.3857
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 25.34584,
+            "lon": 55.38463
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "YpK17PdL8qPVP44M6ssGlA",
+      "score": 2.0041568279,
+      "info": "search:ta:784008000010465-AE",
+      "poi": {
+        "name": "Singapore Restaurant",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Anaas Bin Malik Street",
+        "municipalitySubdivision": "City Center Sector",
+        "municipality": "Ajman",
+        "municipalitySecondarySubdivision": "Rashideya 1",
+        "countrySubdivision": "Ajman",
+        "countrySubdivisionName": "Ajman",
+        "countrySubdivisionCode": "AJ",
+        "postalCode": "",
+        "countryCode": "AE",
+        "country": "United Arab Emirates",
+        "countryCodeISO3": "ARE",
+        "freeformAddress": "Anaas Bin Malik Street, City Center Sector, Ajman, Ajman",
+        "localName": "Ajman"
+      },
+      "position": {
+        "lat": 25.394096,
+        "lon": 55.456199
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 25.395,
+          "lon": 55.4552
+        },
+        "btmRightPoint": {
+          "lat": 25.3932,
+          "lon": 55.45719
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 25.39417,
+            "lon": 55.45609
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "I8RSsUsFrwTOsJLGl_gNWg",
+      "score": 2.0041568279,
+      "info": "search:ta:040006000434670-AT",
+      "poi": {
+        "name": "Singapore Airlines",
+        "phone": "+43 1 5134656",
+        "categorySet": [
+          {
+            "id": 9352034
+          }
+        ],
+        "categories": [
+          "airline",
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "airline"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Wiedner Hauptstraße",
+        "municipalitySubdivision": "5. Bezirk, Margareten",
+        "municipality": "Wien",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Wien",
+        "countrySubdivisionName": "Wien",
+        "countrySubdivisionCode": "9",
+        "postalCode": "1050",
+        "countryCode": "AT",
+        "country": "Österreich",
+        "countryCodeISO3": "AUT",
+        "freeformAddress": "Wiedner Hauptstraße 88, 1050 Wien",
+        "localName": "Wien"
+      },
+      "position": {
+        "lat": 48.187597,
+        "lon": 16.363994
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 48.1885,
+          "lon": 16.36265
+        },
+        "btmRightPoint": {
+          "lat": 48.1867,
+          "lon": 16.36534
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 48.18766,
+            "lon": 16.36409
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Dt9llh0k-YLCnri2meCHYw",
+      "score": 2.0041568279,
+      "info": "search:ta:040009002903278-AT",
+      "poi": {
+        "name": "Chinarstaurant Singapore",
+        "phone": "+43 7942 72851",
+        "categorySet": [
+          {
+            "id": 7315012
+          }
+        ],
+        "categories": [
+          "chinese",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chinese"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Schmiedgasse",
+        "municipality": "Freistadt",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Oberösterreich",
+        "countrySubdivisionName": "Oberösterreich",
+        "countrySubdivisionCode": "4",
+        "postalCode": "4240",
+        "countryCode": "AT",
+        "country": "Österreich",
+        "countryCodeISO3": "AUT",
+        "freeformAddress": "Schmiedgasse 25, 4240 Freistadt",
+        "localName": "Freistadt"
+      },
+      "position": {
+        "lat": 48.515268,
+        "lon": 14.507158
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 48.51617,
+          "lon": 14.5058
+        },
+        "btmRightPoint": {
+          "lat": 48.51437,
+          "lon": 14.50852
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 48.5152,
+            "lon": 14.50732
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "P_EKYlO1aZ8WUWU1aYRl_A",
+      "score": 2.0041568279,
+      "info": "search:ta:036009003410889-AU",
+      "poi": {
+        "name": "Singapore Hawker",
+        "categorySet": [
+          {
+            "id": 7315062
+          }
+        ],
+        "categories": [
+          "asian (other)",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "asian (other)"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rudd Cove",
+        "municipalitySubdivision": "Canning Vale",
+        "municipality": "Perth",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Western Australia",
+        "countrySubdivisionName": "Western Australia",
+        "countrySubdivisionCode": "WA",
+        "postalCode": "6155",
+        "countryCode": "AU",
+        "country": "Australia",
+        "countryCodeISO3": "AUS",
+        "freeformAddress": "3 Rudd Cove, Canning Vale, WA, 6155",
+        "localName": "Canning Vale"
+      },
+      "position": {
+        "lat": -32.08907,
+        "lon": 115.90953
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -32.08817,
+          "lon": 115.90847
+        },
+        "btmRightPoint": {
+          "lat": -32.08997,
+          "lon": 115.91059
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -32.08925,
+            "lon": 115.90958
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "fLtQ6e9xRFV6h18OQqMLvw",
+      "score": 2.0041568279,
+      "info": "search:ta:036009000974840-AU",
+      "poi": {
+        "name": "Singapore House",
+        "phone": "+61 8 8379 4405",
+        "categorySet": [
+          {
+            "id": 7315062
+          }
+        ],
+        "categories": [
+          "asian (other)",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "asian (other)"
+              }
+            ]
+          }
+        ],
+        "url": "www.singaporehouse.com.au"
+      },
+      "address": {
+        "streetName": "Glen Osmond Road",
+        "municipalitySubdivision": "Frewville",
+        "municipality": "Adelaide",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "South Australia",
+        "countrySubdivisionName": "South Australia",
+        "countrySubdivisionCode": "SA",
+        "postalCode": "5063",
+        "countryCode": "AU",
+        "country": "Australia",
+        "countryCodeISO3": "AUS",
+        "freeformAddress": "203 Glen Osmond Road, Frewville, SA, 5063",
+        "localName": "Frewville"
+      },
+      "position": {
+        "lat": -34.948006,
+        "lon": 138.628585
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -34.94711,
+          "lon": 138.62749
+        },
+        "btmRightPoint": {
+          "lat": -34.94891,
+          "lon": 138.62968
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -34.94814,
+            "lon": 138.62826
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": -34.94823,
+            "lon": 138.6284
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "zwADddR88668LYUdIX-cEg",
+      "score": 2.0041568279,
+      "info": "search:ta:036009003985967-AU",
+      "poi": {
+        "name": "Singapore Kitchen",
+        "phone": "+61 3 5333 4672",
+        "categorySet": [
+          {
+            "id": 7315062
+          }
+        ],
+        "categories": [
+          "asian (other)",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "asian (other)"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Hickman Street",
+        "municipalitySubdivision": "Ballarat Central",
+        "municipality": "Ballarat",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Victoria",
+        "countrySubdivisionName": "Victoria",
+        "countrySubdivisionCode": "VIC",
+        "postalCode": "3350",
+        "countryCode": "AU",
+        "country": "Australia",
+        "countryCodeISO3": "AUS",
+        "freeformAddress": "Hickman Street, Ballarat Central, VIC, 3350",
+        "localName": "Ballarat Central"
+      },
+      "position": {
+        "lat": -37.569109,
+        "lon": 143.856322
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -37.56821,
+          "lon": 143.85519
+        },
+        "btmRightPoint": {
+          "lat": -37.57001,
+          "lon": 143.85746
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -37.56866,
+            "lon": 143.85559
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "KJVbbA6yRTCVuMFFFa2d4g",
+      "score": 2.0041568279,
+      "info": "search:ta:036009005933270-AU",
+      "poi": {
+        "name": "Singapore Emporium",
+        "phone": "+61 8 9276 3466",
+        "categorySet": [
+          {
+            "id": 9361017
+          }
+        ],
+        "categories": [
+          "florists",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "florists"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Walter Road West",
+        "municipalitySubdivision": "Morley",
+        "municipality": "Perth",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Western Australia",
+        "countrySubdivisionName": "Western Australia",
+        "countrySubdivisionCode": "WA",
+        "postalCode": "6062",
+        "countryCode": "AU",
+        "country": "Australia",
+        "countryCodeISO3": "AUS",
+        "freeformAddress": "187 Walter Road West, Morley, WA, 6062",
+        "localName": "Morley"
+      },
+      "position": {
+        "lat": -31.898427,
+        "lon": 115.890872
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -31.89753,
+          "lon": 115.88981
+        },
+        "btmRightPoint": {
+          "lat": -31.89933,
+          "lon": 115.89193
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -31.89836,
+            "lon": 115.8908
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "-_Fz5-mJRTFeACH0nGEHLQ",
+      "score": 2.0041568279,
+      "info": "search:ta:036009005912384-AU",
+      "poi": {
+        "name": "Singapore Jewellery",
+        "categorySet": [
+          {
+            "id": 9361036
+          }
+        ],
+        "categories": [
+          "jewelry, clocks watches",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "jewelry, clocks watches"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "George Street",
+        "municipalitySubdivision": "Liverpool",
+        "municipality": "Sydney",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "New South Wales",
+        "countrySubdivisionName": "New South Wales",
+        "countrySubdivisionCode": "NSW",
+        "postalCode": "2170",
+        "countryCode": "AU",
+        "country": "Australia",
+        "countryCodeISO3": "AUS",
+        "freeformAddress": "243-247 George Street, Liverpool, NSW, 2170",
+        "localName": "Liverpool"
+      },
+      "position": {
+        "lat": -33.924015,
+        "lon": 150.924324
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -33.92312,
+          "lon": 150.92324
+        },
+        "btmRightPoint": {
+          "lat": -33.92491,
+          "lon": 150.92541
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -33.92406,
+            "lon": 150.92464
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "e-rOm2YEhMiLN9YY3nTfgw",
+      "score": 2.0041568279,
+      "info": "search:ta:036007000294997-AU",
+      "poi": {
+        "name": "Singapore Eatz",
+        "categorySet": [
+          {
+            "id": 7315062
+          }
+        ],
+        "categories": [
+          "asian (other)",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "asian (other)"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Junction Boulevard",
+        "municipalitySubdivision": "Cockburn Central",
+        "municipality": "Perth",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Western Australia",
+        "countrySubdivisionName": "Western Australia",
+        "countrySubdivisionCode": "WA",
+        "postalCode": "6164",
+        "countryCode": "AU",
+        "country": "Australia",
+        "countryCodeISO3": "AUS",
+        "freeformAddress": "12 Junction Boulevard, Cockburn Central, WA, 6164",
+        "localName": "Cockburn Central"
+      },
+      "position": {
+        "lat": -32.125392,
+        "lon": 115.855354
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -32.12449,
+          "lon": 115.85429
+        },
+        "btmRightPoint": {
+          "lat": -32.12629,
+          "lon": 115.85642
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -32.1253,
+            "lon": 115.85536
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "L6aeF6rFsNlBwQpeQmn2Xw",
+      "score": 2.0041568279,
+      "info": "search:ta:036009007196858-AU",
+      "poi": {
+        "name": "Singapore Hawker",
+        "categorySet": [
+          {
+            "id": 7315062
+          }
+        ],
+        "categories": [
+          "asian (other)",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "asian (other)"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Collins Road",
+        "municipalitySubdivision": "Willetton",
+        "municipality": "Perth",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Western Australia",
+        "countrySubdivisionName": "Western Australia",
+        "countrySubdivisionCode": "WA",
+        "postalCode": "6155",
+        "countryCode": "AU",
+        "country": "Australia",
+        "countryCodeISO3": "AUS",
+        "freeformAddress": "4113 Collins Road, Willetton, WA, 6155",
+        "localName": "Willetton"
+      },
+      "position": {
+        "lat": -32.055682,
+        "lon": 115.904384
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -32.05478,
+          "lon": 115.90332
+        },
+        "btmRightPoint": {
+          "lat": -32.05658,
+          "lon": 115.90545
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -32.05528,
+            "lon": 115.9042
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "4KkNMBEMHcgw1XeE58SGjg",
+      "score": 2.0041568279,
+      "info": "search:ta:036009007936291-AU",
+      "poi": {
+        "name": "Singapore Airlines",
+        "categorySet": [
+          {
+            "id": 9361041
+          }
+        ],
+        "categories": [
+          "shop",
+          "travel agents"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "travel agents"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ],
+        "url": "www.singaporeair.com"
+      },
+      "address": {
+        "streetName": "Collins Street",
+        "municipalitySubdivision": "Melbourne CBD",
+        "municipality": "Melbourne",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Victoria",
+        "countrySubdivisionName": "Victoria",
+        "countrySubdivisionCode": "VIC",
+        "postalCode": "3000",
+        "countryCode": "AU",
+        "country": "Australia",
+        "countryCodeISO3": "AUS",
+        "freeformAddress": "Collins Street, Melbourne CBD, VIC, 3000",
+        "localName": "Melbourne CBD"
+      },
+      "position": {
+        "lat": -37.817089,
+        "lon": 144.960417
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -37.81619,
+          "lon": 144.95928
+        },
+        "btmRightPoint": {
+          "lat": -37.81799,
+          "lon": 144.96156
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -37.81717,
+            "lon": 144.96046
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "npnewhjgAg82sefo1l3n2g",
+      "score": 2.0041568279,
+      "info": "search:ta:036009005381902-AU",
+      "poi": {
+        "name": "Singapore Jewellers",
+        "categorySet": [
+          {
+            "id": 9361036
+          }
+        ],
+        "categories": [
+          "jewelry, clocks watches",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "jewelry, clocks watches"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Belmore Road",
+        "municipalitySubdivision": "Randwick",
+        "municipality": "Sydney",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "New South Wales",
+        "countrySubdivisionName": "New South Wales",
+        "countrySubdivisionCode": "NSW",
+        "postalCode": "2031",
+        "countryCode": "AU",
+        "country": "Australia",
+        "countryCodeISO3": "AUS",
+        "freeformAddress": "57-63 Belmore Road, Randwick, NSW, 2031",
+        "localName": "Randwick"
+      },
+      "position": {
+        "lat": -33.914508,
+        "lon": 151.240233
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -33.91361,
+          "lon": 151.23915
+        },
+        "btmRightPoint": {
+          "lat": -33.91541,
+          "lon": 151.24132
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -33.91454,
+            "lon": 151.24013
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    }
+  ]
+}

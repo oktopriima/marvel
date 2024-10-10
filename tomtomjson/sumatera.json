@@ -1,0 +1,7412 @@
+{
+  "summary": {
+    "query": "sumatera",
+    "queryType": "NON_NEAR",
+    "queryTime": 203,
+    "numResults": 100,
+    "offset": 0,
+    "totalResults": 100,
+    "fuzzyLevel": 1
+  },
+  "results": [
+    {
+      "type": "POI",
+      "id": "oAtDOjDJNy-QA6Xu5GCjcg",
+      "score": 2.1244060993,
+      "info": "search:ta:360006006485215-ID",
+      "poi": {
+        "name": "Prabumulih, Sumatera",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gn. Ibul",
+        "municipalitySubdivision": "Prabumulih Timur",
+        "municipality": "Prabumulih",
+        "municipalitySecondarySubdivision": "Gunung Ibul",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "31146",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gn. Ibul, Prabumulih Timur Sub District, Prabumulih District, Sumatera Selatan 31146",
+        "localName": "Prabumulih"
+      },
+      "position": {
+        "lat": -3.4181,
+        "lon": 104.2752
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.4172,
+          "lon": 104.2743
+        },
+        "btmRightPoint": {
+          "lat": -3.419,
+          "lon": 104.2761
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.4187,
+            "lon": 104.27458
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "eTX5rFVjH-Eo2pmetdkGYw",
+      "score": 2.1037807465,
+      "info": "search:ta:360007000082118-ID",
+      "poi": {
+        "name": "Sumatera Ketambe Trekking",
+        "phone": "+62 853-7320-7007",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ],
+        "url": "ketambejungletours.com/"
+      },
+      "address": {
+        "streetName": "Jalan Kutacane-Blangkeujeren",
+        "municipality": "Aceh",
+        "municipalitySecondarySubdivision": "Ketambe",
+        "countrySubdivision": "Aceh",
+        "countrySubdivisionName": "Aceh",
+        "countrySubdivisionCode": "AC",
+        "postalCode": "24652",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Kutacane-Blangkeujeren, Aceh District, Aceh 24652",
+        "localName": "Aceh"
+      },
+      "position": {
+        "lat": 3.677376,
+        "lon": 97.662123
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.67828,
+          "lon": 97.66122
+        },
+        "btmRightPoint": {
+          "lat": 3.67648,
+          "lon": 97.66302
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.67734,
+            "lon": 97.66196
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "BsyywoHZYJ7DP1BkG6C8Uw",
+      "score": 2.0835521221,
+      "info": "search:ta:360006006354596-ID",
+      "poi": {
+        "name": "Tanjung Balai, Sumatera Utara",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Jendral Sudirman",
+        "municipalitySubdivision": "Datuk Bandar",
+        "municipality": "Tanjung Balai",
+        "municipalitySecondarySubdivision": "Sijambi",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "21369",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Jendral Sudirman, Datuk Bandar Sub District, Tanjung Balai District, Sumatera Utara 21369",
+        "localName": "Tanjung Balai"
+      },
+      "position": {
+        "lat": 2.939721,
+        "lon": 99.757228
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 2.94062,
+          "lon": 99.75633
+        },
+        "btmRightPoint": {
+          "lat": 2.93882,
+          "lon": 99.75813
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 2.9397,
+            "lon": 99.75731
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "9oC2WHDDx_PHIsf3Ifr2-Q",
+      "score": 2.0835521221,
+      "info": "search:ta:360006007638320-ID",
+      "poi": {
+        "name": "Monumen Titik Nol Sumatera",
+        "phone": "+62 853-8066-1223",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Syaikh Muhammad Al-Khidhir",
+        "municipality": "Lampung",
+        "municipalitySecondarySubdivision": "Bakauheni",
+        "countrySubdivision": "Lampung",
+        "countrySubdivisionName": "Lampung",
+        "countrySubdivisionCode": "LA",
+        "postalCode": "35592",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Syaikh Muhammad Al-Khidhir, Lampung District, Lampung 35592",
+        "localName": "Lampung"
+      },
+      "position": {
+        "lat": -5.865718,
+        "lon": 105.750367
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -5.86482,
+          "lon": 105.74946
+        },
+        "btmRightPoint": {
+          "lat": -5.86662,
+          "lon": 105.75127
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -5.86565,
+            "lon": 105.7506
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "RxT7Sdhms5WwRRxMW60RrA",
+      "score": 2.0835521221,
+      "info": "search:ta:360006005214989-ID",
+      "poi": {
+        "name": "Balai Benih Sumatera Barat",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Lubuk Minturun",
+        "municipalitySubdivision": "Koto Tangah",
+        "municipality": "Padang",
+        "municipalitySecondarySubdivision": "Lubuk Minturun",
+        "countrySubdivision": "Sumatera Barat",
+        "countrySubdivisionName": "Sumatera Barat",
+        "countrySubdivisionCode": "SB",
+        "postalCode": "25586",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Lubuk Minturun, Koto Tangah Sub District, Padang District, Sumatera Barat 25586",
+        "localName": "Padang"
+      },
+      "position": {
+        "lat": -0.843628,
+        "lon": 100.38363
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.84273,
+          "lon": 100.38273
+        },
+        "btmRightPoint": {
+          "lat": -0.84453,
+          "lon": 100.38453
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.84359,
+            "lon": 100.38371
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "fRx16xIj9WGpsvtOOODbiA",
+      "score": 2.0835521221,
+      "info": "search:ta:360006004570860-ID",
+      "poi": {
+        "name": "Masjid Raya Sumatera Barat",
+        "phone": "+62 812-8613-1128",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Alai Parak Kopi",
+        "municipalitySubdivision": "Padang Utara",
+        "municipality": "Padang",
+        "municipalitySecondarySubdivision": "Alai Parak Kopi",
+        "countrySubdivision": "Sumatera Barat",
+        "countrySubdivisionName": "Sumatera Barat",
+        "countrySubdivisionCode": "SB",
+        "postalCode": "25173",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Alai Parak Kopi, Padang Utara Sub District, Padang District, Sumatera Barat 25173",
+        "localName": "Padang"
+      },
+      "position": {
+        "lat": -0.925312,
+        "lon": 100.362776
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.92441,
+          "lon": 100.36188
+        },
+        "btmRightPoint": {
+          "lat": -0.92621,
+          "lon": 100.36368
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.92527,
+            "lon": 100.36299
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "18BfAucb_ooG05mfSI-1FQ",
+      "score": 2.0835521221,
+      "info": "search:ta:360006004506152-ID",
+      "poi": {
+        "name": "Kelok Sembilan Sumatera Barat",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Kelok Sembilan",
+        "municipality": "Lima Puluh Kota",
+        "municipalitySecondarySubdivision": "Harau",
+        "countrySubdivision": "Sumatera Barat",
+        "countrySubdivisionName": "Sumatera Barat",
+        "countrySubdivisionCode": "SB",
+        "postalCode": "26271",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Kelok Sembilan, Lima Puluh Kota District, Sumatera Barat 26271",
+        "localName": "Lima Puluh Kota"
+      },
+      "position": {
+        "lat": -0.0717,
+        "lon": 100.6986
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.0708,
+          "lon": 100.6977
+        },
+        "btmRightPoint": {
+          "lat": -0.0726,
+          "lon": 100.6995
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.07165,
+            "lon": 100.6986
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "UeZmtee2LeCA4cGA_uFVeA",
+      "score": 2.0442399979,
+      "info": "search:ta:360006003881444-ID",
+      "poi": {
+        "name": "Pantai Ujuang Kabun Padang Sumatera Barat",
+        "phone": "+62 822-8829-376",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Padang Sel",
+        "municipalitySubdivision": "Padang Selatan",
+        "municipality": "Padang",
+        "municipalitySecondarySubdivision": "Air Manis",
+        "countrySubdivision": "Sumatera Barat",
+        "countrySubdivisionName": "Sumatera Barat",
+        "countrySubdivisionCode": "SB",
+        "postalCode": "25117",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Padang Sel, Padang Selatan Sub District, Padang District, Sumatera Barat 25117",
+        "localName": "Padang"
+      },
+      "position": {
+        "lat": -0.9795,
+        "lon": 100.3602
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.9786,
+          "lon": 100.3593
+        },
+        "btmRightPoint": {
+          "lat": -0.9804,
+          "lon": 100.3611
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.97937,
+            "lon": 100.36059
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "F_QxCvolmxLygJ3Wrh2AKw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006868711-ID",
+      "poi": {
+        "name": "Sumatera",
+        "phone": "+62 626 14573340",
+        "categorySet": [
+          {
+            "id": 9361036
+          }
+        ],
+        "categories": [
+          "jewelry, clocks watches",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "jewelry, clocks watches"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Ps. Baru Kec. Medan Kota",
+        "municipalitySubdivision": "Medan Kota",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Pasar Baru",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20212",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Ps. Baru Kec. Medan Kota 65, Medan Kota Sub District, Medan District, Sumatera Utara 20212",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.584526,
+        "lon": 98.68488
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.58543,
+          "lon": 98.68398
+        },
+        "btmRightPoint": {
+          "lat": 3.58363,
+          "lon": 98.68578
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.5845,
+            "lon": 98.68479
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "4sUdLeOoJAP78XuSLjnEHg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006060498-ID",
+      "poi": {
+        "name": "Sumatera",
+        "phone": "+62 21 65832000",
+        "categorySet": [
+          {
+            "id": 9361036
+          }
+        ],
+        "categories": [
+          "jewelry, clocks watches",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "jewelry, clocks watches"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sunter Agung Tanjung Priok Rt.14/Rw.13 Sunter Agung",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Sunter Agung",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "14350",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Sunter Agung Tanjung Priok Rt.14/Rw.13 Sunter Agung 2, Jakarta District, DKI Jakarta 14350",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.138033,
+        "lon": 106.86977
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.13713,
+          "lon": 106.86887
+        },
+        "btmRightPoint": {
+          "lat": -6.13893,
+          "lon": 106.87067
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.13802,
+            "lon": 106.86986
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "WfDv8PljWhr3rZN0CZL8gQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001270467-ID",
+      "poi": {
+        "name": "Sumatera",
+        "categorySet": [
+          {
+            "id": 9376002
+          }
+        ],
+        "categories": [
+          "café",
+          "café/pub"
+        ],
+        "classifications": [
+          {
+            "code": "CAFE_PUB",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "café"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "café/pub"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Negara",
+        "municipalitySubdivision": "Negara",
+        "municipality": "Jembrana",
+        "municipalitySecondarySubdivision": "Banjar Tengah",
+        "countrySubdivision": "Bali",
+        "countrySubdivisionName": "Bali",
+        "countrySubdivisionCode": "BA",
+        "postalCode": "82213",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Negara, Negara Sub District, Jembrana District, Bali 82213",
+        "localName": "Jembrana"
+      },
+      "position": {
+        "lat": -8.357,
+        "lon": 114.6082
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.3561,
+          "lon": 114.60729
+        },
+        "btmRightPoint": {
+          "lat": -8.3579,
+          "lon": 114.60911
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.35743,
+            "lon": 114.60808
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "YVj9nfI-uie-1P8DyGJ1eA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007365199-ID",
+      "poi": {
+        "name": "Sumatera",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Trans Sulawesi",
+        "municipalitySubdivision": "Palu Utara",
+        "municipality": "Palu",
+        "municipalitySecondarySubdivision": "Mamboro Barat",
+        "countrySubdivision": "Sulawesi Tengah",
+        "countrySubdivisionName": "Sulawesi Tengah",
+        "countrySubdivisionCode": "ST",
+        "postalCode": "94147",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Trans Sulawesi, Palu Utara Sub District, Palu District, Sulawesi Tengah 94147",
+        "localName": "Palu"
+      },
+      "position": {
+        "lat": -0.7995,
+        "lon": 119.8753
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.7986,
+          "lon": 119.8744
+        },
+        "btmRightPoint": {
+          "lat": -0.8004,
+          "lon": 119.8762
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.79943,
+            "lon": 119.8754
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "HawyXhuT2fnheq2eVwoVXQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006004807970-ID",
+      "poi": {
+        "name": "Sumatera",
+        "phone": "+62 622 27800200",
+        "categorySet": [
+          {
+            "id": 9361023
+          }
+        ],
+        "categories": [
+          "food drinks: grocers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: grocers"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Cigending No.45",
+        "municipalitySubdivision": "Ujung Berung",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Cigending",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40611",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Cigending No.45, Ujung Berung Sub District, Bandung District, Jawa Barat 40611",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.912856,
+        "lon": 107.70231
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.91196,
+          "lon": 107.7014
+        },
+        "btmRightPoint": {
+          "lat": -6.91376,
+          "lon": 107.70322
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.91282,
+            "lon": 107.70223
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "87Ei4bPTwKw4oy9EP6-L6w",
+      "score": 2.0239999294,
+      "info": "search:ta:360009000081375-ID",
+      "poi": {
+        "name": "Sumatera",
+        "phone": "+62 626 14143667",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "No",
+        "municipalitySubdivision": "Medan Petisah",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Petisah Tengah",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20112",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "No 28, Medan Petisah Sub District, Medan District, Sumatera Utara 20112",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.584335,
+        "lon": 98.666038
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.58523,
+          "lon": 98.66514
+        },
+        "btmRightPoint": {
+          "lat": 3.58344,
+          "lon": 98.66694
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.5843,
+            "lon": 98.66613
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "WJ6U3ta1Y2gWS7tYlyjqyA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006649555-ID",
+      "poi": {
+        "name": "Sumatera",
+        "categorySet": [
+          {
+            "id": 9152
+          }
+        ],
+        "categories": [
+          "non governmental organization"
+        ],
+        "classifications": [
+          {
+            "code": "NON_GOVERNMENTAL_ORGANIZATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "non governmental organization"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Deli Graha No.A8",
+        "municipalitySubdivision": "Medan Johor",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Titi Kuning",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20219",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Deli Graha No.A8, Medan Johor Sub District, Medan District, Sumatera Utara 20219",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.5368,
+        "lon": 98.6809
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5377,
+          "lon": 98.68
+        },
+        "btmRightPoint": {
+          "lat": 3.5359,
+          "lon": 98.6818
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.5369,
+            "lon": 98.68089
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "TanMM-AScKRT2ccC3EadDg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003767350-ID",
+      "poi": {
+        "name": "Sumatera",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kibin Kec. Kibin",
+        "municipality": "Serang",
+        "municipalitySecondarySubdivision": "Kibin",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "42185",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kibin Kec. Kibin, Serang District, Banten 42185",
+        "localName": "Serang"
+      },
+      "position": {
+        "lat": -6.149392,
+        "lon": 106.317373
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.14849,
+          "lon": 106.31647
+        },
+        "btmRightPoint": {
+          "lat": -6.15029,
+          "lon": 106.31828
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.1494,
+            "lon": 106.31728
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "sKGC-aRI20LrYl1lwFlstQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007225607-ID",
+      "poi": {
+        "name": "Sumatera",
+        "phone": "+62 853-8250-217",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sadar I",
+        "municipality": "Lampung",
+        "municipalitySecondarySubdivision": "Kedamaian",
+        "countrySubdivision": "Lampung",
+        "countrySubdivisionName": "Lampung",
+        "countrySubdivisionCode": "LA",
+        "postalCode": "35122",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sadar I, Lampung District, Lampung 35122",
+        "localName": "Lampung"
+      },
+      "position": {
+        "lat": -5.406997,
+        "lon": 105.272395
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -5.4061,
+          "lon": 105.27149
+        },
+        "btmRightPoint": {
+          "lat": -5.4079,
+          "lon": 105.2733
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -5.40704,
+            "lon": 105.27247
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ko3oRppE1ClzRXAkkiNQoQ",
+      "score": 2.0239999294,
+      "info": "search:ta:840081000509534-US",
+      "poi": {
+        "name": "Sumatera",
+        "phone": "+1 970-879-2929",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ],
+        "url": "www.facebook.com/Sumatera-124389187583289/"
+      },
+      "address": {
+        "streetName": "Lincoln Avenue",
+        "municipality": "Steamboat Springs",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "CO",
+        "countrySubdivisionName": "Colorado",
+        "countrySubdivisionCode": "CO",
+        "postalCode": "80487",
+        "countryCode": "US",
+        "country": "United States",
+        "countryCodeISO3": "USA",
+        "freeformAddress": "1104 Lincoln Avenue, Steamboat Springs, CO 80487",
+        "localName": "Steamboat Springs"
+      },
+      "position": {
+        "lat": 40.488606,
+        "lon": -106.837853
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 40.48951,
+          "lon": -106.83904
+        },
+        "btmRightPoint": {
+          "lat": 40.48771,
+          "lon": -106.83667
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 40.4882,
+            "lon": -106.83809
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "QMqWGCV2PlK6HqLPG74Ztg",
+      "score": 2.0041568279,
+      "info": "search:ta:076009022225129-BR",
+      "poi": {
+        "name": "Sumatera Participações",
+        "categorySet": [
+          {
+            "id": 9361013
+          }
+        ],
+        "categories": [
+          "electrical, office it: consumer electronics",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "electrical, office it: consumer electronics"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rua Conselheiro Brotero",
+        "municipalitySubdivision": "Santa Cecília",
+        "municipality": "São Paulo",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "São Paulo",
+        "countrySubdivisionName": "São Paulo",
+        "countrySubdivisionCode": "SP",
+        "postalCode": "01154",
+        "countryCode": "BR",
+        "country": "Brasil",
+        "countryCodeISO3": "BRA",
+        "freeformAddress": "Rua Conselheiro Brotero, 339, 01154-001, São Paulo",
+        "localName": "São Paulo"
+      },
+      "position": {
+        "lat": -23.53009,
+        "lon": -46.657021
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -23.52919,
+          "lon": -46.658
+        },
+        "btmRightPoint": {
+          "lat": -23.53099,
+          "lon": -46.65604
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -23.53003,
+            "lon": -46.65709
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "6XQShqCHVvTKRylCQcLnyg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007543770-ID",
+      "poi": {
+        "name": "Sumatera Journey",
+        "phone": "+62 811-6601-554",
+        "categorySet": [
+          {
+            "id": 9352
+          }
+        ],
+        "categories": [
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Parupuk Tabing",
+        "municipalitySubdivision": "Koto Tangah",
+        "municipality": "Padang",
+        "municipalitySecondarySubdivision": "Parupuk Tabing",
+        "countrySubdivision": "Sumatera Barat",
+        "countrySubdivisionName": "Sumatera Barat",
+        "countrySubdivisionCode": "SB",
+        "postalCode": "25586",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Parupuk Tabing, Koto Tangah Sub District, Padang District, Sumatera Barat 25586",
+        "localName": "Padang"
+      },
+      "position": {
+        "lat": -0.8769,
+        "lon": 100.3428
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.876,
+          "lon": 100.3419
+        },
+        "btmRightPoint": {
+          "lat": -0.8778,
+          "lon": 100.3437
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.87679,
+            "lon": 100.34273
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "6QKzJ9CFj_aeDWq27cJOpA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007402292-ID",
+      "poi": {
+        "name": "Sumatera Transport",
+        "phone": "+62 811-7488-808",
+        "categorySet": [
+          {
+            "id": 9352
+          }
+        ],
+        "categories": [
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Lintas Sumatera",
+        "municipalitySubdivision": "Bangko",
+        "municipality": "Merangin",
+        "municipalitySecondarySubdivision": "Pematang Kandis",
+        "countrySubdivision": "Jambi",
+        "countrySubdivisionName": "Jambi",
+        "countrySubdivisionCode": "JA",
+        "postalCode": "37313",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Lintas Sumatera, Bangko Sub District, Merangin District, Jambi 37313",
+        "localName": "Merangin"
+      },
+      "position": {
+        "lat": -2.0521,
+        "lon": 102.2792
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.0512,
+          "lon": 102.2783
+        },
+        "btmRightPoint": {
+          "lat": -2.053,
+          "lon": 102.2801
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.0522,
+            "lon": 102.27936
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "KRjsj1iTvCagLj9IjpWXRA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007060678-ID",
+      "poi": {
+        "name": "Tani Sumatera",
+        "phone": "+62 812-8090-916",
+        "categorySet": [
+          {
+            "id": 7335004
+          }
+        ],
+        "categories": [
+          "agriculture",
+          "farm"
+        ],
+        "classifications": [
+          {
+            "code": "AGRICULTURE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "agriculture"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "farm"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sumur Wareng No.2",
+        "municipality": "Kota Tangerang",
+        "municipalitySecondarySubdivision": "Suka Mulya",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "15710",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sumur Wareng No.2, Kota Tangerang District, Banten 15710",
+        "localName": "Kota Tangerang"
+      },
+      "position": {
+        "lat": -6.2382,
+        "lon": 106.5057
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.2373,
+          "lon": 106.5048
+        },
+        "btmRightPoint": {
+          "lat": -6.2391,
+          "lon": 106.5066
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.23825,
+            "lon": 106.50579
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "2EEG8y81WUct-kJT4-6tpQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360009000847503-ID",
+      "poi": {
+        "name": "Sumatera Service",
+        "categorySet": [
+          {
+            "id": 7310
+          }
+        ],
+        "categories": [
+          "repair facility"
+        ],
+        "classifications": [
+          {
+            "code": "REPAIR_FACILITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "repair facility"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Soekarno Hatta",
+        "municipalitySubdivision": "Darul Imarah",
+        "municipality": "Aceh",
+        "municipalitySecondarySubdivision": "Lam Bheu",
+        "countrySubdivision": "Aceh",
+        "countrySubdivisionName": "Aceh",
+        "countrySubdivisionCode": "AC",
+        "postalCode": "23238",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Soekarno Hatta, Darul Imarah Sub District, Aceh District, Aceh 23238",
+        "localName": "Aceh"
+      },
+      "position": {
+        "lat": 5.519136,
+        "lon": 95.309381
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 5.52004,
+          "lon": 95.30848
+        },
+        "btmRightPoint": {
+          "lat": 5.51824,
+          "lon": 95.31028
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 5.51923,
+            "lon": 95.3094
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "KTYFN2Sb02pikyYMKB674g",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003052274-ID",
+      "poi": {
+        "name": "Kost Sumatera",
+        "categorySet": [
+          {
+            "id": 7395
+          }
+        ],
+        "categories": [
+          "rest area"
+        ],
+        "classifications": [
+          {
+            "code": "REST_AREA",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "rest area"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipality": "Gunungsitoli",
+        "municipalitySecondarySubdivision": "Iraonogeba",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "22810",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gunungsitoli District, Sumatera Utara 22810",
+        "localName": "Gunungsitoli"
+      },
+      "position": {
+        "lat": 1.301066,
+        "lon": 97.60736
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.30197,
+          "lon": 97.60646
+        },
+        "btmRightPoint": {
+          "lat": 1.30017,
+          "lon": 97.60826
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.30183,
+            "lon": 97.60725
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "DpQU0ekADWcfrXUU9OxkXQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003313024-ID",
+      "poi": {
+        "name": "Lr. Sumatera",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "No.3",
+        "municipalitySubdivision": "Bukit Bestari",
+        "municipality": "Tanjung Pinang",
+        "municipalitySecondarySubdivision": "Tanjung Ayun Sakti",
+        "countrySubdivision": "Kepulauan Riau",
+        "countrySubdivisionName": "Kepulauan Riau",
+        "countrySubdivisionCode": "KR",
+        "postalCode": "29113",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "No.3, Bukit Bestari Sub District, Tanjung Pinang District, Kepulauan Riau 29113",
+        "localName": "Tanjung Pinang"
+      },
+      "position": {
+        "lat": 0.900442,
+        "lon": 104.462483
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 0.90134,
+          "lon": 104.46158
+        },
+        "btmRightPoint": {
+          "lat": 0.89954,
+          "lon": 104.46338
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 0.90052,
+            "lon": 104.46244
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "oY5N6_c3fpuEvHSXiJuCDQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001518127-ID",
+      "poi": {
+        "name": "Sumatera Service",
+        "phone": "+62 823-8112-591",
+        "categorySet": [
+          {
+            "id": 7310008
+          }
+        ],
+        "categories": [
+          "motorcycle repair",
+          "repair facility"
+        ],
+        "classifications": [
+          {
+            "code": "REPAIR_FACILITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "repair facility"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "motorcycle repair"
+              }
+            ]
+          }
+        ],
+        "url": "sumatera-service.business.site"
+      },
+      "address": {
+        "municipalitySubdivision": "Mandau",
+        "municipality": "Bengkalis",
+        "municipalitySecondarySubdivision": "Air Jamban",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28784",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mandau Sub District, Bengkalis District, Riau 28784",
+        "localName": "Bengkalis"
+      },
+      "position": {
+        "lat": 1.279675,
+        "lon": 101.167466
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.28057,
+          "lon": 101.16657
+        },
+        "btmRightPoint": {
+          "lat": 1.27878,
+          "lon": 101.16837
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.27981,
+            "lon": 101.16742
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "WyV6kH0OR5phc7ptMK-Vrg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003868807-ID",
+      "poi": {
+        "name": "Sumatera Selatan",
+        "phone": "+62 627 11351744",
+        "categorySet": [
+          {
+            "id": 9152
+          }
+        ],
+        "categories": [
+          "non governmental organization"
+        ],
+        "classifications": [
+          {
+            "code": "NON_GOVERNMENTAL_ORGANIZATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "non governmental organization"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Akbp Cek Agus No.24",
+        "municipalitySubdivision": "Ilir Timur Tiga",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Duku",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30114",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Akbp Cek Agus No.24, Ilir Timur Tiga Sub District, Palembang District, Sumatera Selatan 30114",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9562,
+        "lon": 104.7703
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9553,
+          "lon": 104.7694
+        },
+        "btmRightPoint": {
+          "lat": -2.9571,
+          "lon": 104.7712
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.95656,
+            "lon": 104.77046
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ca1RVvPQAKTjTdDwUL0pRg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003515437-ID",
+      "poi": {
+        "name": "Sumatera Barat",
+        "phone": "+62 813-6341-0588",
+        "categorySet": [
+          {
+            "id": 7372002
+          }
+        ],
+        "categories": [
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Unnamed Road",
+        "municipality": "Pasaman",
+        "municipalitySecondarySubdivision": "Kinali",
+        "countrySubdivision": "Sumatera Barat",
+        "countrySubdivisionName": "Sumatera Barat",
+        "countrySubdivisionCode": "SB",
+        "postalCode": "26567",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Unnamed Road, Pasaman District, Sumatera Barat 26567",
+        "localName": "Pasaman"
+      },
+      "position": {
+        "lat": -0.0985,
+        "lon": 99.9252
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.0976,
+          "lon": 99.9243
+        },
+        "btmRightPoint": {
+          "lat": -0.0994,
+          "lon": 99.9261
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.09821,
+            "lon": 99.92511
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "beQ7QOT8p6g-hMP4GiTF_A",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003183367-ID",
+      "poi": {
+        "name": "Sumatera Konveksi",
+        "phone": "+62 813-9664-161",
+        "categorySet": [
+          {
+            "id": 9361077
+          }
+        ],
+        "categories": [
+          "shop",
+          "tailor shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "tailor shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Kemenyan Raya No.7",
+        "municipalitySubdivision": "Medan Tuntungan",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Mangga",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20141",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Kemenyan Raya No.7, Medan Tuntungan Sub District, Medan District, Sumatera Utara 20141",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.512737,
+        "lon": 98.633464
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.51364,
+          "lon": 98.63256
+        },
+        "btmRightPoint": {
+          "lat": 3.51184,
+          "lon": 98.63437
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.51267,
+            "lon": 98.63353
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "DPfI1IAyMW_wrpPQ6mQCbA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007402103-ID",
+      "poi": {
+        "name": "Sumatera Aluminium",
+        "categorySet": [
+          {
+            "id": 9361042
+          }
+        ],
+        "categories": [
+          "construction material equipment",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "construction material equipment"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Cincin Kota",
+        "municipality": "Kebumen",
+        "municipalitySecondarySubdivision": "Gemeksekti",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "54317",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Cincin Kota, Kebumen District, Jawa Tengah 54317",
+        "localName": "Kebumen"
+      },
+      "position": {
+        "lat": -7.655137,
+        "lon": 109.647787
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.65424,
+          "lon": 109.64688
+        },
+        "btmRightPoint": {
+          "lat": -7.65604,
+          "lon": 109.64869
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.65501,
+            "lon": 109.6478
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "VZjW_dp7ys0KpN50hrfhuA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007323984-ID",
+      "poi": {
+        "name": "Universitas Sumatera",
+        "phone": "+62 813-7701-558",
+        "categorySet": [
+          {
+            "id": 7377002
+          }
+        ],
+        "categories": [
+          "college/university"
+        ],
+        "classifications": [
+          {
+            "code": "COLLEGE_UNIVERSITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "college/university"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Serma Muda",
+        "municipalitySubdivision": "Balige",
+        "municipality": "Toba Samosir",
+        "municipalitySecondarySubdivision": "Paindoan",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "22312",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Serma Muda, Balige Sub District, Toba Samosir District, Sumatera Utara 22312",
+        "localName": "Toba Samosir"
+      },
+      "position": {
+        "lat": 2.3323,
+        "lon": 99.0785
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 2.3332,
+          "lon": 99.0776
+        },
+        "btmRightPoint": {
+          "lat": 2.3314,
+          "lon": 99.0794
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 2.33238,
+            "lon": 99.07858
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "tTQuKGL0Pj3OubHguRfAZw",
+      "score": 2.0041568279,
+      "info": "search:ta:360009000484174-ID",
+      "poi": {
+        "name": "Hotel Sumatera",
+        "phone": "+62 21 80629666",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Dr. Setia Budi No.16",
+        "municipalitySubdivision": "Guguk Panjang",
+        "municipality": "Bukittinggi",
+        "municipalitySecondarySubdivision": "Bukit Cangang Kayu Ramang",
+        "countrySubdivision": "Sumatera Barat",
+        "countrySubdivisionName": "Sumatera Barat",
+        "countrySubdivisionCode": "SB",
+        "postalCode": "26136",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Dr. Setia Budi No.16, Guguk Panjang Sub District, Bukittinggi District, Sumatera Barat 26136",
+        "localName": "Bukittinggi"
+      },
+      "position": {
+        "lat": -0.3068,
+        "lon": 100.3667
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.3059,
+          "lon": 100.3658
+        },
+        "btmRightPoint": {
+          "lat": -0.3077,
+          "lon": 100.3676
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.30668,
+            "lon": 100.3667
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "i-ttAuiPyVpOX9ouGVgzzQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006004776130-ID",
+      "poi": {
+        "name": "Elang Sumatera",
+        "phone": "+62 761 8413678",
+        "categorySet": [
+          {
+            "id": 9352
+          }
+        ],
+        "categories": [
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Melati No.16",
+        "municipalitySubdivision": "Tampan",
+        "municipality": "Pekanbaru",
+        "municipalitySecondarySubdivision": "Bina Widya",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28292",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Melati No.16, Tampan Sub District, Pekanbaru District, Riau 28292",
+        "localName": "Pekanbaru"
+      },
+      "position": {
+        "lat": 0.4989,
+        "lon": 101.3738
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 0.49998,
+          "lon": 101.37272
+        },
+        "btmRightPoint": {
+          "lat": 0.49782,
+          "lon": 101.37488
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 0.4984,
+            "lon": 101.37476
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "g30VeJ1tCk16wFuYtCH6Vw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006947238-ID",
+      "poi": {
+        "name": "Trans Sumatera",
+        "phone": "+62 822-5822-104",
+        "categorySet": [
+          {
+            "id": 7312
+          }
+        ],
+        "categories": [
+          "rent-a-car facility"
+        ],
+        "classifications": [
+          {
+            "code": "RENT_A_CAR_FACILITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "rent-a-car facility"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Ciawi Caringin Bogor Regency West Java",
+        "municipality": "Kota Bogor",
+        "municipalitySecondarySubdivision": "Caringin",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "16730",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Ciawi Caringin Bogor Regency West Java, Kota Bogor District, Jawa Barat 16730",
+        "localName": "Kota Bogor"
+      },
+      "position": {
+        "lat": -6.7076,
+        "lon": 106.8215
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.7067,
+          "lon": 106.82059
+        },
+        "btmRightPoint": {
+          "lat": -6.7085,
+          "lon": 106.82241
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.70752,
+            "lon": 106.8222
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "-zFYCIHYH22eA1fUPLmsJA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006004308731-ID",
+      "poi": {
+        "name": "Sumatera Kramik",
+        "categorySet": [
+          {
+            "id": 9361042
+          }
+        ],
+        "categories": [
+          "construction material equipment",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "construction material equipment"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Jenderal Gatot Subroto",
+        "municipalitySubdivision": "Medan Sunggal",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Lalang",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20127",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Jenderal Gatot Subroto, Medan Sunggal Sub District, Medan District, Sumatera Utara 20127",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.59794,
+        "lon": 98.608795
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.59884,
+          "lon": 98.60789
+        },
+        "btmRightPoint": {
+          "lat": 3.59704,
+          "lon": 98.6097
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.59794,
+            "lon": 98.6088
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "hLBEcfY1ISdFcQ27NNQ7Xw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007989675-ID",
+      "poi": {
+        "name": "Why Sumatera",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Way Hitam Lrg. Posyandu Melati",
+        "municipalitySubdivision": "Ilir Barat I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Siring Agung",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30138",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Way Hitam Lrg. Posyandu Melati, Ilir Barat I Sub District, Palembang District, Sumatera Selatan 30138",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9631,
+        "lon": 104.7267
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9622,
+          "lon": 104.7258
+        },
+        "btmRightPoint": {
+          "lat": -2.964,
+          "lon": 104.7276
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.96302,
+            "lon": 104.7272
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "bi7qG0iqm8PgIyMM_oIOiQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007502018-ID",
+      "poi": {
+        "name": "Sumatera Village",
+        "categorySet": [
+          {
+            "id": 7320004
+          }
+        ],
+        "categories": [
+          "sports center"
+        ],
+        "classifications": [
+          {
+            "code": "SPORTS_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "sports center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Mayor Jenderal Haji Tengku Rizal Nurdin",
+        "municipalitySubdivision": "Pantai Cermin",
+        "municipality": "Serdang Bedagai",
+        "municipalitySecondarySubdivision": "Celawan",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20987",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Mayor Jenderal Haji Tengku Rizal Nurdin, Pantai Cermin Sub District, Serdang Bedagai District, Sumatera Utara 20987",
+        "localName": "Serdang Bedagai"
+      },
+      "position": {
+        "lat": 3.63987,
+        "lon": 98.968033
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.64077,
+          "lon": 98.96713
+        },
+        "btmRightPoint": {
+          "lat": 3.63897,
+          "lon": 98.96893
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.6405,
+            "lon": 98.96804
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "KeTrt7Lnqf-jCmElcSn2gQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007044828-ID",
+      "poi": {
+        "name": "Sumatera-Ho",
+        "categorySet": [
+          {
+            "id": 9361008
+          }
+        ],
+        "categories": [
+          "clothing accessories: women",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: women"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Gunung Pongpok 3",
+        "municipality": "Kota Tasikmalaya",
+        "municipalitySecondarySubdivision": "Lengkongsari",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "46111",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Gunung Pongpok 3, Kota Tasikmalaya District, Jawa Barat 46111",
+        "localName": "Kota Tasikmalaya"
+      },
+      "position": {
+        "lat": -7.32481,
+        "lon": 108.23344
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.32391,
+          "lon": 108.23253
+        },
+        "btmRightPoint": {
+          "lat": -7.32571,
+          "lon": 108.23435
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.32497,
+            "lon": 108.23285
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "QA0G_9e-VKJewGztpy3vdw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003092432-ID",
+      "poi": {
+        "name": "Sumatera Jaya",
+        "phone": "+62 822-7441-438",
+        "categorySet": [
+          {
+            "id": 9383
+          }
+        ],
+        "categories": [
+          "industrial building"
+        ],
+        "classifications": [
+          {
+            "code": "INDUSTRIAL_BUILDING",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "industrial building"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Letda Sujono No.134",
+        "municipalitySubdivision": "Medan Tembung",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Bandar Selamat",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20225",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Letda Sujono No.134, Medan Tembung Sub District, Medan District, Sumatera Utara 20225",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.597347,
+        "lon": 98.719964
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.59825,
+          "lon": 98.71906
+        },
+        "btmRightPoint": {
+          "lat": 3.59645,
+          "lon": 98.72087
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.59744,
+            "lon": 98.71997
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "gCDHR53QgserF2RCTjlWEw",
+      "score": 2.0041568279,
+      "info": "search:ta:360009001921623-ID",
+      "poi": {
+        "name": "Apotek Sumatera",
+        "phone": "+62 626 20530",
+        "categorySet": [
+          {
+            "id": 7326
+          }
+        ],
+        "categories": [
+          "pharmacy"
+        ],
+        "classifications": [
+          {
+            "code": "PHARMACY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "pharmacy"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Imam Bonjol No.118",
+        "municipalitySubdivision": "Rantau Utara",
+        "municipality": "Labuhan Batu",
+        "municipalitySecondarySubdivision": "Cendana",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "21413",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Imam Bonjol No.118, Rantau Utara Sub District, Labuhan Batu District, Sumatera Utara 21413",
+        "localName": "Labuhan Batu"
+      },
+      "position": {
+        "lat": 2.099,
+        "lon": 99.8256
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 2.0999,
+          "lon": 99.8247
+        },
+        "btmRightPoint": {
+          "lat": 2.0981,
+          "lon": 99.8265
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 2.09902,
+            "lon": 99.82575
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "bYxeOk_AfqKWWmQswwu7bg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006002445879-ID",
+      "poi": {
+        "name": "Western Sumatera",
+        "categorySet": [
+          {
+            "id": 9362008
+          }
+        ],
+        "categories": [
+          "park",
+          "park recreation area"
+        ],
+        "classifications": [
+          {
+            "code": "PARK_RECREATION_AREA",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "park recreation area"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "park"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Manggis Ganting",
+        "municipalitySubdivision": "Mandiangin Koto Selayan",
+        "municipality": "Bukittinggi",
+        "municipalitySecondarySubdivision": "Garegeh",
+        "countrySubdivision": "Sumatera Barat",
+        "countrySubdivisionName": "Sumatera Barat",
+        "countrySubdivisionCode": "SB",
+        "postalCode": "26117",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Manggis Ganting, Mandiangin Koto Selayan Sub District, Bukittinggi District, Sumatera Barat 26117",
+        "localName": "Bukittinggi"
+      },
+      "position": {
+        "lat": -0.298131,
+        "lon": 100.389688
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.29665,
+          "lon": 100.38821
+        },
+        "btmRightPoint": {
+          "lat": -0.29961,
+          "lon": 100.39117
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.29666,
+            "lon": 100.38953
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1Hko97yDA8wLMZ2ifxOVXQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001284078-ID",
+      "poi": {
+        "name": "Lactamond Sumatera",
+        "categorySet": [
+          {
+            "id": 7332005
+          }
+        ],
+        "categories": [
+          "market",
+          "supermarkets hypermarkets"
+        ],
+        "classifications": [
+          {
+            "code": "MARKET",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "supermarkets hypermarkets"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "market"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Lactamond Sumatera",
+        "municipalitySubdivision": "Bukit Raya",
+        "municipality": "Pekanbaru",
+        "municipalitySecondarySubdivision": "Air dingin",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28282",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Lactamond Sumatera, Bukit Raya Sub District, Pekanbaru District, Riau 28282",
+        "localName": "Pekanbaru"
+      },
+      "position": {
+        "lat": 0.456467,
+        "lon": 101.462642
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 0.45737,
+          "lon": 101.46174
+        },
+        "btmRightPoint": {
+          "lat": 0.45557,
+          "lon": 101.46354
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 0.45652,
+            "lon": 101.46257
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "TQr8Tkxt4FHUmm7KFkeqnQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006004503260-ID",
+      "poi": {
+        "name": "Pinang Sumatera",
+        "phone": "+62 823-9046-204",
+        "categorySet": [
+          {
+            "id": 9352
+          }
+        ],
+        "categories": [
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Andaleh",
+        "municipalitySubdivision": "Luak",
+        "municipality": "Lima Puluh Kota",
+        "municipalitySecondarySubdivision": "Andaleh",
+        "countrySubdivision": "Sumatera Barat",
+        "countrySubdivisionName": "Sumatera Barat",
+        "countrySubdivisionCode": "SB",
+        "postalCode": "26235",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Andaleh, Luak Sub District, Lima Puluh Kota District, Sumatera Barat 26235",
+        "localName": "Lima Puluh Kota"
+      },
+      "position": {
+        "lat": -0.251809,
+        "lon": 100.686141
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.25091,
+          "lon": 100.68524
+        },
+        "btmRightPoint": {
+          "lat": -0.25271,
+          "lon": 100.68704
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.25179,
+            "lon": 100.68605
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Xl-EOOFRK-UICY1_s9qfNg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006486879-ID",
+      "poi": {
+        "name": "Sumatera Satu",
+        "phone": "+62 811-7500-555",
+        "categorySet": [
+          {
+            "id": 9352002
+          }
+        ],
+        "categories": [
+          "company",
+          "service"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "service"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Pontianak No.29",
+        "municipalitySubdivision": "Bukit Raya",
+        "municipality": "Pekanbaru",
+        "municipalitySecondarySubdivision": "Tengkerang Utara",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28126",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Pontianak No.29, Bukit Raya Sub District, Pekanbaru District, Riau 28126",
+        "localName": "Pekanbaru"
+      },
+      "position": {
+        "lat": 0.5033,
+        "lon": 101.4641
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 0.5042,
+          "lon": 101.4632
+        },
+        "btmRightPoint": {
+          "lat": 0.5024,
+          "lon": 101.465
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 0.50329,
+            "lon": 101.46426
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "o9sLWQPg0YGr9USHPd3G3g",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001171084-ID",
+      "poi": {
+        "name": "Rendang Sumatera",
+        "phone": "+62 813-2864-661",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Kapuas Iii No.1",
+        "municipalitySubdivision": "Gading Cempaka",
+        "municipality": "Bengkulu",
+        "municipalitySecondarySubdivision": "Padang Harapan",
+        "countrySubdivision": "Bengkulu",
+        "countrySubdivisionName": "Bengkulu",
+        "countrySubdivisionCode": "BE",
+        "postalCode": "38225",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Kapuas Iii No.1, Gading Cempaka Sub District, Bengkulu District, Bengkulu 38225",
+        "localName": "Bengkulu"
+      },
+      "position": {
+        "lat": -3.8247,
+        "lon": 102.2923
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.82344,
+          "lon": 102.29104
+        },
+        "btmRightPoint": {
+          "lat": -3.82596,
+          "lon": 102.29356
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.8238,
+            "lon": 102.29142
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "as-AXhkiIuFlW7CLWs8tuQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006661747-ID",
+      "poi": {
+        "name": "Sumatera Perabot",
+        "phone": "+62 813-6598-264",
+        "categorySet": [
+          {
+            "id": 9361033
+          }
+        ],
+        "categories": [
+          "kitchens bathrooms",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "kitchens bathrooms"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sumatera Perabot",
+        "municipalitySubdivision": "Sangir",
+        "municipality": "Solok",
+        "municipalitySecondarySubdivision": "Lubuk Gadang Selatan",
+        "countrySubdivision": "Sumatera Barat",
+        "countrySubdivisionName": "Sumatera Barat",
+        "countrySubdivisionCode": "SB",
+        "postalCode": "27778",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Sumatera Perabot, Sangir Sub District, Solok District, Sumatera Barat 27778",
+        "localName": "Solok"
+      },
+      "position": {
+        "lat": -1.5844,
+        "lon": 101.1866
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -1.5835,
+          "lon": 101.1857
+        },
+        "btmRightPoint": {
+          "lat": -1.5853,
+          "lon": 101.1875
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -1.58427,
+            "lon": 101.18655
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "4sPJ1G4q73D644REmIlVAA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006326475-ID",
+      "poi": {
+        "name": "Sumatera Utara",
+        "categorySet": [
+          {
+            "id": 9361067
+          }
+        ],
+        "categories": [
+          "beauty salon",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "beauty salon"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "No 9",
+        "municipalitySubdivision": "Medan Marelan",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Terjun",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20256",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "No 9 1, Medan Marelan Sub District, Medan District, Sumatera Utara 20256",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.690273,
+        "lon": 98.63497
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.69117,
+          "lon": 98.63407
+        },
+        "btmRightPoint": {
+          "lat": 3.68937,
+          "lon": 98.63587
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.69025,
+            "lon": 98.63506
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "lIlMF22OCwmhwY_ev62MQA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006203942-ID",
+      "poi": {
+        "name": "Suluh Sumatera",
+        "phone": "+62 624 4971213",
+        "categorySet": [
+          {
+            "id": 9158
+          }
+        ],
+        "categories": [
+          "media facility"
+        ],
+        "classifications": [
+          {
+            "code": "MEDIA_FACILITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "media facility"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Lobu Kota Pinang Kec. Kota Pinang Kab. Labuhanbatu Selatan",
+        "municipality": "Labuhan Batu",
+        "municipalitySecondarySubdivision": "Kota Pinang",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "21464",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Lobu Kota Pinang Kec. Kota Pinang Kab. Labuhanbatu Selatan, Labuhan Batu District, Sumatera Utara 21464",
+        "localName": "Labuhan Batu"
+      },
+      "position": {
+        "lat": 1.899302,
+        "lon": 100.091213
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.9002,
+          "lon": 100.09031
+        },
+        "btmRightPoint": {
+          "lat": 1.8984,
+          "lon": 100.09211
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.89929,
+            "lon": 100.09112
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "7HcusArmCZ3jL9a3ecZ-VQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006002994613-ID",
+      "poi": {
+        "name": "Sumatera Photo",
+        "categorySet": [
+          {
+            "id": 9352011
+          }
+        ],
+        "categories": [
+          "company",
+          "manufacturing"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "manufacturing"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sudirman",
+        "municipality": "Indragiri",
+        "municipalitySecondarySubdivision": "Peranap",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "29354",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sudirman, Indragiri District, Riau 29354",
+        "localName": "Indragiri"
+      },
+      "position": {
+        "lat": -0.5186,
+        "lon": 101.9736
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.5177,
+          "lon": 101.9727
+        },
+        "btmRightPoint": {
+          "lat": -0.5195,
+          "lon": 101.9745
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.51873,
+            "lon": 101.97366
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1TCjJK3E18oI0Me9cmI-8Q",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007550756-ID",
+      "poi": {
+        "name": "Sumatera Musik",
+        "phone": "+62 852-6777-808",
+        "categorySet": [
+          {
+            "id": 9352002
+          }
+        ],
+        "categories": [
+          "company",
+          "service"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "service"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gg. Rambutan Ii",
+        "municipalitySubdivision": "Lubuk Linggau Timur I",
+        "municipality": "Lubuklinggau",
+        "municipalitySecondarySubdivision": "Taba Jemekeh",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "31624",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gg. Rambutan Ii, Lubuk Linggau Timur I Sub District, Lubuklinggau District, Sumatera Selatan 31624",
+        "localName": "Lubuklinggau"
+      },
+      "position": {
+        "lat": -3.2888,
+        "lon": 102.8844
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.2879,
+          "lon": 102.8835
+        },
+        "btmRightPoint": {
+          "lat": -3.2897,
+          "lon": 102.8853
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.28891,
+            "lon": 102.88409
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "n8t11WtClI0jQ5tem2xx7w",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006032520-ID",
+      "poi": {
+        "name": "Sumatera Holidays",
+        "phone": "+62 812-6399-000",
+        "categorySet": [
+          {
+            "id": 9352
+          }
+        ],
+        "categories": [
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gg. Syukur",
+        "municipalitySubdivision": "Percut Sei Tuan",
+        "municipality": "Deli Serdang",
+        "municipalitySecondarySubdivision": "Sumber Rejo Timur",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20371",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gg. Syukur, Percut Sei Tuan Sub District, Deli Serdang District, Sumatera Utara 20371",
+        "localName": "Deli Serdang"
+      },
+      "position": {
+        "lat": 3.5934,
+        "lon": 98.7686
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5943,
+          "lon": 98.7677
+        },
+        "btmRightPoint": {
+          "lat": 3.5925,
+          "lon": 98.7695
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.59341,
+            "lon": 98.76815
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "8sIRKbnqOlEVp_xg9xynSA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001866137-ID",
+      "poi": {
+        "name": "Restoran Sumatera",
+        "phone": "+62 627 11356166",
+        "categorySet": [
+          {
+            "id": 7315062
+          }
+        ],
+        "categories": [
+          "asian (other)",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "asian (other)"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Veteran No.4416A",
+        "municipalitySubdivision": "Ilir Timur I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "20 Ilir I",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30114",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Veteran No.4416A, Ilir Timur I Sub District, Palembang District, Sumatera Selatan 30114",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9756,
+        "lon": 104.7569
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9747,
+          "lon": 104.756
+        },
+        "btmRightPoint": {
+          "lat": -2.9765,
+          "lon": 104.7578
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.97571,
+            "lon": 104.75692
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Rqm9SxNFKtc2rcfSPUaeuQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006005442385-ID",
+      "poi": {
+        "name": "Warung Sumatera",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Trans Sulawesi Wosu-Bungku",
+        "municipalitySubdivision": "Bungku Tengah",
+        "municipality": "Morowali",
+        "municipalitySecondarySubdivision": "Bahomoleo",
+        "countrySubdivision": "Sulawesi Tengah",
+        "countrySubdivisionName": "Sulawesi Tengah",
+        "countrySubdivisionCode": "ST",
+        "postalCode": "94973",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Trans Sulawesi Wosu-Bungku, Bungku Tengah Sub District, Morowali District, Sulawesi Tengah 94973",
+        "localName": "Morowali"
+      },
+      "position": {
+        "lat": -2.4581,
+        "lon": 121.9176
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.4572,
+          "lon": 121.9167
+        },
+        "btmRightPoint": {
+          "lat": -2.459,
+          "lon": 121.9185
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.45818,
+            "lon": 121.91753
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "C4OxZRZuUC2uee_2Jwk4KQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006002839066-ID",
+      "poi": {
+        "name": "Sumatera 9",
+        "phone": "+62 822-4498-967",
+        "categorySet": [
+          {
+            "id": 9379004
+          }
+        ],
+        "categories": [
+          "bar",
+          "nightlife"
+        ],
+        "classifications": [
+          {
+            "code": "NIGHTLIFE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "bar"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "nightlife"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tegal Boto Lor",
+        "municipality": "Jember",
+        "municipalitySecondarySubdivision": "Sumbersari",
+        "countrySubdivision": "Jawa Timur",
+        "countrySubdivisionName": "Jawa Timur",
+        "countrySubdivisionCode": "JI",
+        "postalCode": "68121",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Tegal Boto Lor, Jember District, Jawa Timur 68121",
+        "localName": "Jember"
+      },
+      "position": {
+        "lat": -8.174851,
+        "lon": 113.709154
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.17395,
+          "lon": 113.70825
+        },
+        "btmRightPoint": {
+          "lat": -8.17575,
+          "lon": 113.71006
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.17479,
+            "lon": 113.70909
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "-Jthim9CwDCHuli5BtQbMg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007046451-ID",
+      "poi": {
+        "name": "Penjahit Sumatera",
+        "phone": "+62 812-6122-231",
+        "categorySet": [
+          {
+            "id": 9361077
+          }
+        ],
+        "categories": [
+          "shop",
+          "tailor shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "tailor shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tj. Mulia",
+        "municipalitySubdivision": "Medan Deli",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Tanjung Mulia",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20241",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Tj. Mulia, Medan Deli Sub District, Medan District, Sumatera Utara 20241",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.6531,
+        "lon": 98.6626
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.654,
+          "lon": 98.6617
+        },
+        "btmRightPoint": {
+          "lat": 3.6522,
+          "lon": 98.6635
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.6535,
+            "lon": 98.66267
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ibC65ugAtZ9qdg-5sCNmcw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006488885-ID",
+      "poi": {
+        "name": "Sumatera Kuliner",
+        "phone": "+62 822-3434-560",
+        "categorySet": [
+          {
+            "id": 9376002
+          }
+        ],
+        "categories": [
+          "café",
+          "café/pub"
+        ],
+        "classifications": [
+          {
+            "code": "CAFE_PUB",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "café"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "café/pub"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Arifin Ahmad No.94",
+        "municipalitySubdivision": "Marpoyan Damai",
+        "municipality": "Pekanbaru",
+        "municipalitySecondarySubdivision": "Sidomulyo Timur",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Arifin Ahmad No.94, Marpoyan Damai Sub District, Pekanbaru District, Riau 28294",
+        "localName": "Pekanbaru"
+      },
+      "position": {
+        "lat": 0.4802,
+        "lon": 101.4401
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 0.4811,
+          "lon": 101.4392
+        },
+        "btmRightPoint": {
+          "lat": 0.4793,
+          "lon": 101.441
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 0.48065,
+            "lon": 101.44019
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "wBKEiXa4kVNHzXyJSVNVSA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006005915730-ID",
+      "poi": {
+        "name": "Sumatera Berdoa",
+        "phone": "+62 61 77807578",
+        "categorySet": [
+          {
+            "id": 9152
+          }
+        ],
+        "categories": [
+          "non governmental organization"
+        ],
+        "classifications": [
+          {
+            "code": "NON_GOVERNMENTAL_ORGANIZATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "non governmental organization"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sei Batu Gingging Ps. X No.49",
+        "municipalitySubdivision": "Medan Selayang",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Padang Bulan Selayang I",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20154",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sei Batu Gingging Ps. X No.49, Medan Selayang Sub District, Medan District, Sumatera Utara 20154",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.57419,
+        "lon": 98.648751
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.57509,
+          "lon": 98.64785
+        },
+        "btmRightPoint": {
+          "lat": 3.57329,
+          "lon": 98.64965
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.57438,
+            "lon": 98.64876
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "VfrAAzTJoennOP4BbL9cUg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006225855-ID",
+      "poi": {
+        "name": "Erobotclub Sumatera",
+        "phone": "+62 813-7121-9919",
+        "categorySet": [
+          {
+            "id": 7372008
+          }
+        ],
+        "categories": [
+          "school",
+          "vocational training"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "vocational training"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ],
+        "url": "erobotclubsumatera.id/"
+      },
+      "address": {
+        "streetName": "Jalan Soekarno Hatta",
+        "municipalitySubdivision": "Marpoyan Damai",
+        "municipality": "Pekanbaru",
+        "municipalitySecondarySubdivision": "Sidomulyo Timur",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28253",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Soekarno Hatta, Marpoyan Damai Sub District, Pekanbaru District, Riau 28253",
+        "localName": "Pekanbaru"
+      },
+      "position": {
+        "lat": 0.473273,
+        "lon": 101.418665
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 0.47417,
+          "lon": 101.41777
+        },
+        "btmRightPoint": {
+          "lat": 0.47237,
+          "lon": 101.41956
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 0.47327,
+            "lon": 101.41854
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "LVxi0KFPnYklwnwak8F3TA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006000701321-ID",
+      "poi": {
+        "name": "Rm. Sumatera",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Lingga",
+        "municipalitySubdivision": "Lawang Kidul",
+        "municipality": "Muara Enim",
+        "municipalitySecondarySubdivision": "Lingga",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "31711",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Lingga, Lawang Kidul Sub District, Muara Enim District, Sumatera Selatan 31711",
+        "localName": "Muara Enim"
+      },
+      "position": {
+        "lat": -3.7289,
+        "lon": 103.7997
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.728,
+          "lon": 103.7988
+        },
+        "btmRightPoint": {
+          "lat": -3.7298,
+          "lon": 103.8006
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.72907,
+            "lon": 103.7996
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "d4Z-AgveKH-0sJABIONcsw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006673142-ID",
+      "poi": {
+        "name": "Loker Sumatera",
+        "phone": "+62 896-0812-750",
+        "categorySet": [
+          {
+            "id": 9158
+          }
+        ],
+        "categories": [
+          "media facility"
+        ],
+        "classifications": [
+          {
+            "code": "MEDIA_FACILITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "media facility"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Pesisir No.7",
+        "municipalitySubdivision": "Rumbai Pesisir",
+        "municipality": "Pekanbaru",
+        "municipalitySecondarySubdivision": "Meranti Pandak",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28266",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Pesisir No.7, Rumbai Pesisir Sub District, Pekanbaru District, Riau 28266",
+        "localName": "Pekanbaru"
+      },
+      "position": {
+        "lat": 0.542349,
+        "lon": 101.441783
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 0.54325,
+          "lon": 101.44088
+        },
+        "btmRightPoint": {
+          "lat": 0.54145,
+          "lon": 101.44268
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 0.54243,
+            "lon": 101.44181
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "BwhmrV-WGJXZmTgdnVYW1Q",
+      "score": 2.0041568279,
+      "info": "search:ta:360007000084177-ID",
+      "poi": {
+        "name": "Explore Sumatera",
+        "phone": "+62 61 8213115",
+        "categorySet": [
+          {
+            "id": 9371
+          }
+        ],
+        "categories": [
+          "water sport"
+        ],
+        "classifications": [
+          {
+            "code": "WATER_SPORT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "water sport"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gang Rambutan",
+        "municipalitySubdivision": "Medan Selayang",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Tanjung Sari",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20771",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gang Rambutan, Medan Selayang Sub District, Medan District, Sumatera Utara 20771",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.557138,
+        "lon": 98.634698
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.55804,
+          "lon": 98.6338
+        },
+        "btmRightPoint": {
+          "lat": 3.55624,
+          "lon": 98.6356
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.55692,
+            "lon": 98.63471
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "o96z2mdjIb9GDpKUgbQWlA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006004010123-ID",
+      "poi": {
+        "name": "Harimau Sumatera",
+        "categorySet": [
+          {
+            "id": 9361075
+          }
+        ],
+        "categories": [
+          "mobile phone shop",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "mobile phone shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Perum.Taman Cipta City",
+        "municipalitySubdivision": "Tampan",
+        "municipality": "Pekanbaru",
+        "municipalitySecondarySubdivision": "Sialang Munggu",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Perum.Taman Cipta City, Tampan Sub District, Pekanbaru District, Riau 28294",
+        "localName": "Pekanbaru"
+      },
+      "position": {
+        "lat": 0.433018,
+        "lon": 101.399105
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 0.43392,
+          "lon": 101.39821
+        },
+        "btmRightPoint": {
+          "lat": 0.43212,
+          "lon": 101.4
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 0.43293,
+            "lon": 101.39908
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ni237oMaTC2-RNfYt0HzUQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360009002001910-ID",
+      "poi": {
+        "name": "Perguruan Sumatera",
+        "phone": "+62 626 17941163",
+        "categorySet": [
+          {
+            "id": 7372006
+          }
+        ],
+        "categories": [
+          "high school",
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "high school"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Pasar Viii",
+        "municipalitySubdivision": "Tanjung Morawa",
+        "municipality": "Deli Serdang",
+        "municipalitySecondarySubdivision": "Buntu Bedimbar",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20362",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Pasar Viii, Tanjung Morawa Sub District, Deli Serdang District, Sumatera Utara 20362",
+        "localName": "Deli Serdang"
+      },
+      "position": {
+        "lat": 3.546118,
+        "lon": 98.784106
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.54702,
+          "lon": 98.7832
+        },
+        "btmRightPoint": {
+          "lat": 3.54522,
+          "lon": 98.78501
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.54603,
+            "lon": 98.78408
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "SjAfEYj-jvcZa6ivp-Kwgg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006929845-ID",
+      "poi": {
+        "name": "Southren Sumatera",
+        "phone": "+62 711 7068068",
+        "categorySet": [
+          {
+            "id": 9361041
+          }
+        ],
+        "categories": [
+          "shop",
+          "travel agents"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "travel agents"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Ilir",
+        "municipalitySubdivision": "Ilir Timur Tiga",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "8 Ilir",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30164",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Ilir 8, Ilir Timur Tiga Sub District, Palembang District, Sumatera Selatan 30164",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9524,
+        "lon": 104.7603
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9515,
+          "lon": 104.7594
+        },
+        "btmRightPoint": {
+          "lat": -2.9533,
+          "lon": 104.7612
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.95208,
+            "lon": 104.76023
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "X8NUsTnn74EKG7wNvC3wVA",
+      "score": 2.0041568279,
+      "info": "search:ta:360009002904362-ID",
+      "poi": {
+        "name": "Chatime Sumatera",
+        "phone": "+62 622 24237984",
+        "categorySet": [
+          {
+            "id": 9376002
+          }
+        ],
+        "categories": [
+          "café",
+          "café/pub"
+        ],
+        "classifications": [
+          {
+            "code": "CAFE_PUB",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "café"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "café/pub"
+              }
+            ]
+          }
+        ],
+        "url": "chatime.co.id"
+      },
+      "address": {
+        "streetName": "Jl. Sumatera No.23",
+        "municipalitySubdivision": "Sumur Bandung",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Braga",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40111",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sumatera No.23, Sumur Bandung Sub District, Bandung District, Jawa Barat 40111",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.9164,
+        "lon": 107.6134
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.9155,
+          "lon": 107.61249
+        },
+        "btmRightPoint": {
+          "lat": -6.9173,
+          "lon": 107.61431
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.91646,
+            "lon": 107.6137
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "p9mdFmrASUSFCbNp6G-u2A",
+      "score": 2.0041568279,
+      "info": "search:ta:360006000108827-ID",
+      "poi": {
+        "name": "Warung Sumatera",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Soeprapto",
+        "municipalitySubdivision": "Ampenan",
+        "municipality": "Mataram",
+        "municipalitySecondarySubdivision": "Taman Sari",
+        "countrySubdivision": "Nusa Tenggara Barat",
+        "countrySubdivisionName": "Nusa Tenggara Barat",
+        "countrySubdivisionCode": "NB",
+        "postalCode": "83114",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Soeprapto, Ampenan Sub District, Mataram District, Nusa Tenggara Barat 83114",
+        "localName": "Mataram"
+      },
+      "position": {
+        "lat": -8.580696,
+        "lon": 116.086984
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.5798,
+          "lon": 116.08607
+        },
+        "btmRightPoint": {
+          "lat": -8.5816,
+          "lon": 116.08789
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.58071,
+            "lon": 116.08707
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "mbwcsm3GsMPJgFgA47JsNg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006005514475-ID",
+      "poi": {
+        "name": "Harimau Sumatera",
+        "categorySet": [
+          {
+            "id": 9927003
+          }
+        ],
+        "categories": [
+          "zoo",
+          "zoos, arboreta botanical garden"
+        ],
+        "classifications": [
+          {
+            "code": "ZOOS_ARBORETA_BOTANICAL_GARDEN",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "zoos, arboreta botanical garden"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "zoo"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rt.9/Rw.7",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Ragunan",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "12550",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Rt.9/Rw.7, Jakarta District, DKI Jakarta 12550",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.311877,
+        "lon": 106.824003
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.31098,
+          "lon": 106.8231
+        },
+        "btmRightPoint": {
+          "lat": -6.31278,
+          "lon": 106.82491
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.31197,
+            "lon": 106.82399
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "PAlqcSN_Pk0Uy7euQYcdPA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001481402-ID",
+      "poi": {
+        "name": "Sumatera Rindang",
+        "categorySet": [
+          {
+            "id": 7372002
+          }
+        ],
+        "categories": [
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Pematang Sulur",
+        "municipality": "Jambi",
+        "municipalitySecondarySubdivision": "Pematang Sulur",
+        "countrySubdivision": "Jambi",
+        "countrySubdivisionName": "Jambi",
+        "countrySubdivisionCode": "JA",
+        "postalCode": "36361",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Pematang Sulur, Jambi District, Jambi 36361",
+        "localName": "Jambi"
+      },
+      "position": {
+        "lat": -1.602,
+        "lon": 103.5676
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -1.6011,
+          "lon": 103.5667
+        },
+        "btmRightPoint": {
+          "lat": -1.6029,
+          "lon": 103.5685
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -1.60191,
+            "lon": 103.56757
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "vctwYUT770nwGHI26oqxOw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003212556-ID",
+      "poi": {
+        "name": "Sumatera Utara",
+        "categorySet": [
+          {
+            "id": 7302004
+          }
+        ],
+        "categories": [
+          "hiking",
+          "trail system"
+        ],
+        "classifications": [
+          {
+            "code": "TRAIL_SYSTEM",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "trail system"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hiking"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gundaling Ii",
+        "municipalitySubdivision": "Berastagi",
+        "municipality": "Karo",
+        "municipalitySecondarySubdivision": "Rumah Berastagi",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "22152",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gundaling Ii, Berastagi Sub District, Karo District, Sumatera Utara 22152",
+        "localName": "Karo"
+      },
+      "position": {
+        "lat": 3.18526,
+        "lon": 98.50756
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.18616,
+          "lon": 98.50666
+        },
+        "btmRightPoint": {
+          "lat": 3.18436,
+          "lon": 98.50846
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.18492,
+            "lon": 98.5076
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "G-OzWXGAvqGzmsx5sYGGYQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007720179-ID",
+      "poi": {
+        "name": "Royal Sumatera",
+        "categorySet": [
+          {
+            "id": 9911
+          }
+        ],
+        "categories": [
+          "golf course"
+        ],
+        "classifications": [
+          {
+            "code": "GOLF_COURSE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "golf course"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gang Ikhlas",
+        "municipalitySubdivision": "Medan Denai",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Binjai",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20226",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gang Ikhlas, Medan Denai Sub District, Medan District, Sumatera Utara 20226",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.570882,
+        "lon": 98.719726
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.57178,
+          "lon": 98.71882
+        },
+        "btmRightPoint": {
+          "lat": 3.56998,
+          "lon": 98.72063
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.5712,
+            "lon": 98.71973
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "TCsx0PEdAu8o4wMdaitAJg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006200951-ID",
+      "poi": {
+        "name": "Sumatera House",
+        "categorySet": [
+          {
+            "id": 9379004
+          }
+        ],
+        "categories": [
+          "bar",
+          "nightlife"
+        ],
+        "classifications": [
+          {
+            "code": "NIGHTLIFE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "bar"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "nightlife"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sumbawa I",
+        "municipalitySubdivision": "Metro Barat",
+        "municipality": "Metro",
+        "municipalitySecondarySubdivision": "Ganjarasri",
+        "countrySubdivision": "Lampung",
+        "countrySubdivisionName": "Lampung",
+        "countrySubdivisionCode": "LA",
+        "postalCode": "34125",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sumbawa I, Metro Barat Sub District, Metro District, Lampung 34125",
+        "localName": "Metro"
+      },
+      "position": {
+        "lat": -5.110973,
+        "lon": 105.294706
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -5.11007,
+          "lon": 105.2938
+        },
+        "btmRightPoint": {
+          "lat": -5.11187,
+          "lon": 105.29561
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -5.11106,
+            "lon": 105.29469
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "WxlkRyUPqwC6TgIiWN6IWA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007851916-ID",
+      "poi": {
+        "name": "Sumatera Haircut",
+        "phone": "+62 852-6453-548",
+        "categorySet": [
+          {
+            "id": 9361027
+          }
+        ],
+        "categories": [
+          "hairdressers barbers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hairdressers barbers"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Pramuka Ii",
+        "municipality": "Depok",
+        "municipalitySecondarySubdivision": "Pancoran Mas",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "16433",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Pramuka Ii, Depok District, Jawa Barat 16433",
+        "localName": "Depok"
+      },
+      "position": {
+        "lat": -6.3977,
+        "lon": 106.7971
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.39627,
+          "lon": 106.79566
+        },
+        "btmRightPoint": {
+          "lat": -6.39913,
+          "lon": 106.79854
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.39911,
+            "lon": 106.79688
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "wFsTDO0qPgvLkleMMAG6xg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007491914-ID",
+      "poi": {
+        "name": "Sumatera Selatan",
+        "categorySet": [
+          {
+            "id": 9378
+          }
+        ],
+        "categories": [
+          "leisure center"
+        ],
+        "classifications": [
+          {
+            "code": "LEISURE_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "leisure center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Lubuk Kupang",
+        "municipalitySubdivision": "Lubuk Linggau Selatan I",
+        "municipality": "Lubuklinggau",
+        "municipalitySecondarySubdivision": "Lubuk Kupang",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "31626",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Lubuk Kupang, Lubuk Linggau Selatan I Sub District, Lubuklinggau District, Sumatera Selatan 31626",
+        "localName": "Lubuklinggau"
+      },
+      "position": {
+        "lat": -3.268725,
+        "lon": 102.960787
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.26734,
+          "lon": 102.9594
+        },
+        "btmRightPoint": {
+          "lat": -3.27011,
+          "lon": 102.96217
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.26993,
+            "lon": 102.96011
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ZO4dR7U5-hydmkVh2RiMGQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003794046-ID",
+      "poi": {
+        "name": "Perkebunan Sumatera",
+        "phone": "+62 813-7517-880",
+        "categorySet": [
+          {
+            "id": 7335004
+          }
+        ],
+        "categories": [
+          "agriculture",
+          "farm"
+        ],
+        "classifications": [
+          {
+            "code": "AGRICULTURE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "agriculture"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "farm"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Perkebunan Sei Balai",
+        "municipality": "Asahan",
+        "municipalitySecondarySubdivision": "Desa Perkebunan Sei Balai",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "21252",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Perkebunan Sei Balai, Asahan District, Sumatera Utara 21252",
+        "localName": "Asahan"
+      },
+      "position": {
+        "lat": 3.0503,
+        "lon": 99.6002
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.0512,
+          "lon": 99.5993
+        },
+        "btmRightPoint": {
+          "lat": 3.0494,
+          "lon": 99.6011
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.05032,
+            "lon": 99.59961
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "lb3dVWvqqaKDeZmuDbblTA",
+      "score": 2.0041568279,
+      "info": "search:ta:360007000087262-ID",
+      "poi": {
+        "name": "Sumatera Kuliner",
+        "phone": "+62 761 8417489",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ],
+        "url": "www.sumaterakuliner.com"
+      },
+      "address": {
+        "streetName": "Jalan Arifin Ahmad",
+        "municipalitySubdivision": "Marpoyan Damai",
+        "municipality": "Pekanbaru",
+        "municipalitySecondarySubdivision": "Sidomulyo Timur",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28125",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Arifin Ahmad, Marpoyan Damai Sub District, Pekanbaru District, Riau 28125",
+        "localName": "Pekanbaru"
+      },
+      "position": {
+        "lat": 0.475636,
+        "lon": 101.426742
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 0.47654,
+          "lon": 101.42584
+        },
+        "btmRightPoint": {
+          "lat": 0.47474,
+          "lon": 101.42764
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 0.47572,
+            "lon": 101.4267
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "pUDwAO8Dp_RSroKJeErtEA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003713230-ID",
+      "poi": {
+        "name": "Sumatera Selatan",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Banyuwangi",
+        "municipalitySubdivision": "Buay Madang Timur",
+        "municipality": "Ogan Komering",
+        "municipalitySecondarySubdivision": "Sumber Asri",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "32361",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Banyuwangi, Buay Madang Timur Sub District, Ogan Komering District, Sumatera Selatan 32361",
+        "localName": "Ogan Komering"
+      },
+      "position": {
+        "lat": -4.186354,
+        "lon": 104.568956
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -4.18545,
+          "lon": 104.56805
+        },
+        "btmRightPoint": {
+          "lat": -4.18725,
+          "lon": 104.56986
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -4.18626,
+            "lon": 104.569
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "oFE6wLOySDcoL8sxLHXTfA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007845385-ID",
+      "poi": {
+        "name": "Rihlah Sumatera",
+        "phone": "+62 878-6983-400",
+        "categorySet": [
+          {
+            "id": 9352
+          }
+        ],
+        "categories": [
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Komplek Blok V No",
+        "municipalitySubdivision": "Medan Selayang",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Asam Kumbang",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20154",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Komplek Blok V No 109, Medan Selayang Sub District, Medan District, Sumatera Utara 20154",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.565,
+        "lon": 98.6241
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5659,
+          "lon": 98.6232
+        },
+        "btmRightPoint": {
+          "lat": 3.5641,
+          "lon": 98.625
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.56473,
+            "lon": 98.62409
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "z2GpR9FlsSIdofcDmT1mlA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006725494-ID",
+      "poi": {
+        "name": "Autocar Sumatera",
+        "phone": "+62 882-6169-906",
+        "categorySet": [
+          {
+            "id": 9361006
+          }
+        ],
+        "categories": [
+          "clothing accessories: general",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: general"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Jend. Gatot Subroto",
+        "municipalitySubdivision": "Padang Hulu",
+        "municipality": "Tebing Tinggi",
+        "municipalitySecondarySubdivision": "Pabatu",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20611",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Jend. Gatot Subroto, Padang Hulu Sub District, Tebing Tinggi District, Sumatera Utara 20611",
+        "localName": "Tebing Tinggi"
+      },
+      "position": {
+        "lat": 3.3014,
+        "lon": 99.125
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.3023,
+          "lon": 99.1241
+        },
+        "btmRightPoint": {
+          "lat": 3.3005,
+          "lon": 99.1259
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.30097,
+            "lon": 99.12524
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "I7CYeJCYbk_4Ar588JkK9A",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007436991-ID",
+      "poi": {
+        "name": "Pa Sumatera",
+        "phone": "+62 812-9988-887",
+        "categorySet": [
+          {
+            "id": 9361042
+          }
+        ],
+        "categories": [
+          "construction material equipment",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "construction material equipment"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Palembang - Betung No.Km.15",
+        "municipalitySubdivision": "Talang Kelapa",
+        "municipality": "Banyuasin",
+        "municipalitySecondarySubdivision": "Tanah Mas",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30961",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Palembang - Betung No.Km.15, Talang Kelapa Sub District, Banyuasin District, Sumatera Selatan 30961",
+        "localName": "Banyuasin"
+      },
+      "position": {
+        "lat": -2.9132,
+        "lon": 104.6615
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9123,
+          "lon": 104.6606
+        },
+        "btmRightPoint": {
+          "lat": -2.9141,
+          "lon": 104.6624
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.91298,
+            "lon": 104.66152
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1TyzzJ1X5C8BC33UG5nKBQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001323314-ID",
+      "poi": {
+        "name": "Martabak Sumatera",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl.Malifut",
+        "municipalitySubdivision": "Malifut",
+        "municipality": "Halmahera",
+        "municipalitySecondarySubdivision": "Soma",
+        "countrySubdivision": "Maluku Utara",
+        "countrySubdivisionName": "Maluku Utara",
+        "countrySubdivisionCode": "MU",
+        "postalCode": "97764",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl.Malifut, Malifut Sub District, Halmahera District, Maluku Utara 97764",
+        "localName": "Halmahera"
+      },
+      "position": {
+        "lat": 1.160382,
+        "lon": 127.83499
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.16128,
+          "lon": 127.83409
+        },
+        "btmRightPoint": {
+          "lat": 1.15948,
+          "lon": 127.83589
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.1603,
+            "lon": 127.83505
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "XALAeiUsbWTwI3lmpdy9-A",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006496602-ID",
+      "poi": {
+        "name": "Sumatera Coffee",
+        "phone": "+62 823-6387-995",
+        "categorySet": [
+          {
+            "id": 9361061
+          }
+        ],
+        "categories": [
+          "shop",
+          "specialty foods"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "specialty foods"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Ab",
+        "municipalitySubdivision": "Tarogong Kaler",
+        "municipality": "Garut Kota",
+        "municipalitySecondarySubdivision": "Pananjung",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "44151",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Ab 16, Tarogong Kaler Sub District, Garut Kota District, Jawa Barat 44151",
+        "localName": "Garut Kota"
+      },
+      "position": {
+        "lat": -7.181,
+        "lon": 107.8899
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.1801,
+          "lon": 107.88899
+        },
+        "btmRightPoint": {
+          "lat": -7.1819,
+          "lon": 107.89081
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.18102,
+            "lon": 107.89007
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "0cNEPeK0jzokifi1RAr6tg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006589085-ID",
+      "poi": {
+        "name": "Mie Sumatera",
+        "phone": "+62 271 656136",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Ir. Juanda No.128A",
+        "municipality": "Surakarta",
+        "municipalitySecondarySubdivision": "Gandekan",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "57122",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Ir. Juanda No.128A, Surakarta District, Jawa Tengah 57122",
+        "localName": "Surakarta"
+      },
+      "position": {
+        "lat": -7.5687,
+        "lon": 110.8394
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.5678,
+          "lon": 110.83849
+        },
+        "btmRightPoint": {
+          "lat": -7.5696,
+          "lon": 110.84031
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.56853,
+            "lon": 110.83946
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "jiQto7KGEVg-5EhbBzs64w",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001144831-ID",
+      "poi": {
+        "name": "Sumatera Utara",
+        "phone": "+62 626 14572900",
+        "categorySet": [
+          {
+            "id": 7372008
+          }
+        ],
+        "categories": [
+          "school",
+          "vocational training"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "vocational training"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Kapten Patimura No.163",
+        "municipalitySubdivision": "Medan Baru",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Darat",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20153",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Kapten Patimura No.163, Medan Baru Sub District, Medan District, Sumatera Utara 20153",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.574,
+        "lon": 98.6633
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.5749,
+          "lon": 98.6624
+        },
+        "btmRightPoint": {
+          "lat": 3.5731,
+          "lon": 98.6642
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.5742,
+            "lon": 98.66323
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "oJMTacsr2hmkgb6qWKYaNA",
+      "score": 2.0041568279,
+      "info": "search:ta:360009002893377-ID",
+      "poi": {
+        "name": "Sumatera Motor",
+        "categorySet": [
+          {
+            "id": 9910003
+          }
+        ],
+        "categories": [
+          "automotive dealer",
+          "motorcycle"
+        ],
+        "classifications": [
+          {
+            "code": "AUTOMOTIVE_DEALER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "automotive dealer"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "motorcycle"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Haji Baping",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Ciracas",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "13740",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Haji Baping, Jakarta District, DKI Jakarta 13740",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.317569,
+        "lon": 106.873105
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.31667,
+          "lon": 106.8722
+        },
+        "btmRightPoint": {
+          "lat": -6.31847,
+          "lon": 106.87401
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.31758,
+            "lon": 106.87301
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "LxTNKFOTv3CCPy6K0X1AeQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006002519977-ID",
+      "poi": {
+        "name": "Gedung Sumatera",
+        "phone": "+62 21 4890308",
+        "categorySet": [
+          {
+            "id": 7367
+          }
+        ],
+        "categories": [
+          "government office"
+        ],
+        "classifications": [
+          {
+            "code": "GOVERNMENT_OFFICE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "government office"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sirektorat Jenderal Bea Dan Cukai Rt.12/Rw.5",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Pisangan Timur",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "13230",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Sirektorat Jenderal Bea Dan Cukai Rt.12/Rw.5, Jakarta District, DKI Jakarta 13230",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.2066,
+        "lon": 106.8749
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.20565,
+          "lon": 106.87394
+        },
+        "btmRightPoint": {
+          "lat": -6.20755,
+          "lon": 106.87586
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.20661,
+            "lon": 106.87394
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "xrBRzmKohBjB4QG2wuDlUQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007302931-ID",
+      "poi": {
+        "name": "Young Sumatera",
+        "categorySet": [
+          {
+            "id": 9361006
+          }
+        ],
+        "categories": [
+          "clothing accessories: general",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: general"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Lintas Sumatera",
+        "municipalitySubdivision": "Bangko",
+        "municipality": "Merangin",
+        "municipalitySecondarySubdivision": "Dusun Bangko",
+        "countrySubdivision": "Jambi",
+        "countrySubdivisionName": "Jambi",
+        "countrySubdivisionCode": "JA",
+        "postalCode": "37311",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Lintas Sumatera, Bangko Sub District, Merangin District, Jambi 37311",
+        "localName": "Merangin"
+      },
+      "position": {
+        "lat": -2.0746,
+        "lon": 102.2845
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.0737,
+          "lon": 102.2836
+        },
+        "btmRightPoint": {
+          "lat": -2.0755,
+          "lon": 102.2854
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.07481,
+            "lon": 102.28448
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "9ounJND39E5mwPfDbVcqSg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006376667-ID",
+      "poi": {
+        "name": "Mess Sumatera",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Btn Bulurokeng Permai No.C2/27",
+        "municipalitySubdivision": "Biring Kanaya",
+        "municipality": "Makassar",
+        "municipalitySecondarySubdivision": "PAI",
+        "countrySubdivision": "Sulawesi Selatan",
+        "countrySubdivisionName": "Sulawesi Selatan",
+        "countrySubdivisionCode": "SN",
+        "postalCode": "90242",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Btn Bulurokeng Permai No.C2/27, Biring Kanaya Sub District, Makassar District, Sulawesi Selatan 90242",
+        "localName": "Makassar"
+      },
+      "position": {
+        "lat": -5.093863,
+        "lon": 119.51744
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -5.09296,
+          "lon": 119.51654
+        },
+        "btmRightPoint": {
+          "lat": -5.09476,
+          "lon": 119.51834
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -5.09392,
+            "lon": 119.51737
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "-YEEEIVfMG03ICSCuFU27w",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003694952-ID",
+      "poi": {
+        "name": "Dapur Sumatera",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sunan Gn. Jati No.9",
+        "municipalitySubdivision": "Cikarang Barat",
+        "municipality": "Kota Bekasi",
+        "municipalitySecondarySubdivision": "Telagamurni",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "17530",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sunan Gn. Jati No.9, Cikarang Barat Sub District, Kota Bekasi District, Jawa Barat 17530",
+        "localName": "Kota Bekasi"
+      },
+      "position": {
+        "lat": -6.2587,
+        "lon": 107.1234
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.2578,
+          "lon": 107.1225
+        },
+        "btmRightPoint": {
+          "lat": -6.2596,
+          "lon": 107.1243
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.25871,
+            "lon": 107.12351
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ahgll6NHYovaF-LmmB2tNg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007238390-ID",
+      "poi": {
+        "name": "Sumatera Studio",
+        "phone": "+62 813-6411-161",
+        "categorySet": [
+          {
+            "id": 9352011
+          }
+        ],
+        "categories": [
+          "company",
+          "manufacturing"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "manufacturing"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sumatera Studio Jorong",
+        "municipalitySubdivision": "Banuhampu",
+        "municipality": "Agam",
+        "municipalitySecondarySubdivision": "Kubang Putiah",
+        "countrySubdivision": "Sumatera Barat",
+        "countrySubdivisionName": "Sumatera Barat",
+        "countrySubdivisionCode": "SB",
+        "postalCode": "26181",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Sumatera Studio Jorong, Banuhampu Sub District, Agam District, Sumatera Barat 26181",
+        "localName": "Agam"
+      },
+      "position": {
+        "lat": -0.3286,
+        "lon": 100.3975
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.3277,
+          "lon": 100.3966
+        },
+        "btmRightPoint": {
+          "lat": -0.3295,
+          "lon": 100.3984
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.32849,
+            "lon": 100.39766
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "DUXnea2CIwpVGgQEjTt1wQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360009000372290-ID",
+      "poi": {
+        "name": "Sumatera Indah",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Trans Sumatera Lampung-Muara Enim",
+        "municipality": "Lampung",
+        "municipalitySecondarySubdivision": "Suka Menanti",
+        "countrySubdivision": "Lampung",
+        "countrySubdivisionName": "Lampung",
+        "countrySubdivisionCode": "LA",
+        "postalCode": "34556",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Trans Sumatera Lampung-Muara Enim, Lampung District, Lampung 34556",
+        "localName": "Lampung"
+      },
+      "position": {
+        "lat": -4.866272,
+        "lon": 104.590114
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -4.86537,
+          "lon": 104.58921
+        },
+        "btmRightPoint": {
+          "lat": -4.86717,
+          "lon": 104.59102
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -4.86609,
+            "lon": 104.59001
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "gQ5jfNzMuZUgFyBL-iUMMg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007086739-ID",
+      "poi": {
+        "name": "Sumatera Utara",
+        "phone": "+62 626 16640285",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Suluh No.142",
+        "municipalitySubdivision": "Medan Tembung",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Sidorejo",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20371",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Suluh No.142, Medan Tembung Sub District, Medan District, Sumatera Utara 20371",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.6107,
+        "lon": 98.7064
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.6116,
+          "lon": 98.7055
+        },
+        "btmRightPoint": {
+          "lat": 3.6098,
+          "lon": 98.7073
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.61097,
+            "lon": 98.70641
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1_el5PIVtetujTsj0JnGRA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001291268-ID",
+      "poi": {
+        "name": "Sumatera Tobacco",
+        "phone": "+62 813-6827-867",
+        "categorySet": [
+          {
+            "id": 7373
+          }
+        ],
+        "categories": [
+          "shopping center"
+        ],
+        "classifications": [
+          {
+            "code": "SHOPPING_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shopping center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. H. Abubakar",
+        "municipality": "Pringsewu",
+        "municipalitySecondarySubdivision": "Pringsewu Selatan",
+        "countrySubdivision": "Lampung",
+        "countrySubdivisionName": "Lampung",
+        "countrySubdivisionCode": "LA",
+        "postalCode": "35373",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. H. Abubakar, Pringsewu District, Lampung 35373",
+        "localName": "Pringsewu"
+      },
+      "position": {
+        "lat": -5.3565,
+        "lon": 104.9754
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -5.3556,
+          "lon": 104.9745
+        },
+        "btmRightPoint": {
+          "lat": -5.3574,
+          "lon": 104.9763
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -5.35645,
+            "lon": 104.97531
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "g6HK0j790kAGufpA24J3tA",
+      "score": 2.0041568279,
+      "info": "search:ta:360009002906930-ID",
+      "poi": {
+        "name": "Warung Sumatera",
+        "categorySet": [
+          {
+            "id": 7310007
+          }
+        ],
+        "categories": [
+          "repair facility",
+          "tyre (tire) services"
+        ],
+        "classifications": [
+          {
+            "code": "REPAIR_FACILITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "repair facility"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "tyre (tire) services"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Rancaekek Majalaya",
+        "municipalitySubdivision": "Rancaekek",
+        "municipality": "Bandung",
+        "municipalitySecondarySubdivision": "Rancaekek Wetan",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "40394",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Rancaekek Majalaya, Rancaekek Sub District, Bandung District, Jawa Barat 40394",
+        "localName": "Bandung"
+      },
+      "position": {
+        "lat": -6.960245,
+        "lon": 107.756673
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.95935,
+          "lon": 107.75577
+        },
+        "btmRightPoint": {
+          "lat": -6.96114,
+          "lon": 107.75758
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.96022,
+            "lon": 107.75658
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "cx9hPChcwc8-E9Q61V2oVg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006004330674-ID",
+      "poi": {
+        "name": "Sumatera Residence",
+        "phone": "+62 822-7430-5100",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "No No.165Kel",
+        "municipalitySubdivision": "Binjai Timur",
+        "municipality": "Binjai",
+        "municipalitySecondarySubdivision": "Tanah Tinggi",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20351",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "No No.165Kel, Binjai Timur Sub District, Binjai District, Sumatera Utara 20351",
+        "localName": "Binjai"
+      },
+      "position": {
+        "lat": 3.6116,
+        "lon": 98.5116
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.6125,
+          "lon": 98.5107
+        },
+        "btmRightPoint": {
+          "lat": 3.6107,
+          "lon": 98.5125
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.61137,
+            "lon": 98.5116
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1xEyDJ-Xg9OgEUD-FeTETA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007981744-ID",
+      "poi": {
+        "name": "Stt Sumatera",
+        "phone": "+62 626 14522866",
+        "categorySet": [
+          {
+            "id": 7377002
+          }
+        ],
+        "categories": [
+          "college/university"
+        ],
+        "classifications": [
+          {
+            "code": "COLLEGE_UNIVERSITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "college/university"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sei Babalan No.2",
+        "municipalitySubdivision": "Medan Petisah",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Sei Sikambing D",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20151",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sei Babalan No.2, Medan Petisah Sub District, Medan District, Sumatera Utara 20151",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.5855,
+        "lon": 98.661
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.58703,
+          "lon": 98.65946
+        },
+        "btmRightPoint": {
+          "lat": 3.58397,
+          "lon": 98.66254
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.58536,
+            "lon": 98.65947
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Cqs1BGhD-2E8nkiZo0tz8g",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006040864-ID",
+      "poi": {
+        "name": "Indoteras Sumatera",
+        "phone": "+62 627 5131089",
+        "categorySet": [
+          {
+            "id": 9361042
+          }
+        ],
+        "categories": [
+          "construction material equipment",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "construction material equipment"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Benua Kayong",
+        "municipalitySubdivision": "Benua Kayong",
+        "municipality": "Ketapang",
+        "municipalitySecondarySubdivision": "Padang",
+        "countrySubdivision": "Kalimantan Barat",
+        "countrySubdivisionName": "Kalimantan Barat",
+        "countrySubdivisionCode": "KB",
+        "postalCode": "78822",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Benua Kayong, Benua Kayong Sub District, Ketapang District, Kalimantan Barat 78822",
+        "localName": "Ketapang"
+      },
+      "position": {
+        "lat": -1.8848,
+        "lon": 109.9925
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -1.8839,
+          "lon": 109.9916
+        },
+        "btmRightPoint": {
+          "lat": -1.8857,
+          "lon": 109.9934
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -1.88465,
+            "lon": 109.99274
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "9TWGwLQECkPuByLaoorQTg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006005715436-ID",
+      "poi": {
+        "name": "North Sumatera",
+        "categorySet": [
+          {
+            "id": 7377002
+          }
+        ],
+        "categories": [
+          "college/university"
+        ],
+        "classifications": [
+          {
+            "code": "COLLEGE_UNIVERSITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "college/university"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Iain No.1",
+        "municipalitySubdivision": "Medan Timur",
+        "municipality": "Medan",
+        "municipalitySecondarySubdivision": "Gaharu",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20235",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Iain No.1, Medan Timur Sub District, Medan District, Sumatera Utara 20235",
+        "localName": "Medan"
+      },
+      "position": {
+        "lat": 3.6005,
+        "lon": 98.6816
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.60154,
+          "lon": 98.68055
+        },
+        "btmRightPoint": {
+          "lat": 3.59946,
+          "lon": 98.68265
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.59954,
+            "lon": 98.68201
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "sHOsmCmgLvwsdG7ay4zt8g",
+      "score": 2.0041568279,
+      "info": "search:ta:360009002061058-ID",
+      "poi": {
+        "name": "Sumatera Motor",
+        "categorySet": [
+          {
+            "id": 7310008
+          }
+        ],
+        "categories": [
+          "motorcycle repair",
+          "repair facility"
+        ],
+        "classifications": [
+          {
+            "code": "REPAIR_FACILITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "repair facility"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "motorcycle repair"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Tuanku Tambusai",
+        "municipality": "Pekanbaru",
+        "municipalitySecondarySubdivision": "Kampung Melayu",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28124",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Tuanku Tambusai, Pekanbaru District, Riau 28124",
+        "localName": "Pekanbaru"
+      },
+      "position": {
+        "lat": 0.506595,
+        "lon": 101.437431
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 0.50749,
+          "lon": 101.43653
+        },
+        "btmRightPoint": {
+          "lat": 0.5057,
+          "lon": 101.43833
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 0.50641,
+            "lon": 101.43749
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ypC2PcE_ebSAyXB28x5Uxw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006801643-ID",
+      "poi": {
+        "name": "Alfamart Sumatera",
+        "categorySet": [
+          {
+            "id": 9361009
+          }
+        ],
+        "categories": [
+          "convenience stores",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "convenience stores"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sumatera No.Rt",
+        "municipality": "Jambi",
+        "municipalitySecondarySubdivision": "Jelutung",
+        "countrySubdivision": "Jambi",
+        "countrySubdivisionName": "Jambi",
+        "countrySubdivisionCode": "JA",
+        "postalCode": "36136",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sumatera No.Rt 45, Jambi District, Jambi 36136",
+        "localName": "Jambi"
+      },
+      "position": {
+        "lat": -1.6238,
+        "lon": 103.6117
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -1.6229,
+          "lon": 103.6108
+        },
+        "btmRightPoint": {
+          "lat": -1.6247,
+          "lon": 103.6126
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -1.62386,
+            "lon": 103.61183
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Xee3g3FXOxh2xi-CBrou-Q",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003220560-ID",
+      "poi": {
+        "name": "Burger Sumatera",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Burger Sumatera",
+        "municipalitySubdivision": "Bandar Seikijang",
+        "municipality": "Pelalawan",
+        "municipalitySecondarySubdivision": "Muda Setia",
+        "countrySubdivision": "Riau",
+        "countrySubdivisionName": "Riau",
+        "countrySubdivisionCode": "RI",
+        "postalCode": "28286",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Burger Sumatera, Bandar Seikijang Sub District, Pelalawan District, Riau 28286",
+        "localName": "Pelalawan"
+      },
+      "position": {
+        "lat": 0.4418,
+        "lon": 101.6211
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 0.4427,
+          "lon": 101.6202
+        },
+        "btmRightPoint": {
+          "lat": 0.4409,
+          "lon": 101.622
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 0.44198,
+            "lon": 101.6211
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    }
+  ]
+}

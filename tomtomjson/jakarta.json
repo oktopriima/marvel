@@ -1,0 +1,7465 @@
+{
+  "summary": {
+    "query": "jakarta",
+    "queryType": "NON_NEAR",
+    "queryTime": 205,
+    "numResults": 100,
+    "offset": 0,
+    "totalResults": 100,
+    "fuzzyLevel": 1
+  },
+  "results": [
+    {
+      "type": "POI",
+      "id": "4k1Tsqk69VMvRE0HRxBvAA",
+      "score": 2.461026907,
+      "info": "search:ta:360009000280607-ID",
+      "poi": {
+        "name": "Museum Fatahillah Jakarta",
+        "phone": "+62 21 6901483",
+        "categorySet": [
+          {
+            "id": 7317
+          }
+        ],
+        "categories": [
+          "museum"
+        ],
+        "classifications": [
+          {
+            "code": "MUSEUM",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "museum"
+              }
+            ]
+          }
+        ],
+        "url": "www.disbudmuseum.jakarta.go.id"
+      },
+      "address": {
+        "streetName": "Jalan Lada",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Pinangsia",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "11230",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Lada, Jakarta District, DKI Jakarta 11230",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.135168,
+        "lon": 106.813301
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.13427,
+          "lon": 106.8124
+        },
+        "btmRightPoint": {
+          "lat": -6.13607,
+          "lon": 106.81421
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.13452,
+            "lon": 106.81278
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.13508,
+            "lon": 106.81398
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "chCxTbRQR00HSCZb0aEwgA",
+      "score": 2.461026907,
+      "info": "search:ta:360009000485904-ID",
+      "poi": {
+        "name": "Stasiun Jakarta Kota",
+        "phone": "+62 21 6928515",
+        "categorySet": [
+          {
+            "id": 7380003
+          }
+        ],
+        "categories": [
+          "national",
+          "railway station"
+        ],
+        "classifications": [
+          {
+            "code": "RAILWAY_STATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "railway station"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "national"
+              }
+            ]
+          }
+        ],
+        "url": "www.kereta-api.com"
+      },
+      "address": {
+        "streetName": "Jalan Jembatan Batu",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Pinangsia",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "11110",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Jembatan Batu 55, Jakarta District, DKI Jakarta 11110",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.138083,
+        "lon": 106.814802
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.13718,
+          "lon": 106.8139
+        },
+        "btmRightPoint": {
+          "lat": -6.13898,
+          "lon": 106.81571
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.13819,
+            "lon": 106.81483
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "BnOTO5YLp5C_BCamV3PAcQ",
+      "score": 2.1244060993,
+      "info": "search:ta:360006003217233-ID",
+      "poi": {
+        "name": "Jakarta Tanggrang",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Gerunggang",
+        "municipalitySubdivision": "Gerunggang",
+        "municipality": "Pangkalpinang",
+        "municipalitySecondarySubdivision": "Kacang Pedang",
+        "countrySubdivision": "Kepulauan Bangka Belitung",
+        "countrySubdivisionName": "Kepulauan Bangka Belitung",
+        "countrySubdivisionCode": "BB",
+        "postalCode": "33173",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Gerunggang, Gerunggang Sub District, Pangkalpinang District, Kepulauan Bangka Belitung 33173",
+        "localName": "Pangkalpinang"
+      },
+      "position": {
+        "lat": -2.122138,
+        "lon": 106.086572
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.12124,
+          "lon": 106.08567
+        },
+        "btmRightPoint": {
+          "lat": -2.12304,
+          "lon": 106.08747
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.12222,
+            "lon": 106.08653
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "KCfDcT4YS0LwYktPiVugiQ",
+      "score": 2.1244060993,
+      "info": "search:ta:360006002660364-ID",
+      "poi": {
+        "name": "Livingseas Jakarta",
+        "phone": "+62 878-8705-2890",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ],
+        "url": "jakarta.livingseas.asia/"
+      },
+      "address": {
+        "streetName": "Jalan Pluit Utara",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Pluit",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "14450",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Pluit Utara, Jakarta District, DKI Jakarta 14450",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.112435,
+        "lon": 106.78638
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.11154,
+          "lon": 106.78548
+        },
+        "btmRightPoint": {
+          "lat": -6.11333,
+          "lon": 106.78728
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.11235,
+            "lon": 106.78638
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "HbjPzpwn_9IYAQTN7KPPsg",
+      "score": 2.1244060993,
+      "info": "search:ta:360006006937383-ID",
+      "poi": {
+        "name": "Planetarium Jakarta",
+        "phone": "+62 21 23570001",
+        "categorySet": [
+          {
+            "id": 7376006
+          }
+        ],
+        "categories": [
+          "important tourist attraction",
+          "planetarium"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "planetarium"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Cikini Raya No.73",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Cikini",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "10330",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Cikini Raya No.73, Jakarta District, DKI Jakarta 10330",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.1901,
+        "lon": 106.8389
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.1892,
+          "lon": 106.838
+        },
+        "btmRightPoint": {
+          "lat": -6.191,
+          "lon": 106.8398
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.1904,
+            "lon": 106.83802
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "hseypDcfTOyB47cGMXk5FQ",
+      "score": 2.1037807465,
+      "info": "search:ta:360007000073198-ID",
+      "poi": {
+        "name": "Gedung Kesenian Jakarta",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Gedung Kesenian",
+        "municipalitySubdivision": "Sawah Besar",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Pasar Baru",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "10710",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Gedung Kesenian, Sawah Besar Sub District, Jakarta District, DKI Jakarta 10710",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.16736,
+        "lon": 106.83575
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.16646,
+          "lon": 106.83485
+        },
+        "btmRightPoint": {
+          "lat": -6.16826,
+          "lon": 106.83665
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.16746,
+            "lon": 106.83549
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ecpw1FGkJemROamTe9AI5g",
+      "score": 2.1037807465,
+      "info": "search:ta:360006003295298-ID",
+      "poi": {
+        "name": "Jakarta Melon Farm",
+        "phone": "+62 859-2153-518",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Cilincing",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Rorotan",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "13910",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Cilincing, Jakarta District, DKI Jakarta 13910",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.150703,
+        "lon": 106.961101
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.1498,
+          "lon": 106.9602
+        },
+        "btmRightPoint": {
+          "lat": -6.1516,
+          "lon": 106.96201
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.15061,
+            "lon": 106.96108
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "dLvdzVzaAlaq0igrAP3Qyg",
+      "score": 2.1037807465,
+      "info": "search:ta:360006007627205-ID",
+      "poi": {
+        "name": "Jakarta Old Town",
+        "phone": "+62 838-8966-685",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rt.3/Rw.6",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Pinangsia",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "11110",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Rt.3/Rw.6, Jakarta District, DKI Jakarta 11110",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.135503,
+        "lon": 106.811863
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.1346,
+          "lon": 106.81096
+        },
+        "btmRightPoint": {
+          "lat": -6.1364,
+          "lon": 106.81277
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.13549,
+            "lon": 106.81195
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "HcZvfAjaTBseBqz5g8RTqw",
+      "score": 2.1037807465,
+      "info": "search:ta:360006008037663-ID",
+      "poi": {
+        "name": "Family Diver Jakarta",
+        "phone": "+62 21 22873362",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ],
+        "url": "www.fdcjakarta.com"
+      },
+      "address": {
+        "streetName": "Jalan Radar Auri",
+        "municipalitySubdivision": "Cimanggis",
+        "municipality": "Depok",
+        "municipalitySecondarySubdivision": "Cisalak Pasar",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "16452",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Radar Auri, Cimanggis Sub District, Depok District, Jawa Barat 16452",
+        "localName": "Depok"
+      },
+      "position": {
+        "lat": -6.372545,
+        "lon": 106.86749
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.37165,
+          "lon": 106.86659
+        },
+        "btmRightPoint": {
+          "lat": -6.37344,
+          "lon": 106.86839
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.37234,
+            "lon": 106.86749
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "90e7lkZBAvP0dphCb_rYNw",
+      "score": 2.1037807465,
+      "info": "search:ta:360006007852645-ID",
+      "poi": {
+        "name": "Jakarta Bird Land",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Lodan Timur No.7",
+        "municipalitySubdivision": "Pademangan",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Ancol",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "14430",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Lodan Timur No.7, Pademangan Sub District, Jakarta District, DKI Jakarta 14430",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.126561,
+        "lon": 106.843192
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.12566,
+          "lon": 106.84229
+        },
+        "btmRightPoint": {
+          "lat": -6.12746,
+          "lon": 106.8441
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.12665,
+            "lon": 106.84321
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "nPqtOGvqeC0UqHgnUl2ahQ",
+      "score": 2.1037807465,
+      "info": "search:ta:360006008084136-ID",
+      "poi": {
+        "name": "Rumah Heritage Jakarta",
+        "phone": "+62 21 31931250",
+        "categorySet": [
+          {
+            "id": 7376002
+          }
+        ],
+        "categories": [
+          "building",
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "building"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rt.2/Rw.3",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Gondangdia",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "10350",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Rt.2/Rw.3, Jakarta District, DKI Jakarta 10350",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.1907,
+        "lon": 106.8296
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.1898,
+          "lon": 106.8287
+        },
+        "btmRightPoint": {
+          "lat": -6.1916,
+          "lon": 106.8305
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.19089,
+            "lon": 106.82978
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "cG9uRwzzfWKVi9IQh1GTpg",
+      "score": 2.0835521221,
+      "info": "search:ta:360006007882029-ID",
+      "poi": {
+        "name": "Tugu Pal Putih Jakarta",
+        "categorySet": [
+          {
+            "id": 7376013
+          }
+        ],
+        "categories": [
+          "important tourist attraction",
+          "statue"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "statue"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Surabaya St No.50",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Menteng",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "10310",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Surabaya St No.50, Jakarta District, DKI Jakarta 10310",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.201583,
+        "lon": 106.841094
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.20068,
+          "lon": 106.84019
+        },
+        "btmRightPoint": {
+          "lat": -6.20248,
+          "lon": 106.842
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.20148,
+            "lon": 106.84114
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "367AyKqd-Yo94Oan8Zv4Qw",
+      "score": 2.0835521221,
+      "info": "search:ta:360006005607504-ID",
+      "poi": {
+        "name": "Jet Ski Safari Jakarta",
+        "phone": "+62 819-3835-8888",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Marina 2",
+        "municipalitySubdivision": "Pademangan",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Ancol",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "14430",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Marina 2, Pademangan Sub District, Jakarta District, DKI Jakarta 14430",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.124742,
+        "lon": 106.826015
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.12384,
+          "lon": 106.82511
+        },
+        "btmRightPoint": {
+          "lat": -6.12564,
+          "lon": 106.82692
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.12483,
+            "lon": 106.82603
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "mgOEluOmvoXafe2YoKWIoA",
+      "score": 2.0835521221,
+      "info": "search:ta:360006008084134-ID",
+      "poi": {
+        "name": "Jakarta Aquarium And Safari",
+        "phone": "+62 21 27893435",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Letjen S. Parman No.106",
+        "municipalitySubdivision": "Grogol Petamburan",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Tanjung Duren Selatan",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "11470",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Letjen S. Parman No.106, Grogol Petamburan Sub District, Jakarta District, DKI Jakarta 11470",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.1749,
+        "lon": 106.79
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.174,
+          "lon": 106.7891
+        },
+        "btmRightPoint": {
+          "lat": -6.1758,
+          "lon": 106.7909
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.17536,
+            "lon": 106.78964
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1lDr7A-gZpXVbEzM9DDCQA",
+      "score": 2.0835521221,
+      "info": "search:ta:360006007420621-ID",
+      "poi": {
+        "name": "Diluar Kota Jakarta, Bekasi",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Dr. Ratna",
+        "municipalitySubdivision": "Pondokgede",
+        "municipality": "Kota Bekasi",
+        "municipalitySecondarySubdivision": "Jatibening",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "17412",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Dr. Ratna, Pondokgede Sub District, Kota Bekasi District, Jawa Barat 17412",
+        "localName": "Kota Bekasi"
+      },
+      "position": {
+        "lat": -6.2575,
+        "lon": 106.9527
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.2566,
+          "lon": 106.9518
+        },
+        "btmRightPoint": {
+          "lat": -6.2584,
+          "lon": 106.9536
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.25756,
+            "lon": 106.95284
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "amXIcV5pSl-TqOIuyD991w",
+      "score": 2.0835521221,
+      "info": "search:ta:360007000097505-ID",
+      "poi": {
+        "name": "Masjid Kebon Jeruk, Jakarta",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ],
+        "url": "mesjidjamikebonjeruk.blogspot.com/"
+      },
+      "address": {
+        "streetName": "Jalan Hayam Wuruk",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Maphar",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "11160",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Hayam Wuruk, Jakarta District, DKI Jakarta 11160",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.15519,
+        "lon": 106.81834
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.15429,
+          "lon": 106.81744
+        },
+        "btmRightPoint": {
+          "lat": -6.15609,
+          "lon": 106.81924
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.15521,
+            "lon": 106.81822
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "7s4YacVQEfzy4Qcg4Q-KNg",
+      "score": 2.0835521221,
+      "info": "search:ta:360006002720692-ID",
+      "poi": {
+        "name": "Agen Travel Jakarta Purbalingga",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Setu Wetan",
+        "municipalitySubdivision": "Weru",
+        "municipality": "Kota Cirebon",
+        "municipalitySecondarySubdivision": "Setu Wetan",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "45153",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Setu Wetan, Weru Sub District, Kota Cirebon District, Jawa Barat 45153",
+        "localName": "Kota Cirebon"
+      },
+      "position": {
+        "lat": -6.715759,
+        "lon": 108.51103
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.71486,
+          "lon": 108.51012
+        },
+        "btmRightPoint": {
+          "lat": -6.71666,
+          "lon": 108.51194
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.71527,
+            "lon": 108.511
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "dCjzXdHjf5IexyX0P2AKdg",
+      "score": 2.0835521221,
+      "info": "search:ta:360006004667893-ID",
+      "poi": {
+        "name": "Tugu Perbatasan Jakarta Bekasi",
+        "categorySet": [
+          {
+            "id": 7376003
+          }
+        ],
+        "categories": [
+          "important tourist attraction",
+          "monument"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "monument"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sultan Agung",
+        "municipality": "Kota Bekasi",
+        "municipalitySecondarySubdivision": "Medan Satria",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "17132",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sultan Agung, Kota Bekasi District, Jawa Barat 17132",
+        "localName": "Kota Bekasi"
+      },
+      "position": {
+        "lat": -6.191864,
+        "lon": 106.970834
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.19096,
+          "lon": 106.96993
+        },
+        "btmRightPoint": {
+          "lat": -6.19276,
+          "lon": 106.97174
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.19193,
+            "lon": 106.97077
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "SJuwvNNY-Q7pZe8u6utNtw",
+      "score": 2.0644676685,
+      "info": "search:ta:360009000639152-ID",
+      "poi": {
+        "name": "Bandar Udara Internasional Jakarta Soekarno-Hatta",
+        "phone": "+62 21 5505177",
+        "categorySet": [
+          {
+            "id": 7383002
+          }
+        ],
+        "categories": [
+          "airport",
+          "public authority"
+        ],
+        "classifications": [
+          {
+            "code": "AIRPORT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "airport"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "public authority"
+              }
+            ]
+          }
+        ],
+        "url": "www.jakartasoekarnohattaairport.com"
+      },
+      "address": {
+        "streetName": "Jalan P21",
+        "municipality": "Kota Tangerang",
+        "municipalitySecondarySubdivision": "Pajang",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "15126",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan P21, Kota Tangerang District, Banten 15126",
+        "localName": "Kota Tangerang"
+      },
+      "position": {
+        "lat": -6.120678,
+        "lon": 106.652026
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.0991,
+          "lon": 106.63285
+        },
+        "btmRightPoint": {
+          "lat": -6.14919,
+          "lon": 106.68544
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "minor",
+          "position": {
+            "lat": -6.12926,
+            "lon": 106.65766
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.12264,
+            "lon": 106.65276
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.12153,
+            "lon": 106.66136
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.12147,
+            "lon": 106.66151
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.13076,
+            "lon": 106.65632
+          }
+        },
+        {
+          "type": "minor",
+          "position": {
+            "lat": -6.12329,
+            "lon": 106.652
+          }
+        },
+        {
+          "type": "minor",
+          "position": {
+            "lat": -6.13104,
+            "lon": 106.6556
+          }
+        },
+        {
+          "type": "minor",
+          "position": {
+            "lat": -6.12355,
+            "lon": 106.65217
+          }
+        },
+        {
+          "type": "minor",
+          "position": {
+            "lat": -6.11939,
+            "lon": 106.66637
+          }
+        },
+        {
+          "type": "minor",
+          "position": {
+            "lat": -6.12339,
+            "lon": 106.65203
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": "00004944-3200-3c00-0000-000059b487bb"
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "RLomsAOEzLhoxJimiH_vMg",
+      "score": 2.0637090206,
+      "info": "search:ta:360006003682703-ID",
+      "poi": {
+        "name": "View Bandara Soekarno-Hatta Jakarta",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rt.1/Rw.2",
+        "municipality": "Kota Tangerang",
+        "municipalitySecondarySubdivision": "Bojong Renged",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "15215",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Rt.1/Rw.2, Kota Tangerang District, Banten 15215",
+        "localName": "Kota Tangerang"
+      },
+      "position": {
+        "lat": -6.1099,
+        "lon": 106.6507
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.109,
+          "lon": 106.6498
+        },
+        "btmRightPoint": {
+          "lat": -6.1108,
+          "lon": 106.6516
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.10999,
+            "lon": 106.65074
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "40kXW2sPXWyfsCL_24Hg0A",
+      "score": 2.0637090206,
+      "info": "search:ta:360006002717677-ID",
+      "poi": {
+        "name": "Gi Jakarta Utara Shelter Sunter",
+        "phone": "+62 858-9343-283",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rt.5/Rw.18",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Sunter Agung",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "14350",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Rt.5/Rw.18, Jakarta District, DKI Jakarta 14350",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.138347,
+        "lon": 106.865638
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.13745,
+          "lon": 106.86473
+        },
+        "btmRightPoint": {
+          "lat": -6.13925,
+          "lon": 106.86654
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.13843,
+            "lon": 106.86569
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "R3Cxr1XFH9mGPh-ipQ9aLQ",
+      "score": 2.0637090206,
+      "info": "search:ta:360006006305981-ID",
+      "poi": {
+        "name": "Tugu Batas Dki Jakarta Banten",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Ciputat Raya No.35",
+        "municipalitySubdivision": "Ciputat Timur",
+        "municipality": "Kota Tangerang",
+        "municipalitySecondarySubdivision": "Rempoa",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "15419",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Ciputat Raya No.35, Ciputat Timur Sub District, Kota Tangerang District, Banten 15419",
+        "localName": "Kota Tangerang"
+      },
+      "position": {
+        "lat": -6.2909,
+        "lon": 106.7667
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.29,
+          "lon": 106.7658
+        },
+        "btmRightPoint": {
+          "lat": -6.2918,
+          "lon": 106.7676
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.29078,
+            "lon": 106.76661
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1XT1PdZws7WnzdsJyI0jUQ",
+      "score": 2.0251348019,
+      "info": "search:ta:360006002870766-ID",
+      "poi": {
+        "name": "Wisata Taman Bunga Asya Cakung Jakarta Timur",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Cakung Tim. Kec. Cakung",
+        "municipalitySubdivision": "Cakung",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Cakung Timur",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "13910",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Cakung Tim. Kec. Cakung 9, Cakung Sub District, Jakarta District, DKI Jakarta 13910",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.1782,
+        "lon": 106.9519
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.1773,
+          "lon": 106.951
+        },
+        "btmRightPoint": {
+          "lat": -6.1791,
+          "lon": 106.9528
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.17732,
+            "lon": 106.95193
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "bKisFZe7d_y6btdKxVbvwQ",
+      "score": 2.0251348019,
+      "info": "search:ta:360006003196264-ID",
+      "poi": {
+        "name": "Sewa Alat Camping Terbaik Di Jakarta Utara",
+        "phone": "+62 813-8717-773",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rt.11/Rw.10",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Tugu Utara",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "14260",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Rt.11/Rw.10, Jakarta District, DKI Jakarta 14260",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.123133,
+        "lon": 106.911249
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.12223,
+          "lon": 106.91034
+        },
+        "btmRightPoint": {
+          "lat": -6.12403,
+          "lon": 106.91215
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.12304,
+            "lon": 106.91125
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "nSac5BEhgNUUrwVns3NVOw",
+      "score": 2.0239999294,
+      "info": "search:ta:032008001760982-AR",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 9352004
+          }
+        ],
+        "categories": [
+          "company",
+          "computer data services"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "computer data services"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Avenida Rivadavia",
+        "municipalitySubdivision": "Balvanera",
+        "municipality": "Buenos Aires",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Ciudad Autónoma de Buenos Aires",
+        "countrySubdivisionName": "Ciudad Autónoma de Buenos Aires",
+        "countrySubdivisionCode": "C",
+        "postalCode": "C1034",
+        "countryCode": "AR",
+        "country": "Argentina",
+        "countryCodeISO3": "ARG",
+        "freeformAddress": "Avenida Rivadavia 2431, C1034ACD Buenos Aires Ciudad Autónoma de Buenos Aires",
+        "localName": "Buenos Aires"
+      },
+      "position": {
+        "lat": -34.609711,
+        "lon": -58.400874
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -34.60881,
+          "lon": -58.40197
+        },
+        "btmRightPoint": {
+          "lat": -34.61061,
+          "lon": -58.39978
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -34.6098,
+            "lon": -58.40087
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "qhxRKcLMkRT6Yhws8INmBA",
+      "score": 2.0239999294,
+      "info": "search:ta:032007000188786-AR",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Calle Nicaragua",
+        "municipalitySubdivision": "Palermo",
+        "municipality": "Buenos Aires",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Ciudad Autónoma de Buenos Aires",
+        "countrySubdivisionName": "Ciudad Autónoma de Buenos Aires",
+        "countrySubdivisionCode": "C",
+        "postalCode": "C1414",
+        "countryCode": "AR",
+        "country": "Argentina",
+        "countryCodeISO3": "ARG",
+        "freeformAddress": "Calle Nicaragua 5606, C1414BWF Buenos Aires Ciudad Autónoma de Buenos Aires",
+        "localName": "Buenos Aires"
+      },
+      "position": {
+        "lat": -34.581613,
+        "lon": -58.433723
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -34.58071,
+          "lon": -58.43482
+        },
+        "btmRightPoint": {
+          "lat": -34.58251,
+          "lon": -58.43263
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -34.58156,
+            "lon": -58.43361
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "3kcy9k75_DvYRoAgT-HR-A",
+      "score": 2.0239999294,
+      "info": "search:ta:120009000081790-CM",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Bonamatoumbe",
+        "municipality": "Bonabéri",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Littoral",
+        "countrySubdivisionName": "Littoral",
+        "countrySubdivisionCode": "LT",
+        "postalCode": "",
+        "countryCode": "CM",
+        "country": "Cameroun",
+        "countryCodeISO3": "CMR",
+        "freeformAddress": "Bonabéri, Littoral (Bonamatoumbe)",
+        "localName": "Bonabéri"
+      },
+      "position": {
+        "lat": 4.088684,
+        "lon": 9.663513
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 4.08958,
+          "lon": 9.66261
+        },
+        "btmRightPoint": {
+          "lat": 4.08778,
+          "lon": 9.66441
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 4.08861,
+            "lon": 9.66362
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "5qGQECju5V9-xvto0Feypg",
+      "score": 2.0239999294,
+      "info": "search:ta:120009000080921-CM",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 9900
+          }
+        ],
+        "categories": [
+          "entertainment"
+        ],
+        "classifications": [
+          {
+            "code": "ENTERTAINMENT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "entertainment"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Bonaminkano",
+        "municipality": "Bonabéri",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Littoral",
+        "countrySubdivisionName": "Littoral",
+        "countrySubdivisionCode": "LT",
+        "postalCode": "",
+        "countryCode": "CM",
+        "country": "Cameroun",
+        "countryCodeISO3": "CMR",
+        "freeformAddress": "Bonabéri, Littoral (Bonaminkano)",
+        "localName": "Bonabéri"
+      },
+      "position": {
+        "lat": 4.088655,
+        "lon": 9.663413
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 4.08955,
+          "lon": 9.66251
+        },
+        "btmRightPoint": {
+          "lat": 4.08776,
+          "lon": 9.66431
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 4.08858,
+            "lon": 9.66334
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "zYX5sB0_KdKx-27qjQhEkA",
+      "score": 2.0239999294,
+      "info": "search:ta:818007000075862-EG",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7314007
+          }
+        ],
+        "categories": [
+          "cabins lodges",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "cabins lodges"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Branched From Borhan",
+        "municipalitySubdivision": "Qesm Helwan",
+        "municipality": "Helwan",
+        "municipalitySecondarySubdivision": "Helwan El Sharkia",
+        "countrySubdivision": "Cairo",
+        "countrySubdivisionName": "Cairo",
+        "countrySubdivisionCode": "C",
+        "postalCode": "",
+        "countryCode": "EG",
+        "country": "Egypt",
+        "countryCodeISO3": "EGY",
+        "freeformAddress": "Branched From Borhan, Helwan, Cairo",
+        "localName": "Helwan"
+      },
+      "position": {
+        "lat": 29.843731,
+        "lon": 31.335984
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 29.84463,
+          "lon": 31.33495
+        },
+        "btmRightPoint": {
+          "lat": 29.84283,
+          "lon": 31.33702
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 29.84365,
+            "lon": 31.33603
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "WGOnKKatYTj1ij1Cpim-Tg",
+      "score": 2.0239999294,
+      "info": "search:ta:724009030202497-ES",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 9361006
+          }
+        ],
+        "categories": [
+          "clothing accessories: general",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: general"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Calle de Barbastro",
+        "municipalitySubdivision": "Urbanizaciones del Montgó",
+        "municipality": "Jávea",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Comunidad Valenciana",
+        "countrySubdivisionName": "Comunidad Valenciana",
+        "countrySubdivisionCode": "VC",
+        "postalCode": "03730",
+        "countryCode": "ES",
+        "country": "España",
+        "countryCodeISO3": "ESP",
+        "freeformAddress": "Calle de Barbastro, 0005, 03730 Jávea",
+        "localName": "Jávea"
+      },
+      "position": {
+        "lat": 38.78992,
+        "lon": 0.14672
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 38.79082,
+          "lon": 0.14557
+        },
+        "btmRightPoint": {
+          "lat": 38.78902,
+          "lon": 0.14787
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 38.78989,
+            "lon": 0.14644
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "0ecPtGYdFLpSMFt0LrrsDw",
+      "score": 2.0239999294,
+      "info": "search:ta:724009030332389-ES",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 9361006
+          }
+        ],
+        "categories": [
+          "clothing accessories: general",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: general"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Carretera de Jávea",
+        "municipality": "Benitachell",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Comunidad Valenciana",
+        "countrySubdivisionName": "Comunidad Valenciana",
+        "countrySubdivisionCode": "VC",
+        "postalCode": "03726",
+        "countryCode": "ES",
+        "country": "España",
+        "countryCodeISO3": "ESP",
+        "freeformAddress": "Carretera de Jávea, 5, 03726 Benitachell",
+        "localName": "Benitachell"
+      },
+      "position": {
+        "lat": 38.733895,
+        "lon": 0.144324
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 38.73479,
+          "lon": 0.14317
+        },
+        "btmRightPoint": {
+          "lat": 38.733,
+          "lon": 0.14548
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 38.73382,
+            "lon": 0.14438
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Pi3yL4vbygfM6nNhaiOK-Q",
+      "score": 2.0239999294,
+      "info": "search:ta:724006000399852-ES",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 9361006
+          }
+        ],
+        "categories": [
+          "clothing accessories: general",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: general"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Calle de Sant Vicent",
+        "municipalitySubdivision": "Benimaurrell",
+        "municipality": "La Vall de Laguar",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Comunidad Valenciana",
+        "countrySubdivisionName": "Comunidad Valenciana",
+        "countrySubdivisionCode": "VC",
+        "postalCode": "03560",
+        "countryCode": "ES",
+        "country": "España",
+        "countryCodeISO3": "ESP",
+        "freeformAddress": "Calle de Sant Vicent, 03560 La Vall de Laguar",
+        "localName": "La Vall de Laguar"
+      },
+      "position": {
+        "lat": 38.772681,
+        "lon": -0.126382
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 38.77358,
+          "lon": -0.12754
+        },
+        "btmRightPoint": {
+          "lat": 38.77178,
+          "lon": -0.12523
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 38.77265,
+            "lon": -0.12649
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "R6kwRs0A17nhPGgM3ZUjTQ",
+      "score": 2.0239999294,
+      "info": "search:ta:826009035643011-GB",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+44 20 8205 3335",
+        "categorySet": [
+          {
+            "id": 7315071
+          }
+        ],
+        "categories": [
+          "fusion",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "fusion"
+              }
+            ]
+          }
+        ],
+        "url": "www.jakartarestaurant.co.uk/"
+      },
+      "address": {
+        "streetName": "Sheaveshill Avenue",
+        "municipalitySubdivision": "The Hyde",
+        "municipality": "London",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "ENG",
+        "countrySubdivisionName": "England",
+        "countrySubdivisionCode": "ENG",
+        "postalCode": "NW9",
+        "countryCode": "GB",
+        "country": "United Kingdom",
+        "countryCodeISO3": "GBR",
+        "freeformAddress": "7 Sheaveshill Avenue, The Hyde, London, NW9 6RS",
+        "localName": "London"
+      },
+      "position": {
+        "lat": 51.588285,
+        "lon": -0.251582
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 51.58918,
+          "lon": -0.25303
+        },
+        "btmRightPoint": {
+          "lat": 51.58739,
+          "lon": -0.25013
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 51.58835,
+            "lon": -0.25167
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "tTCBrF-aXya6nfsKWmCrJw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006004558818-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 852-6024-332",
+        "categorySet": [
+          {
+            "id": 9352002
+          }
+        ],
+        "categories": [
+          "company",
+          "service"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "service"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Drien Rampak",
+        "municipalitySubdivision": "Johan Pahlawan",
+        "municipality": "Aceh",
+        "municipalitySecondarySubdivision": "Drien Rampak",
+        "countrySubdivision": "Aceh",
+        "countrySubdivisionName": "Aceh",
+        "countrySubdivisionCode": "AC",
+        "postalCode": "23611",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Drien Rampak, Johan Pahlawan Sub District, Aceh District, Aceh 23611",
+        "localName": "Aceh"
+      },
+      "position": {
+        "lat": 4.1538,
+        "lon": 96.1339
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 4.1547,
+          "lon": 96.133
+        },
+        "btmRightPoint": {
+          "lat": 4.1529,
+          "lon": 96.1348
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 4.15371,
+            "lon": 96.13378
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "YX1fS5ck4jdlCcJrfeOq5w",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007741558-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 857-1013-666",
+        "categorySet": [
+          {
+            "id": 7372002
+          }
+        ],
+        "categories": [
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Garuda Raya No.108A",
+        "municipality": "Kota Tangerang",
+        "municipalitySecondarySubdivision": "Jurang Manggu Timur",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "15222",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Garuda Raya No.108A, Kota Tangerang District, Banten 15222",
+        "localName": "Kota Tangerang"
+      },
+      "position": {
+        "lat": -6.2546,
+        "lon": 106.734
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.2537,
+          "lon": 106.7331
+        },
+        "btmRightPoint": {
+          "lat": -6.2555,
+          "lon": 106.7349
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.2546,
+            "lon": 106.73379
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "e4scbL_CF2_XD7tzt_vj-w",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006582843-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 21 50948888",
+        "categorySet": [
+          {
+            "id": 7363
+          }
+        ],
+        "categories": [
+          "community center"
+        ],
+        "classifications": [
+          {
+            "code": "COMMUNITY_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "community center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Kayu Mas Raya No.10",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Pulo Gadung",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "13260",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Kayu Mas Raya No.10, Jakarta District, DKI Jakarta 13260",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.18621,
+        "lon": 106.898557
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.18531,
+          "lon": 106.89765
+        },
+        "btmRightPoint": {
+          "lat": -6.18711,
+          "lon": 106.89946
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.1862,
+            "lon": 106.89847
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "xIP2lPYPGJNq38xLxzPJIg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006970476-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Central Jakarta City",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Kebon Sirih",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "10340",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Central Jakarta City, Jakarta District, DKI Jakarta 10340",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.18456,
+        "lon": 106.83497
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.18366,
+          "lon": 106.83407
+        },
+        "btmRightPoint": {
+          "lat": -6.18546,
+          "lon": 106.83587
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.18448,
+            "lon": 106.83503
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "FPvkVsu38c65fE4g5h5BIg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001844411-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Ariodillah Iii No.2371",
+        "municipalitySubdivision": "Ilir Timur I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "20 Ilir IV",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30128",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Ariodillah Iii No.2371, Ilir Timur I Sub District, Palembang District, Sumatera Selatan 30128",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9654,
+        "lon": 104.7399
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9645,
+          "lon": 104.739
+        },
+        "btmRightPoint": {
+          "lat": -2.9663,
+          "lon": 104.7408
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.9661,
+            "lon": 104.74041
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "RsPBjdotoQMYtx-L6dYoQg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007842554-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 813-1819-799",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rt.3/Rw.11",
+        "municipalitySubdivision": "Cengkareng",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Kapuk",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "11720",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Rt.3/Rw.11, Cengkareng Sub District, Jakarta District, DKI Jakarta 11720",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.128362,
+        "lon": 106.741277
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.12746,
+          "lon": 106.74037
+        },
+        "btmRightPoint": {
+          "lat": -6.12926,
+          "lon": 106.74218
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.12828,
+            "lon": 106.74131
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "6Y5KodeOiCQcN8sKM8m6iw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007272276-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Lintas Sumatra Talang Balai Baru Ii Kec. Tj. Raja",
+        "municipality": "Ogan Ilir",
+        "municipalitySecondarySubdivision": "Talang Balai Baru II",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30661",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Lintas Sumatra Talang Balai Baru Ii Kec. Tj. Raja, Ogan Ilir District, Sumatera Selatan 30661",
+        "localName": "Ogan Ilir"
+      },
+      "position": {
+        "lat": -3.3228,
+        "lon": 104.7577
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.3219,
+          "lon": 104.7568
+        },
+        "btmRightPoint": {
+          "lat": -3.3237,
+          "lon": 104.7586
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.32282,
+            "lon": 104.7577
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "7RtTc7kUalV5eC0dxqbj3w",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001657700-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Petir Baros",
+        "municipality": "Serang",
+        "municipalitySecondarySubdivision": "Baros",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "42173",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Petir Baros, Serang District, Banten 42173",
+        "localName": "Serang"
+      },
+      "position": {
+        "lat": -6.2109,
+        "lon": 106.1351
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.21,
+          "lon": 106.1342
+        },
+        "btmRightPoint": {
+          "lat": -6.2118,
+          "lon": 106.136
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.21001,
+            "lon": 106.13524
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "w9E20KIjiAWNMJ2wvARkmQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002652480-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 21 48703786",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Lb. Tj. No.17",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Bintaro",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "12330",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Lb. Tj. No.17, Jakarta District, DKI Jakarta 12330",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.282006,
+        "lon": 106.766184
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.28111,
+          "lon": 106.76528
+        },
+        "btmRightPoint": {
+          "lat": -6.28291,
+          "lon": 106.76709
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.28198,
+            "lon": 106.7661
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "PlF5cRbOV0ikTpla0uQ2DA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006165077-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 628 16816718",
+        "categorySet": [
+          {
+            "id": 9361015
+          }
+        ],
+        "categories": [
+          "real estate agents",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "real estate agents"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Per. Griya Kenanga Jl. Kenanga Raya No.8",
+        "municipality": "Kota Tangerang",
+        "municipalitySecondarySubdivision": "Kenanga",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "15146",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Per. Griya Kenanga Jl. Kenanga Raya No.8, Kota Tangerang District, Banten 15146",
+        "localName": "Kota Tangerang"
+      },
+      "position": {
+        "lat": -6.1897,
+        "lon": 106.6933
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.1888,
+          "lon": 106.6924
+        },
+        "btmRightPoint": {
+          "lat": -6.1906,
+          "lon": 106.6942
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.18979,
+            "lon": 106.69329
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Ic-kB2WmfwUK63_80X00qw",
+      "score": 2.0239999294,
+      "info": "search:ta:360009000181750-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 623 56321341",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sidomulyo Kec. Tuban Kabupaten",
+        "municipality": "Tuban",
+        "municipalitySecondarySubdivision": "Sidomulyo",
+        "countrySubdivision": "Jawa Timur",
+        "countrySubdivisionName": "Jawa Timur",
+        "countrySubdivisionCode": "JI",
+        "postalCode": "62312",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Sidomulyo Kec. Tuban Kabupaten 116, Tuban District, Jawa Timur 62312",
+        "localName": "Tuban"
+      },
+      "position": {
+        "lat": -6.8988,
+        "lon": 112.0597
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.8979,
+          "lon": 112.05879
+        },
+        "btmRightPoint": {
+          "lat": -6.8997,
+          "lon": 112.06061
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.89893,
+            "lon": 112.05966
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Uj2Dey39GBTvBo6SI49NSA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006008025471-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 622 18577007",
+        "categorySet": [
+          {
+            "id": 9361042
+          }
+        ],
+        "categories": [
+          "construction material equipment",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "construction material equipment"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "No. Jl. Pramuka No.77",
+        "municipalitySubdivision": "Matraman",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Utan Kayu Utara",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "13120",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "No. Jl. Pramuka No.77, Matraman Sub District, Jakarta District, DKI Jakarta 13120",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.1923,
+        "lon": 106.8693
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.1914,
+          "lon": 106.8684
+        },
+        "btmRightPoint": {
+          "lat": -6.1932,
+          "lon": 106.8702
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.19231,
+            "lon": 106.8693
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "MXBfWW4SxA0XK-YGpoSzyQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002657433-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "East Jakarta City",
+        "municipalitySubdivision": "Jakarta Timur",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Halim Perdana Kusumah",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "13610",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "East Jakarta City, Jakarta Timur Sub District, Jakarta District, DKI Jakarta 13610",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.250479,
+        "lon": 106.899452
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.24958,
+          "lon": 106.89855
+        },
+        "btmRightPoint": {
+          "lat": -6.25138,
+          "lon": 106.90036
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.25051,
+            "lon": 106.89954
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "EisnHXx-oQEEd9wKb-jjrg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000169873-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7332005
+          }
+        ],
+        "categories": [
+          "market",
+          "supermarkets hypermarkets"
+        ],
+        "classifications": [
+          {
+            "code": "MARKET",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "supermarkets hypermarkets"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "market"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalajja",
+        "municipality": "Luwu",
+        "municipalitySecondarySubdivision": "Jalajja",
+        "countrySubdivision": "Sulawesi Selatan",
+        "countrySubdivisionName": "Sulawesi Selatan",
+        "countrySubdivisionCode": "SN",
+        "postalCode": "92975",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalajja, Luwu District, Sulawesi Selatan 92975",
+        "localName": "Luwu"
+      },
+      "position": {
+        "lat": -2.601,
+        "lon": 120.7038
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.6001,
+          "lon": 120.7029
+        },
+        "btmRightPoint": {
+          "lat": -2.6019,
+          "lon": 120.7047
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.60132,
+            "lon": 120.70378
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "e-Jc0eOXmIQjdBAiFeKXuQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007576586-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 21 29186889",
+        "categorySet": [
+          {
+            "id": 9361019
+          }
+        ],
+        "categories": [
+          "food drinks: butchers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: butchers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Drs. H. Anang Hasyim No.224-B Blok F No",
+        "municipalitySubdivision": "Samarinda Ulu",
+        "municipality": "Samarinda",
+        "municipalitySecondarySubdivision": "Air Hitam",
+        "countrySubdivision": "Kalimantan Timur",
+        "countrySubdivisionName": "Kalimantan Timur",
+        "countrySubdivisionCode": "KI",
+        "postalCode": "75243",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Drs. H. Anang Hasyim No.224-B Blok F No, Samarinda Ulu Sub District, Samarinda District, Kalimantan Timur 75243",
+        "localName": "Samarinda"
+      },
+      "position": {
+        "lat": -0.4686,
+        "lon": 117.1292
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.4677,
+          "lon": 117.1283
+        },
+        "btmRightPoint": {
+          "lat": -0.4695,
+          "lon": 117.1301
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.46861,
+            "lon": 117.12973
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "6e-6iTrjbN4a607Oya7jow",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006722940-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7372014
+          }
+        ],
+        "categories": [
+          "middle school",
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "middle school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "South Jakarta City",
+        "municipalitySubdivision": "Kebayoran Lama",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Grogol Selatan",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "12220",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "South Jakarta City, Kebayoran Lama Sub District, Jakarta District, DKI Jakarta 12220",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.2256,
+        "lon": 106.7912
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.2247,
+          "lon": 106.7903
+        },
+        "btmRightPoint": {
+          "lat": -6.2265,
+          "lon": 106.7921
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.22561,
+            "lon": 106.7912
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "VU6CUFDoA3nb6TsbmTk4dg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007783774-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Blok D7",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Tegal Alur",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "11820",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Blok D7 5, Jakarta District, DKI Jakarta 11820",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.123133,
+        "lon": 106.719252
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.12223,
+          "lon": 106.71835
+        },
+        "btmRightPoint": {
+          "lat": -6.12403,
+          "lon": 106.72016
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.12325,
+            "lon": 106.71911
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "n-ZGnzbAzCCi6-T311RDmA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001055526-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 821-6822-886",
+        "categorySet": [
+          {
+            "id": 7310004
+          }
+        ],
+        "categories": [
+          "general car repair servicing",
+          "repair facility"
+        ],
+        "classifications": [
+          {
+            "code": "REPAIR_FACILITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "repair facility"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "general car repair servicing"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Bundaran PU",
+        "municipality": "Kupang",
+        "municipalitySecondarySubdivision": "Oebufu",
+        "countrySubdivision": "Nusa Tenggara Timur",
+        "countrySubdivisionName": "Nusa Tenggara Timur",
+        "countrySubdivisionCode": "NT",
+        "postalCode": "85111",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Bundaran PU, Kupang District, Nusa Tenggara Timur 85111",
+        "localName": "Kupang"
+      },
+      "position": {
+        "lat": -10.1728,
+        "lon": 123.6279
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -10.1719,
+          "lon": 123.62699
+        },
+        "btmRightPoint": {
+          "lat": -10.1737,
+          "lon": 123.62881
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -10.17287,
+            "lon": 123.62829
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "B_Mb8smdT8uRY42oAsWThw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006004079275-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 9153
+          }
+        ],
+        "categories": [
+          "welfare organization"
+        ],
+        "classifications": [
+          {
+            "code": "WELFARE_ORGANIZATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "welfare organization"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Balige No.12",
+        "municipality": "Toba Samosir",
+        "municipalitySecondarySubdivision": "Dolok Jior",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "22384",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Balige No.12, Toba Samosir District, Sumatera Utara 22384",
+        "localName": "Toba Samosir"
+      },
+      "position": {
+        "lat": 2.3909,
+        "lon": 99.1556
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 2.3918,
+          "lon": 99.1547
+        },
+        "btmRightPoint": {
+          "lat": 2.39,
+          "lon": 99.1565
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 2.39099,
+            "lon": 99.15549
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "AXGVbnI_xFXyKR1DUJ0oXA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003820079-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 9361023
+          }
+        ],
+        "categories": [
+          "food drinks: grocers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: grocers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kode Pos",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Pondok Bambu",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "13430",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kode Pos 13340, Jakarta District, DKI Jakarta 13430",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.24333,
+        "lon": 106.910073
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.24243,
+          "lon": 106.90917
+        },
+        "btmRightPoint": {
+          "lat": -6.24423,
+          "lon": 106.91098
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.24317,
+            "lon": 106.9101
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "z8trDsS9oQdqGjVZB2-9pQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007496820-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 812-7586-727",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Raja H. Fisabilillah",
+        "municipalitySubdivision": "Lubuk Baja",
+        "municipality": "Batam",
+        "municipalitySecondarySubdivision": "Baloi Indah",
+        "countrySubdivision": "Kepulauan Riau",
+        "countrySubdivisionName": "Kepulauan Riau",
+        "countrySubdivisionCode": "KR",
+        "postalCode": "29432",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Raja H. Fisabilillah, Lubuk Baja Sub District, Batam District, Kepulauan Riau 29432",
+        "localName": "Batam"
+      },
+      "position": {
+        "lat": 1.1233,
+        "lon": 104.0159
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.1242,
+          "lon": 104.015
+        },
+        "btmRightPoint": {
+          "lat": 1.1224,
+          "lon": 104.0168
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.12339,
+            "lon": 104.01576
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "3Sldc669ecmdX4qE0Fd0JQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006654436-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 21 39507355",
+        "categorySet": [
+          {
+            "id": 9352
+          }
+        ],
+        "categories": [
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Perumahan Pondok Lestari No.12A Blok D",
+        "municipality": "Kota Tangerang",
+        "municipalitySecondarySubdivision": "Karang Timur",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "15157",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Perumahan Pondok Lestari No.12A Blok D 4, Kota Tangerang District, Banten 15157",
+        "localName": "Kota Tangerang"
+      },
+      "position": {
+        "lat": -6.2211,
+        "lon": 106.7123
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.2202,
+          "lon": 106.7114
+        },
+        "btmRightPoint": {
+          "lat": -6.222,
+          "lon": 106.7132
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.22146,
+            "lon": 106.71224
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1d38jnvYdIwyR4uk1TzbfQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006005350379-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 9352
+          }
+        ],
+        "categories": [
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Pegagan Kidul Kec. Kapetakan Kabupaten",
+        "municipality": "Kota Cirebon",
+        "municipalitySecondarySubdivision": "Pegagan Kidul",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "45152",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Pegagan Kidul Kec. Kapetakan Kabupaten, Kota Cirebon District, Jawa Barat 45152",
+        "localName": "Kota Cirebon"
+      },
+      "position": {
+        "lat": -6.5993,
+        "lon": 108.511
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.5984,
+          "lon": 108.51009
+        },
+        "btmRightPoint": {
+          "lat": -6.6002,
+          "lon": 108.51191
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.59926,
+            "lon": 108.51135
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "y9zsjxzz6MYl_SZKnV5u9w",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000062599-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 857-8852-774",
+        "categorySet": [
+          {
+            "id": 7372005
+          }
+        ],
+        "categories": [
+          "primary school",
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "primary school"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Reno Basuki",
+        "municipalitySubdivision": "Rumbia",
+        "municipality": "Lampung",
+        "municipalitySecondarySubdivision": "Reno Basuki",
+        "countrySubdivision": "Lampung",
+        "countrySubdivisionName": "Lampung",
+        "countrySubdivisionCode": "LA",
+        "postalCode": "34168",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Reno Basuki, Rumbia Sub District, Lampung District, Lampung 34168",
+        "localName": "Lampung"
+      },
+      "position": {
+        "lat": -4.74565,
+        "lon": 105.542081
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -4.74475,
+          "lon": 105.54118
+        },
+        "btmRightPoint": {
+          "lat": -4.74655,
+          "lon": 105.54298
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -4.74541,
+            "lon": 105.54196
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "LB2pcDX4eQ0m3Kpjs-_XXA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002278820-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Unnamed Road",
+        "municipality": "Grobogan",
+        "municipalitySecondarySubdivision": "Ringinharjo",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "58164",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Unnamed Road, Grobogan District, Jawa Tengah 58164",
+        "localName": "Grobogan"
+      },
+      "position": {
+        "lat": -6.9869,
+        "lon": 110.6708
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.986,
+          "lon": 110.66989
+        },
+        "btmRightPoint": {
+          "lat": -6.9878,
+          "lon": 110.67171
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.98643,
+            "lon": 110.67106
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "GR7njPN6WFWU7QU9ylBGEw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003558791-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7315078
+          }
+        ],
+        "categories": [
+          "ice cream parlor",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "ice cream parlor"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gg",
+        "municipalitySubdivision": "Samarinda Ulu",
+        "municipality": "Samarinda",
+        "municipalitySecondarySubdivision": "Sidodadi",
+        "countrySubdivision": "Kalimantan Timur",
+        "countrySubdivisionName": "Kalimantan Timur",
+        "countrySubdivisionCode": "KI",
+        "postalCode": "75243",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gg 7, Samarinda Ulu Sub District, Samarinda District, Kalimantan Timur 75243",
+        "localName": "Samarinda"
+      },
+      "position": {
+        "lat": -0.477699,
+        "lon": 117.1475
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.4768,
+          "lon": 117.1466
+        },
+        "btmRightPoint": {
+          "lat": -0.4786,
+          "lon": 117.1484
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.47778,
+            "lon": 117.14747
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Kt7uvhhE5C696XPGlAf9Vg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002151617-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7314
+          }
+        ],
+        "categories": [
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Imam Bonjol",
+        "municipality": "Batu",
+        "municipalitySecondarySubdivision": "Bumiaji",
+        "countrySubdivision": "Jawa Timur",
+        "countrySubdivisionName": "Jawa Timur",
+        "countrySubdivisionCode": "JI",
+        "postalCode": "65331",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Imam Bonjol, Batu District, Jawa Timur 65331",
+        "localName": "Batu"
+      },
+      "position": {
+        "lat": -7.856431,
+        "lon": 112.534072
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.85553,
+          "lon": 112.53316
+        },
+        "btmRightPoint": {
+          "lat": -7.85733,
+          "lon": 112.53498
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.857,
+            "lon": 112.53337
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "I7RaqlS6ZPQUIMJizLwIRg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002244783-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gg. Palem No.50",
+        "municipality": "Kota Bogor",
+        "municipalitySecondarySubdivision": "Jampang",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "16310",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gg. Palem No.50, Kota Bogor District, Jawa Barat 16310",
+        "localName": "Kota Bogor"
+      },
+      "position": {
+        "lat": -6.4836,
+        "lon": 106.7316
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.4827,
+          "lon": 106.73069
+        },
+        "btmRightPoint": {
+          "lat": -6.4845,
+          "lon": 106.73251
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.48314,
+            "lon": 106.73207
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "j9FFKs7HHQjD_HGCZIBYPw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003147281-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Natar",
+        "municipality": "Lampung",
+        "municipalitySecondarySubdivision": "Candi Mas",
+        "countrySubdivision": "Lampung",
+        "countrySubdivisionName": "Lampung",
+        "countrySubdivisionCode": "LA",
+        "postalCode": "35362",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Natar, Lampung District, Lampung 35362",
+        "localName": "Lampung"
+      },
+      "position": {
+        "lat": -5.2563,
+        "lon": 105.1851
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -5.2554,
+          "lon": 105.1842
+        },
+        "btmRightPoint": {
+          "lat": -5.2572,
+          "lon": 105.186
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -5.25654,
+            "lon": 105.18481
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "I-LDX6S9nX8EeuTLW0Hk4A",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006996289-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 878-1484-300",
+        "categorySet": [
+          {
+            "id": 9361037
+          }
+        ],
+        "categories": [
+          "newsagents tobacconists",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "newsagents tobacconists"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Duri Nirmala V No.28A",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Duri Kepa",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "11510",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Duri Nirmala V No.28A 1, Jakarta District, DKI Jakarta 11510",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.180219,
+        "lon": 106.770301
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.17909,
+          "lon": 106.76916
+        },
+        "btmRightPoint": {
+          "lat": -6.18135,
+          "lon": 106.77144
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.18084,
+            "lon": 106.77125
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "4fkofRLntMW1X4EyBQ33zg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000147280-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipality": "Muna",
+        "municipalitySecondarySubdivision": "Raha I",
+        "countrySubdivision": "Sulawesi Tenggara",
+        "countrySubdivisionName": "Sulawesi Tenggara",
+        "countrySubdivisionCode": "SG",
+        "postalCode": "93611",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Muna District, Sulawesi Tenggara 93611",
+        "localName": "Muna"
+      },
+      "position": {
+        "lat": -4.8448,
+        "lon": 122.7243
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -4.8439,
+          "lon": 122.7234
+        },
+        "btmRightPoint": {
+          "lat": -4.8457,
+          "lon": 122.7252
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -4.84492,
+            "lon": 122.72441
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "v9wRwixvb6rFoPgOQEQiHA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006490852-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 9361054
+          }
+        ],
+        "categories": [
+          "furniture/home furnishings",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "furniture/home furnishings"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Rusa I No.1",
+        "municipalitySubdivision": "Ciputat Timur",
+        "municipality": "Kota Tangerang",
+        "municipalitySecondarySubdivision": "Pondok Ranji",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "15412",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Rusa I No.1, Ciputat Timur Sub District, Kota Tangerang District, Banten 15412",
+        "localName": "Kota Tangerang"
+      },
+      "position": {
+        "lat": -6.289638,
+        "lon": 106.736376
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.28874,
+          "lon": 106.73547
+        },
+        "btmRightPoint": {
+          "lat": -6.29054,
+          "lon": 106.73728
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.28893,
+            "lon": 106.73623
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "tjSs9bI14-XAXExxm2wOVg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007898131-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 9352
+          }
+        ],
+        "categories": [
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Kerinci No.D43",
+        "municipalitySubdivision": "Pamulang",
+        "municipality": "Kota Tangerang",
+        "municipalitySecondarySubdivision": "Pondok Cabe Udik",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "15418",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Kerinci No.D43, Pamulang Sub District, Kota Tangerang District, Banten 15418",
+        "localName": "Kota Tangerang"
+      },
+      "position": {
+        "lat": -6.348877,
+        "lon": 106.770708
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.34798,
+          "lon": 106.7698
+        },
+        "btmRightPoint": {
+          "lat": -6.34978,
+          "lon": 106.77161
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.34896,
+            "lon": 106.77068
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "zl6o6uL5IcI4ooIklGaMxw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003027562-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 812-1959-798",
+        "categorySet": [
+          {
+            "id": 7312
+          }
+        ],
+        "categories": [
+          "rent-a-car facility"
+        ],
+        "classifications": [
+          {
+            "code": "RENT_A_CAR_FACILITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "rent-a-car facility"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rt.1/Rw.3",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Kebon Bawang",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "14320",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Rt.1/Rw.3, Jakarta District, DKI Jakarta 14320",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.119601,
+        "lon": 106.884958
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.1187,
+          "lon": 106.88405
+        },
+        "btmRightPoint": {
+          "lat": -6.1205,
+          "lon": 106.88586
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.1196,
+            "lon": 106.88505
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "thTKSBy2Tm8WsUpqq-KibQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000267356-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7372002
+          }
+        ],
+        "categories": [
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kedokanbunder",
+        "municipality": "Indramayu",
+        "municipalitySecondarySubdivision": "Kedokan Bunder",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "45283",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kedokanbunder, Indramayu District, Jawa Barat 45283",
+        "localName": "Indramayu"
+      },
+      "position": {
+        "lat": -6.5006,
+        "lon": 108.4161
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.4997,
+          "lon": 108.41519
+        },
+        "btmRightPoint": {
+          "lat": -6.5015,
+          "lon": 108.41701
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.50046,
+            "lon": 108.41612
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "q-TzJkgIxV7JWuP1zURpcA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002305227-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Batang Beruh",
+        "municipalitySubdivision": "Sidikalang",
+        "municipality": "Dairi",
+        "municipalitySecondarySubdivision": "Batang Beruh",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "22217",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Batang Beruh, Sidikalang Sub District, Dairi District, Sumatera Utara 22217",
+        "localName": "Dairi"
+      },
+      "position": {
+        "lat": 2.7353,
+        "lon": 98.3367
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 2.73647,
+          "lon": 98.33553
+        },
+        "btmRightPoint": {
+          "lat": 2.73413,
+          "lon": 98.33787
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 2.73537,
+            "lon": 98.33553
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "cwI9LL1aflaOmHWfbP1FuA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000975766-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 21 29527180",
+        "categorySet": [
+          {
+            "id": 9376002
+          }
+        ],
+        "categories": [
+          "café",
+          "café/pub"
+        ],
+        "classifications": [
+          {
+            "code": "CAFE_PUB",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "café/pub"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "café"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Tol Merak - Jkt",
+        "municipality": "Cilegon",
+        "municipalitySecondarySubdivision": "Gerem",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "42438",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Tol Merak - Jkt, Cilegon District, Banten 42438",
+        "localName": "Cilegon"
+      },
+      "position": {
+        "lat": -5.974,
+        "lon": 106.0093
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -5.97244,
+          "lon": 106.00773
+        },
+        "btmRightPoint": {
+          "lat": -5.97556,
+          "lon": 106.01087
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -5.97496,
+            "lon": 106.00806
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Xf0Mvfvo-OVo7_xAdaudGQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001118465-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7373
+          }
+        ],
+        "categories": [
+          "shopping center"
+        ],
+        "classifications": [
+          {
+            "code": "SHOPPING_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shopping center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gang Haji Ganol",
+        "municipality": "Kota Tangerang",
+        "municipalitySecondarySubdivision": "Perigi Baru",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "15228",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gang Haji Ganol, Kota Tangerang District, Banten 15228",
+        "localName": "Kota Tangerang"
+      },
+      "position": {
+        "lat": -6.261,
+        "lon": 106.6913
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.2601,
+          "lon": 106.6904
+        },
+        "btmRightPoint": {
+          "lat": -6.2619,
+          "lon": 106.6922
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.2615,
+            "lon": 106.69134
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "QIo_2qVqQr55cKExv9VrPA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006866032-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jakarta",
+        "municipalitySubdivision": "Lasem",
+        "municipality": "Rembang",
+        "municipalitySecondarySubdivision": "Dorokandang",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "59271",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jakarta, Lasem Sub District, Rembang District, Jawa Tengah 59271",
+        "localName": "Rembang"
+      },
+      "position": {
+        "lat": -6.696086,
+        "lon": 111.436916
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.69519,
+          "lon": 111.43601
+        },
+        "btmRightPoint": {
+          "lat": -6.69699,
+          "lon": 111.43782
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.69614,
+            "lon": 111.43685
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "d2iFazGEwlgor2WSsLJ_kQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007804583-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 21 50948888",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. H. Saidi No.51",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Tanjung Barat",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "12530",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. H. Saidi No.51, Jakarta District, DKI Jakarta 12530",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.301147,
+        "lon": 106.844001
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.30025,
+          "lon": 106.8431
+        },
+        "btmRightPoint": {
+          "lat": -6.30205,
+          "lon": 106.84491
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.30124,
+            "lon": 106.844
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "zHrieNdkVAG9gQFZEyy8uQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002530505-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gg. Murni No.4",
+        "municipalitySubdivision": "Kebayoran Lama",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Pondok Pinang",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "12310",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gg. Murni No.4, Kebayoran Lama Sub District, Jakarta District, DKI Jakarta 12310",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.285581,
+        "lon": 106.771779
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.28468,
+          "lon": 106.77087
+        },
+        "btmRightPoint": {
+          "lat": -6.28648,
+          "lon": 106.77268
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.28549,
+            "lon": 106.7718
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ayNbRi7BLSvxhc1fRblzBQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000147385-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 21 4301080",
+        "categorySet": [
+          {
+            "id": 9376002
+          }
+        ],
+        "categories": [
+          "café",
+          "café/pub"
+        ],
+        "classifications": [
+          {
+            "code": "CAFE_PUB",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "café/pub"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "café"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "North Jakarta City",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Tanjung Priok",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "14310",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "North Jakarta City, Jakarta District, DKI Jakarta 14310",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.105643,
+        "lon": 106.88147
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.10474,
+          "lon": 106.88057
+        },
+        "btmRightPoint": {
+          "lat": -6.10654,
+          "lon": 106.88237
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.10565,
+            "lon": 106.88163
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "NW1mTwV3U-4MFRAKmHX-AA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001543000-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7372002
+          }
+        ],
+        "categories": [
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. R. A. Kartini No.335",
+        "municipality": "Flores Timur",
+        "municipalitySecondarySubdivision": "Postoh",
+        "countrySubdivision": "Nusa Tenggara Timur",
+        "countrySubdivisionName": "Nusa Tenggara Timur",
+        "countrySubdivisionCode": "NT",
+        "postalCode": "86216",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. R. A. Kartini No.335, Flores Timur District, Nusa Tenggara Timur 86216",
+        "localName": "Flores Timur"
+      },
+      "position": {
+        "lat": -8.3397,
+        "lon": 122.9905
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.3388,
+          "lon": 122.98959
+        },
+        "btmRightPoint": {
+          "lat": -8.3406,
+          "lon": 122.99141
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.33974,
+            "lon": 122.9906
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "MeaN6PftQZsf1OE225JCYg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006421625-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 9361006
+          }
+        ],
+        "categories": [
+          "clothing accessories: general",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: general"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Raya Ulujami No.23",
+        "municipalitySubdivision": "Ulujami",
+        "municipality": "Pemalang",
+        "municipalitySecondarySubdivision": "Rowosari",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "52371",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Raya Ulujami No.23, Ulujami Sub District, Pemalang District, Jawa Tengah 52371",
+        "localName": "Pemalang"
+      },
+      "position": {
+        "lat": -6.885741,
+        "lon": 109.561156
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.88445,
+          "lon": 109.55986
+        },
+        "btmRightPoint": {
+          "lat": -6.88703,
+          "lon": 109.56246
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.8845,
+            "lon": 109.5608
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "OfrmiZ34UoP-nvSCH32YiA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007808465-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7372002
+          }
+        ],
+        "categories": [
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Raya Jakarta-Bogor",
+        "municipality": "Depok",
+        "municipalitySecondarySubdivision": "Cilangkap",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "16458",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Raya Jakarta-Bogor, Depok District, Jawa Barat 16458",
+        "localName": "Depok"
+      },
+      "position": {
+        "lat": -6.4506,
+        "lon": 106.8588
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.4497,
+          "lon": 106.85789
+        },
+        "btmRightPoint": {
+          "lat": -6.4515,
+          "lon": 106.85971
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.45043,
+            "lon": 106.85851
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "rP_0o4i0z9CGl3PpmnH1cQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002176878-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Nasional",
+        "municipality": "Kota Cirebon",
+        "municipalitySecondarySubdivision": "Tegalgubug",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "45162",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Nasional 1, Kota Cirebon District, Jawa Barat 45162",
+        "localName": "Kota Cirebon"
+      },
+      "position": {
+        "lat": -6.63042,
+        "lon": 108.38377
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.62952,
+          "lon": 108.38286
+        },
+        "btmRightPoint": {
+          "lat": -6.63132,
+          "lon": 108.38468
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.63055,
+            "lon": 108.3837
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "vAhztpr78PeQZBiEat0IRQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003367125-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Ngemplak",
+        "municipalitySubdivision": "Ngemplak",
+        "municipality": "Boyolali",
+        "municipalitySecondarySubdivision": "Gagaksipat",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "57375",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Ngemplak, Ngemplak Sub District, Boyolali District, Jawa Tengah 57375",
+        "localName": "Boyolali"
+      },
+      "position": {
+        "lat": -7.5227,
+        "lon": 110.7627
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.5218,
+          "lon": 110.76179
+        },
+        "btmRightPoint": {
+          "lat": -7.5236,
+          "lon": 110.76361
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.52296,
+            "lon": 110.76262
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "6T_nT6S9mh9vAXHBJEPydQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007256842-ID",
+      "poi": {
+        "name": "Jakarta",
+        "phone": "+62 21 8921938",
+        "categorySet": [
+          {
+            "id": 9361036
+          }
+        ],
+        "categories": [
+          "jewelry, clocks watches",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "jewelry, clocks watches"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Pasar Ujung Menteng Blok Aks",
+        "municipalitySubdivision": "Cakung",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Ujung Menteng",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "17124",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Pasar Ujung Menteng Blok Aks 49, Cakung Sub District, Jakarta District, DKI Jakarta 17124",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.189983,
+        "lon": 106.966472
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.18908,
+          "lon": 106.96557
+        },
+        "btmRightPoint": {
+          "lat": -6.19088,
+          "lon": 106.96738
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.1899,
+            "lon": 106.9665
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "OjHYY4_GIpRTClCOk-cciw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001843496-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7339002
+          }
+        ],
+        "categories": [
+          "church",
+          "place of worship"
+        ],
+        "classifications": [
+          {
+            "code": "PLACE_OF_WORSHIP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "place of worship"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "church"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tj. Balai Kota Iv",
+        "municipalitySubdivision": "Tanjung Balai Utara",
+        "municipality": "Tanjung Balai",
+        "municipalitySecondarySubdivision": "Tanjung Balai Kota IV",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "21332",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Tj. Balai Kota Iv, Tanjung Balai Utara Sub District, Tanjung Balai District, Sumatera Utara 21332",
+        "localName": "Tanjung Balai"
+      },
+      "position": {
+        "lat": 2.971679,
+        "lon": 99.800762
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 2.97258,
+          "lon": 99.79986
+        },
+        "btmRightPoint": {
+          "lat": 2.97078,
+          "lon": 99.80166
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 2.97185,
+            "lon": 99.80028
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Dy0a9J9bfyWzZ8wHrp-_Ag",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002239468-ID",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Brongsongan",
+        "municipality": "Magelang",
+        "municipalitySecondarySubdivision": "Karangrejo",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "56553",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Brongsongan, Magelang District, Jawa Tengah 56553",
+        "localName": "Magelang"
+      },
+      "position": {
+        "lat": -7.60075,
+        "lon": 110.189056
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.59985,
+          "lon": 110.18815
+        },
+        "btmRightPoint": {
+          "lat": -7.60165,
+          "lon": 110.18996
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.60068,
+            "lon": 110.18911
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "BWY7gxt8xYH_qntQ_lG70A",
+      "score": 2.0239999294,
+      "info": "search:ta:504009000736433-MA",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7339002
+          }
+        ],
+        "categories": [
+          "church",
+          "place of worship"
+        ],
+        "classifications": [
+          {
+            "code": "PLACE_OF_WORSHIP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "place of worship"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "church"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Zanqat Yousuf al-Murabiti",
+        "municipality": "al-'Ara'ish",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Tanja-Titwan-al-Husseemah",
+        "countrySubdivisionName": "Tanja-Titwan-al-Husseemah",
+        "countrySubdivisionCode": "1",
+        "postalCode": "92000",
+        "countryCode": "MA",
+        "country": "Al-Mamlakah Al-Maghribiyyah",
+        "countryCodeISO3": "MAR",
+        "freeformAddress": "Zanqat Yousuf al-Murabiti, 92000 al-'Ara'ish, Tanja-Titwan-al-Husseemah",
+        "localName": "al-'Ara'ish"
+      },
+      "position": {
+        "lat": 35.192077,
+        "lon": -6.161706
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 35.19298,
+          "lon": -6.16281
+        },
+        "btmRightPoint": {
+          "lat": 35.19118,
+          "lon": -6.16061
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 35.19198,
+            "lon": -6.16183
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "DJIt8PwNhof8EO8sKrrrew",
+      "score": 2.0239999294,
+      "info": "search:ta:470009000076376-MT",
+      "poi": {
+        "name": "JAKARTA",
+        "categorySet": [
+          {
+            "id": 9376002
+          }
+        ],
+        "categories": [
+          "café",
+          "café/pub"
+        ],
+        "classifications": [
+          {
+            "code": "CAFE_PUB",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "café/pub"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "café"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Triq tal-Gardiel",
+        "municipality": "Marsaskala",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "MSK",
+        "countryCode": "MT",
+        "country": "Malta",
+        "countryCodeISO3": "MLT",
+        "freeformAddress": "Triq tal-Gardiel, Marsaskala MSK",
+        "localName": "Marsaskala"
+      },
+      "position": {
+        "lat": 35.858738,
+        "lon": 14.562719
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 35.85964,
+          "lon": 14.56161
+        },
+        "btmRightPoint": {
+          "lat": 35.85784,
+          "lon": 14.56383
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 35.85878,
+            "lon": 14.56262
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Rs9FkVAdTQnifpDoLrPIAg",
+      "score": 2.0239999294,
+      "info": "search:ta:484009001436573-MX",
+      "poi": {
+        "name": "Jakarta",
+        "categorySet": [
+          {
+            "id": 7372002
+          }
+        ],
+        "categories": [
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Avenida Revolución",
+        "municipalitySubdivision": "Centro",
+        "municipality": "Coatzacoalcos",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Veracruz de Ignacio de la Llave",
+        "countrySubdivisionName": "Veracruz de Ignacio de la Llave",
+        "countrySubdivisionCode": "VER",
+        "postalCode": "96400",
+        "countryCode": "MX",
+        "country": "México",
+        "countryCodeISO3": "MEX",
+        "freeformAddress": "Avenida Revolución, 96400, Coatzacoalcos, Veracruz de Ignacio de la Llave",
+        "localName": "Coatzacoalcos"
+      },
+      "position": {
+        "lat": 18.149772,
+        "lon": -94.418008
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 18.15067,
+          "lon": -94.41895
+        },
+        "btmRightPoint": {
+          "lat": 18.14887,
+          "lon": -94.41706
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 18.14987,
+            "lon": -94.418
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1iJtl9ZkOjufH-2tplKs0A",
+      "score": 2.0041568279,
+      "info": "search:ta:036008000125402-AU",
+      "poi": {
+        "name": "Waroeng Jakarta",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Spencer Road",
+        "municipalitySubdivision": "Thornlie",
+        "municipality": "Perth",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Western Australia",
+        "countrySubdivisionName": "Western Australia",
+        "countrySubdivisionCode": "WA",
+        "postalCode": "6108",
+        "countryCode": "AU",
+        "country": "Australia",
+        "countryCodeISO3": "AUS",
+        "freeformAddress": "200 Spencer Road, Thornlie, WA, 6108",
+        "localName": "Thornlie"
+      },
+      "position": {
+        "lat": -32.04555,
+        "lon": 115.95247
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -32.04465,
+          "lon": 115.95141
+        },
+        "btmRightPoint": {
+          "lat": -32.04645,
+          "lon": 115.95353
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -32.04568,
+            "lon": 115.95156
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "VLUBt5AJ9bD7zPLlsFeRNg",
+      "score": 2.0041568279,
+      "info": "search:ta:036009001770011-AU",
+      "poi": {
+        "name": "Jakarta Motor",
+        "phone": "+61 2 9519 2954",
+        "categorySet": [
+          {
+            "id": 7310
+          }
+        ],
+        "categories": [
+          "repair facility"
+        ],
+        "classifications": [
+          {
+            "code": "REPAIR_FACILITY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "repair facility"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sydney Street",
+        "municipalitySubdivision": "Marrickville",
+        "municipality": "Sydney",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "New South Wales",
+        "countrySubdivisionName": "New South Wales",
+        "countrySubdivisionCode": "NSW",
+        "postalCode": "2204",
+        "countryCode": "AU",
+        "country": "Australia",
+        "countryCodeISO3": "AUS",
+        "freeformAddress": "31 Sydney Street, Marrickville, NSW, 2204",
+        "localName": "Marrickville"
+      },
+      "position": {
+        "lat": -33.912211,
+        "lon": 151.162855
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -33.91131,
+          "lon": 151.16177
+        },
+        "btmRightPoint": {
+          "lat": -33.91311,
+          "lon": 151.16394
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -33.91237,
+            "lon": 151.16311
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "0dd3EPQzLDnWE1gC6uaijw",
+      "score": 2.0041568279,
+      "info": "search:ta:048009000019386-BH",
+      "poi": {
+        "name": "Jakarta Saloon",
+        "categorySet": [
+          {
+            "id": 9361067
+          }
+        ],
+        "categories": [
+          "beauty salon",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "beauty salon"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Um Al Hasam Avenue",
+        "municipalitySubdivision": "Block 339",
+        "municipality": "Um Al Hassam",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Capital",
+        "countrySubdivisionName": "Capital",
+        "countrySubdivisionCode": "13",
+        "postalCode": "",
+        "countryCode": "BH",
+        "country": "Bahrain",
+        "countryCodeISO3": "BHR",
+        "freeformAddress": "102 Um Al Hasam Avenue, Block 339 Um Al Hassam",
+        "localName": "Um Al Hassam"
+      },
+      "position": {
+        "lat": 26.202821,
+        "lon": 50.597074
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 26.20372,
+          "lon": 50.59607
+        },
+        "btmRightPoint": {
+          "lat": 26.20192,
+          "lon": 50.59808
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 26.2028,
+            "lon": 50.59698
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "UFk3BKEDqc8NeA7JjwtUDw",
+      "score": 2.0041568279,
+      "info": "search:ta:076006005449434-BR",
+      "poi": {
+        "name": "Edifício Jakarta",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rua Valdo Omena",
+        "municipalitySubdivision": "Ponta Verde",
+        "municipality": "Maceió",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Alagoas",
+        "countrySubdivisionName": "Alagoas",
+        "countrySubdivisionCode": "AL",
+        "postalCode": "57035",
+        "countryCode": "BR",
+        "country": "Brasil",
+        "countryCodeISO3": "BRA",
+        "freeformAddress": "Rua Valdo Omena, 52, 57035-170, Maceió",
+        "localName": "Maceió"
+      },
+      "position": {
+        "lat": -9.663085,
+        "lon": -35.701881
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -9.66219,
+          "lon": -35.70279
+        },
+        "btmRightPoint": {
+          "lat": -9.66398,
+          "lon": -35.70097
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -9.6631,
+            "lon": -35.70179
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "DatGFX2L-zizmHhql8MExw",
+      "score": 2.0041568279,
+      "info": "search:ta:076007001238545-BR",
+      "poi": {
+        "name": "Jakarta Café",
+        "categorySet": [
+          {
+            "id": 9376002
+          }
+        ],
+        "categories": [
+          "café",
+          "café/pub"
+        ],
+        "classifications": [
+          {
+            "code": "CAFE_PUB",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "café/pub"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "café"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rua Major José Luciano",
+        "municipality": "Piraquara",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Paraná",
+        "countrySubdivisionName": "Paraná",
+        "countrySubdivisionCode": "PR",
+        "postalCode": "83301",
+        "countryCode": "BR",
+        "country": "Brasil",
+        "countryCodeISO3": "BRA",
+        "freeformAddress": "Rua Major José Luciano, 251, 83301-540, Piraquara",
+        "localName": "Piraquara"
+      },
+      "position": {
+        "lat": -25.440874,
+        "lon": -49.063058
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -25.43997,
+          "lon": -49.06405
+        },
+        "btmRightPoint": {
+          "lat": -25.44177,
+          "lon": -49.06206
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -25.44081,
+            "lon": -49.06299
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": -25.44138,
+            "lon": -49.06231
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "HrSvOv-bVLEQsXgu3Ebb1w",
+      "score": 2.0041568279,
+      "info": "search:ta:076009018039221-BR",
+      "poi": {
+        "name": "Jakarta Publicidade",
+        "categorySet": [
+          {
+            "id": 9352003
+          }
+        ],
+        "categories": [
+          "advertising/marketing",
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "advertising/marketing"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Travessa Manoel Grinberg",
+        "municipalitySubdivision": "Jardim Capricórnio",
+        "municipality": "Mogi das Cruzes",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "São Paulo",
+        "countrySubdivisionName": "São Paulo",
+        "countrySubdivisionCode": "SP",
+        "postalCode": "08730",
+        "countryCode": "BR",
+        "country": "Brasil",
+        "countryCodeISO3": "BRA",
+        "freeformAddress": "Travessa Manoel Grinberg, 67, 08730-170, Mogi das Cruzes",
+        "localName": "Mogi das Cruzes"
+      },
+      "position": {
+        "lat": -23.52697,
+        "lon": -46.200855
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -23.52607,
+          "lon": -46.20184
+        },
+        "btmRightPoint": {
+          "lat": -23.52787,
+          "lon": -46.19987
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -23.52688,
+            "lon": -46.20089
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "CEiaOY_4gIuYwE3dY8Z6aA",
+      "score": 2.0041568279,
+      "info": "search:ta:076006004878828-BR",
+      "poi": {
+        "name": "Pizza, Jakarta",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Av. Eng. Eduardo Correa Da Costa Júnior - Jd. Eng.1335",
+        "municipality": "Bertioga",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "São Paulo",
+        "countrySubdivisionName": "São Paulo",
+        "countrySubdivisionCode": "SP",
+        "postalCode": "11250",
+        "countryCode": "BR",
+        "country": "Brasil",
+        "countryCodeISO3": "BRA",
+        "freeformAddress": "Av. Eng. Eduardo Correa Da Costa Júnior - Jd. Eng.1335, 11250-000, Bertioga",
+        "localName": "Bertioga"
+      },
+      "position": {
+        "lat": -23.80704,
+        "lon": -46.08672
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -23.80614,
+          "lon": -46.0877
+        },
+        "btmRightPoint": {
+          "lat": -23.80794,
+          "lon": -46.08574
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -23.8071,
+            "lon": -46.08683
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Q89BypbCuYfKTG8HJrAACg",
+      "score": 2.0041568279,
+      "info": "search:ta:076009018279495-BR",
+      "poi": {
+        "name": "Jakarta Representações",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Avenida Manoel Ribas",
+        "municipalitySubdivision": "Santa Felicidade",
+        "municipality": "Curitiba",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Paraná",
+        "countrySubdivisionName": "Paraná",
+        "countrySubdivisionCode": "PR",
+        "postalCode": "82400",
+        "countryCode": "BR",
+        "country": "Brasil",
+        "countryCodeISO3": "BRA",
+        "freeformAddress": "Avenida Manoel Ribas, 6765, 82400-000, Curitiba",
+        "localName": "Curitiba"
+      },
+      "position": {
+        "lat": -25.400611,
+        "lon": -49.335117
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -25.39971,
+          "lon": -49.33611
+        },
+        "btmRightPoint": {
+          "lat": -25.40151,
+          "lon": -49.33412
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -25.40056,
+            "lon": -49.33499
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "hUvrRb4PPVGaRBl6Woelxg",
+      "score": 2.0041568279,
+      "info": "search:ta:120009000071614-CM",
+      "poi": {
+        "name": "Complexe Jakarta",
+        "categorySet": [
+          {
+            "id": 9900
+          }
+        ],
+        "categories": [
+          "entertainment"
+        ],
+        "classifications": [
+          {
+            "code": "ENTERTAINMENT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "entertainment"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipality": "Logbaba",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Littoral",
+        "countrySubdivisionName": "Littoral",
+        "countrySubdivisionCode": "LT",
+        "postalCode": "",
+        "countryCode": "CM",
+        "country": "Cameroun",
+        "countryCodeISO3": "CMR",
+        "freeformAddress": "Logbaba, Littoral",
+        "localName": "Logbaba"
+      },
+      "position": {
+        "lat": 4.053991,
+        "lon": 9.748537
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 4.05489,
+          "lon": 9.74764
+        },
+        "btmRightPoint": {
+          "lat": 4.05309,
+          "lon": 9.74944
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 4.05375,
+            "lon": 9.74891
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "I8DhAY488R-Z_SExGtgPzw",
+      "score": 2.0041568279,
+      "info": "search:ta:724009030427297-ES",
+      "poi": {
+        "name": "Jakarta Import",
+        "phone": "+34 966 86 83 91",
+        "categorySet": [
+          {
+            "id": 9361006
+          }
+        ],
+        "categories": [
+          "clothing accessories: general",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: general"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Paseo de las Estrellas",
+        "municipalitySubdivision": "L'Albir",
+        "municipality": "L'Alfàs del Pi",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Comunidad Valenciana",
+        "countrySubdivisionName": "Comunidad Valenciana",
+        "countrySubdivisionCode": "VC",
+        "postalCode": "03581",
+        "countryCode": "ES",
+        "country": "España",
+        "countryCodeISO3": "ESP",
+        "freeformAddress": "Paseo de las Estrellas, 1, 03581 L'Alfàs del Pi",
+        "localName": "L'Alfàs del Pi"
+      },
+      "position": {
+        "lat": 38.574621,
+        "lon": -0.064906
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 38.57552,
+          "lon": -0.06606
+        },
+        "btmRightPoint": {
+          "lat": 38.57372,
+          "lon": -0.06376
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 38.57462,
+            "lon": -0.06479
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "d5K2cFHqJ6w5TOG77rWmgg",
+      "score": 2.0041568279,
+      "info": "search:ta:724009030090294-ES",
+      "poi": {
+        "name": "Jakarta Import",
+        "categorySet": [
+          {
+            "id": 9361058
+          }
+        ],
+        "categories": [
+          "bags leatherwear",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "bags leatherwear"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Avenida del Furs",
+        "municipality": "Jávea",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Comunidad Valenciana",
+        "countrySubdivisionName": "Comunidad Valenciana",
+        "countrySubdivisionCode": "VC",
+        "postalCode": "03730",
+        "countryCode": "ES",
+        "country": "España",
+        "countryCodeISO3": "ESP",
+        "freeformAddress": "Avenida del Furs, 5, 03730 Jávea",
+        "localName": "Jávea"
+      },
+      "position": {
+        "lat": 38.792518,
+        "lon": 0.179983
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 38.79342,
+          "lon": 0.17883
+        },
+        "btmRightPoint": {
+          "lat": 38.79162,
+          "lon": 0.18114
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 38.79258,
+            "lon": 0.17989
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "mH3puq2IATP07DArtF9dNA",
+      "score": 2.0041568279,
+      "info": "search:ta:724009030245170-ES",
+      "poi": {
+        "name": "Jakarta Style",
+        "phone": "+34 865 64 97 06",
+        "categorySet": [
+          {
+            "id": 9361006
+          }
+        ],
+        "categories": [
+          "clothing accessories: general",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: general"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Avenida de la Armada Española",
+        "municipality": "Benidorm",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Comunidad Valenciana",
+        "countrySubdivisionName": "Comunidad Valenciana",
+        "countrySubdivisionCode": "VC",
+        "postalCode": "03502",
+        "countryCode": "ES",
+        "country": "España",
+        "countryCodeISO3": "ESP",
+        "freeformAddress": "Avenida de la Armada Española, 5, 03502 Benidorm",
+        "localName": "Benidorm"
+      },
+      "position": {
+        "lat": 38.537274,
+        "lon": -0.1398
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 38.5383,
+          "lon": -0.14111
+        },
+        "btmRightPoint": {
+          "lat": 38.53625,
+          "lon": -0.13849
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 38.53719,
+            "lon": -0.13849
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "xly9XfLvFIj3vJHWSJjA5A",
+      "score": 2.0041568279,
+      "info": "search:ta:724006000519605-ES",
+      "poi": {
+        "name": "Jakarta Accesorios",
+        "categorySet": [
+          {
+            "id": 9361026
+          }
+        ],
+        "categories": [
+          "gifts, cards, novelties souvenirs",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "gifts, cards, novelties souvenirs"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Avenida del Furs",
+        "municipality": "Jávea",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Comunidad Valenciana",
+        "countrySubdivisionName": "Comunidad Valenciana",
+        "countrySubdivisionCode": "VC",
+        "postalCode": "03730",
+        "countryCode": "ES",
+        "country": "España",
+        "countryCodeISO3": "ESP",
+        "freeformAddress": "Avenida del Furs, 4, 03730 Jávea",
+        "localName": "Jávea"
+      },
+      "position": {
+        "lat": 38.789772,
+        "lon": 0.173085
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 38.79067,
+          "lon": 0.17193
+        },
+        "btmRightPoint": {
+          "lat": 38.78887,
+          "lon": 0.17424
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 38.78985,
+            "lon": 0.17304
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "AJlfvgvSYsHeOiYfVe6K6Q",
+      "score": 2.0041568279,
+      "info": "search:ta:724006000402794-ES",
+      "poi": {
+        "name": "Jakarta Import",
+        "phone": "+34 966 46 92 81",
+        "categorySet": [
+          {
+            "id": 9361008
+          }
+        ],
+        "categories": [
+          "clothing accessories: women",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: women"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Calle de San José",
+        "municipality": "Gata de Gorgos",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Comunidad Valenciana",
+        "countrySubdivisionName": "Comunidad Valenciana",
+        "countrySubdivisionCode": "VC",
+        "postalCode": "03740",
+        "countryCode": "ES",
+        "country": "España",
+        "countryCodeISO3": "ESP",
+        "freeformAddress": "Calle de San José, 30, 03740 Gata de Gorgos",
+        "localName": "Gata de Gorgos"
+      },
+      "position": {
+        "lat": 38.771059,
+        "lon": 0.084797
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 38.77196,
+          "lon": 0.08364
+        },
+        "btmRightPoint": {
+          "lat": 38.77016,
+          "lon": 0.08595
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 38.77115,
+            "lon": 0.08481
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,6889 @@
+{
+  "summary": {
+    "query": "restaurant",
+    "queryType": "NON_NEAR",
+    "queryTime": 212,
+    "numResults": 100,
+    "offset": 0,
+    "totalResults": 100,
+    "fuzzyLevel": 1
+  },
+  "results": [
+    {
+      "type": "POI",
+      "id": "tAetl-MibqZKUIcI4p-wGg",
+      "score": 2.1455721855,
+      "info": "search:ta:360007000078031-ID",
+      "poi": {
+        "name": "Maheswari Pawon Omah",
+        "phone": "+62 812-2897-2589",
+        "categorySet": [
+          {
+            "id": 7315005
+          }
+        ],
+        "categories": [
+          "barbecue",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "barbecue"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Yudistira",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Yudistira, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.786649,
+        "lon": 110.32499
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78575,
+          "lon": 110.32408
+        },
+        "btmRightPoint": {
+          "lat": -7.78755,
+          "lon": 110.3259
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78671,
+            "lon": 110.32534
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "QCKXsENxqTRG8C0HRJ2wlw",
+      "score": 2.1455616951,
+      "info": "search:ta:360006001971847-ID",
+      "poi": {
+        "name": "Aneka Gorengan & Es. Buah",
+        "phone": "+62 896-7880-901",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Kramat",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Kramat, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.780078,
+        "lon": 110.314778
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77918,
+          "lon": 110.31387
+        },
+        "btmRightPoint": {
+          "lat": -7.78098,
+          "lon": 110.31569
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.77999,
+            "lon": 110.3148
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "vYECJorF-zq-m_opVG5N1g",
+      "score": 2.1455438137,
+      "info": "search:ta:360006001913822-ID",
+      "poi": {
+        "name": "Gudeg Ayam Kampung Mbak Rina",
+        "phone": "+62 878-3935-445",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mejing Kidul",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mejing Kidul, Gamping Sub District, Sleman District, Yogyakarta 55294 (Jalan Patukan)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.792816,
+        "lon": 110.319852
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.79192,
+          "lon": 110.31894
+        },
+        "btmRightPoint": {
+          "lat": -7.79372,
+          "lon": 110.32076
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.79273,
+            "lon": 110.31988
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "OFBXOEX7Ab7A8RW3UyvpKg",
+      "score": 2.1455242634,
+      "info": "search:ta:360006001949172-ID",
+      "poi": {
+        "name": "Sate Kambing Pak Ndut",
+        "categorySet": [
+          {
+            "id": 7315062
+          }
+        ],
+        "categories": [
+          "asian (other)",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "asian (other)"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Area Sawah",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Area Sawah, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7795,
+        "lon": 110.3136
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7786,
+          "lon": 110.31269
+        },
+        "btmRightPoint": {
+          "lat": -7.7804,
+          "lon": 110.31451
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.77949,
+            "lon": 110.31356
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "0WkcpFYW8iPIDHR-GK-gMw",
+      "score": 2.145519495,
+      "info": "search:ta:360006001968876-ID",
+      "poi": {
+        "name": "Soto Ayam Kampung Pak Seno",
+        "phone": "+62 858-7992-154",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Godean Sub District, Sleman District, Yogyakarta 55264 (Sidoarum)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7885,
+        "lon": 110.3083
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7876,
+          "lon": 110.30739
+        },
+        "btmRightPoint": {
+          "lat": -7.7894,
+          "lon": 110.30921
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78802,
+            "lon": 110.30851
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "pcz2YwOUEwHebcibrBXWJw",
+      "score": 2.1455159187,
+      "info": "search:ta:360006001971364-ID",
+      "poi": {
+        "name": "Bakmi Jawa Dan Ingkung Omah Plataran",
+        "phone": "+62 878-3863-758",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Karang Tangkilan Rt.02",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Karang Tangkilan Rt.02, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7856,
+        "lon": 110.3113
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7847,
+          "lon": 110.31039
+        },
+        "btmRightPoint": {
+          "lat": -7.7865,
+          "lon": 110.31221
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78578,
+            "lon": 110.31113
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "3FDaZbP_2VB4q3FM3nnGbA",
+      "score": 2.1455109119,
+      "info": "search:ta:360006001960460-ID",
+      "poi": {
+        "name": "Pizza Jepang",
+        "phone": "+62 878-3869-099",
+        "categorySet": [
+          {
+            "id": 7315036
+          }
+        ],
+        "categories": [
+          "pizza",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "pizza"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Bibis",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Bibis, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.791273,
+        "lon": 110.316062
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.79037,
+          "lon": 110.31515
+        },
+        "btmRightPoint": {
+          "lat": -7.79217,
+          "lon": 110.31697
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.79119,
+            "lon": 110.3161
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "QZ9vPjEo4fnZvc85cBzhRA",
+      "score": 2.1455090046,
+      "info": "search:ta:360006001928777-ID",
+      "poi": {
+        "name": "Warung Soto Daging Sapi BU Ibnu Patukan",
+        "phone": "+62 857-4735-094",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Gampingan Tengah",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Gampingan Tengah, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7893,
+        "lon": 110.3226
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7884,
+          "lon": 110.32169
+        },
+        "btmRightPoint": {
+          "lat": -7.7902,
+          "lon": 110.32351
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7893,
+            "lon": 110.32269
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "Q6pdMMZ8td1rQ36j6050sw",
+      "score": 2.1455044746,
+      "info": "search:ta:360006001884152-ID",
+      "poi": {
+        "name": "Bakmi Jawa Mejing Tabon",
+        "phone": "+62 819-0411-129",
+        "categorySet": [
+          {
+            "id": 7315062
+          }
+        ],
+        "categories": [
+          "asian (other)",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "asian (other)"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mejing Lor",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mejing Lor, Gamping Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7881,
+        "lon": 110.3226
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7872,
+          "lon": 110.32169
+        },
+        "btmRightPoint": {
+          "lat": -7.789,
+          "lon": 110.32351
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78809,
+            "lon": 110.32275
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "HlruJimOGqrKydCSocl9Jw",
+      "score": 2.1455016136,
+      "info": "search:ta:360006001956359-ID",
+      "poi": {
+        "name": "Sate Gajih Sapi, Kenyal",
+        "phone": "+62 896-6192-856",
+        "categorySet": [
+          {
+            "id": 7315062
+          }
+        ],
+        "categories": [
+          "asian (other)",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "asian (other)"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tangkilan",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Tangkilan, Godean Sub District, Sleman District, Yogyakarta 55264 (Jalan Dukuh Sidoarum)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.786492,
+        "lon": 110.311678
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78559,
+          "lon": 110.31077
+        },
+        "btmRightPoint": {
+          "lat": -7.78739,
+          "lon": 110.31259
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7865,
+            "lon": 110.31158
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "Kn7LQghqzRi0t8X_RbDOFA",
+      "score": 2.1454997063,
+      "info": "search:ta:360006006589366-ID",
+      "poi": {
+        "name": "Belut Asap Nandur Srawung Godean",
+        "phone": "+62 812-1542-3787",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Bibis Dukuh",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55564",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Bibis Dukuh, Godean Sub District, Sleman District, Yogyakarta 55564",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7885,
+        "lon": 110.3101
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7876,
+          "lon": 110.30919
+        },
+        "btmRightPoint": {
+          "lat": -7.7894,
+          "lon": 110.31101
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78868,
+            "lon": 110.31002
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "jnS0mzgpT9YVYkbffe6iGQ",
+      "score": 2.145498991,
+      "info": "search:ta:360006001932909-ID",
+      "poi": {
+        "name": "Gudeg Bu Agung",
+        "phone": "+62 895-3276-511",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sidoarum - Bantulan",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sidoarum - Bantulan, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7836,
+        "lon": 110.3231
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7827,
+          "lon": 110.32219
+        },
+        "btmRightPoint": {
+          "lat": -7.7845,
+          "lon": 110.32401
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78359,
+            "lon": 110.32319
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "6aavGabHfRWcWn-qZfKu2w",
+      "score": 2.1454956532,
+      "info": "search:ta:360006001968323-ID",
+      "poi": {
+        "name": "Angkringan Iqbal",
+        "phone": "+62 896-3652-729",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Seboran",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Seboran, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.77971,
+        "lon": 110.311551
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77881,
+          "lon": 110.31064
+        },
+        "btmRightPoint": {
+          "lat": -7.78061,
+          "lon": 110.31246
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.77966,
+            "lon": 110.31144
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "vipamDdcPNczgXxeA24e0Q",
+      "score": 2.1454951763,
+      "info": "search:ta:360006001947412-ID",
+      "poi": {
+        "name": "Pawon Dalem Bu Tini",
+        "phone": "+62 822-2624-080",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Wirokraman",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidokarto",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Wirokraman, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.78144,
+        "lon": 110.309679
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78054,
+          "lon": 110.30877
+        },
+        "btmRightPoint": {
+          "lat": -7.78234,
+          "lon": 110.31059
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7812,
+            "lon": 110.3097
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "9mLhtD679Dsx1r2qzm1cPA",
+      "score": 2.1454942226,
+      "info": "search:ta:360006001967785-ID",
+      "poi": {
+        "name": "Warung Makan Sedia Pecel",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Gampingan Tengah",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Gampingan Tengah, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.784202,
+        "lon": 110.323313
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7833,
+          "lon": 110.32241
+        },
+        "btmRightPoint": {
+          "lat": -7.7851,
+          "lon": 110.32422
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78419,
+            "lon": 110.32322
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "7URV-rrBxNConHragM5zfw",
+      "score": 2.1454942226,
+      "info": "search:ta:360006001902795-ID",
+      "poi": {
+        "name": "Ayam Penyet Jepara",
+        "phone": "+62 895-2526-666",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Margo Dadi",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Margo Dadi, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.788355,
+        "lon": 110.322698
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78746,
+          "lon": 110.32179
+        },
+        "btmRightPoint": {
+          "lat": -7.78925,
+          "lon": 110.32361
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78844,
+            "lon": 110.32266
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "hd_Z9A6p887F0vv22UqrUw",
+      "score": 2.1454937458,
+      "info": "search:ta:360006001941152-ID",
+      "poi": {
+        "name": "Soto Mengkek Khas Medan Bu Ang",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mejing Wetan Ambarketawang Kec. Gamping",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mejing Wetan Ambarketawang Kec. Gamping, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.786148,
+        "lon": 110.323147
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78525,
+          "lon": 110.32224
+        },
+        "btmRightPoint": {
+          "lat": -7.78705,
+          "lon": 110.32405
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78613,
+            "lon": 110.32306
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "GmgL9AUdapZsxGF-8HcjzA",
+      "score": 2.1454937458,
+      "info": "search:ta:360006001959905-ID",
+      "poi": {
+        "name": "Mercon Judes Yk",
+        "phone": "+62 878-4086-168",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Area Sawah",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Area Sawah, Gamping Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.785197,
+        "lon": 110.318226
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7843,
+          "lon": 110.31732
+        },
+        "btmRightPoint": {
+          "lat": -7.7861,
+          "lon": 110.31913
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7852,
+            "lon": 110.31814
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "CPYbfbLMycvDQnYPbxEmJA",
+      "score": 2.1454877853,
+      "info": "search:ta:360006006654911-ID",
+      "poi": {
+        "name": "Bakmi Jawa Pariharto",
+        "phone": "+62 821-3620-048",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Area Sawah",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Area Sawah, Godean Sub District, Sleman District, Yogyakarta 55264 (Jalan Dukuh Sidoarum)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.780746,
+        "lon": 110.314269
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77985,
+          "lon": 110.31336
+        },
+        "btmRightPoint": {
+          "lat": -7.78165,
+          "lon": 110.31518
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78071,
+            "lon": 110.31414
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "piHbDonFYINMlbn_1HhgGg",
+      "score": 2.1454870701,
+      "info": "search:ta:360006001928781-ID",
+      "poi": {
+        "name": "Lupizza",
+        "phone": "+62 821-3634-645",
+        "categorySet": [
+          {
+            "id": 7315036
+          }
+        ],
+        "categories": [
+          "pizza",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "pizza"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Area Sawah",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Area Sawah, Godean Sub District, Sleman District, Yogyakarta 55264 (Jalan Patukan)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7901,
+        "lon": 110.313
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7892,
+          "lon": 110.31209
+        },
+        "btmRightPoint": {
+          "lat": -7.791,
+          "lon": 110.31391
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78993,
+            "lon": 110.31307
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "fYgiyN_DaYvV6wv5ovPP6w",
+      "score": 2.1454870701,
+      "info": "search:ta:360006001952575-ID",
+      "poi": {
+        "name": "Gado Gado Lotek Dan Kupat Tahu",
+        "categorySet": [
+          {
+            "id": 7315143
+          }
+        ],
+        "categories": [
+          "restaurant",
+          "salad bar"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "salad bar"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidokarto",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Godean Sub District, Sleman District, Yogyakarta 55264 (Sidokarto)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.78766,
+        "lon": 110.307889
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78676,
+          "lon": 110.30698
+        },
+        "btmRightPoint": {
+          "lat": -7.78856,
+          "lon": 110.3088
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78774,
+            "lon": 110.30786
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "iTvseNSGNwZu_BkAMQOfUA",
+      "score": 2.1454808712,
+      "info": "search:ta:360006001964845-ID",
+      "poi": {
+        "name": "Rumah Bubur Bang Juno Cabang Sidoarum",
+        "phone": "+62 856-4337-353",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "27",
+        "streetName": "Perumahan Jalan Belimbing No.A",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Perumahan Jalan Belimbing No.A 27, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.780793,
+        "lon": 110.322048
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77989,
+          "lon": 110.32114
+        },
+        "btmRightPoint": {
+          "lat": -7.78169,
+          "lon": 110.32296
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7808,
+            "lon": 110.32214
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "2MbvZhpS-VKVqyRzQaLzEQ",
+      "score": 2.1454775333,
+      "info": "search:ta:360006002060374-ID",
+      "poi": {
+        "name": "Pagar Kayu Suschip",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Tunggal",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Tunggal, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.778641,
+        "lon": 110.320879
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77774,
+          "lon": 110.31997
+        },
+        "btmRightPoint": {
+          "lat": -7.77954,
+          "lon": 110.32179
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.77859,
+            "lon": 110.32101
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "x1aSRBfNJyD_Iu8ooqX0yQ",
+      "score": 2.1454772949,
+      "info": "search:ta:360006001946611-ID",
+      "poi": {
+        "name": "Margel's Kitchen",
+        "phone": "+62 812-2706-123",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Wungu Adi",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Wungu Adi, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7889,
+        "lon": 110.3215
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.788,
+          "lon": 110.32059
+        },
+        "btmRightPoint": {
+          "lat": -7.7898,
+          "lon": 110.32241
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78897,
+            "lon": 110.3214
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "uGsGkRBNspSFZ8wGzeW29g",
+      "score": 2.1454751492,
+      "info": "search:ta:360006001957512-ID",
+      "poi": {
+        "name": "Dalem Bu Santi",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Durian",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Durian, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.78078,
+        "lon": 110.321481
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77988,
+          "lon": 110.32057
+        },
+        "btmRightPoint": {
+          "lat": -7.78168,
+          "lon": 110.32239
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7808,
+            "lon": 110.32139
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "qPmH-c6zVn8sYmjmh2b0aw",
+      "score": 2.1454722881,
+      "info": "search:ta:360006001934535-ID",
+      "poi": {
+        "name": "Es. Kelapa Muda Jogja Dhealialia",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Area Sawah",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Area Sawah, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.780047,
+        "lon": 110.314686
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77915,
+          "lon": 110.31378
+        },
+        "btmRightPoint": {
+          "lat": -7.78095,
+          "lon": 110.31559
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.77996,
+            "lon": 110.31471
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "s28jnXNdkJ5DzlVOnieFng",
+      "score": 2.145471096,
+      "info": "search:ta:360006001906147-ID",
+      "poi": {
+        "name": "Hanna Geprek And Rames",
+        "categorySet": [
+          {
+            "id": 7315070
+          }
+        ],
+        "categories": [
+          "chicken",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chicken"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kabupaten Sleman",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kabupaten Sleman, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.78821,
+        "lon": 110.308721
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78731,
+          "lon": 110.30781
+        },
+        "btmRightPoint": {
+          "lat": -7.78911,
+          "lon": 110.30963
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78813,
+            "lon": 110.30876
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "n6tzFXxNZKYoM_BdvoP0zw",
+      "score": 2.1454691887,
+      "info": "search:ta:360006001961619-ID",
+      "poi": {
+        "name": "Pisang Nugget Levero",
+        "phone": "+62 857-4700-077",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Kenari Jl. Kramat No.R-23",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Kenari Jl. Kramat No.R-23, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.782636,
+        "lon": 110.321762
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78174,
+          "lon": 110.32085
+        },
+        "btmRightPoint": {
+          "lat": -7.78354,
+          "lon": 110.32267
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78265,
+            "lon": 110.32188
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "0ztQH4qGG4g1S1nwaWqqOg",
+      "score": 2.1454672813,
+      "info": "search:ta:360006001955739-ID",
+      "poi": {
+        "name": "Sambal Bawang Yogya Inie",
+        "phone": "+62 896-0725-668",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Margorukun 2B",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Margorukun 2B, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.780114,
+        "lon": 110.318779
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77921,
+          "lon": 110.31787
+        },
+        "btmRightPoint": {
+          "lat": -7.78101,
+          "lon": 110.31969
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7801,
+            "lon": 110.31869
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "LQmh9X8cFMNY8j7KopJDMA",
+      "score": 2.1454672813,
+      "info": "search:ta:360006001876351-ID",
+      "poi": {
+        "name": "Raksasa Somie Bakso Tetelan",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Gamping - Bantulan",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Gamping - Bantulan, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.784396,
+        "lon": 110.323116
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7835,
+          "lon": 110.32221
+        },
+        "btmRightPoint": {
+          "lat": -7.7853,
+          "lon": 110.32402
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7844,
+            "lon": 110.32321
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "uNFHsbioijyGR7ayd9iFfw",
+      "score": 2.1454672813,
+      "info": "search:ta:360009000245624-ID",
+      "poi": {
+        "name": "Soto Pak Slamet",
+        "phone": "+62 851-0049-283",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mejing Kidul",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mejing Kidul, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.79149,
+        "lon": 110.318053
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.79059,
+          "lon": 110.31715
+        },
+        "btmRightPoint": {
+          "lat": -7.79239,
+          "lon": 110.31896
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.79151,
+            "lon": 110.31814
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "9XVNES-8eYinpi1e8YNtzA",
+      "score": 2.1454639435,
+      "info": "search:ta:360006001962666-ID",
+      "poi": {
+        "name": "Soto Tangkar Dapur Kak Puti",
+        "phone": "+62 823-2947-835",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Garuda No.7",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Garuda No.7, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.781975,
+        "lon": 110.321702
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78108,
+          "lon": 110.32079
+        },
+        "btmRightPoint": {
+          "lat": -7.78287,
+          "lon": 110.32261
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78207,
+            "lon": 110.32169
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "61LIXI05QKUh4CH9YBICdA",
+      "score": 2.1454620361,
+      "info": "search:ta:360006006635540-ID",
+      "poi": {
+        "name": "Ayam Geprek 'Bu Ida",
+        "categorySet": [
+          {
+            "id": 7315070
+          }
+        ],
+        "categories": [
+          "chicken",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chicken"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kramat",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kramat, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.782142,
+        "lon": 110.323304
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78124,
+          "lon": 110.3224
+        },
+        "btmRightPoint": {
+          "lat": -7.78304,
+          "lon": 110.32421
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78223,
+            "lon": 110.3233
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "JNytVKLfim7wyWxKtxQN2A",
+      "score": 2.1454613209,
+      "info": "search:ta:360006001972328-ID",
+      "poi": {
+        "name": "Aneka Jenang Ria Nasi Kuning",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Dukuh Sidoarum",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Dukuh Sidoarum, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.788614,
+        "lon": 110.31076
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78771,
+          "lon": 110.30985
+        },
+        "btmRightPoint": {
+          "lat": -7.78951,
+          "lon": 110.31167
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78859,
+            "lon": 110.31067
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "YZ6C0iS153_ke4Lc7qIerw",
+      "score": 2.145460844,
+      "info": "search:ta:360006001873182-ID",
+      "poi": {
+        "name": "Nasi Goreng Rempah Dan Bakmi Song Dji 01",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Area Sawah",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Area Sawah, Godean Sub District, Sleman District, Yogyakarta 55264 (Jalan Patukan)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7894,
+        "lon": 110.3114
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7885,
+          "lon": 110.31049
+        },
+        "btmRightPoint": {
+          "lat": -7.7903,
+          "lon": 110.31231
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78928,
+            "lon": 110.31145
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "J_iuaNB4W35l_g1Z_AcnKA",
+      "score": 2.145460844,
+      "info": "search:ta:360006001968320-ID",
+      "poi": {
+        "name": "Soto Sapi Bu Kasih",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tangkilan",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Tangkilan, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7849,
+        "lon": 110.311
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.784,
+          "lon": 110.31009
+        },
+        "btmRightPoint": {
+          "lat": -7.7858,
+          "lon": 110.31191
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78496,
+            "lon": 110.31115
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "tmPX56bdnA77cyV5UPAlPw",
+      "score": 2.1454606056,
+      "info": "search:ta:360006001940382-ID",
+      "poi": {
+        "name": "Ary's Lontong Opor",
+        "phone": "+62 819-0377-000",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mejing Kidul",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mejing Kidul, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.791,
+        "lon": 110.3216
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7901,
+          "lon": 110.32069
+        },
+        "btmRightPoint": {
+          "lat": -7.7919,
+          "lon": 110.32251
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7906,
+            "lon": 110.32174
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "0RpFLZ3fdSwEZJQSl8xqVQ",
+      "score": 2.1454586983,
+      "info": "search:ta:360006001916267-ID",
+      "poi": {
+        "name": "Salad Buah Modpet",
+        "phone": "+62 852-2878-952",
+        "categorySet": [
+          {
+            "id": 7315143
+          }
+        ],
+        "categories": [
+          "restaurant",
+          "salad bar"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "salad bar"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Durenan",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Durenan, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7784,
+        "lon": 110.3126
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7775,
+          "lon": 110.31169
+        },
+        "btmRightPoint": {
+          "lat": -7.7793,
+          "lon": 110.31351
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.77872,
+            "lon": 110.31251
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "-tG__N8H8CZzNidyWLhhJA",
+      "score": 2.1454584599,
+      "info": "search:ta:360009002404663-ID",
+      "poi": {
+        "name": "Mie Ayam Bakso Sapi Utomo",
+        "phone": "+62 896-7263-000",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Gamping - Bantulan",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Gamping - Bantulan, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.782088,
+        "lon": 110.323052
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78119,
+          "lon": 110.32214
+        },
+        "btmRightPoint": {
+          "lat": -7.78299,
+          "lon": 110.32396
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78211,
+            "lon": 110.32296
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "ZNPsy95BqGdtQlsqB-r56g",
+      "score": 2.1454563141,
+      "info": "search:ta:360006001931248-ID",
+      "poi": {
+        "name": "Lontong Kari",
+        "phone": "+62 812-2701-852",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Area Sawah",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55564",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Area Sawah, Godean Sub District, Sleman District, Yogyakarta 55564",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.787927,
+        "lon": 110.308524
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78703,
+          "lon": 110.30762
+        },
+        "btmRightPoint": {
+          "lat": -7.78883,
+          "lon": 110.30943
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78801,
+            "lon": 110.30849
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "Mjfw8EZFr3U5ntvC4qN8pQ",
+      "score": 2.1454558372,
+      "info": "search:ta:360009002407999-ID",
+      "poi": {
+        "name": "Kedai Dagaloku Mbak Warty",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Gampingan Tengah",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Gampingan Tengah, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.78954,
+        "lon": 110.322586
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78864,
+          "lon": 110.32168
+        },
+        "btmRightPoint": {
+          "lat": -7.79044,
+          "lon": 110.32349
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78954,
+            "lon": 110.32269
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "6cV6OhGZUa_xKyQGhPymPA",
+      "score": 2.1454544067,
+      "info": "search:ta:360006001937113-ID",
+      "poi": {
+        "name": "Homeydecor Fr And At Homeyfood Fr",
+        "phone": "+62 821-6517-388",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Margorukun 2",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Margorukun 2, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.779914,
+        "lon": 110.318984
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77901,
+          "lon": 110.31808
+        },
+        "btmRightPoint": {
+          "lat": -7.78081,
+          "lon": 110.31989
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.77995,
+            "lon": 110.31914
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "wZMJJbBCpeR7WRdK-h1DCg",
+      "score": 2.1454539299,
+      "info": "search:ta:360006001971845-ID",
+      "poi": {
+        "name": "Kedai Sumilir",
+        "phone": "+62 822-3751-631",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kramat",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kramat, Godean Sub District, Sleman District, Yogyakarta 55264 (Jalan Gampingan Tengah)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.779804,
+        "lon": 110.32253
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7789,
+          "lon": 110.32162
+        },
+        "btmRightPoint": {
+          "lat": -7.7807,
+          "lon": 110.32344
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7798,
+            "lon": 110.32262
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "kPGdE-WFYjhRj5n-1HR6kg",
+      "score": 2.1454539299,
+      "info": "search:ta:360007000078036-ID",
+      "poi": {
+        "name": "Sop Empal Bu Haryoko",
+        "phone": "+62 812-2775-770",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Sayangan",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "56411",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Sayangan, Gamping Sub District, Sleman District, Yogyakarta 56411",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.787658,
+        "lon": 110.324658
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78676,
+          "lon": 110.32375
+        },
+        "btmRightPoint": {
+          "lat": -7.78856,
+          "lon": 110.32557
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78757,
+            "lon": 110.32469
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "Mq4c3ISzoEjmYxpILzOAwg",
+      "score": 2.1454539299,
+      "info": "search:ta:360006001885491-ID",
+      "poi": {
+        "name": "Hikmah Seblak&Batagor Ambarketawang",
+        "phone": "+62 857-0106-449",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sidoarum - Bantulan",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sidoarum - Bantulan, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.791404,
+        "lon": 110.322868
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7905,
+          "lon": 110.32196
+        },
+        "btmRightPoint": {
+          "lat": -7.7923,
+          "lon": 110.32378
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.79139,
+            "lon": 110.32296
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "PokBlq9X6xW5EZryyOd9QA",
+      "score": 2.1454520226,
+      "info": "search:ta:360006001948361-ID",
+      "poi": {
+        "name": "Ayam Geprek Tuk-Tuk",
+        "categorySet": [
+          {
+            "id": 7315070
+          }
+        ],
+        "categories": [
+          "chicken",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chicken"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mejing Kidul",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mejing Kidul, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.789719,
+        "lon": 110.320479
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78882,
+          "lon": 110.31957
+        },
+        "btmRightPoint": {
+          "lat": -7.79062,
+          "lon": 110.32139
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7897,
+            "lon": 110.32039
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "TeoEAcFKsCJdWFbOGR2SKg",
+      "score": 2.1454513073,
+      "info": "search:ta:360006006589376-ID",
+      "poi": {
+        "name": "Outlet Talas Jogja",
+        "phone": "+62 895-4216-586",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Area Sawah",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Area Sawah, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7884,
+        "lon": 110.3091
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7875,
+          "lon": 110.30819
+        },
+        "btmRightPoint": {
+          "lat": -7.7893,
+          "lon": 110.31001
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7883,
+            "lon": 110.30915
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "FlwNUfsfMgc3OxMOz4y91w",
+      "score": 2.1454510689,
+      "info": "search:ta:360006001949884-ID",
+      "poi": {
+        "name": "Yukiboll",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Seboran",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Seboran, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7801,
+        "lon": 110.311
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7792,
+          "lon": 110.31009
+        },
+        "btmRightPoint": {
+          "lat": -7.781,
+          "lon": 110.31191
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78011,
+            "lon": 110.31125
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "VnSupkXKB7vjg-fGuvXvWw",
+      "score": 2.1454508305,
+      "info": "search:ta:360006006580942-ID",
+      "poi": {
+        "name": "Ria Food",
+        "phone": "+62 821-4453-684",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Area Sawah",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Area Sawah, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7807,
+        "lon": 110.3156
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7798,
+          "lon": 110.31469
+        },
+        "btmRightPoint": {
+          "lat": -7.7816,
+          "lon": 110.31651
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78067,
+            "lon": 110.31545
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "jH9lOvv3RCEAKPYku5_kqA",
+      "score": 2.145450592,
+      "info": "search:ta:360006006562707-ID",
+      "poi": {
+        "name": "Mi Ayam Goceng",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mejing Kidul",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mejing Kidul, Gamping Sub District, Sleman District, Yogyakarta 55294 (Jalan Patukan)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.791419,
+        "lon": 110.316887
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.79052,
+          "lon": 110.31598
+        },
+        "btmRightPoint": {
+          "lat": -7.79232,
+          "lon": 110.31779
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7915,
+            "lon": 110.31685
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "kbBFGwi6bESwcIJr-ANmTg",
+      "score": 2.1454496384,
+      "info": "search:ta:360006001971846-ID",
+      "poi": {
+        "name": "Mendoan Djogja",
+        "phone": "+62 813-2719-907",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Dusun Mejing Lor",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Dusun Mejing Lor, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7848,
+        "lon": 110.3224
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7839,
+          "lon": 110.32149
+        },
+        "btmRightPoint": {
+          "lat": -7.7857,
+          "lon": 110.32331
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7848,
+            "lon": 110.3224
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "iHX2jQVP8PE-JFAo6nvNYg",
+      "score": 2.1454496384,
+      "info": "search:ta:360006001899094-ID",
+      "poi": {
+        "name": "Rumah Pedas Mita",
+        "phone": "+62 896-7899-946",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Margosari",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Margosari, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7865,
+        "lon": 110.3195
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7856,
+          "lon": 110.31859
+        },
+        "btmRightPoint": {
+          "lat": -7.7874,
+          "lon": 110.32041
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78621,
+            "lon": 110.31952
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "5FOEn_DFzIOnvFIajI_faw",
+      "score": 2.1454489231,
+      "info": "search:ta:360006006614524-ID",
+      "poi": {
+        "name": "Bakmi Jawa Argo",
+        "phone": "+62 856-4321-150",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Tetuko Raya",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Tetuko Raya, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7817,
+        "lon": 110.323
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7808,
+          "lon": 110.32209
+        },
+        "btmRightPoint": {
+          "lat": -7.7826,
+          "lon": 110.32391
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78172,
+            "lon": 110.3229
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "foPB0vApNhb1Rr-RKIQa8Q",
+      "score": 2.1454489231,
+      "info": "search:ta:360006001901617-ID",
+      "poi": {
+        "name": "Rin's Kitchen",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Gamping",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Gamping, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.784469,
+        "lon": 110.323503
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78357,
+          "lon": 110.3226
+        },
+        "btmRightPoint": {
+          "lat": -7.78537,
+          "lon": 110.32441
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78456,
+            "lon": 110.3235
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "mfz0SdPvN9f-XE0Ym1byLw",
+      "score": 2.1454484463,
+      "info": "search:ta:360006006630962-ID",
+      "poi": {
+        "name": "Orion Homes",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "1",
+        "streetName": "3A/no",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "3A/no 1, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.780076,
+        "lon": 110.318203
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77918,
+          "lon": 110.3173
+        },
+        "btmRightPoint": {
+          "lat": -7.78098,
+          "lon": 110.31911
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78017,
+            "lon": 110.31819
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "AGGRKhqGg_uULcdgQu-Juw",
+      "score": 2.1454479694,
+      "info": "search:ta:360006006638894-ID",
+      "poi": {
+        "name": "Warung Makan Khas Sunda Kembar",
+        "phone": "+62 815-9545-196",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sidoarum-Gamping No.2",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sidoarum-Gamping No.2, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.786287,
+        "lon": 110.322941
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78539,
+          "lon": 110.32203
+        },
+        "btmRightPoint": {
+          "lat": -7.78719,
+          "lon": 110.32385
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78631,
+            "lon": 110.32303
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "qXZDpSB2JRJqNqXVIjI5og",
+      "score": 2.1454474926,
+      "info": "search:ta:360006001902797-ID",
+      "poi": {
+        "name": "Pawon Mbak Nur",
+        "phone": "+62 819-0417-493",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mejing Kidul",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mejing Kidul, Gamping Sub District, Sleman District, Yogyakarta 55294 (Gang Puntadewa)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7911,
+        "lon": 110.3195
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7902,
+          "lon": 110.31859
+        },
+        "btmRightPoint": {
+          "lat": -7.792,
+          "lon": 110.32041
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.79077,
+            "lon": 110.31948
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "GLhTNXoeBPuSydqr5hEYJg",
+      "score": 2.1454470158,
+      "info": "search:ta:360007000077963-ID",
+      "poi": {
+        "name": "Resto Bathok Mbak Nella",
+        "phone": "+62 821-9987-6534",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Garuda",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Garuda, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.781543,
+        "lon": 110.317596
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78064,
+          "lon": 110.31669
+        },
+        "btmRightPoint": {
+          "lat": -7.78244,
+          "lon": 110.3185
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78144,
+            "lon": 110.31763
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "zk9tDt4Dfli4flV-TRHlmA",
+      "score": 2.1454467773,
+      "info": "search:ta:360006001880740-ID",
+      "poi": {
+        "name": "Domby Kid's Hope 3",
+        "categorySet": [
+          {
+            "id": 7315146
+          }
+        ],
+        "categories": [
+          "banquet rooms",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "banquet rooms"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mejing Kidul",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mejing Kidul, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7903,
+        "lon": 110.3215
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7894,
+          "lon": 110.32059
+        },
+        "btmRightPoint": {
+          "lat": -7.7912,
+          "lon": 110.32241
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.79044,
+            "lon": 110.32139
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "qCrZNXVG-KJYcmNCPkry9Q",
+      "score": 2.1454467773,
+      "info": "search:ta:360006006589374-ID",
+      "poi": {
+        "name": "Pempek Delight",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Griya Pesona Sidoarum No.27",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Griya Pesona Sidoarum No.27, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.787665,
+        "lon": 110.30941
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78677,
+          "lon": 110.3085
+        },
+        "btmRightPoint": {
+          "lat": -7.78856,
+          "lon": 110.31032
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78775,
+            "lon": 110.30939
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "uJwzkYO9lVNtmZqyknMuVA",
+      "score": 2.1454465389,
+      "info": "search:ta:360006001941148-ID",
+      "poi": {
+        "name": "Produsen Kulit Lumpia Jempol Mutiara",
+        "phone": "+62 899-5049-371",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Bibis No.11",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidokarto",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Bibis No.11, Godean Sub District, Sleman District, Yogyakarta 55264 (Sidokarto)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7872,
+        "lon": 110.3081
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7863,
+          "lon": 110.30719
+        },
+        "btmRightPoint": {
+          "lat": -7.7881,
+          "lon": 110.30901
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78775,
+            "lon": 110.30786
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "lo_Hm7wt79ShaxRQ_prEIQ",
+      "score": 2.1454460621,
+      "info": "search:ta:360006001902787-ID",
+      "poi": {
+        "name": "Bakmi Jawa Pak Td",
+        "phone": "+62 812-3109-990",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Kramat No.164",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55564",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Kramat No.164, Godean Sub District, Sleman District, Yogyakarta 55564",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7797,
+        "lon": 110.3143
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7788,
+          "lon": 110.31339
+        },
+        "btmRightPoint": {
+          "lat": -7.7806,
+          "lon": 110.31521
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.77982,
+            "lon": 110.31426
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "OQMyPN3X1gQw76oZULO0AQ",
+      "score": 2.1454458237,
+      "info": "search:ta:360006001924593-ID",
+      "poi": {
+        "name": "Bakso Sarno",
+        "phone": "+62 888-0280-908",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Seboran",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Seboran, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.780285,
+        "lon": 110.309563
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77939,
+          "lon": 110.30866
+        },
+        "btmRightPoint": {
+          "lat": -7.78118,
+          "lon": 110.31047
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78032,
+            "lon": 110.30965
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "kOJX10DWl1O-mMhM9lnJxw",
+      "score": 2.1454458237,
+      "info": "search:ta:360006001877759-ID",
+      "poi": {
+        "name": "Ndogma-Yk",
+        "phone": "+62 857-2827-311",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Perumahan Griya Mejing Lor",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Perumahan Griya Mejing Lor, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.786172,
+        "lon": 110.320701
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78447,
+          "lon": 110.31898
+        },
+        "btmRightPoint": {
+          "lat": -7.78788,
+          "lon": 110.32242
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7846,
+            "lon": 110.32003
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "8t9kKQCvwj9GAtxl0ACs6g",
+      "score": 2.1454458237,
+      "info": "search:ta:360006002060368-ID",
+      "poi": {
+        "name": "Siomay Dan Batagor Si Aa Ogell",
+        "phone": "+62 838-2089-859",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Gamping",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Gamping, Gamping Sub District, Sleman District, Yogyakarta 55294 (Jalan Gampingan Tengah)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.785701,
+        "lon": 110.323205
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7848,
+          "lon": 110.3223
+        },
+        "btmRightPoint": {
+          "lat": -7.7866,
+          "lon": 110.32411
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78569,
+            "lon": 110.32312
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "TRJ_zg8LlnbyOuZ9dYSBSA",
+      "score": 2.1454458237,
+      "info": "search:ta:360006001903864-ID",
+      "poi": {
+        "name": "Cilor Bebeye",
+        "phone": "+62 818-0400-841",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Perumahan Griya Mejing Lor",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Perumahan Griya Mejing Lor, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.784542,
+        "lon": 110.319286
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78364,
+          "lon": 110.31838
+        },
+        "btmRightPoint": {
+          "lat": -7.78544,
+          "lon": 110.32019
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78458,
+            "lon": 110.31991
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "XdQZB8AhhvFRouqWbkbrKA",
+      "score": 2.1454455853,
+      "info": "search:ta:360006006578162-ID",
+      "poi": {
+        "name": "Warung Mbak Septy",
+        "phone": "+62 822-2004-791",
+        "categorySet": [
+          {
+            "id": 7315062
+          }
+        ],
+        "categories": [
+          "asian (other)",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "asian (other)"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tangkilan Rt.5/Rw.23",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Tangkilan Rt.5/Rw.23, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7869,
+        "lon": 110.3095
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.786,
+          "lon": 110.30859
+        },
+        "btmRightPoint": {
+          "lat": -7.7878,
+          "lon": 110.31041
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78703,
+            "lon": 110.30945
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "WawnPlndtA5IWYUW1yM2WQ",
+      "score": 2.1454455853,
+      "info": "search:ta:360006001966817-ID",
+      "poi": {
+        "name": "Sate Ayam Abah Muda",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Gamping",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Gamping, Gamping Sub District, Sleman District, Yogyakarta 55294 (Jalan Gampingan Tengah)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.788199,
+        "lon": 110.322844
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7873,
+          "lon": 110.32194
+        },
+        "btmRightPoint": {
+          "lat": -7.7891,
+          "lon": 110.32375
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7882,
+            "lon": 110.32275
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "Oytj8xiHckJGy9_zuhMUFQ",
+      "score": 2.1454446316,
+      "info": "search:ta:360006001909522-ID",
+      "poi": {
+        "name": "Wm. Pawonku Bu Inung",
+        "phone": "+62 821-4425-215",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Area Sawah",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Area Sawah, Godean Sub District, Sleman District, Yogyakarta 55264 (Jalan Nyamplung Kidul)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7913,
+        "lon": 110.3105
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7904,
+          "lon": 110.30959
+        },
+        "btmRightPoint": {
+          "lat": -7.7922,
+          "lon": 110.31141
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.79123,
+            "lon": 110.31019
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "jjLzoG26LEze4dCe_eT4gQ",
+      "score": 2.1454441547,
+      "info": "search:ta:360006006569713-ID",
+      "poi": {
+        "name": "Bakmie Jawa Garuda",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Nuri No.R1",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Nuri No.R1, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.782249,
+        "lon": 110.32217
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78135,
+          "lon": 110.32126
+        },
+        "btmRightPoint": {
+          "lat": -7.78315,
+          "lon": 110.32308
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78226,
+            "lon": 110.32226
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "U_plrpS646kP6kNkD7my7w",
+      "score": 2.1454441547,
+      "info": "search:ta:360006001970416-ID",
+      "poi": {
+        "name": "Kerang Jagoan",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Dusun Mejing Lor",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Dusun Mejing Lor, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.783488,
+        "lon": 110.323269
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78197,
+          "lon": 110.32173
+        },
+        "btmRightPoint": {
+          "lat": -7.78501,
+          "lon": 110.32481
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78489,
+            "lon": 110.32267
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "sLffx2-jnAF3ShHZbEISOQ",
+      "score": 2.1454439163,
+      "info": "search:ta:360006001967794-ID",
+      "poi": {
+        "name": "Mava Masakan Padang",
+        "phone": "+62 878-3936-669",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Gampingan Tengah",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Gampingan Tengah, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.785639,
+        "lon": 110.322973
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78474,
+          "lon": 110.32207
+        },
+        "btmRightPoint": {
+          "lat": -7.78654,
+          "lon": 110.32388
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78566,
+            "lon": 110.32312
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "LQfWKum-_BWlhLx9Rp5RIg",
+      "score": 2.1454436779,
+      "info": "search:ta:360006001970409-ID",
+      "poi": {
+        "name": "Pempek Yuk",
+        "phone": "+62 812-2806-701",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kramat",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kramat, Godean Sub District, Sleman District, Yogyakarta 55264 (Jalan Merpati)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7793,
+        "lon": 110.3187
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77756,
+          "lon": 110.31694
+        },
+        "btmRightPoint": {
+          "lat": -7.78104,
+          "lon": 110.32046
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.77875,
+            "lon": 110.31703
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "sTHL1lmRin_bN-LumSyg5A",
+      "score": 2.1454429626,
+      "info": "search:ta:360006001867862-ID",
+      "poi": {
+        "name": "Lotek Bu Yanti",
+        "phone": "+62 895-4218-898",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mejing Kidul",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mejing Kidul, Gamping Sub District, Sleman District, Yogyakarta 55294 (Jalan Tri Tunggal)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7871,
+        "lon": 110.3207
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7862,
+          "lon": 110.31979
+        },
+        "btmRightPoint": {
+          "lat": -7.788,
+          "lon": 110.32161
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78708,
+            "lon": 110.32061
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "huODu7mKS23cRq-N95Uxiw",
+      "score": 2.1454424858,
+      "info": "search:ta:360009002354547-ID",
+      "poi": {
+        "name": "Miroso",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Gampingan Tengah",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Gampingan Tengah, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.780423,
+        "lon": 110.322803
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77952,
+          "lon": 110.3219
+        },
+        "btmRightPoint": {
+          "lat": -7.78132,
+          "lon": 110.32371
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78043,
+            "lon": 110.32271
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "bq3XitcO9ENsgPor24GiZA",
+      "score": 2.1454408169,
+      "info": "search:ta:360006006644521-ID",
+      "poi": {
+        "name": "Rumah Makan Bu Kamsi",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tangkilan",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Tangkilan, Godean Sub District, Sleman District, Yogyakarta 55264 (Jalan Patukan)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.789656,
+        "lon": 110.312617
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78876,
+          "lon": 110.31171
+        },
+        "btmRightPoint": {
+          "lat": -7.79056,
+          "lon": 110.31352
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78974,
+            "lon": 110.31258
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "f1X-Brg4yVrEXU8KFz0dMg",
+      "score": 2.1454398632,
+      "info": "search:ta:360006001812762-ID",
+      "poi": {
+        "name": "Perumahan Bumi Sidoarum Indah B9",
+        "phone": "+62 813-9371-117",
+        "categorySet": [
+          {
+            "id": 7315070
+          }
+        ],
+        "categories": [
+          "chicken",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chicken"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kramat",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kramat, Godean Sub District, Sleman District, Yogyakarta 55264 (Jalan Melon)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7782,
+        "lon": 110.3196
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7773,
+          "lon": 110.31869
+        },
+        "btmRightPoint": {
+          "lat": -7.7791,
+          "lon": 110.32051
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.77876,
+            "lon": 110.31958
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "GZHBsAvoDO2osO4M_uuwwA",
+      "score": 2.1454398632,
+      "info": "search:ta:360006001869485-ID",
+      "poi": {
+        "name": "Barokah Raharjo",
+        "phone": "+62 813-1080-791",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Gamping",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Gamping, Gamping Sub District, Sleman District, Yogyakarta 55294 (Jalan Randu)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7853,
+        "lon": 110.324
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7844,
+          "lon": 110.32309
+        },
+        "btmRightPoint": {
+          "lat": -7.7862,
+          "lon": 110.32491
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78507,
+            "lon": 110.32398
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "tKtrKrC4P5gOdIXhAc_QLg",
+      "score": 2.1454396248,
+      "info": "search:ta:360006001892243-ID",
+      "poi": {
+        "name": "Resto Andaliman",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mejing Kidul",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mejing Kidul, Gamping Sub District, Sleman District, Yogyakarta 55294 (Jalan Gedhongan)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.790493,
+        "lon": 110.319666
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78959,
+          "lon": 110.31876
+        },
+        "btmRightPoint": {
+          "lat": -7.79139,
+          "lon": 110.32057
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.79051,
+            "lon": 110.31975
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "vZOCcOzPUtuFVMdFieMRqg",
+      "score": 2.1454389095,
+      "info": "search:ta:360006001947413-ID",
+      "poi": {
+        "name": "Warung Bubur Alaska",
+        "phone": "+62 361 974091",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kramat",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kramat, Godean Sub District, Sleman District, Yogyakarta 55264 (Jalan Garuda)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7812,
+        "lon": 110.3182
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7803,
+          "lon": 110.31729
+        },
+        "btmRightPoint": {
+          "lat": -7.7821,
+          "lon": 110.31911
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78155,
+            "lon": 110.31812
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "6oq0ba21D0mrPpOoJ3qw5A",
+      "score": 2.1454389095,
+      "info": "search:ta:360006001934533-ID",
+      "poi": {
+        "name": "Warung Lotek Enak",
+        "phone": "+62 856-0134-719",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Garuda",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Garuda, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.781456,
+        "lon": 110.318108
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78056,
+          "lon": 110.3172
+        },
+        "btmRightPoint": {
+          "lat": -7.78236,
+          "lon": 110.31902
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78154,
+            "lon": 110.31809
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "FYvMNyY9CiqYHQMSOmShAg",
+      "score": 2.1454384327,
+      "info": "search:ta:360006001955110-ID",
+      "poi": {
+        "name": "Cahaya",
+        "phone": "+62 858-7851-892",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Prawirodiryo Wirokraman Sidokarto Kec. Godean",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidokarto",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Prawirodiryo Wirokraman Sidokarto Kec. Godean, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.785243,
+        "lon": 110.308371
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78434,
+          "lon": 110.30746
+        },
+        "btmRightPoint": {
+          "lat": -7.78614,
+          "lon": 110.30928
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78522,
+            "lon": 110.30747
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "iqHZWjEnNFW2HSyQ08DSCw",
+      "score": 2.1454379559,
+      "info": "search:ta:360006001927428-ID",
+      "poi": {
+        "name": "Sengsu Mejing Lor",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Gampingan Tengah",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Gampingan Tengah, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.785242,
+        "lon": 110.321641
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78374,
+          "lon": 110.32013
+        },
+        "btmRightPoint": {
+          "lat": -7.78674,
+          "lon": 110.32316
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78537,
+            "lon": 110.32315
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "vOOjatGc1vOri5QDtz78Bw",
+      "score": 2.1454360485,
+      "info": "search:ta:360006001940374-ID",
+      "poi": {
+        "name": "Angkringan Pak Harjo",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mejing Kidul",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mejing Kidul, Gamping Sub District, Sleman District, Yogyakarta 55294 (Jalan Ambar Arum)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7899,
+        "lon": 110.3186
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.789,
+          "lon": 110.31769
+        },
+        "btmRightPoint": {
+          "lat": -7.7908,
+          "lon": 110.31951
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78988,
+            "lon": 110.31851
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "wtqToNziB1ppwUgzFqvQvA",
+      "score": 2.1454360485,
+      "info": "search:ta:360006003000195-ID",
+      "poi": {
+        "name": "Angkringan Mas Bro",
+        "phone": "+62 895-8004-404",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Bibis No.11",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Bibis No.11, Godean Sub District, Sleman District, Yogyakarta 55264 (Sidoarum)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7886,
+        "lon": 110.3095
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7877,
+          "lon": 110.30859
+        },
+        "btmRightPoint": {
+          "lat": -7.7895,
+          "lon": 110.31041
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78848,
+            "lon": 110.30955
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "tElA5ZTxJsGynDrSVb06Ww",
+      "score": 2.1454355717,
+      "info": "search:ta:360006001953874-ID",
+      "poi": {
+        "name": "Rumah Tanti",
+        "categorySet": [
+          {
+            "id": 7315146
+          }
+        ],
+        "categories": [
+          "banquet rooms",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "banquet rooms"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Semarangan",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidokarto",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55564",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Semarangan, Godean Sub District, Sleman District, Yogyakarta 55564",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7855,
+        "lon": 110.3085
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78444,
+          "lon": 110.30743
+        },
+        "btmRightPoint": {
+          "lat": -7.78656,
+          "lon": 110.30957
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78524,
+            "lon": 110.30746
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "855hvNGMeM2tjGJli5n__A",
+      "score": 2.1454355717,
+      "info": "search:ta:360009002353258-ID",
+      "poi": {
+        "name": "Bakmi Surabaya Cak Melan",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Gampingan Tengah",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Gampingan Tengah, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.780314,
+        "lon": 110.322796
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77941,
+          "lon": 110.32189
+        },
+        "btmRightPoint": {
+          "lat": -7.78121,
+          "lon": 110.3237
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78032,
+            "lon": 110.3227
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "DyfnVU_q6kNHsj1CAUl8sw",
+      "score": 2.1454350948,
+      "info": "search:ta:360006006635543-ID",
+      "poi": {
+        "name": "Ketoprak Imam Khas Cirebon",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sidoarum - Bantulan No.47",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sidoarum - Bantulan No.47, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.782008,
+        "lon": 110.322855
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78111,
+          "lon": 110.32195
+        },
+        "btmRightPoint": {
+          "lat": -7.78291,
+          "lon": 110.32376
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78199,
+            "lon": 110.32294
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "YBknH0gCWFXMkh2Ldhro5A",
+      "score": 2.1454341412,
+      "info": "search:ta:360006001969928-ID",
+      "poi": {
+        "name": "Warung Bako And Soto Sapi",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kabupaten Sleman",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kabupaten Sleman, Godean Sub District, Sleman District, Yogyakarta 55264 (Jalan Dukuh Sidoarum)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7846,
+        "lon": 110.3122
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7837,
+          "lon": 110.31129
+        },
+        "btmRightPoint": {
+          "lat": -7.7855,
+          "lon": 110.31311
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78467,
+            "lon": 110.31227
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "INJEdcPfQtOccBodFGGoZw",
+      "score": 2.1454339027,
+      "info": "search:ta:360006001799279-ID",
+      "poi": {
+        "name": "Siomay And Batagor Barokah",
+        "phone": "+62 838-4044-159",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Perumahan Kramat",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Perumahan Kramat, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7773,
+        "lon": 110.3174
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77585,
+          "lon": 110.31593
+        },
+        "btmRightPoint": {
+          "lat": -7.77875,
+          "lon": 110.31887
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.77852,
+            "lon": 110.3166
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "RPwQRygRRokSr9MaNVHnTg",
+      "score": 2.1454334259,
+      "info": "search:ta:360006001948357-ID",
+      "poi": {
+        "name": "Podomoro Kebab And Burger Ambar Ketawang",
+        "phone": "+62 877-3427-831",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Gamping",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Gamping, Gamping Sub District, Sleman District, Yogyakarta 55294 (Jalan Gampingan Tengah)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.784932,
+        "lon": 110.323086
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78403,
+          "lon": 110.32218
+        },
+        "btmRightPoint": {
+          "lat": -7.78583,
+          "lon": 110.32399
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78494,
+            "lon": 110.32318
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "NgGhLgqZ4hpzoBGha6kK1w",
+      "score": 2.1454331875,
+      "info": "search:ta:360006001937111-ID",
+      "poi": {
+        "name": "Bakso Kuah Aneka Rasa 'Pak Toro'",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sidoarum-Gamping No.2",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sidoarum-Gamping No.2, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7915,
+        "lon": 110.3231
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7906,
+          "lon": 110.32219
+        },
+        "btmRightPoint": {
+          "lat": -7.7924,
+          "lon": 110.32401
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.79152,
+            "lon": 110.32298
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "lLNisp0hY-wM3uXtru8ZBQ",
+      "score": 2.1454331875,
+      "info": "search:ta:360006001972773-ID",
+      "poi": {
+        "name": "Rumah Makan Mbak Ratih",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Godean Sub District, Sleman District, Yogyakarta 55264 (Sidoarum)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7845,
+        "lon": 110.3116
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7836,
+          "lon": 110.31069
+        },
+        "btmRightPoint": {
+          "lat": -7.7854,
+          "lon": 110.31251
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78441,
+            "lon": 110.31139
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "1g9pjLuiZktSEnjVVHTOqg",
+      "score": 2.1454329491,
+      "info": "search:ta:360006001933745-ID",
+      "poi": {
+        "name": "Klenger Chinese Food",
+        "phone": "+62 251 2791779",
+        "categorySet": [
+          {
+            "id": 7315012
+          }
+        ],
+        "categories": [
+          "chinese",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "chinese"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mejing Kidul",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mejing Kidul, Gamping Sub District, Sleman District, Yogyakarta 55294 (Jalan Patukan)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.793,
+        "lon": 110.3201
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7921,
+          "lon": 110.31919
+        },
+        "btmRightPoint": {
+          "lat": -7.7939,
+          "lon": 110.32101
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.79285,
+            "lon": 110.32016
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "t8eExS4b8qXt5gptxENwuw",
+      "score": 2.1454329491,
+      "info": "search:ta:360006001964368-ID",
+      "poi": {
+        "name": "Daftar Menu Penyetan Raminah",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Patukan Ambarketawang Kec. Gamping",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Patukan Ambarketawang Kec. Gamping, Gamping Sub District, Sleman District, Yogyakarta 55294",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7926,
+        "lon": 110.3217
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7917,
+          "lon": 110.32079
+        },
+        "btmRightPoint": {
+          "lat": -7.7935,
+          "lon": 110.32261
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.79334,
+            "lon": 110.32113
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "eztU17wWGc3uxQoRWYcvpQ",
+      "score": 2.1454327106,
+      "info": "search:ta:360006001869487-ID",
+      "poi": {
+        "name": "Bakmi Jawa Dan Teh Sere Ulu Ulu",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Area Sawah",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Area Sawah, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7856,
+        "lon": 110.318
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7847,
+          "lon": 110.31709
+        },
+        "btmRightPoint": {
+          "lat": -7.7865,
+          "lon": 110.31891
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.7856,
+            "lon": 110.31814
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "ngWbSHp8BxmxIgp_s2oDmA",
+      "score": 2.1454327106,
+      "info": "search:ta:360006001937853-ID",
+      "poi": {
+        "name": "Rumah Makan Putri Kamba Masakan Padang",
+        "phone": "+62 896-7148-801",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Mejing Kidul",
+        "municipalitySubdivision": "Gamping",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Ambarketawang",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55294",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Mejing Kidul, Gamping Sub District, Sleman District, Yogyakarta 55294 (Jalan Patukan)",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.792484,
+        "lon": 110.319507
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.79158,
+          "lon": 110.3186
+        },
+        "btmRightPoint": {
+          "lat": -7.79338,
+          "lon": 110.32041
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.79257,
+            "lon": 110.31947
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "kzp2pou4iUyusRTdfOJMkg",
+      "score": 2.1454322338,
+      "info": "search:ta:360006001964369-ID",
+      "poi": {
+        "name": "Yammie And Esbolly Maremie",
+        "phone": "+62 818-0272-708",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Area Sawah",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Area Sawah, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.7885,
+        "lon": 110.3092
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.7876,
+          "lon": 110.30829
+        },
+        "btmRightPoint": {
+          "lat": -7.7894,
+          "lon": 110.31011
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78835,
+            "lon": 110.30927
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "cjDJTIWZc1x9mC_Mz1NTWw",
+      "score": 2.1454319954,
+      "info": "search:ta:360006001972333-ID",
+      "poi": {
+        "name": "Soto Trisno Roso",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Area Sawah",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Area Sawah, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.77983,
+        "lon": 110.312656
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.77893,
+          "lon": 110.31175
+        },
+        "btmRightPoint": {
+          "lat": -7.78073,
+          "lon": 110.31356
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.77975,
+            "lon": 110.31236
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "GGCjwuYkpNN_nzBcAWndsg",
+      "score": 2.1454312801,
+      "info": "search:ta:360006001909531-ID",
+      "poi": {
+        "name": "Windarti Gorengan",
+        "phone": "+62 899-3014-200",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tangkilan",
+        "municipalitySubdivision": "Godean",
+        "municipality": "Sleman",
+        "municipalitySecondarySubdivision": "Sidoarum",
+        "countrySubdivision": "Yogyakarta",
+        "countrySubdivisionName": "Yogyakarta",
+        "countrySubdivisionCode": "YO",
+        "postalCode": "55264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Tangkilan, Godean Sub District, Sleman District, Yogyakarta 55264",
+        "localName": "Sleman"
+      },
+      "position": {
+        "lat": -7.783131,
+        "lon": 110.311969
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.78223,
+          "lon": 110.31106
+        },
+        "btmRightPoint": {
+          "lat": -7.78403,
+          "lon": 110.31288
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.78304,
+            "lon": 110.31237
+          }
+        }
+      ]
+    }
+  ]
+}

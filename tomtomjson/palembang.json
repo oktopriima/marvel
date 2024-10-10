@@ -1,0 +1,7434 @@
+{
+  "summary": {
+    "query": "palembang",
+    "queryType": "NON_NEAR",
+    "queryTime": 182,
+    "numResults": 100,
+    "offset": 0,
+    "totalResults": 100,
+    "fuzzyLevel": 1
+  },
+  "results": [
+    {
+      "type": "POI",
+      "id": "4bZxtZvjgtlBy2yG-Yaevg",
+      "score": 2.1244060993,
+      "info": "search:ta:360006007158857-ID",
+      "poi": {
+        "name": "Bukit Palembang",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Mp. Remmang",
+        "municipalitySubdivision": "Bacukiki",
+        "municipality": "Parepare",
+        "municipalitySecondarySubdivision": "Lemoe",
+        "countrySubdivision": "Sulawesi Selatan",
+        "countrySubdivisionName": "Sulawesi Selatan",
+        "countrySubdivisionCode": "SN",
+        "postalCode": "91121",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Mp. Remmang, Bacukiki Sub District, Parepare District, Sulawesi Selatan 91121",
+        "localName": "Parepare"
+      },
+      "position": {
+        "lat": -4.0305,
+        "lon": 119.6655
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -4.0296,
+          "lon": 119.6646
+        },
+        "btmRightPoint": {
+          "lat": -4.0314,
+          "lon": 119.6664
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -4.03075,
+            "lon": 119.66562
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "-4Z1BJ6O9az-5rbX69Lymg",
+      "score": 2.1037807465,
+      "info": "search:ta:360006003210186-ID",
+      "poi": {
+        "name": "Tanah Borang Palembang",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tanah",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Sei Selincah",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30161",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Tanah, Palembang District, Sumatera Selatan 30161",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9526,
+        "lon": 104.8162
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9517,
+          "lon": 104.8153
+        },
+        "btmRightPoint": {
+          "lat": -2.9535,
+          "lon": 104.8171
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.95324,
+            "lon": 104.81596
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "AtV7-E5PgXnO1sQ8wYMQPg",
+      "score": 2.1037807465,
+      "info": "search:ta:360006003126713-ID",
+      "poi": {
+        "name": "Kampoeng Bingen Palembang",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Kh. Azhari",
+        "municipalitySubdivision": "Seberang Ulu II",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "14 Ulu",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30118",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Kh. Azhari, Seberang Ulu II Sub District, Palembang District, Sumatera Selatan 30118",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.985799,
+        "lon": 104.777304
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9849,
+          "lon": 104.7764
+        },
+        "btmRightPoint": {
+          "lat": -2.9867,
+          "lon": 104.7782
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.98582,
+            "lon": 104.77722
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "vUhE7AztRr22qKDG3jBniQ",
+      "score": 2.1037807465,
+      "info": "search:ta:360006004260197-ID",
+      "poi": {
+        "name": "Palembang Bird Park",
+        "phone": "+62 711 5740127",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Gubernur H.A. Bastari",
+        "municipalitySubdivision": "Jakabaring",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "15 Ulu",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30257",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Gubernur H.A. Bastari, Jakabaring Sub District, Palembang District, Sumatera Selatan 30257",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -3.0365,
+        "lon": 104.7882
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.0356,
+          "lon": 104.7873
+        },
+        "btmRightPoint": {
+          "lat": -3.0374,
+          "lon": 104.7891
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.03676,
+            "lon": 104.78871
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "WfzbIBO402Qr34YA6rW6yg",
+      "score": 2.1037807465,
+      "info": "search:ta:360006007071625-ID",
+      "poi": {
+        "name": "Lembah Sakura Palembang",
+        "phone": "+62 821-8689-646",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Tj. Bubuk",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Gandus",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30149",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Tj. Bubuk, Palembang District, Sumatera Selatan 30149",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -3.0045,
+        "lon": 104.7062
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.0036,
+          "lon": 104.7053
+        },
+        "btmRightPoint": {
+          "lat": -3.0054,
+          "lon": 104.7071
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.00511,
+            "lon": 104.70589
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "2F1-xvu62UzdD0Cp73YvWA",
+      "score": 2.0835521221,
+      "info": "search:ta:360006003172670-ID",
+      "poi": {
+        "name": "Bundaran Air Mancur Palembang",
+        "phone": "+62 711 361746",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Ilir",
+        "municipalitySubdivision": "Bukit Kecil",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "19 Ilir",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30111",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Ilir 16, Bukit Kecil Sub District, Palembang District, Sumatera Selatan 30111",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9881,
+        "lon": 104.761
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9872,
+          "lon": 104.7601
+        },
+        "btmRightPoint": {
+          "lat": -2.989,
+          "lon": 104.7619
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.98827,
+            "lon": 104.76088
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "3DjOelg6xz24-uNNCpe1Jw",
+      "score": 2.0835521221,
+      "info": "search:ta:360006003320223-ID",
+      "poi": {
+        "name": "Paguyuban Ikan Hias Palembang",
+        "phone": "+62 813-7380-950",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sungai Sedapet",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Sukajaya",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30961",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sungai Sedapet, Palembang District, Sumatera Selatan 30961",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9133,
+        "lon": 104.741
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9124,
+          "lon": 104.7401
+        },
+        "btmRightPoint": {
+          "lat": -2.9142,
+          "lon": 104.7419
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.91406,
+            "lon": 104.74117
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "cjAmW4U-Yte2xzu6Ge_qBQ",
+      "score": 2.0637090206,
+      "info": "search:ta:360006007883994-ID",
+      "poi": {
+        "name": "Smoking Area Smb Ii Palembang",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Bandara Sultan Mahmud Badaruddin Ii",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Talang Betutu",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30961",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Bandara Sultan Mahmud Badaruddin Ii, Palembang District, Sumatera Selatan 30961",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.895027,
+        "lon": 104.705189
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.89413,
+          "lon": 104.70429
+        },
+        "btmRightPoint": {
+          "lat": -2.89593,
+          "lon": 104.70609
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.89494,
+            "lon": 104.70522
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "9PYSOwwM3__wj2xEPdpxcA",
+      "score": 2.0637090206,
+      "info": "search:ta:360006003135248-ID",
+      "poi": {
+        "name": "Bayt Al-Qur'an Palembang",
+        "phone": "+62 821-8622-695",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Moh. Amin",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Gandus",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30149",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Moh. Amin, Palembang District, Sumatera Selatan 30149",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -3.0111,
+        "lon": 104.704
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.0102,
+          "lon": 104.7031
+        },
+        "btmRightPoint": {
+          "lat": -3.012,
+          "lon": 104.7049
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.01119,
+            "lon": 104.70394
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "f1qmY6016ibVlKFTIwgDtw",
+      "score": 2.0581591129,
+      "info": "search:ta:360009000730519-ID",
+      "poi": {
+        "name": "Sultan Mahmud Badaruddin 2 Palembang Airport",
+        "phone": "+62 711 385000",
+        "categorySet": [
+          {
+            "id": 7383002
+          }
+        ],
+        "categories": [
+          "airport",
+          "public authority"
+        ],
+        "classifications": [
+          {
+            "code": "AIRPORT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "airport"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "public authority"
+              }
+            ]
+          }
+        ],
+        "url": "www.bandarasmb2.com"
+      },
+      "address": {
+        "streetName": "Jalan Bandara Sultan Mahmud Badaruddin 2",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Talang Betutu",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30155",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Bandara Sultan Mahmud Badaruddin 2 1, Palembang District, Sumatera Selatan 30155",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.895262,
+        "lon": 104.704415
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.88787,
+          "lon": 104.6777
+        },
+        "btmRightPoint": {
+          "lat": -2.90652,
+          "lon": 104.71908
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.89498,
+            "lon": 104.70531
+          }
+        },
+        {
+          "type": "minor",
+          "position": {
+            "lat": -2.89447,
+            "lon": 104.70409
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": "d29e4865-82fb-4ba3-bb3f-f9e424e838a6"
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "68v0uR4zRq8_lEBkEhwqAw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007974285-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7372005
+          }
+        ],
+        "categories": [
+          "primary school",
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "primary school"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Mandi Api",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Srijaya",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30151",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Mandi Api, Palembang District, Sumatera Selatan 30151",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9528,
+        "lon": 104.7225
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9519,
+          "lon": 104.7216
+        },
+        "btmRightPoint": {
+          "lat": -2.9537,
+          "lon": 104.7234
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.95283,
+            "lon": 104.72249
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "vJR9iGatnobXY720OmXLjA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007975176-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7373
+          }
+        ],
+        "categories": [
+          "shopping center"
+        ],
+        "classifications": [
+          {
+            "code": "SHOPPING_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shopping center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Ilir",
+        "municipalitySubdivision": "Ilir Timur I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "18 Ilir",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30114",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Ilir 24, Ilir Timur I Sub District, Palembang District, Sumatera Selatan 30114",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9838,
+        "lon": 104.7576
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9829,
+          "lon": 104.7567
+        },
+        "btmRightPoint": {
+          "lat": -2.9847,
+          "lon": 104.7585
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.98355,
+            "lon": 104.75757
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ocqrdK-zqnX76XkfzDQ3Gg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000641235-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 813-1512-2233",
+        "categorySet": [
+          {
+            "id": 7339
+          }
+        ],
+        "categories": [
+          "place of worship"
+        ],
+        "classifications": [
+          {
+            "code": "PLACE_OF_WORSHIP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "place of worship"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Tanjung Harapan",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Sialang",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30961",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Tanjung Harapan, Palembang District, Sumatera Selatan 30961",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9318,
+        "lon": 104.7788
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9309,
+          "lon": 104.7779
+        },
+        "btmRightPoint": {
+          "lat": -2.9327,
+          "lon": 104.7797
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.9319,
+            "lon": 104.77878
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "aqS5saTd5wBUY4DaSdXrBg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001814384-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. H.M. Noerdin Pandji",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Sukajaya",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30961",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. H.M. Noerdin Pandji, Palembang District, Sumatera Selatan 30961",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9129,
+        "lon": 104.744
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.912,
+          "lon": 104.7431
+        },
+        "btmRightPoint": {
+          "lat": -2.9138,
+          "lon": 104.7449
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.91288,
+            "lon": 104.74399
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "j7gmwAM1K0Mk3qe7ZoGwRg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006004525641-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 711 541422",
+        "categorySet": [
+          {
+            "id": 7304005
+          }
+        ],
+        "categories": [
+          "chalet",
+          "holiday rental"
+        ],
+        "classifications": [
+          {
+            "code": "HOLIDAY_RENTAL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "holiday rental"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "chalet"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Plaju",
+        "municipalitySubdivision": "Plaju",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Plaju Ulu",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30119",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Plaju, Plaju Sub District, Palembang District, Sumatera Selatan 30119",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -3.0009,
+        "lon": 104.8161
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3,
+          "lon": 104.8152
+        },
+        "btmRightPoint": {
+          "lat": -3.0018,
+          "lon": 104.817
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.0008,
+            "lon": 104.8163
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "K4R3Vm4p_KojITsxht7P5Q",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002216722-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7314004
+          }
+        ],
+        "categories": [
+          "hostel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hostel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gang Gembira 4",
+        "municipalitySubdivision": "Sunggal",
+        "municipality": "Deli Serdang",
+        "municipalitySecondarySubdivision": "Sumber Melati Diski",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20351",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Gang Gembira 4, Sunggal Sub District, Deli Serdang District, Sumatera Utara 20351",
+        "localName": "Deli Serdang"
+      },
+      "position": {
+        "lat": 3.60518,
+        "lon": 98.558572
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.60608,
+          "lon": 98.55767
+        },
+        "btmRightPoint": {
+          "lat": 3.60428,
+          "lon": 98.55947
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.60521,
+            "lon": 98.55819
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "KZ8j0IbTMaq8oFYh8_T33g",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006803973-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 822-8000-966",
+        "categorySet": [
+          {
+            "id": 7372002
+          }
+        ],
+        "categories": [
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Sukarami",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Talang Betutu",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30961",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Sukarami, Palembang District, Sumatera Selatan 30961 (Talang Betutu)",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.89681,
+        "lon": 104.691289
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.89591,
+          "lon": 104.69039
+        },
+        "btmRightPoint": {
+          "lat": -2.89771,
+          "lon": 104.69219
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.89659,
+            "lon": 104.69138
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ruXC_va7XlLBktVYwjUTng",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007990262-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sekip Jaya",
+        "municipalitySubdivision": "Kemuning",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Sekip Jaya",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30114",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Sekip Jaya, Kemuning Sub District, Palembang District, Sumatera Selatan 30114",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.965094,
+        "lon": 104.755397
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.96419,
+          "lon": 104.7545
+        },
+        "btmRightPoint": {
+          "lat": -2.96599,
+          "lon": 104.7563
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.96517,
+            "lon": 104.75544
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ON_R2T5QrapcTSGeuoarQg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001292103-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 812-7271-232",
+        "categorySet": [
+          {
+            "id": 7373
+          }
+        ],
+        "categories": [
+          "shopping center"
+        ],
+        "classifications": [
+          {
+            "code": "SHOPPING_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shopping center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Lorok Pakjo Kec. Ilir Bar. I",
+        "municipalitySubdivision": "Ilir Barat I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Lorok Pakjo",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30137",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Lorok Pakjo Kec. Ilir Bar. I, Ilir Barat I Sub District, Palembang District, Sumatera Selatan 30137",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9771,
+        "lon": 104.7442
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9762,
+          "lon": 104.7433
+        },
+        "btmRightPoint": {
+          "lat": -2.978,
+          "lon": 104.7451
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.97678,
+            "lon": 104.74441
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "GwBQdIYKU_szDlJRw2Dztg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002293544-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7314006
+          }
+        ],
+        "categories": [
+          "hotel/motel",
+          "motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "motel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Semen",
+        "municipality": "Kota Blitar",
+        "municipalitySecondarySubdivision": "Semen",
+        "countrySubdivision": "Jawa Timur",
+        "countrySubdivisionName": "Jawa Timur",
+        "countrySubdivisionCode": "JI",
+        "postalCode": "66187",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Semen, Kota Blitar District, Jawa Timur 66187",
+        "localName": "Kota Blitar"
+      },
+      "position": {
+        "lat": -7.996153,
+        "lon": 112.358648
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.99525,
+          "lon": 112.35774
+        },
+        "btmRightPoint": {
+          "lat": -7.99705,
+          "lon": 112.35956
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.99609,
+            "lon": 112.35859
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "fkwlvAZ5YZGoR3cs6L4GFQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003294370-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 9376002
+          }
+        ],
+        "categories": [
+          "café",
+          "café/pub"
+        ],
+        "classifications": [
+          {
+            "code": "CAFE_PUB",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "café"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "café/pub"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kota Palembang",
+        "municipalitySubdivision": "Sematang Borang",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Karya Mulya",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30161",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kota Palembang, Sematang Borang Sub District, Palembang District, Sumatera Selatan 30161",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9487,
+        "lon": 104.834802
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9478,
+          "lon": 104.8339
+        },
+        "btmRightPoint": {
+          "lat": -2.9496,
+          "lon": 104.8357
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.94868,
+            "lon": 104.83472
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Y0UASF2xQtHx3-Kc93j95g",
+      "score": 2.0239999294,
+      "info": "search:ta:360006002148589-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Pelabuhan Kec. Samarinda Kota",
+        "municipalitySubdivision": "Samarinda Kota",
+        "municipality": "Samarinda",
+        "municipalitySecondarySubdivision": "Pelabuhan",
+        "countrySubdivision": "Kalimantan Timur",
+        "countrySubdivisionName": "Kalimantan Timur",
+        "countrySubdivisionCode": "KI",
+        "postalCode": "75112",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Pelabuhan Kec. Samarinda Kota, Samarinda Kota Sub District, Samarinda District, Kalimantan Timur 75112",
+        "localName": "Samarinda"
+      },
+      "position": {
+        "lat": -0.5052,
+        "lon": 117.1494
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.5043,
+          "lon": 117.1485
+        },
+        "btmRightPoint": {
+          "lat": -0.5061,
+          "lon": 117.1503
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.50491,
+            "lon": 117.14951
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "eIN5SGAnT7aEw3ofYHCNbg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007928087-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kemang Agung",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Kemang Agung",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30258",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kemang Agung, Palembang District, Sumatera Selatan 30258",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -3.031471,
+        "lon": 104.752024
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.03057,
+          "lon": 104.75112
+        },
+        "btmRightPoint": {
+          "lat": -3.03237,
+          "lon": 104.75292
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.0315,
+            "lon": 104.75211
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "w129vVbDC9pSYMoCJFZGwA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006697620-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 9361013
+          }
+        ],
+        "categories": [
+          "electrical, office it: consumer electronics",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "electrical, office it: consumer electronics"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Kertapati",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Karya Jaya",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30259",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Kertapati, Palembang District, Sumatera Selatan 30259",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -3.074843,
+        "lon": 104.724656
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.07394,
+          "lon": 104.72376
+        },
+        "btmRightPoint": {
+          "lat": -3.07574,
+          "lon": 104.72556
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.07454,
+            "lon": 104.72499
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "83z3wrZtwBgI1xciH4oMnQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006004934591-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 711 5541468",
+        "categorySet": [
+          {
+            "id": 9663003
+          }
+        ],
+        "categories": [
+          "health care service",
+          "personal care facility"
+        ],
+        "classifications": [
+          {
+            "code": "HEALTH_CARE_SERVICE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "health care service"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "personal care facility"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Rambutan",
+        "municipalitySubdivision": "Banyuasin I",
+        "municipality": "Banyuasin",
+        "municipalitySecondarySubdivision": "Mariana Ilir",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30967",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Rambutan, Banyuasin I Sub District, Banyuasin District, Sumatera Selatan 30967",
+        "localName": "Banyuasin"
+      },
+      "position": {
+        "lat": -2.9739,
+        "lon": 104.8682
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.973,
+          "lon": 104.8673
+        },
+        "btmRightPoint": {
+          "lat": -2.9748,
+          "lon": 104.8691
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.97424,
+            "lon": 104.86772
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1V5euJldL19_m3aTDtUonQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006506874-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 9663003
+          }
+        ],
+        "categories": [
+          "health care service",
+          "personal care facility"
+        ],
+        "classifications": [
+          {
+            "code": "HEALTH_CARE_SERVICE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "health care service"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "personal care facility"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kemas Rindo",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Kemas Rindo",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30257",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kemas Rindo, Palembang District, Sumatera Selatan 30257",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -3.037531,
+        "lon": 104.757379
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.03663,
+          "lon": 104.75648
+        },
+        "btmRightPoint": {
+          "lat": -3.03843,
+          "lon": 104.75828
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.03757,
+            "lon": 104.7572
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "X6ePJrZVrmPB9BEl7RmWKQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360007000073771-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 838-2162-1165",
+        "categorySet": [
+          {
+            "id": 9379004
+          }
+        ],
+        "categories": [
+          "bar",
+          "nightlife"
+        ],
+        "classifications": [
+          {
+            "code": "NIGHTLIFE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "bar"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "nightlife"
+              }
+            ]
+          }
+        ],
+        "url": "prediksi777.weebly.com/"
+      },
+      "address": {
+        "streetName": "Jalan Medan Merdeka Selatan",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Gambir",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "12071",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Medan Merdeka Selatan, Jakarta District, DKI Jakarta 12071",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.180604,
+        "lon": 106.828401
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.1797,
+          "lon": 106.8275
+        },
+        "btmRightPoint": {
+          "lat": -6.1815,
+          "lon": 106.82931
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.18051,
+            "lon": 106.82838
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "L4zTtoQ5CRDb3ZSiTLLwBQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006004142046-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "No.444",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Sako Baru",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30163",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "No.444 2, Palembang District, Sumatera Selatan 30163",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.91341,
+        "lon": 104.777777
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.91251,
+          "lon": 104.77688
+        },
+        "btmRightPoint": {
+          "lat": -2.91431,
+          "lon": 104.77868
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.9133,
+            "lon": 104.77774
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "gTlkQ4IeqDr5c1egoxG8pg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006563891-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 858-3917-297",
+        "categorySet": [
+          {
+            "id": 9352044
+          }
+        ],
+        "categories": [
+          "company",
+          "home appliance repair"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "home appliance repair"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Ilir Bar. I",
+        "municipalitySubdivision": "Ilir Barat I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Lorok Pakjo",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30126",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Ilir Bar. I, Ilir Barat I Sub District, Palembang District, Sumatera Selatan 30126",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9818,
+        "lon": 104.7395
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9809,
+          "lon": 104.7386
+        },
+        "btmRightPoint": {
+          "lat": -2.9827,
+          "lon": 104.7404
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.98188,
+            "lon": 104.73975
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "S-ymAtFF_UKWB7Ia4MbJpQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001040983-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 9376002
+          }
+        ],
+        "categories": [
+          "café",
+          "café/pub"
+        ],
+        "classifications": [
+          {
+            "code": "CAFE_PUB",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "café"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "café/pub"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Dorowati Bar. No.64",
+        "municipality": "Malang",
+        "municipalitySecondarySubdivision": "Mulyoarjo",
+        "countrySubdivision": "Jawa Timur",
+        "countrySubdivisionName": "Jawa Timur",
+        "countrySubdivisionCode": "JI",
+        "postalCode": "65216",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Dorowati Bar. No.64, Malang District, Jawa Timur 65216",
+        "localName": "Malang"
+      },
+      "position": {
+        "lat": -7.8288,
+        "lon": 112.701
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.8279,
+          "lon": 112.70009
+        },
+        "btmRightPoint": {
+          "lat": -7.8297,
+          "lon": 112.70191
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.82916,
+            "lon": 112.70101
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "-i_kf4XuqDsdx3F-T4sfrw",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003035782-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7314
+          }
+        ],
+        "categories": [
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Lintas Timur Palembang-Jambi",
+        "municipality": "Musi Banyu Asin",
+        "municipalitySecondarySubdivision": "Sungai Lilin",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30125",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Lintas Timur Palembang-Jambi, Musi Banyu Asin District, Sumatera Selatan 30125",
+        "localName": "Musi Banyu Asin"
+      },
+      "position": {
+        "lat": -2.59841,
+        "lon": 104.11073
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.59751,
+          "lon": 104.10983
+        },
+        "btmRightPoint": {
+          "lat": -2.59931,
+          "lon": 104.11163
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.59836,
+            "lon": 104.11051
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "34E7qQ62uixxumBGjZPZ1g",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007437279-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Raya Keloncing",
+        "municipality": "Buleleng",
+        "municipalitySecondarySubdivision": "Suwug",
+        "countrySubdivision": "Bali",
+        "countrySubdivisionName": "Bali",
+        "countrySubdivisionCode": "BA",
+        "postalCode": "81119",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Raya Keloncing, Buleleng District, Bali 81119",
+        "localName": "Buleleng"
+      },
+      "position": {
+        "lat": -8.132348,
+        "lon": 115.155088
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.13145,
+          "lon": 115.15418
+        },
+        "btmRightPoint": {
+          "lat": -8.13325,
+          "lon": 115.156
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.13226,
+            "lon": 115.15511
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "L0R-VXStUmhkGvj4MfojPg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000070918-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 858-1725-603",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Ciracas",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Ciracas",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "13740",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Ciracas, Jakarta District, DKI Jakarta 13740",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.3233,
+        "lon": 106.8856
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.3224,
+          "lon": 106.8847
+        },
+        "btmRightPoint": {
+          "lat": -6.3242,
+          "lon": 106.8865
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.3233,
+            "lon": 106.8853
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "RyCnY38ues27_t6rHMmaeQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360008000049936-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7375
+          }
+        ],
+        "categories": [
+          "toll gate"
+        ],
+        "classifications": [
+          {
+            "code": "OTHER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "toll gate"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Tol Palembang-Indralaya",
+        "municipalitySubdivision": "Pemulutan",
+        "municipality": "Ogan Ilir",
+        "municipalitySecondarySubdivision": "Ibul Besar III",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30653",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Tol Palembang-Indralaya, Pemulutan Sub District, Ogan Ilir District, Sumatera Selatan 30653",
+        "localName": "Ogan Ilir"
+      },
+      "position": {
+        "lat": -3.060252,
+        "lon": 104.753293
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.05935,
+          "lon": 104.75239
+        },
+        "btmRightPoint": {
+          "lat": -3.06115,
+          "lon": 104.75419
+        }
+      },
+      "entryPoints": null,
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "9uTTujI2mgoyn3s8iVFyeQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000356197-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7315078
+          }
+        ],
+        "categories": [
+          "ice cream parlor",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "ice cream parlor"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Sembawa",
+        "municipalitySubdivision": "Sembawa",
+        "municipality": "Banyuasin",
+        "municipalitySecondarySubdivision": "Lalang Sembawa",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30953",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Sembawa, Sembawa Sub District, Banyuasin District, Sumatera Selatan 30953",
+        "localName": "Banyuasin"
+      },
+      "position": {
+        "lat": -2.923,
+        "lon": 104.548
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9221,
+          "lon": 104.5471
+        },
+        "btmRightPoint": {
+          "lat": -2.9239,
+          "lon": 104.5489
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.92292,
+            "lon": 104.54784
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "rVKx_BzXV0zA5Zskz0KceA",
+      "score": 2.0239999294,
+      "info": "search:ta:360008000049937-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7375
+          }
+        ],
+        "categories": [
+          "toll gate"
+        ],
+        "classifications": [
+          {
+            "code": "OTHER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "toll gate"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Tol Palembang-Indralaya",
+        "municipalitySubdivision": "Pemulutan",
+        "municipality": "Ogan Ilir",
+        "municipalitySecondarySubdivision": "Ibul Besar III",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30653",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Tol Palembang-Indralaya, Pemulutan Sub District, Ogan Ilir District, Sumatera Selatan 30653",
+        "localName": "Ogan Ilir"
+      },
+      "position": {
+        "lat": -3.060293,
+        "lon": 104.753443
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.05939,
+          "lon": 104.75254
+        },
+        "btmRightPoint": {
+          "lat": -3.06119,
+          "lon": 104.75434
+        }
+      },
+      "entryPoints": null,
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "2rCbM7C6JRw1KZbkZLhqPA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000211204-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 821-7942-254",
+        "categorySet": [
+          {
+            "id": 7339002
+          }
+        ],
+        "categories": [
+          "church",
+          "place of worship"
+        ],
+        "classifications": [
+          {
+            "code": "PLACE_OF_WORSHIP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "place of worship"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "church"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kalidoni",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Bukit Sangkal",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30961",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kalidoni, Palembang District, Sumatera Selatan 30961",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.945121,
+        "lon": 104.769969
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.94422,
+          "lon": 104.76907
+        },
+        "btmRightPoint": {
+          "lat": -2.94602,
+          "lon": 104.77087
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.94511,
+            "lon": 104.77016
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "acJONmvlR00HX_TnPpJdrA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007444643-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 812-7235-571",
+        "categorySet": [
+          {
+            "id": 9361040
+          }
+        ],
+        "categories": [
+          "shop",
+          "toys games"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "toys games"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Talang Klp",
+        "municipalitySubdivision": "Talang Kelapa",
+        "municipality": "Banyuasin",
+        "municipalitySecondarySubdivision": "Tanah Mas",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30961",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Talang Klp, Talang Kelapa Sub District, Banyuasin District, Sumatera Selatan 30961",
+        "localName": "Banyuasin"
+      },
+      "position": {
+        "lat": -2.9177,
+        "lon": 104.6712
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9168,
+          "lon": 104.6703
+        },
+        "btmRightPoint": {
+          "lat": -2.9186,
+          "lon": 104.6721
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.91768,
+            "lon": 104.67129
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "E-HNTyAmsEciaswROQwZJA",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001064439-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 812-7839-571",
+        "categorySet": [
+          {
+            "id": 7373
+          }
+        ],
+        "categories": [
+          "shopping center"
+        ],
+        "classifications": [
+          {
+            "code": "SHOPPING_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shopping center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Palembang Beeme",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Srijaya",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30138",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Palembang Beeme, Palembang District, Sumatera Selatan 30138",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9562,
+        "lon": 104.7196
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9553,
+          "lon": 104.7187
+        },
+        "btmRightPoint": {
+          "lat": -2.9571,
+          "lon": 104.7205
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.95616,
+            "lon": 104.71969
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "yVJ7mb3eFRvLC1pa8lcJ1g",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003131205-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7367
+          }
+        ],
+        "categories": [
+          "government office"
+        ],
+        "classifications": [
+          {
+            "code": "GOVERNMENT_OFFICE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "government office"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Lintas Prabumulih - Muara Enim No.103",
+        "municipality": "Muara Enim",
+        "municipalitySecondarySubdivision": "Cinta Kasih",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "31352",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Lintas Prabumulih - Muara Enim No.103, Muara Enim District, Sumatera Selatan 31352",
+        "localName": "Muara Enim"
+      },
+      "position": {
+        "lat": -3.444141,
+        "lon": 103.978297
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.44324,
+          "lon": 103.9774
+        },
+        "btmRightPoint": {
+          "lat": -3.44504,
+          "lon": 103.9792
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.44423,
+            "lon": 103.9783
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "wztTe-ORjhLgbaLyyCX2yg",
+      "score": 2.0239999294,
+      "info": "search:ta:360006007991062-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7303003
+          }
+        ],
+        "categories": [
+          "flats/apartment complex",
+          "residential accommodation"
+        ],
+        "classifications": [
+          {
+            "code": "RESIDENTIAL_ACCOMMODATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "flats/apartment complex"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "residential accommodation"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Lorong Bilal I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Suka Bangun",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30961",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Lorong Bilal I, Palembang District, Sumatera Selatan 30961",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9454,
+        "lon": 104.7447
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9445,
+          "lon": 104.7438
+        },
+        "btmRightPoint": {
+          "lat": -2.9463,
+          "lon": 104.7456
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.94546,
+            "lon": 104.74473
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "nhQqk9b8MKcnX9ZXX44sNQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001993032-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 711 517201",
+        "categorySet": [
+          {
+            "id": 7372014
+          }
+        ],
+        "categories": [
+          "middle school",
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "middle school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Lrg. Terusan",
+        "municipalitySubdivision": "Seberang Ulu I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "3-4 Ulu",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30122",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Lrg. Terusan 1, Seberang Ulu I Sub District, Palembang District, Sumatera Selatan 30122",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -3.0115,
+        "lon": 104.7619
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.0106,
+          "lon": 104.761
+        },
+        "btmRightPoint": {
+          "lat": -3.0124,
+          "lon": 104.7628
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.0113,
+            "lon": 104.76257
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "UVjkt4ZHnE29RvO_mrk77A",
+      "score": 2.0239999294,
+      "info": "search:ta:360006003818647-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 853-6726-868",
+        "categorySet": [
+          {
+            "id": 7304006
+          }
+        ],
+        "categories": [
+          "apartment",
+          "holiday rental"
+        ],
+        "classifications": [
+          {
+            "code": "HOLIDAY_RENTAL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "holiday rental"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "apartment"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Lrg. Manggar",
+        "municipalitySubdivision": "Ilir Timur II",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Lawang Kidul",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30111",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Lrg. Manggar 1, Ilir Timur II Sub District, Palembang District, Sumatera Selatan 30111",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9778,
+        "lon": 104.7753
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9769,
+          "lon": 104.7744
+        },
+        "btmRightPoint": {
+          "lat": -2.9787,
+          "lon": 104.7762
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.97778,
+            "lon": 104.7754
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "XexR52vGUla2GNQUgKdBGQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001985000-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 812-7421-273",
+        "categorySet": [
+          {
+            "id": 7321002
+          }
+        ],
+        "categories": [
+          "general",
+          "hospital/polyclinic"
+        ],
+        "classifications": [
+          {
+            "code": "HOSPITAL_POLYCLINIC",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "general"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hospital/polyclinic"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Ilir D. Iii",
+        "municipalitySubdivision": "Kemuning",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Sekip Jaya",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30121",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Ilir D. Iii 20, Kemuning Sub District, Palembang District, Sumatera Selatan 30121",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.966119,
+        "lon": 104.750274
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.96522,
+          "lon": 104.74937
+        },
+        "btmRightPoint": {
+          "lat": -2.96702,
+          "lon": 104.75117
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.96684,
+            "lon": 104.75028
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "VFry0RKuirosK-d4qPMAnQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006006544338-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7372005
+          }
+        ],
+        "categories": [
+          "primary school",
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "primary school"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tj. Lago",
+        "municipality": "Banyuasin",
+        "municipalitySecondarySubdivision": "Bangun Sari",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30961",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Tj. Lago, Banyuasin District, Sumatera Selatan 30961",
+        "localName": "Banyuasin"
+      },
+      "position": {
+        "lat": -2.6517,
+        "lon": 104.7027
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.6508,
+          "lon": 104.7018
+        },
+        "btmRightPoint": {
+          "lat": -2.6526,
+          "lon": 104.7036
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.6517,
+            "lon": 104.7027
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ikf3KFCoqC8MndOec5arbQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006001898399-ID",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+62 811-7857-766",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Palembang City",
+        "municipalitySubdivision": "Bukit Kecil",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "19 Ilir",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30113",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Palembang City, Bukit Kecil Sub District, Palembang District, Sumatera Selatan 30113",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9922,
+        "lon": 104.7582
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9913,
+          "lon": 104.7573
+        },
+        "btmRightPoint": {
+          "lat": -2.9931,
+          "lon": 104.7591
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.99208,
+            "lon": 104.75842
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "IT_J9PXVaVUtqdp-6mW6mQ",
+      "score": 2.0239999294,
+      "info": "search:ta:360006000064574-ID",
+      "poi": {
+        "name": "Palembang",
+        "categorySet": [
+          {
+            "id": 7315078
+          }
+        ],
+        "categories": [
+          "ice cream parlor",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "ice cream parlor"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sei Buah",
+        "municipalitySubdivision": "Ilir Timur II",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "2 Ilir",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30163",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Sei Buah, Ilir Timur II Sub District, Palembang District, Sumatera Selatan 30163",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9644,
+        "lon": 104.7916
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9635,
+          "lon": 104.7907
+        },
+        "btmRightPoint": {
+          "lat": -2.9653,
+          "lon": 104.7925
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.96437,
+            "lon": 104.79212
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "u6MKEhuo6QtUUdyWOFBoUQ",
+      "score": 2.0239999294,
+      "info": "search:ta:528009007989755-NL",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+31 70 365 3881",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ],
+        "url": "www.fbg.nl/restaurant/index.php?recn=6967"
+      },
+      "address": {
+        "streetName": "Thomsonlaan",
+        "municipality": "Den Haag",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "Zuid-Holland",
+        "countrySubdivisionName": "Zuid-Holland",
+        "countrySubdivisionCode": "ZH",
+        "postalCode": "2565",
+        "countryCode": "NL",
+        "country": "Nederland",
+        "countryCodeISO3": "NLD",
+        "freeformAddress": "Thomsonlaan 17, 2565 KX Den Haag",
+        "localName": "Den Haag"
+      },
+      "position": {
+        "lat": 52.07903,
+        "lon": 4.274793
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 52.07993,
+          "lon": 4.27333
+        },
+        "btmRightPoint": {
+          "lat": 52.07813,
+          "lon": 4.27626
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 52.07894,
+            "lon": 4.27477
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "DTst5Ju90x9qZSLZeq4Ikg",
+      "score": 2.0239999294,
+      "info": "search:ta:554009000204146-NZ",
+      "poi": {
+        "name": "Palembang",
+        "phone": "+64 6-867 7373",
+        "categorySet": [
+          {
+            "id": 9361026
+          }
+        ],
+        "categories": [
+          "gifts, cards, novelties souvenirs",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "gifts, cards, novelties souvenirs"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gladstone Road",
+        "municipality": "Gisborne",
+        "municipalitySecondarySubdivision": "",
+        "countrySubdivision": "North Island",
+        "countrySubdivisionName": "",
+        "countrySubdivisionCode": "",
+        "postalCode": "4010",
+        "countryCode": "NZ",
+        "country": "New Zealand",
+        "countryCodeISO3": "NZL",
+        "freeformAddress": "66 Gladstone Road, Gisborne, Gisborne 4010",
+        "localName": "Gisborne"
+      },
+      "position": {
+        "lat": -38.666969,
+        "lon": 178.026316
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -38.66607,
+          "lon": 178.02516
+        },
+        "btmRightPoint": {
+          "lat": -38.66787,
+          "lon": 178.02747
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -38.66677,
+            "lon": 178.02644
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": -38.66681,
+            "lon": 178.0265
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "27drTV4MC6Xz96WWsxxykA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006004559500-ID",
+      "poi": {
+        "name": "Mpek-Mpek Palembang",
+        "phone": "+62 813-1543-976",
+        "categorySet": [
+          {
+            "id": 9352043
+          }
+        ],
+        "categories": [
+          "catering",
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "catering"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Kp. Sawah Jl. Baru Galuga No.Rt",
+        "municipality": "Kota Bogor",
+        "municipalitySecondarySubdivision": "Leuwiliang",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "16640",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Kp. Sawah Jl. Baru Galuga No.Rt 3, Kota Bogor District, Jawa Barat 16640",
+        "localName": "Kota Bogor"
+      },
+      "position": {
+        "lat": -6.5709,
+        "lon": 106.6326
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.57,
+          "lon": 106.63169
+        },
+        "btmRightPoint": {
+          "lat": -6.5718,
+          "lon": 106.63351
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.57058,
+            "lon": 106.63263
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "4tbfQpGGO1th2hu_8v1G_g",
+      "score": 2.0041568279,
+      "info": "search:ta:360006000514526-ID",
+      "poi": {
+        "name": "Pempek Palembang",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Raya Perintis Kemerdekaan No.3",
+        "municipalitySubdivision": "Labuhan",
+        "municipality": "Pandeglang",
+        "municipalitySecondarySubdivision": "Kalanganyar",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "42264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Raya Perintis Kemerdekaan No.3, Labuhan Sub District, Pandeglang District, Banten 42264",
+        "localName": "Pandeglang"
+      },
+      "position": {
+        "lat": -6.3708,
+        "lon": 105.828672
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.36954,
+          "lon": 105.8274
+        },
+        "btmRightPoint": {
+          "lat": -6.37206,
+          "lon": 105.82994
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.37183,
+            "lon": 105.82794
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "yryLVj3auIXUrRwWJEuuGA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003221684-ID",
+      "poi": {
+        "name": "Kota Palembang",
+        "categorySet": [
+          {
+            "id": 9361057
+          }
+        ],
+        "categories": [
+          "recycling shop",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "recycling shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl Jepang No.37",
+        "municipalitySubdivision": "Sematang Borang",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Srimulyo",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30161",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl Jepang No.37, Sematang Borang Sub District, Palembang District, Sumatera Selatan 30161",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.94827,
+        "lon": 104.807186
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.94737,
+          "lon": 104.80629
+        },
+        "btmRightPoint": {
+          "lat": -2.94917,
+          "lon": 104.80809
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.94836,
+            "lon": 104.80717
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "zLeGLqLYDS-ViXeUOcjIfw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006779452-ID",
+      "poi": {
+        "name": "Summerspring Palembang",
+        "phone": "+62 895-8031-609",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Lrg. Setia Kawan",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Talang Jambe",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30151",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Lrg. Setia Kawan, Palembang District, Sumatera Selatan 30151",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.886616,
+        "lon": 104.72546
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.88572,
+          "lon": 104.72456
+        },
+        "btmRightPoint": {
+          "lat": -2.88752,
+          "lon": 104.72636
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.88658,
+            "lon": 104.72554
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "XEb-uFdFUEjV0PQL-CuaLg",
+      "score": 2.0041568279,
+      "info": "search:ta:360009000845573-ID",
+      "poi": {
+        "name": "Primkopti Palembang",
+        "categorySet": [
+          {
+            "id": 7367
+          }
+        ],
+        "categories": [
+          "government office"
+        ],
+        "classifications": [
+          {
+            "code": "GOVERNMENT_OFFICE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "government office"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan DI Panjaitan",
+        "municipalitySubdivision": "Seberang Ulu II",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "16 Ulu",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30264",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan DI Panjaitan 21, Seberang Ulu II Sub District, Palembang District, Sumatera Selatan 30264",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.991577,
+        "lon": 104.794805
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.99068,
+          "lon": 104.7939
+        },
+        "btmRightPoint": {
+          "lat": -2.99248,
+          "lon": 104.79571
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.99142,
+            "lon": 104.7949
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "28PWAIVhN2AA1YFFZuSeQg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001125427-ID",
+      "poi": {
+        "name": "Pempek Palembang",
+        "phone": "+62 711 718227",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Gunung Jati No.16",
+        "municipality": "Malang",
+        "municipalitySecondarySubdivision": "Dampit",
+        "countrySubdivision": "Jawa Timur",
+        "countrySubdivisionName": "Jawa Timur",
+        "countrySubdivisionCode": "JI",
+        "postalCode": "65181",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Gunung Jati No.16, Malang District, Jawa Timur 65181",
+        "localName": "Malang"
+      },
+      "position": {
+        "lat": -8.210143,
+        "lon": 112.761066
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -8.20924,
+          "lon": 112.76016
+        },
+        "btmRightPoint": {
+          "lat": -8.21104,
+          "lon": 112.76197
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -8.21002,
+            "lon": 112.76107
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "IzFPQbMJjizLozT7VRLyWA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001981434-ID",
+      "poi": {
+        "name": "Ps Palembang",
+        "phone": "+62 711 5610411",
+        "categorySet": [
+          {
+            "id": 7332005
+          }
+        ],
+        "categories": [
+          "market",
+          "supermarkets hypermarkets"
+        ],
+        "classifications": [
+          {
+            "code": "MARKET",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "supermarkets hypermarkets"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "market"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Radial No.15",
+        "municipalitySubdivision": "Bukit Kecil",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "24 Ilir",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30127",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Radial No.15, Bukit Kecil Sub District, Palembang District, Sumatera Selatan 30127",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.980982,
+        "lon": 104.747305
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.98008,
+          "lon": 104.7464
+        },
+        "btmRightPoint": {
+          "lat": -2.98188,
+          "lon": 104.74821
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.9809,
+            "lon": 104.74726
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "tuFfdNO0Oi81Cxws_b3uww",
+      "score": 2.0041568279,
+      "info": "search:ta:360006002160237-ID",
+      "poi": {
+        "name": "Kost Palembang",
+        "categorySet": [
+          {
+            "id": 7304005
+          }
+        ],
+        "categories": [
+          "chalet",
+          "holiday rental"
+        ],
+        "classifications": [
+          {
+            "code": "HOLIDAY_RENTAL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "holiday rental"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "chalet"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Palembang No.23",
+        "municipalitySubdivision": "Binjai Selatan",
+        "municipality": "Binjai",
+        "municipalitySecondarySubdivision": "Rambung Timur",
+        "countrySubdivision": "Sumatera Utara",
+        "countrySubdivisionName": "Sumatera Utara",
+        "countrySubdivisionCode": "SU",
+        "postalCode": "20735",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Palembang No.23, Binjai Selatan Sub District, Binjai District, Sumatera Utara 20735",
+        "localName": "Binjai"
+      },
+      "position": {
+        "lat": 3.5981,
+        "lon": 98.4911
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 3.599,
+          "lon": 98.4902
+        },
+        "btmRightPoint": {
+          "lat": 3.5972,
+          "lon": 98.492
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 3.5981,
+            "lon": 98.49098
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "2GXWiCWTarT6vKQD_2zYZw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006002256963-ID",
+      "poi": {
+        "name": "Alun Palembang",
+        "categorySet": [
+          {
+            "id": 7314003
+          }
+        ],
+        "categories": [
+          "hotel",
+          "hotel/motel"
+        ],
+        "classifications": [
+          {
+            "code": "HOTEL_MOTEL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "hotel"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "hotel/motel"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Seren",
+        "municipality": "Blora",
+        "municipalitySecondarySubdivision": "Sendangmulyo",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "58254",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Seren, Blora District, Jawa Tengah 58254",
+        "localName": "Blora"
+      },
+      "position": {
+        "lat": -6.977,
+        "lon": 111.3375
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.9761,
+          "lon": 111.33659
+        },
+        "btmRightPoint": {
+          "lat": -6.9779,
+          "lon": 111.33841
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.97696,
+            "lon": 111.3375
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "CjGJ0cF41GmV4ddQgxiC8w",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006913279-ID",
+      "poi": {
+        "name": "Pstore Palembang",
+        "phone": "+62 895-4112-460",
+        "categorySet": [
+          {
+            "id": 9361075
+          }
+        ],
+        "categories": [
+          "mobile phone shop",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "mobile phone shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Mayor Ruslan No.8",
+        "municipalitySubdivision": "Ilir Timur Tiga",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "9 Ilir",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30114",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Mayor Ruslan No.8, Ilir Timur Tiga Sub District, Palembang District, Sumatera Selatan 30114",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.968,
+        "lon": 104.7622
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9671,
+          "lon": 104.7613
+        },
+        "btmRightPoint": {
+          "lat": -2.9689,
+          "lon": 104.7631
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.96805,
+            "lon": 104.76231
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "AsvjK3dtQIkTruJI77xpXw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003207548-ID",
+      "poi": {
+        "name": "Marsdcake Palembang",
+        "categorySet": [
+          {
+            "id": 9361018
+          }
+        ],
+        "categories": [
+          "food drinks: bakers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: bakers"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Kh. Moh. Asyik No.2076",
+        "municipalitySubdivision": "Seberang Ulu I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "3-4 Ulu",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30123",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Kh. Moh. Asyik No.2076, Seberang Ulu I Sub District, Palembang District, Sumatera Selatan 30123",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -3.007068,
+        "lon": 104.76027
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.00617,
+          "lon": 104.75937
+        },
+        "btmRightPoint": {
+          "lat": -3.00797,
+          "lon": 104.76117
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.00698,
+            "lon": 104.76031
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "D5pzT15vtM6r-2N_Ok0b9g",
+      "score": 2.0041568279,
+      "info": "search:ta:360006004642247-ID",
+      "poi": {
+        "name": "Oleh-Oleh Palembang",
+        "phone": "+62 711 351389",
+        "categorySet": [
+          {
+            "id": 9361060
+          }
+        ],
+        "categories": [
+          "delicatessen",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "delicatessen"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Palem Raya Jl. Jakabaring No.32",
+        "municipalitySubdivision": "Jakabaring",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "15 Ulu",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30257",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Palem Raya Jl. Jakabaring No.32, Jakabaring Sub District, Palembang District, Sumatera Selatan 30257",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -3.028024,
+        "lon": 104.778562
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.02712,
+          "lon": 104.77766
+        },
+        "btmRightPoint": {
+          "lat": -3.02892,
+          "lon": 104.77946
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.02798,
+            "lon": 104.77864
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "1GEvh-SCZzJ32JaggYUhSw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006883669-ID",
+      "poi": {
+        "name": "Alex Palembang",
+        "categorySet": [
+          {
+            "id": 9361033
+          }
+        ],
+        "categories": [
+          "kitchens bathrooms",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "kitchens bathrooms"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Alex Palembang Bojong Kec. Cikupa",
+        "municipality": "Kota Tangerang",
+        "municipalitySecondarySubdivision": "Bojong",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "15710",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Alex Palembang Bojong Kec. Cikupa, Kota Tangerang District, Banten 15710",
+        "localName": "Kota Tangerang"
+      },
+      "position": {
+        "lat": -6.224022,
+        "lon": 106.497387
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.22312,
+          "lon": 106.49648
+        },
+        "btmRightPoint": {
+          "lat": -6.22492,
+          "lon": 106.49829
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.224,
+            "lon": 106.4973
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "PhWeucApqBXhpxNV9LEB8w",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003487261-ID",
+      "poi": {
+        "name": "Hallowedding Palembang",
+        "categorySet": [
+          {
+            "id": 9352
+          }
+        ],
+        "categories": [
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Sako",
+        "municipalitySubdivision": "Sematang Borang",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Lebong Gajah",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30961",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Sako, Sematang Borang Sub District, Palembang District, Sumatera Selatan 30961",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9292,
+        "lon": 104.7962
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9283,
+          "lon": 104.7953
+        },
+        "btmRightPoint": {
+          "lat": -2.9301,
+          "lon": 104.7971
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.92925,
+            "lon": 104.79611
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "G5gIEmiTiloy7yp46NfYXw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003216393-ID",
+      "poi": {
+        "name": "Palembang Sr12",
+        "phone": "+62 711 711140",
+        "categorySet": [
+          {
+            "id": 9361043
+          }
+        ],
+        "categories": [
+          "medical supplies equipment",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "medical supplies equipment"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Penyaringan Lorong Kb. H. Yasin No.14",
+        "municipalitySubdivision": "Ilir Timur II",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "3 Ilir",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30117",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Penyaringan Lorong Kb. H. Yasin No.14, Ilir Timur II Sub District, Palembang District, Sumatera Selatan 30117",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.975391,
+        "lon": 104.779872
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.97449,
+          "lon": 104.77897
+        },
+        "btmRightPoint": {
+          "lat": -2.97629,
+          "lon": 104.78077
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.9754,
+            "lon": 104.77978
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "BWT1J56bs1O7cOWepzg6oA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007966668-ID",
+      "poi": {
+        "name": "Uigm Palembang",
+        "categorySet": [
+          {
+            "id": 7372002
+          }
+        ],
+        "categories": [
+          "school"
+        ],
+        "classifications": [
+          {
+            "code": "SCHOOL",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "school"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Ilir D. Iv",
+        "municipalitySubdivision": "Ilir Timur I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "20 Ilir IV",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30151",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Ilir D. Iv 20, Ilir Timur I Sub District, Palembang District, Sumatera Selatan 30151",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.963218,
+        "lon": 104.741533
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.96232,
+          "lon": 104.74063
+        },
+        "btmRightPoint": {
+          "lat": -2.96412,
+          "lon": 104.74243
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.96322,
+            "lon": 104.74164
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "3Rfp-OoVLxY58wAN4llpSg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001368365-ID",
+      "poi": {
+        "name": "Pempek Palembang",
+        "phone": "+62 821-7932-470",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Simpang Karya",
+        "municipalitySubdivision": "Pulau Laut Utara",
+        "municipality": "Kotabaru",
+        "municipalitySecondarySubdivision": "Dirgahayu",
+        "countrySubdivision": "Kalimantan Selatan",
+        "countrySubdivisionName": "Kalimantan Selatan",
+        "countrySubdivisionCode": "KS",
+        "postalCode": "72113",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Simpang Karya, Pulau Laut Utara Sub District, Kotabaru District, Kalimantan Selatan 72113",
+        "localName": "Kotabaru"
+      },
+      "position": {
+        "lat": -3.251002,
+        "lon": 116.222293
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.2501,
+          "lon": 116.22139
+        },
+        "btmRightPoint": {
+          "lat": -3.2519,
+          "lon": 116.22319
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.25097,
+            "lon": 116.22238
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "0iw01qMAwHa0jRo9g4jQww",
+      "score": 2.0041568279,
+      "info": "search:ta:360009000218580-ID",
+      "poi": {
+        "name": "LPDI Palembang",
+        "categorySet": [
+          {
+            "id": 7367
+          }
+        ],
+        "categories": [
+          "government office"
+        ],
+        "classifications": [
+          {
+            "code": "GOVERNMENT_OFFICE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "government office"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Kolonel H Burlian",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Sukarami",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30153",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Kolonel H Burlian, Palembang District, Sumatera Selatan 30153",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.94099,
+        "lon": 104.725272
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.94009,
+          "lon": 104.72437
+        },
+        "btmRightPoint": {
+          "lat": -2.94189,
+          "lon": 104.72617
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.94114,
+            "lon": 104.72519
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "NUk0C-UWFxSxi1d3h6QGew",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001744317-ID",
+      "poi": {
+        "name": "Gado-Gado Palembang",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipality": "Kota Tangerang",
+        "municipalitySecondarySubdivision": "Cangkudu",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "15610",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kota Tangerang District, Banten 15610",
+        "localName": "Kota Tangerang"
+      },
+      "position": {
+        "lat": -6.232299,
+        "lon": 106.436021
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.2314,
+          "lon": 106.43512
+        },
+        "btmRightPoint": {
+          "lat": -6.2332,
+          "lon": 106.43693
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.23234,
+            "lon": 106.43611
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "3OYucjHY72dUBnummg8ChQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001494461-ID",
+      "poi": {
+        "name": "Autoglaze Palembang",
+        "phone": "+62 812-7171-393",
+        "categorySet": [
+          {
+            "id": 9155002
+          }
+        ],
+        "categories": [
+          "car wash"
+        ],
+        "classifications": [
+          {
+            "code": "CAR_WASH",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "car wash"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Sukarami",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Kebun Bunga",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30961",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Sukarami, Palembang District, Sumatera Selatan 30961 (Kebun Bunga)",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.909011,
+        "lon": 104.722585
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.90811,
+          "lon": 104.72168
+        },
+        "btmRightPoint": {
+          "lat": -2.90991,
+          "lon": 104.72349
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.9089,
+            "lon": 104.72273
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "16NnF8AdQCN_VBeLNLtd2w",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003230948-ID",
+      "poi": {
+        "name": "Arafoodies Palembang",
+        "phone": "+62 831-7844-476",
+        "categorySet": [
+          {
+            "id": 9361060
+          }
+        ],
+        "categories": [
+          "delicatessen",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "delicatessen"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "No.1654 Blok.N-24",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Sako",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30163",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "No.1654 Blok.N-24 5, Palembang District, Sumatera Selatan 30163",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.926304,
+        "lon": 104.781414
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9254,
+          "lon": 104.78051
+        },
+        "btmRightPoint": {
+          "lat": -2.9272,
+          "lon": 104.78231
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.92624,
+            "lon": 104.78148
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "h-vZPuBXCdOYEWXUyX3X_g",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007403893-ID",
+      "poi": {
+        "name": "Sixtynineproject Palembang",
+        "phone": "+62 812-7880-550",
+        "categorySet": [
+          {
+            "id": 9361005
+          }
+        ],
+        "categories": [
+          "clothing accessories: footwear shoe repairs",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: footwear shoe repairs"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Kikim I No.10",
+        "municipalitySubdivision": "Ilir Barat I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Demang Lebar Daun",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30131",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Kikim I No.10, Ilir Barat I Sub District, Palembang District, Sumatera Selatan 30131",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9693,
+        "lon": 104.731068
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9684,
+          "lon": 104.73017
+        },
+        "btmRightPoint": {
+          "lat": -2.9702,
+          "lon": 104.73197
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.96918,
+            "lon": 104.73113
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "CtsEqICdmdU1uIfkrXBFAg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001913970-ID",
+      "poi": {
+        "name": "Paparon Palembang",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Ilir Bar. I",
+        "municipalitySubdivision": "Ilir Barat I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Demang Lebar Daun",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30151",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Ilir Bar. I, Ilir Barat I Sub District, Palembang District, Sumatera Selatan 30151",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.974038,
+        "lon": 104.725057
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.97314,
+          "lon": 104.72416
+        },
+        "btmRightPoint": {
+          "lat": -2.97494,
+          "lon": 104.72596
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.97399,
+            "lon": 104.72498
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "j4s5eB1qbgELm7wraEv5wQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001980228-ID",
+      "poi": {
+        "name": "Dtotebag Palembang",
+        "phone": "+62 895-4067-806",
+        "categorySet": [
+          {
+            "id": 7373
+          }
+        ],
+        "categories": [
+          "shopping center"
+        ],
+        "classifications": [
+          {
+            "code": "SHOPPING_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shopping center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Lorong Kedukan 1",
+        "municipalitySubdivision": "Ilir Barat II",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "35 Ilir",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30134",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Lorong Kedukan 1, Ilir Barat II Sub District, Palembang District, Sumatera Selatan 30134",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -3.0053,
+        "lon": 104.7449
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.00403,
+          "lon": 104.74363
+        },
+        "btmRightPoint": {
+          "lat": -3.00657,
+          "lon": 104.74617
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.00649,
+            "lon": 104.74533
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Oah4aSkx1lgjwiZk4PX_dQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006000295232-ID",
+      "poi": {
+        "name": "Pempek Palembang",
+        "phone": "+62 821-7955-111",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Gabuswetan",
+        "municipality": "Indramayu",
+        "municipalitySecondarySubdivision": "Kedungdawa",
+        "countrySubdivision": "Jawa Barat",
+        "countrySubdivisionName": "Jawa Barat",
+        "countrySubdivisionCode": "JB",
+        "postalCode": "45263",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Gabuswetan, Indramayu District, Jawa Barat 45263",
+        "localName": "Indramayu"
+      },
+      "position": {
+        "lat": -6.4388,
+        "lon": 108.0326
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.4379,
+          "lon": 108.03169
+        },
+        "btmRightPoint": {
+          "lat": -6.4397,
+          "lon": 108.03351
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.43864,
+            "lon": 108.03264
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "yrD-qTBgPDNEQa4yGcw3IQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001179552-ID",
+      "poi": {
+        "name": "Pempek Palembang",
+        "phone": "+62 858-1226-224",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Dukun",
+        "municipality": "Gresik",
+        "municipalitySecondarySubdivision": "Jrebeng",
+        "countrySubdivision": "Jawa Timur",
+        "countrySubdivisionName": "Jawa Timur",
+        "countrySubdivisionCode": "JI",
+        "postalCode": "61155",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Dukun Sub District, Gresik District, Jawa Timur 61155",
+        "localName": "Gresik"
+      },
+      "position": {
+        "lat": -7.004584,
+        "lon": 112.46519
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -7.00368,
+          "lon": 112.46428
+        },
+        "btmRightPoint": {
+          "lat": -7.00548,
+          "lon": 112.4661
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -7.00466,
+            "lon": 112.46524
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "6Dod6jLw3oY1P7yVd6WYiA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007272655-ID",
+      "poi": {
+        "name": "Tunas Palembang",
+        "phone": "+62 624 51428291",
+        "categorySet": [
+          {
+            "id": 9361033
+          }
+        ],
+        "categories": [
+          "kitchens bathrooms",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "kitchens bathrooms"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Trans Sulawesi",
+        "municipalitySubdivision": "Mantikulore",
+        "municipality": "Palu",
+        "municipalitySecondarySubdivision": "Tondo",
+        "countrySubdivision": "Sulawesi Tengah",
+        "countrySubdivisionName": "Sulawesi Tengah",
+        "countrySubdivisionCode": "ST",
+        "postalCode": "94111",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Trans Sulawesi, Mantikulore Sub District, Palu District, Sulawesi Tengah 94111",
+        "localName": "Palu"
+      },
+      "position": {
+        "lat": -0.848318,
+        "lon": 119.882468
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -0.84742,
+          "lon": 119.88157
+        },
+        "btmRightPoint": {
+          "lat": -0.84922,
+          "lon": 119.88337
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -0.84833,
+            "lon": 119.88256
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "UT6OueGWufUoTuBhtu_IFg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007679748-ID",
+      "poi": {
+        "name": "Mogo Palembang",
+        "phone": "+62 822-8072-908",
+        "categorySet": [
+          {
+            "id": 9361060
+          }
+        ],
+        "categories": [
+          "delicatessen",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "delicatessen"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Lorong Temiyang Xiv No.04",
+        "municipalitySubdivision": "Ilir Barat I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Bukit Baru",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30139",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Lorong Temiyang Xiv No.04, Ilir Barat I Sub District, Palembang District, Sumatera Selatan 30139",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9829,
+        "lon": 104.7055
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.982,
+          "lon": 104.7046
+        },
+        "btmRightPoint": {
+          "lat": -2.9838,
+          "lon": 104.7064
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.98287,
+            "lon": 104.70561
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "nKFCwe1triS3X7St-xaMXw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003031201-ID",
+      "poi": {
+        "name": "Kerupuk Palembang",
+        "phone": "+62 852-1662-913",
+        "categorySet": [
+          {
+            "id": 9361024
+          }
+        ],
+        "categories": [
+          "food drinks: food shops",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: food shops"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rt.10/Rw.04",
+        "municipality": "Kota Tangerang",
+        "municipalitySecondarySubdivision": "Saga",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "15610",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Rt.10/Rw.04, Kota Tangerang District, Banten 15610",
+        "localName": "Kota Tangerang"
+      },
+      "position": {
+        "lat": -6.173903,
+        "lon": 106.447554
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.173,
+          "lon": 106.44665
+        },
+        "btmRightPoint": {
+          "lat": -6.1748,
+          "lon": 106.44846
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.1739,
+            "lon": 106.44746
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "vfeZusXIjmYYgLrbV6AtPQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003441706-ID",
+      "poi": {
+        "name": "Darrbetta Palembang",
+        "phone": "+62 831-7823-674",
+        "categorySet": [
+          {
+            "id": 9361020
+          }
+        ],
+        "categories": [
+          "food drinks: fishmongers",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "food drinks: fishmongers"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kec. Seberang Ulu Ii",
+        "municipalitySubdivision": "Seberang Ulu II",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Tangga Takat",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30111",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Kec. Seberang Ulu Ii, Seberang Ulu II Sub District, Palembang District, Sumatera Selatan 30111",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9857,
+        "lon": 104.7849
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9848,
+          "lon": 104.784
+        },
+        "btmRightPoint": {
+          "lat": -2.9866,
+          "lon": 104.7858
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.98631,
+            "lon": 104.78506
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "8OujLiSTlXhgHjP4BEWpYA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007978536-ID",
+      "poi": {
+        "name": "Delcious Palembang",
+        "categorySet": [
+          {
+            "id": 9153
+          }
+        ],
+        "categories": [
+          "welfare organization"
+        ],
+        "classifications": [
+          {
+            "code": "WELFARE_ORGANIZATION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "welfare organization"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Rimba Kemuning Lrg Ogan Ulu No.425",
+        "municipalitySubdivision": "Kemuning",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Ario Kemuning",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30151",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Rimba Kemuning Lrg Ogan Ulu No.425, Kemuning Sub District, Palembang District, Sumatera Selatan 30151",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.954192,
+        "lon": 104.740929
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.95329,
+          "lon": 104.74003
+        },
+        "btmRightPoint": {
+          "lat": -2.95509,
+          "lon": 104.74183
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.95421,
+            "lon": 104.74084
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "Zr36v5jDkjQEf-k5zxZMaw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006947274-ID",
+      "poi": {
+        "name": "Kedaton Palembang",
+        "phone": "+62 812-7839-706",
+        "categorySet": [
+          {
+            "id": 9352011
+          }
+        ],
+        "categories": [
+          "company",
+          "manufacturing"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "manufacturing"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "No.1388",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Suka Bangun",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30151",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "No.1388 1, Palembang District, Sumatera Selatan 30151",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9404,
+        "lon": 104.7352
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9395,
+          "lon": 104.7343
+        },
+        "btmRightPoint": {
+          "lat": -2.9413,
+          "lon": 104.7361
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.9405,
+            "lon": 104.73521
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "lNxPi-k8L7LuuGWiGl4J6Q",
+      "score": 2.0041568279,
+      "info": "search:ta:360006000058055-ID",
+      "poi": {
+        "name": "Eli Palembang",
+        "phone": "+62 816-3237-526",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Sukamaju 1",
+        "municipalitySubdivision": "Kampung Melayu",
+        "municipality": "Bengkulu",
+        "municipalitySecondarySubdivision": "Muara Dua",
+        "countrySubdivision": "Bengkulu",
+        "countrySubdivisionName": "Bengkulu",
+        "countrySubdivisionCode": "BE",
+        "postalCode": "38215",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Sukamaju 1, Kampung Melayu Sub District, Bengkulu District, Bengkulu 38215",
+        "localName": "Bengkulu"
+      },
+      "position": {
+        "lat": -3.8551,
+        "lon": 102.309255
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.8542,
+          "lon": 102.30835
+        },
+        "btmRightPoint": {
+          "lat": -3.856,
+          "lon": 102.31016
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.8551,
+            "lon": 102.30935
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "5jqtc2UIGuImSbKpVaLmwA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007811367-ID",
+      "poi": {
+        "name": "Elizabeth Palembang",
+        "phone": "+62 822-1813-673",
+        "categorySet": [
+          {
+            "id": 9361058
+          }
+        ],
+        "categories": [
+          "bags leatherwear",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "bags leatherwear"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Blok H No.28",
+        "municipalitySubdivision": "Ilir Barat I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Lorok Pakjo",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30121",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Blok H No.28 45, Ilir Barat I Sub District, Palembang District, Sumatera Selatan 30121",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.974,
+        "lon": 104.7404
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9731,
+          "lon": 104.7395
+        },
+        "btmRightPoint": {
+          "lat": -2.9749,
+          "lon": 104.7413
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.9741,
+            "lon": 104.74029
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "XqKVoTOTpWv9OhivhdnQZg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007864429-ID",
+      "poi": {
+        "name": "Elfbar Palembang",
+        "categorySet": [
+          {
+            "id": 9379004
+          }
+        ],
+        "categories": [
+          "bar",
+          "nightlife"
+        ],
+        "classifications": [
+          {
+            "code": "NIGHTLIFE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "bar"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "nightlife"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Lebong Tandai No.6A",
+        "municipalitySubdivision": "Ilir Timur I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "20 Ilir I",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30114",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Lebong Tandai No.6A, Ilir Timur I Sub District, Palembang District, Sumatera Selatan 30114",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9691,
+        "lon": 104.7569
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9682,
+          "lon": 104.756
+        },
+        "btmRightPoint": {
+          "lat": -2.97,
+          "lon": 104.7578
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.96908,
+            "lon": 104.75718
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "PnDyKOaBE3o73Hd7iRZxag",
+      "score": 2.0041568279,
+      "info": "search:ta:360009000238507-ID",
+      "poi": {
+        "name": "PKK Palembang",
+        "categorySet": [
+          {
+            "id": 7367
+          }
+        ],
+        "categories": [
+          "government office"
+        ],
+        "classifications": [
+          {
+            "code": "GOVERNMENT_OFFICE",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "government office"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Ade Irma Nasution",
+        "municipalitySubdivision": "Ilir Timur I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Sei Pangeran",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30121",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Ade Irma Nasution, Ilir Timur I Sub District, Palembang District, Sumatera Selatan 30121",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.976366,
+        "lon": 104.75015
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.97547,
+          "lon": 104.74925
+        },
+        "btmRightPoint": {
+          "lat": -2.97727,
+          "lon": 104.75105
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.97636,
+            "lon": 104.74994
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "eDiwnUNHb8moT1gb3Qx-QQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001490090-ID",
+      "poi": {
+        "name": "Pempek Palembang",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Lingkungan Kubang Wates",
+        "municipality": "Cilegon",
+        "municipalitySecondarySubdivision": "Kotabumi",
+        "countrySubdivision": "Banten",
+        "countrySubdivisionName": "Banten",
+        "countrySubdivisionCode": "BT",
+        "postalCode": "42434",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Lingkungan Kubang Wates, Cilegon District, Banten 42434",
+        "localName": "Cilegon"
+      },
+      "position": {
+        "lat": -5.985025,
+        "lon": 106.032458
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -5.98413,
+          "lon": 106.03155
+        },
+        "btmRightPoint": {
+          "lat": -5.98592,
+          "lon": 106.03336
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -5.98489,
+            "lon": 106.03251
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "lcUPAr5wkNp2zrqUAv_VGg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007964374-ID",
+      "poi": {
+        "name": "Pempek Palembang",
+        "phone": "+62 812-7309-299",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": [
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "No.475",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Ogan Baru",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30258",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "No.475 1, Palembang District, Sumatera Selatan 30258",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -3.019528,
+        "lon": 104.751751
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.01863,
+          "lon": 104.75085
+        },
+        "btmRightPoint": {
+          "lat": -3.02043,
+          "lon": 104.75265
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.01953,
+            "lon": 104.75175
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "f9DcC-F9-ogp22OUgSINYg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006006700251-ID",
+      "poi": {
+        "name": "Mobil88 Palembang",
+        "phone": "+62 711 5731802",
+        "categorySet": [
+          {
+            "id": 9910002
+          }
+        ],
+        "categories": [
+          "automotive dealer",
+          "car"
+        ],
+        "classifications": [
+          {
+            "code": "AUTOMOTIVE_DEALER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "automotive dealer"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "car"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Jend. Sudirman No.2933A",
+        "municipalitySubdivision": "Ilir Timur I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "20 Ilir III",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30129",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Jend. Sudirman No.2933A, Ilir Timur I Sub District, Palembang District, Sumatera Selatan 30129",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9674,
+        "lon": 104.7488
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9665,
+          "lon": 104.7479
+        },
+        "btmRightPoint": {
+          "lat": -2.9683,
+          "lon": 104.7497
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.96725,
+            "lon": 104.74897
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "EtLB2n3d6nNk-l0pX7JjIA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006004170075-ID",
+      "poi": {
+        "name": "Florist - Palembang",
+        "categorySet": [
+          {
+            "id": 9361017
+          }
+        ],
+        "categories": [
+          "florists",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "florists"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Ulu",
+        "municipalitySubdivision": "Jakabaring",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "15 Ulu",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30267",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Ulu 15, Jakabaring Sub District, Palembang District, Sumatera Selatan 30267",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -3.033631,
+        "lon": 104.782054
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.03273,
+          "lon": 104.78115
+        },
+        "btmRightPoint": {
+          "lat": -3.03453,
+          "lon": 104.78295
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.03358,
+            "lon": 104.78213
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "nLbEYHzdts5y3VXIuWePnA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006004609363-ID",
+      "poi": {
+        "name": "Grosirhijab Palembang",
+        "phone": "+62 895-2341-242",
+        "categorySet": [
+          {
+            "id": 9361006
+          }
+        ],
+        "categories": [
+          "clothing accessories: general",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "clothing accessories: general"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Tol Kayu Agung",
+        "municipalitySubdivision": "Seberang Ulu II",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "16 Ulu",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30111",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Tol Kayu Agung, Seberang Ulu II Sub District, Palembang District, Sumatera Selatan 30111",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9945,
+        "lon": 104.795
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9936,
+          "lon": 104.7941
+        },
+        "btmRightPoint": {
+          "lat": -2.9954,
+          "lon": 104.7959
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.99388,
+            "lon": 104.79486
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "8TEj-pak0bAujCEVVGMQpA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006004830624-ID",
+      "poi": {
+        "name": "Mci Palembang",
+        "phone": "+62 877-9353-602",
+        "categorySet": [
+          {
+            "id": 9352
+          }
+        ],
+        "categories": [
+          "company"
+        ],
+        "classifications": [
+          {
+            "code": "COMPANY",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "company"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Jend. Sudirman No.90",
+        "municipality": "Jambi",
+        "municipalitySecondarySubdivision": "Talang Jauh",
+        "countrySubdivision": "Jambi",
+        "countrySubdivisionName": "Jambi",
+        "countrySubdivisionCode": "JA",
+        "postalCode": "36123",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Jend. Sudirman No.90, Jambi District, Jambi 36123",
+        "localName": "Jambi"
+      },
+      "position": {
+        "lat": -1.604427,
+        "lon": 103.61852
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -1.60353,
+          "lon": 103.61762
+        },
+        "btmRightPoint": {
+          "lat": -1.60533,
+          "lon": 103.61942
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -1.60439,
+            "lon": 103.61844
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "U_8Ue_MXkDLV7Ka-Hel7pg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001887224-ID",
+      "poi": {
+        "name": "Gbkp Palembang",
+        "phone": "+62 627 11812098",
+        "categorySet": [
+          {
+            "id": 7339002
+          }
+        ],
+        "categories": [
+          "church",
+          "place of worship"
+        ],
+        "classifications": [
+          {
+            "code": "PLACE_OF_WORSHIP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "place of worship"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "church"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Permiri",
+        "municipalitySubdivision": "Ilir Timur Tiga",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "8 Ilir",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30114",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Permiri 40, Ilir Timur Tiga Sub District, Palembang District, Sumatera Selatan 30114",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9388,
+        "lon": 104.7644
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9379,
+          "lon": 104.7635
+        },
+        "btmRightPoint": {
+          "lat": -2.9397,
+          "lon": 104.7653
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.93874,
+            "lon": 104.76411
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "vm7xw0cOzxGwIcrCkfFLMw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006000527171-ID",
+      "poi": {
+        "name": "Pempek Palembang",
+        "phone": "+62 858-6691-196",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rw 08",
+        "municipalitySubdivision": "Pedurungan",
+        "municipality": "Semarang",
+        "municipalitySecondarySubdivision": "Muktiharjo Kidul",
+        "countrySubdivision": "Jawa Tengah",
+        "countrySubdivisionName": "Jawa Tengah",
+        "countrySubdivisionCode": "JT",
+        "postalCode": "50128",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Rw 08 05, Pedurungan Sub District, Semarang District, Jawa Tengah 50128",
+        "localName": "Semarang"
+      },
+      "position": {
+        "lat": -6.9747,
+        "lon": 110.457
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.9738,
+          "lon": 110.45609
+        },
+        "btmRightPoint": {
+          "lat": -6.9756,
+          "lon": 110.45791
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.97473,
+            "lon": 110.45709
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "bmZFQeGXnfD1XC_BUAD-EQ",
+      "score": 2.0041568279,
+      "info": "search:ta:360006003170407-ID",
+      "poi": {
+        "name": "Dfsk Palembang",
+        "phone": "+62 813-7086-7050",
+        "categorySet": [
+          {
+            "id": 9910002
+          }
+        ],
+        "categories": [
+          "automotive dealer",
+          "car"
+        ],
+        "classifications": [
+          {
+            "code": "AUTOMOTIVE_DEALER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "automotive dealer"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "car"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Jenderal Sudirman",
+        "municipalitySubdivision": "Ilir Timur I",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "18 Ilir",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30121",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Jenderal Sudirman, Ilir Timur I Sub District, Palembang District, Sumatera Selatan 30121",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.984936,
+        "lon": 104.75875
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.98404,
+          "lon": 104.75785
+        },
+        "btmRightPoint": {
+          "lat": -2.98584,
+          "lon": 104.75965
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.98488,
+            "lon": 104.75882
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "_YwPG00JYd0ZoemwVE1shg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001901700-ID",
+      "poi": {
+        "name": "Pempek Palembang",
+        "phone": "+62 823-3957-592",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Pempek Palembang",
+        "municipalitySubdivision": "Sei Beduk",
+        "municipality": "Batam",
+        "municipalitySecondarySubdivision": "Mangsang",
+        "countrySubdivision": "Kepulauan Riau",
+        "countrySubdivisionName": "Kepulauan Riau",
+        "countrySubdivisionCode": "KR",
+        "postalCode": "29433",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Pempek Palembang, Sei Beduk Sub District, Batam District, Kepulauan Riau 29433",
+        "localName": "Batam"
+      },
+      "position": {
+        "lat": 1.026932,
+        "lon": 104.051074
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 1.02783,
+          "lon": 104.05017
+        },
+        "btmRightPoint": {
+          "lat": 1.02603,
+          "lon": 104.05197
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 1.02702,
+            "lon": 104.05106
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "RytNBOTKPnUSLkqxn3xYJg",
+      "score": 2.0041568279,
+      "info": "search:ta:360006007019587-ID",
+      "poi": {
+        "name": "Dvapor Palembang",
+        "categorySet": [
+          {
+            "id": 9361037
+          }
+        ],
+        "categories": [
+          "newsagents tobacconists",
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "newsagents tobacconists"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Sersan Sani No.3463",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Suka Bangun",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30151",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Sersan Sani No.3463, Palembang District, Sumatera Selatan 30151",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9452,
+        "lon": 104.7477
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9443,
+          "lon": 104.7468
+        },
+        "btmRightPoint": {
+          "lat": -2.9461,
+          "lon": 104.7486
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.94514,
+            "lon": 104.74786
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "dL0TaKbgC3m5HlQwP-CKWA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006004849262-ID",
+      "poi": {
+        "name": "Brewokan Palembang",
+        "phone": "+62 895-1076-138",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": [
+          "shop"
+        ],
+        "classifications": [
+          {
+            "code": "SHOP",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shop"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Blok Asoka",
+        "municipalitySubdivision": "Sematang Borang",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Suka Mulya",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30161",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Blok Asoka 3, Sematang Borang Sub District, Palembang District, Sumatera Selatan 30161",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.9461,
+        "lon": 104.8207
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.9452,
+          "lon": 104.8198
+        },
+        "btmRightPoint": {
+          "lat": -2.947,
+          "lon": 104.8216
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.94609,
+            "lon": 104.8206
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "QhG_j7NX877T9Yunwo7ZFw",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001963271-ID",
+      "poi": {
+        "name": "Kesagi Palembang",
+        "phone": "+62 818-0582-337",
+        "categorySet": [
+          {
+            "id": 7315050
+          }
+        ],
+        "categories": [
+          "restaurant",
+          "vegetarian"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "vegetarian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "No.462",
+        "municipalitySubdivision": "Kemuning",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "Talang Aman",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30961",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "No.462 66, Kemuning Sub District, Palembang District, Sumatera Selatan 30961",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -2.951015,
+        "lon": 104.753726
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -2.95012,
+          "lon": 104.75283
+        },
+        "btmRightPoint": {
+          "lat": -2.95191,
+          "lon": 104.75463
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -2.951,
+            "lon": 104.75381
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "3jL_D3tZbW3crLQyotXPmA",
+      "score": 2.0041568279,
+      "info": "search:ta:360006001011680-ID",
+      "poi": {
+        "name": "Mmsnack Palembang",
+        "phone": "+62 859-2888-431",
+        "categorySet": [
+          {
+            "id": 7373
+          }
+        ],
+        "categories": [
+          "shopping center"
+        ],
+        "classifications": [
+          {
+            "code": "SHOPPING_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "shopping center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jl. Bungaran Ii No.244",
+        "municipalitySubdivision": "Jakabaring",
+        "municipality": "Palembang",
+        "municipalitySecondarySubdivision": "8 Ulu",
+        "countrySubdivision": "Sumatera Selatan",
+        "countrySubdivisionName": "Sumatera Selatan",
+        "countrySubdivisionCode": "SS",
+        "postalCode": "30252",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jl. Bungaran Ii No.244, Jakabaring Sub District, Palembang District, Sumatera Selatan 30252",
+        "localName": "Palembang"
+      },
+      "position": {
+        "lat": -3.0031,
+        "lon": 104.7681
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -3.00162,
+          "lon": 104.76662
+        },
+        "btmRightPoint": {
+          "lat": -3.00458,
+          "lon": 104.76958
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -3.00167,
+            "lon": 104.76773
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "ITskwSyJiBCbqUA6k3g5Kg",
+      "score": 2.0041568279,
+      "info": "search:ta:360007000111206-ID",
+      "poi": {
+        "name": "Wong Palembang",
+        "phone": "+62 21 3865758",
+        "categorySet": [
+          {
+            "id": 7315024
+          }
+        ],
+        "categories": [
+          "indonesian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indonesian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jalan Veteran",
+        "municipality": "Jakarta",
+        "municipalitySecondarySubdivision": "Duren Tiga",
+        "countrySubdivision": "DKI Jakarta",
+        "countrySubdivisionName": "DKI Jakarta",
+        "countrySubdivisionCode": "JK",
+        "postalCode": "12760",
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "countryCodeISO3": "IDN",
+        "freeformAddress": "Jalan Veteran, Jakarta District, DKI Jakarta 12760",
+        "localName": "Jakarta"
+      },
+      "position": {
+        "lat": -6.25477,
+        "lon": 106.83601
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": -6.25387,
+          "lon": 106.83511
+        },
+        "btmRightPoint": {
+          "lat": -6.25567,
+          "lon": 106.83691
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": -6.25475,
+            "lon": 106.83611
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": ""
+        }
+      }
+    }
+  ]
+}
