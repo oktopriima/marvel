@@ -1,7 +1,6 @@
-package test_test
+package user_test
 
 import (
-	"context"
 	"github.com/oktopriima/marvel/src/app/entity/models"
 	"github.com/oktopriima/marvel/src/app/helper"
 	"github.com/oktopriima/marvel/src/app/modules/base/model"
@@ -12,7 +11,7 @@ import (
 )
 
 func (s *S) Test_userServices_Successful_FindByEmail(c *C) {
-	usersData = append(usersData, &models.Users{
+	users = append(users, &models.Users{
 		BaseModel: model.BaseModel{
 			Id:        1,
 			CreatedAt: time.Now(),
@@ -23,7 +22,7 @@ func (s *S) Test_userServices_Successful_FindByEmail(c *C) {
 		Password:  helper.GeneratePassword("password123"),
 		DeletedAt: gorm.DeletedAt{},
 	})
-	rows := s.InsertUserData(usersData)
+	rows := s.UserFactory(users)
 
 	expectedQuery := "SELECT * FROM `users` WHERE email = ? AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT ?"
 	s.mock.ExpectQuery(expectedQuery).
@@ -31,7 +30,7 @@ func (s *S) Test_userServices_Successful_FindByEmail(c *C) {
 		WillReturnRows(rows)
 
 	userServices := repository.NewUserRepository(s.instance)
-	user, err := userServices.FindByEmail("jhon@gmail.com", context.Background())
+	user, err := userServices.FindByEmail("jhon@gmail.com", s.ctx)
 
 	c.Assert(err, IsNil)
 
@@ -50,7 +49,7 @@ func (s *S) Test_userServices_Failed_FindByEmail(c *C) {
 		WillReturnError(gorm.ErrRecordNotFound)
 
 	userServices := repository.NewUserRepository(s.instance)
-	user, err := userServices.FindByEmail("doe@gmail.com", context.Background())
+	user, err := userServices.FindByEmail("doe@gmail.com", s.ctx)
 
 	c.Assert(err, NotNil)
 	c.Assert(user, IsNil)

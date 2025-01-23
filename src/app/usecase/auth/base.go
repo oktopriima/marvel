@@ -2,7 +2,7 @@ package auth
 
 import (
 	"context"
-	"github.com/oktopriima/marvel/src/app/contract"
+	"github.com/oktopriima/marvel/src/app/repository/contract"
 	"github.com/oktopriima/marvel/src/app/usecase/auth/dto"
 	"github.com/oktopriima/thor/jwt"
 )

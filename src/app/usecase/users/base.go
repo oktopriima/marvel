@@ -2,7 +2,7 @@ package users
 
 import (
 	"context"
-	"github.com/oktopriima/marvel/src/app/contract"
+	"github.com/oktopriima/marvel/src/app/repository/contract"
 	"github.com/oktopriima/marvel/src/app/usecase/users/dto"
 )
 

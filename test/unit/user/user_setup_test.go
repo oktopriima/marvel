@@ -1,10 +1,11 @@
-package test_test
+package user_test
 
 import (
+	"context"
 	"github.com/DATA-DOG/go-sqlmock"
 	"github.com/oktopriima/marvel/pkg/database"
 	"github.com/oktopriima/marvel/src/app/entity/models"
-	"github.com/oktopriima/marvel/test/setup"
+	"github.com/oktopriima/marvel/test"
 	. "gopkg.in/check.v1"
 	"testing"
 )
@@ -12,22 +13,24 @@ import (
 type S struct {
 	instance database.DBInstance
 	mock     sqlmock.Sqlmock
+	ctx      context.Context
 }
 
 func Test(t *testing.T) {
 	TestingT(t)
 }
 
-var dbInstance, mock = setup.Instance()
+var dbInstance, mock = test.Instance()
 
 var _ = Suite(&S{
 	instance: dbInstance,
 	mock:     mock,
+	ctx:      context.Background(),
 })
 
-var usersData []*models.Users
+var users []*models.Users
 
-func (s *S) InsertUserData(users []*models.Users) *sqlmock.Rows {
+func (s *S) UserFactory(users []*models.Users) *sqlmock.Rows {
 	rows := sqlmock.NewRows([]string{
 		"id", "email", "name", "password", "created_at", "updated_at", "deleted_at",
 	})

@@ -4,9 +4,9 @@ import (
 	"context"
 	"github.com/oktopriima/marvel/pkg/database"
 	"github.com/oktopriima/marvel/pkg/tracer"
-	"github.com/oktopriima/marvel/src/app/contract"
 	"github.com/oktopriima/marvel/src/app/entity/models"
 	"github.com/oktopriima/marvel/src/app/modules/base/repo/mysqlrepo"
+	"github.com/oktopriima/marvel/src/app/repository/contract"
 	"go.elastic.co/apm/v2"
 )
 
