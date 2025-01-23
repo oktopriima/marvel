@@ -3,12 +3,12 @@ package test_test
 import (
 	"context"
 	"fmt"
-	"github.com/oktopriima/marvel/app/entity/models"
-	"github.com/oktopriima/marvel/app/helper"
-	"github.com/oktopriima/marvel/app/modules/base/model"
-	"github.com/oktopriima/marvel/app/repository"
-	"github.com/oktopriima/marvel/app/usecase/users"
-	"github.com/oktopriima/marvel/app/usecase/users/dto"
+	"github.com/oktopriima/marvel/src/app/entity/models"
+	"github.com/oktopriima/marvel/src/app/helper"
+	"github.com/oktopriima/marvel/src/app/modules/base/model"
+	"github.com/oktopriima/marvel/src/app/repository"
+	"github.com/oktopriima/marvel/src/app/usecase/users"
+	"github.com/oktopriima/marvel/src/app/usecase/users/dto"
 	"gopkg.in/check.v1"
 	"gorm.io/gorm"
 	"time"
@@ -21,12 +21,10 @@ func (s *S) Test_User_Usecase_Successful_FindById(c *check.C) {
 			CreatedAt: time.Now(),
 			UpdatedAt: time.Now(),
 		},
-		Email:        "jhon@gmail.com",
-		FirstName:    "jhon",
-		LastName:     "doe",
-		Password:     helper.GeneratePassword("password123"),
-		RefreshToken: "",
-		DeletedAt:    gorm.DeletedAt{},
+		Email:     "jhon@gmail.com",
+		Name:      "jhon",
+		Password:  helper.GeneratePassword("password123"),
+		DeletedAt: gorm.DeletedAt{},
 	})
 	rows := s.InsertUserData(usersData)
 
@@ -37,7 +35,7 @@ func (s *S) Test_User_Usecase_Successful_FindById(c *check.C) {
 
 	expectation := new(dto.UserResponse)
 	expectation.Id = usersData[0].Id
-	expectation.FullName = fmt.Sprintf("%s %s", usersData[0].FirstName, usersData[0].LastName)
+	expectation.FullName = fmt.Sprintf("%s", usersData[0].Name)
 
 	repo := repository.NewUserRepository(s.instance)
 	userUsecase := users.NewUserUsecase(repo)

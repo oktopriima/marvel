@@ -2,8 +2,6 @@ module github.com/oktopriima/marvel
 
 go 1.23
 
-toolchain go1.23.2
-
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/IBM/sarama v1.43.1

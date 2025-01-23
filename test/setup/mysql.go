@@ -2,10 +2,18 @@ package setup
 
 import (
 	"github.com/DATA-DOG/go-sqlmock"
-	core "github.com/oktopriima/marvel/core/database"
+	"github.com/oktopriima/marvel/pkg/database"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
+
+func Instance() (database.DBInstance, sqlmock.Sqlmock) {
+	gormDb, mock := setupMock()
+	ins := new(database.Instance)
+	ins.GormDB = gormDb
+
+	return ins, mock
+}
 
 func setupMock() (*gorm.DB, sqlmock.Sqlmock) {
 	db, mock, err := sqlmock.New(sqlmock.QueryMatcherOption(sqlmock.QueryMatcherEqual))
@@ -23,12 +31,4 @@ func setupMock() (*gorm.DB, sqlmock.Sqlmock) {
 	}
 
 	return gormDB, mock
-}
-
-func SetupInstance() (core.DBInstance, sqlmock.Sqlmock) {
-	gormDb, mock := setupMock()
-	ins := new(core.Instance)
-	ins.GormDB = gormDb
-
-	return ins, mock
 }

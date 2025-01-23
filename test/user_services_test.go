@@ -2,10 +2,10 @@ package test_test
 
 import (
 	"context"
-	"github.com/oktopriima/marvel/app/entity/models"
-	"github.com/oktopriima/marvel/app/helper"
-	"github.com/oktopriima/marvel/app/modules/base/model"
-	"github.com/oktopriima/marvel/app/repository"
+	"github.com/oktopriima/marvel/src/app/entity/models"
+	"github.com/oktopriima/marvel/src/app/helper"
+	"github.com/oktopriima/marvel/src/app/modules/base/model"
+	"github.com/oktopriima/marvel/src/app/repository"
 	. "gopkg.in/check.v1"
 	"gorm.io/gorm"
 	"time"
@@ -18,12 +18,10 @@ func (s *S) Test_userServices_Successful_FindByEmail(c *C) {
 			CreatedAt: time.Now(),
 			UpdatedAt: time.Now(),
 		},
-		Email:        "jhon@gmail.com",
-		FirstName:    "jhon",
-		LastName:     "doe",
-		Password:     helper.GeneratePassword("password123"),
-		RefreshToken: "",
-		DeletedAt:    gorm.DeletedAt{},
+		Email:     "jhon@gmail.com",
+		Name:      "test",
+		Password:  helper.GeneratePassword("password123"),
+		DeletedAt: gorm.DeletedAt{},
 	})
 	rows := s.InsertUserData(usersData)
 
@@ -39,8 +37,7 @@ func (s *S) Test_userServices_Successful_FindByEmail(c *C) {
 
 	c.Assert(user, NotNil)
 	c.Assert(user.Id, Equals, int64(1))
-	c.Assert(user.FirstName, Equals, "jhon")
-	c.Assert(user.LastName, Equals, "doe")
+	c.Assert(user.Name, Equals, "test")
 	c.Assert(user.Email, Equals, "jhon@gmail.com")
 
 	c.Assert(s.mock.ExpectationsWereMet(), IsNil)
