@@ -4,3 +4,4 @@ go.sum
 log
 local.yaml
 migration
+env.yaml
