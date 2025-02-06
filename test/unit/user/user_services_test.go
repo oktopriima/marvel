@@ -1,28 +1,28 @@
-package user_test
+package test_test
 
 import (
-	"github.com/oktopriima/marvel/src/app/entity/models"
-	"github.com/oktopriima/marvel/src/app/helper"
-	"github.com/oktopriima/marvel/src/app/modules/base/model"
-	"github.com/oktopriima/marvel/src/app/repository"
+	"context"
+	"github.com/oktopriima/marvel/app/entity/models"
+	"github.com/oktopriima/marvel/app/helper"
+	"github.com/oktopriima/marvel/app/modules/base/model"
+	"github.com/oktopriima/marvel/app/repository"
 	. "gopkg.in/check.v1"
 	"gorm.io/gorm"
 	"time"
 )
 
 func (s *S) Test_userServices_Successful_FindByEmail(c *C) {
-	users = append(users, &models.Users{
+	usersData = append(usersData, &models.Users{
 		BaseModel: model.BaseModel{
 			Id:        1,
 			CreatedAt: time.Now(),
 			UpdatedAt: time.Now(),
 		},
 		Email:     "jhon@gmail.com",
-		Name:      "test",
 		Password:  helper.GeneratePassword("password123"),
 		DeletedAt: gorm.DeletedAt{},
 	})
-	rows := s.UserFactory(users)
+	rows := s.InsertUserData(usersData)
 
 	expectedQuery := "SELECT * FROM `users` WHERE email = ? AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT ?"
 	s.mock.ExpectQuery(expectedQuery).
@@ -30,13 +30,12 @@ func (s *S) Test_userServices_Successful_FindByEmail(c *C) {
 		WillReturnRows(rows)
 
 	userServices := repository.NewUserRepository(s.instance)
-	user, err := userServices.FindByEmail("jhon@gmail.com", s.ctx)
+	user, err := userServices.FindByEmail("jhon@gmail.com", context.Background())
 
 	c.Assert(err, IsNil)
 
 	c.Assert(user, NotNil)
 	c.Assert(user.Id, Equals, int64(1))
-	c.Assert(user.Name, Equals, "test")
 	c.Assert(user.Email, Equals, "jhon@gmail.com")
 
 	c.Assert(s.mock.ExpectationsWereMet(), IsNil)
@@ -49,7 +48,7 @@ func (s *S) Test_userServices_Failed_FindByEmail(c *C) {
 		WillReturnError(gorm.ErrRecordNotFound)
 
 	userServices := repository.NewUserRepository(s.instance)
-	user, err := userServices.FindByEmail("doe@gmail.com", s.ctx)
+	user, err := userServices.FindByEmail("doe@gmail.com", context.Background())
 
 	c.Assert(err, NotNil)
 	c.Assert(user, IsNil)
