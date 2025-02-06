@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	"github.com/oktopriima/marvel/bootstrap/http"
 	"github.com/oktopriima/marvel/pkg/database"
+	"github.com/oktopriima/marvel/src/bootstrap/http"
 	"github.com/oktopriima/marvel/src/cmd/seeder/seed/users"
 	"gorm.io/gorm"
 )

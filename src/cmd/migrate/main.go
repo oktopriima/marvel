@@ -2,7 +2,7 @@ package main
 
 import (
 	"database/sql"
-	"github.com/oktopriima/marvel/bootstrap/http"
+	"github.com/oktopriima/marvel/src/bootstrap/http"
 	"time"
 
 	"fmt"

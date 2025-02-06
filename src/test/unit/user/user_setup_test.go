@@ -5,7 +5,7 @@ import (
 	"github.com/DATA-DOG/go-sqlmock"
 	"github.com/oktopriima/marvel/pkg/database"
 	"github.com/oktopriima/marvel/src/app/entity/models"
-	"github.com/oktopriima/marvel/test"
+	"github.com/oktopriima/marvel/src/test"
 	. "gopkg.in/check.v1"
 	"testing"
 )

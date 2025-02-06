@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/oktopriima/marvel/bootstrap/http"
+	"github.com/oktopriima/marvel/src/bootstrap/http"
 	"github.com/oktopriima/marvel/src/cmd/http/router"
 	"github.com/oktopriima/marvel/src/cmd/http/server"
 	"os"

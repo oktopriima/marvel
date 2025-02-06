@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	bootstrap "github.com/oktopriima/marvel/bootstrap/kafka"
 	"github.com/oktopriima/marvel/pkg/kafka"
+	bootstrap "github.com/oktopriima/marvel/src/bootstrap/kafka"
 	"github.com/oktopriima/marvel/src/cmd/kafka/consumer/handler"
 	"github.com/oktopriima/marvel/src/cmd/kafka/consumer/router"
 )
