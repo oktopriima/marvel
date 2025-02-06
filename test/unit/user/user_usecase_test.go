@@ -1,20 +1,20 @@
-package test_test
+package user_test
 
 import (
 	"context"
-	"github.com/oktopriima/marvel/app/entity/models"
-	"github.com/oktopriima/marvel/app/helper"
-	"github.com/oktopriima/marvel/app/modules/base/model"
-	"github.com/oktopriima/marvel/app/repository"
-	"github.com/oktopriima/marvel/app/usecase/users"
-	"github.com/oktopriima/marvel/app/usecase/users/dto"
+	"github.com/oktopriima/marvel/src/app/entity/models"
+	"github.com/oktopriima/marvel/src/app/helper"
+	"github.com/oktopriima/marvel/src/app/modules/base/model"
+	"github.com/oktopriima/marvel/src/app/repository"
+	uc "github.com/oktopriima/marvel/src/app/usecase/users"
+	"github.com/oktopriima/marvel/src/app/usecase/users/dto"
 	"gopkg.in/check.v1"
 	"gorm.io/gorm"
 	"time"
 )
 
 func (s *S) Test_User_Usecase_Successful_FindById(c *check.C) {
-	usersData = append(usersData, &models.Users{
+	users = append(users, &models.Users{
 		BaseModel: model.BaseModel{
 			Id:        1,
 			CreatedAt: time.Now(),
@@ -24,7 +24,7 @@ func (s *S) Test_User_Usecase_Successful_FindById(c *check.C) {
 		Password:  helper.GeneratePassword("password123"),
 		DeletedAt: gorm.DeletedAt{},
 	})
-	rows := s.InsertUserData(usersData)
+	rows := s.UserFactory(users)
 
 	expectedQuery := "SELECT * FROM `users` WHERE id = ? AND `users`.`deleted_at` IS NULL LIMIT ?"
 	s.mock.ExpectQuery(expectedQuery).
@@ -32,11 +32,11 @@ func (s *S) Test_User_Usecase_Successful_FindById(c *check.C) {
 		WillReturnRows(rows)
 
 	expectation := new(dto.UserResponse)
-	expectation.Id = usersData[0].Id
+	expectation.Id = users[0].Id
 	//expectation.FullName = fmt.Sprintf("%s %s", usersData[0].FirstName, usersData[0].LastName)
 
 	repo := repository.NewUserRepository(s.instance)
-	userUsecase := users.NewUserUsecase(repo)
+	userUsecase := uc.NewUserUsecase(repo)
 
 	ctx := context.Background()
 
@@ -55,7 +55,7 @@ func (s *S) Test_User_Usecase_Failed_FindById(c *check.C) {
 		WillReturnError(gorm.ErrRecordNotFound)
 
 	repo := repository.NewUserRepository(s.instance)
-	userUsecase := users.NewUserUsecase(repo)
+	userUsecase := uc.NewUserUsecase(repo)
 
 	ctx := context.Background()
 	resp, err := userUsecase.FindByID(ctx, int64(1))

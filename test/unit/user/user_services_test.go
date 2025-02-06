@@ -1,19 +1,19 @@
-package test_test
+package user_test
 
 import (
 	"context"
-	"github.com/oktopriima/marvel/app/entity/models"
-	"github.com/oktopriima/marvel/app/helper"
-	"github.com/oktopriima/marvel/app/modules/base/model"
-	"github.com/oktopriima/marvel/app/repository"
+	"github.com/oktopriima/marvel/src/app/entity/models"
+	"github.com/oktopriima/marvel/src/app/helper"
+	baseModel "github.com/oktopriima/marvel/src/app/modules/base/model"
+	"github.com/oktopriima/marvel/src/app/repository"
 	. "gopkg.in/check.v1"
 	"gorm.io/gorm"
 	"time"
 )
 
 func (s *S) Test_userServices_Successful_FindByEmail(c *C) {
-	usersData = append(usersData, &models.Users{
-		BaseModel: model.BaseModel{
+	users = append(users, &models.Users{
+		BaseModel: baseModel.BaseModel{
 			Id:        1,
 			CreatedAt: time.Now(),
 			UpdatedAt: time.Now(),
@@ -22,7 +22,7 @@ func (s *S) Test_userServices_Successful_FindByEmail(c *C) {
 		Password:  helper.GeneratePassword("password123"),
 		DeletedAt: gorm.DeletedAt{},
 	})
-	rows := s.InsertUserData(usersData)
+	rows := s.UserFactory(users)
 
 	expectedQuery := "SELECT * FROM `users` WHERE email = ? AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT ?"
 	s.mock.ExpectQuery(expectedQuery).
