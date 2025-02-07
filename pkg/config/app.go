@@ -68,7 +68,7 @@ type AppConfig struct {
 			CertFile   string `mapstructure:"cert_file"`
 			KeyFile    string `mapstructure:"key_file"`
 			SkipVerify string `mapstructure:"skip_verify"`
-		}
+		} `mapstructure:"tls"`
 		Consumer struct {
 			SessionTimeout     string `mapstructure:"session_timeout"`
 			RebalancedStrategy string `mapstructure:"rebalanced_strategy"`
@@ -82,7 +82,7 @@ type AppConfig struct {
 			IdemPotent        string `mapstructure:"idempotent"`
 			PartitionStrategy string `mapstructure:"partition_strategy"`
 		} `mapstructure:"producer"`
-	}
+	} `mapstructure:"kafka"`
 }
 
 func NewAppConfig() (app AppConfig) {

@@ -10,7 +10,7 @@ import (
 
 func main() {
 	c := bootstrap.Bootstrap()
-	if err := c.Invoke(kafka.NewConsumerGroup); err != nil {
+	if err := c.Provide(kafka.NewConsumerGroup); err != nil {
 		panic(err)
 	}
 

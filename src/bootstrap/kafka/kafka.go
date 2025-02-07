@@ -11,9 +11,5 @@ func NewKafka(container *dig.Container) *dig.Container {
 		panic(err)
 	}
 
-	if err = container.Provide(kafka.NewConsumerGroup); err != nil {
-		panic(err)
-	}
-
 	return container
 }

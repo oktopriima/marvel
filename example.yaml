@@ -3,7 +3,7 @@ app:
   domain: "http://localhost:8000"
 
 jwt:
-  key: "key"
+  key: "jwtkey"
   issuer: "issuer"
   duration: "10080"
 
@@ -20,7 +20,7 @@ redis:
   max_active: "100"
   address: "127.0.0.1"
   port: "6379"
-  password: "homestead"
+  password: ""
 
 mongodb:
   address: "127.0.0.1"
@@ -32,3 +32,39 @@ mongodb:
 log:
   directory: "log"
   mysql: "mysql-log.txt"
+
+apm:
+  service_name: "apm-marvel-service"
+  version: "1.0.0"
+  url: "http://localhost:8200"
+  secret_token: "KEY_TOKEN_APM"
+
+kafka:
+  brokers: "localhost:9092"
+  version: "2.1.0"
+  client_id: "marvel:engine:go"
+  channel_buffer_size: "20"
+  sasl:
+    enabled: "false"
+    user: ''
+    password: ''
+    mechanism: ''
+    version: "0"
+    handshake: "true"
+  tls:
+    enabled: "false"
+    ca_file: ''
+    cert_file: ''
+    key_file: ''
+    skip_verify: "true"
+  consumer:
+    session_timeout: "6"
+    rebalanced_strategy: 'range'
+    offset_initial: "-1"
+    isolation_level: "1"
+    heartbeat_interval: "1000"
+  producer:
+    timeout: "5"
+    require_ack: "-1"
+    idempotent: 'true'
+    partition_strategy: 'hash'

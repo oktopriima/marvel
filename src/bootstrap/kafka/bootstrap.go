@@ -1,17 +1,17 @@
 package kafka
 
 import (
-	bootstrap2 "github.com/oktopriima/marvel/src/bootstrap"
+	"github.com/oktopriima/marvel/src/bootstrap"
 	"go.uber.org/dig"
 )
 
 func Bootstrap() *dig.Container {
 	c := dig.New()
 
-	c = bootstrap2.NewConfig(c)
+	c = bootstrap.NewConfig(c)
 	c = NewKafka(c)
-	c = bootstrap2.NewDatabase(c)
-	c = bootstrap2.NewRepository(c)
+	c = bootstrap.NewDatabase(c)
+	c = bootstrap.NewRepository(c)
 	c = NewUsecase(c)
 
 	return c
