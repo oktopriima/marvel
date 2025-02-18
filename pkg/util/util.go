@@ -8,7 +8,9 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/fatih/structs"
 	"gopkg.in/yaml.v3"
+	"gorm.io/gorm/schema"
 	"math"
 	"math/rand"
 	"os"
@@ -433,4 +435,31 @@ func SetPercentage(percentage float64) string {
 		res = fmt.Sprintf("%.1f %%", percentage)
 	}
 	return res
+}
+
+func ToSearchableMap(attrs ...interface{}) (result interface{}) {
+	if len(attrs) > 1 {
+		if str, ok := attrs[0].(string); ok {
+			result = map[string]interface{}{str: attrs[1]}
+		}
+	} else if len(attrs) == 1 {
+		if attr, ok := attrs[0].(map[string]interface{}); ok {
+			result = attr
+		}
+
+		if attr, ok := attrs[0].(interface{}); ok {
+			s := structs.New(attr)
+			s.TagName = "json"
+			m := s.Map()
+
+			value := make(map[string]interface{}, len(m))
+			var ns schema.NamingStrategy
+			for col, val := range m {
+				dbCol := ns.ColumnName("", col)
+				value[dbCol] = val
+			}
+			result = value
+		}
+	}
+	return
 }

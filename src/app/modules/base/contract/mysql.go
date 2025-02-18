@@ -1,4 +1,4 @@
-package repo
+package contract
 
 import (
 	"context"
@@ -8,7 +8,7 @@ import (
 
 var RecordNotFound = errors.New("record not found")
 
-type BaseRepo interface {
+type BaseMysqlRepo interface {
 	Updatable
 	Saveable
 	Creatable

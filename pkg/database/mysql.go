@@ -57,3 +57,33 @@ func MysqlConnector(cfg config.AppConfig) (*gorm.DB, error) {
 
 	return db, nil
 }
+
+type Instance struct {
+	GormDB *gorm.DB
+}
+
+type DBInstance interface {
+	Database() *gorm.DB
+	Close()
+}
+
+func NewDatabaseInstance(cfg config.AppConfig) DBInstance {
+	ins := new(Instance)
+
+	// create connection into default database
+	database, err := MysqlConnector(cfg)
+	if err != nil {
+		panic(fmt.Sprintf("failed connect into database. error : %s", err.Error()))
+	}
+	ins.GormDB = database
+
+	return ins
+}
+
+func (i *Instance) Database() *gorm.DB {
+	return i.GormDB
+}
+
+func (i *Instance) Close() {
+
+}

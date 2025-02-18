@@ -6,7 +6,7 @@
  * Copyright (c) 2021
  */
 
-package database
+package nosql
 
 import (
 	"context"
@@ -35,4 +35,33 @@ func MongoConnection(config config.AppConfig) (*mongo.Database, error) {
 
 	db := mgo.Database(config.Mongodb.Database)
 	return db, nil
+}
+
+type Instance struct {
+	Mongodb *mongo.Database
+}
+
+type MongoInstance interface {
+	Database() *mongo.Database
+	Close()
+}
+
+func NewMongoDBInstance(cfg config.AppConfig) MongoInstance {
+	ins := new(Instance)
+
+	// create connection into default database
+	mongodb, err := MongoConnection(cfg)
+	if err != nil {
+		panic(fmt.Sprintf("failed to connect to redis: %v", err))
+	}
+	ins.Mongodb = mongodb
+
+	return ins
+}
+
+func (i *Instance) Database() *mongo.Database {
+	return i.Mongodb
+}
+
+func (i *Instance) Close() {
 }

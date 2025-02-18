@@ -1,6 +1,7 @@
 package models
 
 import (
+	"fmt"
 	"github.com/oktopriima/marvel/src/app/modules/base/model"
 	"gorm.io/gorm"
 	"time"
@@ -18,4 +19,8 @@ type Users struct {
 
 func (u *Users) TableName() string {
 	return "users"
+}
+
+func (u *Users) KeyPattern() string {
+	return fmt.Sprintf("users:single")
 }

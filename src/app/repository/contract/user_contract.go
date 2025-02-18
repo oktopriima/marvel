@@ -3,14 +3,16 @@ package contract
 import (
 	"context"
 	"github.com/oktopriima/marvel/src/app/entity/models"
-	"github.com/oktopriima/marvel/src/app/modules/base/repo"
+	"github.com/oktopriima/marvel/src/app/modules/base/contract"
 )
 
 type UserContract interface {
-	repo.BaseRepo
-	EmailLogin
+	contract.BaseMysqlRepo
+	contract.BaseRedisRepo
+	SearchByEmail
 }
 
-type EmailLogin interface {
+type SearchByEmail interface {
 	FindByEmail(email string, ctx context.Context) (*models.Users, error)
+	GetByEmail(email string, ctx context.Context) ([]*models.Users, error)
 }

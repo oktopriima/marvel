@@ -6,7 +6,7 @@
  * Copyright (c) 2023
  */
 
-package database
+package cache
 
 import (
 	"fmt"
@@ -44,4 +44,33 @@ func RedisConnection(config config.AppConfig) (*redis.Pool, error) {
 			return c, nil
 		},
 	}, nil
+}
+
+type Instance struct {
+	Redis *redis.Pool
+}
+
+type RedisInstance interface {
+	Database() *redis.Pool
+	Close()
+}
+
+func NewRedisInstance(cfg config.AppConfig) RedisInstance {
+	ins := new(Instance)
+
+	// create connection into default database
+	pool, err := RedisConnection(cfg)
+	if err != nil {
+		panic(fmt.Sprintf("failed to connect to redis: %v", err))
+	}
+	ins.Redis = pool
+
+	return ins
+}
+
+func (i *Instance) Database() *redis.Pool {
+	return i.Redis
+}
+
+func (i *Instance) Close() {
 }
