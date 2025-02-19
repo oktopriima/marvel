@@ -7,13 +7,15 @@ import (
 	"github.com/oktopriima/marvel/src/app/modules/base/model"
 	"github.com/oktopriima/marvel/src/cmd/seeder/implementer"
 	"gorm.io/gorm"
+	"time"
 )
 
 var userData = []models.Users{
 	{
-		Name:     "test",
-		Email:    "octoprima93@gmail.com",
-		Password: helper.GeneratePassword("delicious"),
+		Name:            "test",
+		Email:           "octoprima93@gmail.com",
+		Password:        helper.GeneratePassword("delicious"),
+		EmailVerifiedAt: time.Now(),
 	},
 }
 

@@ -37,8 +37,10 @@ func RedisConnection(config config.AppConfig) (*redis.Pool, error) {
 				return nil, err
 			}
 
-			if _, err := c.Do("AUTH", config.Redis.Password); err != nil {
-				return nil, err
+			if config.Redis.Password != "" {
+				if _, err := c.Do("AUTH", config.Redis.Password); err != nil {
+					return nil, err
+				}
 			}
 
 			return c, nil

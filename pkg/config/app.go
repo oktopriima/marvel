@@ -35,7 +35,7 @@ type AppConfig struct {
 		Address   string `mapstructure:"address"`
 		Port      string `mapstructure:"port"`
 		Password  string `mapstructure:"password"`
-	} `mapstructure:"cache"`
+	} `mapstructure:"redis"`
 	Mongodb struct {
 		Address  string `mapstructure:"address"`
 		Database string `mapstructure:"database"`

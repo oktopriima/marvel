@@ -64,7 +64,12 @@ func (r *BaseRedisRepo) StoreCache(ctx context.Context, key string, ttl time.Dur
 
 	defer conn.Close()
 
-	_, err = conn.Do("SETEX", key, ttl, m)
+	marshal, err := json.Marshal(m)
+	if err != nil {
+		return err
+	}
+
+	_, err = conn.Do("SETEX", key, ttl.Seconds(), marshal)
 	return err
 }
 

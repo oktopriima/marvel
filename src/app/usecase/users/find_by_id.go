@@ -13,19 +13,26 @@ import (
 func (u *userUsecase) FindByID(ctx context.Context, ID int64) (*dto.UserResponse, error) {
 	span, ctx := apm.StartSpan(ctx, "userUsecase.FindByID", tracer.ProcessTraceName)
 	defer span.End()
-	m := new(models.Users)
-	err := u.userRepo.FindByID(ctx, m, ID)
-	if err != nil {
-		return nil, err
-	}
 
-	// cache to redis
-	err = u.userRepo.StoreCache(ctx, fmt.Sprintf("%s:%d", m.TableName(), ID), 10*time.Hour, m)
-	if err != nil {
-		return nil, err
-	}
-
+	var m models.Users
+	key := fmt.Sprintf("%s:%d", m.TableName(), ID)
 	output := new(dto.UserResponse)
 
-	return output.ConvertToResponse(m), nil
+	// find cache first
+	_, err := u.userRepo.FindCache(ctx, &m, key)
+	if err != nil {
+		// find from primary database
+		err = u.userRepo.FindByID(ctx, &m, ID)
+		if err != nil {
+			return nil, err
+		}
+
+		// cache to redis
+		err = u.userRepo.StoreCache(ctx, fmt.Sprintf("%s:%d", m.TableName(), ID), 10*time.Hour, &m)
+		if err != nil {
+			return nil, err
+		}
+	}
+
+	return output.ConvertToResponse(&m), nil
 }
