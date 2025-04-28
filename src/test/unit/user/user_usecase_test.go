@@ -35,7 +35,7 @@ func (s *S) Test_User_Usecase_Successful_FindById(c *check.C) {
 	expectation.Id = users[0].Id
 	//expectation.FullName = fmt.Sprintf("%s %s", usersData[0].FirstName, usersData[0].LastName)
 
-	repo := repository.NewUserRepository(s.instance)
+	repo := repository.NewUserRepository(s.instance, s.redisInstance)
 	userUsecase := uc.NewUserUsecase(repo)
 
 	ctx := context.Background()
@@ -54,7 +54,7 @@ func (s *S) Test_User_Usecase_Failed_FindById(c *check.C) {
 		WithArgs(1, 1).
 		WillReturnError(gorm.ErrRecordNotFound)
 
-	repo := repository.NewUserRepository(s.instance)
+	repo := repository.NewUserRepository(s.instance, s.redisInstance)
 	userUsecase := uc.NewUserUsecase(repo)
 
 	ctx := context.Background()

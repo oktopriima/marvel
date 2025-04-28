@@ -10,12 +10,12 @@ package cache
 
 import (
 	"fmt"
-	"github.com/gomodule/redigo/redis"
 	"github.com/oktopriima/marvel/pkg/config"
+	"github.com/redis/go-redis/v9"
 	"strconv"
 )
 
-func RedisConnection(config config.AppConfig) (*redis.Pool, error) {
+func RedisConnection(config config.AppConfig) (*redis.Client, error) {
 	addr := fmt.Sprintf("%s:%s", config.Redis.Address, config.Redis.Port)
 
 	idle, err := strconv.Atoi(config.Redis.MaxIdle)
@@ -28,32 +28,22 @@ func RedisConnection(config config.AppConfig) (*redis.Pool, error) {
 		return nil, err
 	}
 
-	return &redis.Pool{
-		MaxIdle:   idle,
-		MaxActive: active,
-		Dial: func() (redis.Conn, error) {
-			c, err := redis.Dial("tcp", addr)
-			if err != nil {
-				return nil, err
-			}
+	db := redis.NewClient(&redis.Options{
+		Addr:           addr,
+		Password:       config.Redis.Password,
+		DB:             idle,
+		MaxActiveConns: active,
+	})
 
-			if config.Redis.Password != "" {
-				if _, err := c.Do("AUTH", config.Redis.Password); err != nil {
-					return nil, err
-				}
-			}
-
-			return c, nil
-		},
-	}, nil
+	return db, nil
 }
 
 type Instance struct {
-	Redis *redis.Pool
+	Redis *redis.Client
 }
 
 type RedisInstance interface {
-	Database() *redis.Pool
+	Database() *redis.Client
 	Close()
 }
 
@@ -70,7 +60,7 @@ func NewRedisInstance(cfg config.AppConfig) RedisInstance {
 	return ins
 }
 
-func (i *Instance) Database() *redis.Pool {
+func (i *Instance) Database() *redis.Client {
 	return i.Redis
 }
 

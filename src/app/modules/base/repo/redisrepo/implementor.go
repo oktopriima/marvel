@@ -3,14 +3,14 @@ package redisrepo
 import (
 	"context"
 	"encoding/json"
-	"github.com/gomodule/redigo/redis"
 	"github.com/oktopriima/marvel/pkg/cache"
 	"github.com/oktopriima/marvel/src/app/modules/base/model"
+	"github.com/redis/go-redis/v9"
 	"time"
 )
 
 type BaseRedisRepo struct {
-	redis *redis.Pool
+	redis *redis.Client
 }
 
 func NewBaseRedisRepo(instance cache.RedisInstance) *BaseRedisRepo {
@@ -20,14 +20,10 @@ func NewBaseRedisRepo(instance cache.RedisInstance) *BaseRedisRepo {
 }
 
 func (r *BaseRedisRepo) FindCache(ctx context.Context, m model.Model, key string) (model.Model, error) {
-	conn, err := r.redis.GetContext(ctx)
-	if err != nil {
-		return nil, err
-	}
-
+	conn := r.redis.Conn()
 	defer conn.Close()
 
-	bytes, err := redis.Bytes(conn.Do("GET", key))
+	bytes, err := conn.Get(ctx, key).Bytes()
 	if err != nil {
 		return nil, err
 	}
@@ -41,14 +37,10 @@ func (r *BaseRedisRepo) FindCache(ctx context.Context, m model.Model, key string
 }
 
 func (r *BaseRedisRepo) FindRawCache(ctx context.Context, key string) ([]byte, error) {
-	conn, err := r.redis.GetContext(ctx)
-	if err != nil {
-		return nil, err
-	}
-
+	conn := r.redis.Conn()
 	defer conn.Close()
 
-	bytes, err := redis.Bytes(conn.Do("GET", key))
+	bytes, err := conn.Get(ctx, key).Bytes()
 	if err != nil {
 		return nil, err
 	}
@@ -57,11 +49,7 @@ func (r *BaseRedisRepo) FindRawCache(ctx context.Context, key string) ([]byte, e
 }
 
 func (r *BaseRedisRepo) StoreCache(ctx context.Context, key string, ttl time.Duration, m model.Model) error {
-	conn, err := r.redis.GetContext(ctx)
-	if err != nil {
-		return err
-	}
-
+	conn := r.redis.Conn()
 	defer conn.Close()
 
 	marshal, err := json.Marshal(m)
@@ -69,29 +57,23 @@ func (r *BaseRedisRepo) StoreCache(ctx context.Context, key string, ttl time.Dur
 		return err
 	}
 
-	_, err = conn.Do("SETEX", key, ttl.Seconds(), marshal)
-	return err
-}
-
-func (r *BaseRedisRepo) StoreObjectCache(ctx context.Context, key string, ttl time.Duration, m []byte) error {
-	conn, err := r.redis.GetContext(ctx)
-	if err != nil {
+	if err := conn.Set(ctx, key, string(marshal), ttl).Err(); err != nil {
 		return err
 	}
 
+	return nil
+}
+
+func (r *BaseRedisRepo) StoreObjectCache(ctx context.Context, key string, ttl time.Duration, m []byte) error {
+	conn := r.redis.Conn()
 	defer conn.Close()
 
-	_, err = conn.Do("SETEX", key, ttl, m)
+	err := conn.Set(ctx, key, string(m), ttl).Err()
 	return err
 }
 
 func (r *BaseRedisRepo) RemoveCache(ctx context.Context, key string) error {
-	conn, err := r.redis.GetContext(ctx)
-	if err != nil {
-		return err
-	}
-
+	conn := r.redis.Conn()
 	defer conn.Close()
-	_, err = conn.Do("DEL", key)
-	return err
+	return conn.Del(ctx, key).Err()
 }

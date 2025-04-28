@@ -29,7 +29,7 @@ func (s *S) Test_userServices_Successful_FindByEmail(c *C) {
 		WithArgs("jhon@gmail.com", 1).
 		WillReturnRows(rows)
 
-	userServices := repository.NewUserRepository(s.instance)
+	userServices := repository.NewUserRepository(s.instance, s.redisInstance)
 	user, err := userServices.FindByEmail("jhon@gmail.com", context.Background())
 
 	c.Assert(err, IsNil)
@@ -47,7 +47,7 @@ func (s *S) Test_userServices_Failed_FindByEmail(c *C) {
 		WithArgs("doe@gmail.com", 1).
 		WillReturnError(gorm.ErrRecordNotFound)
 
-	userServices := repository.NewUserRepository(s.instance)
+	userServices := repository.NewUserRepository(s.instance, s.redisInstance)
 	user, err := userServices.FindByEmail("doe@gmail.com", context.Background())
 
 	c.Assert(err, NotNil)

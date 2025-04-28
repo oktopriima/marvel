@@ -7,12 +7,14 @@ require (
 	github.com/IBM/sarama v1.45.0
 	github.com/fatih/structs v1.1.0
 	github.com/go-playground/validator/v10 v10.24.0
+	github.com/go-redis/redismock/v9 v9.2.0
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/golang-migrate/migrate/v4 v4.18.2
 	github.com/gomodule/redigo v1.9.2
 	github.com/google/uuid v1.6.0
 	github.com/labstack/echo/v4 v4.13.3
 	github.com/oktopriima/thor v0.1.1
+	github.com/redis/go-redis/v9 v9.2.0
 	github.com/spf13/viper v1.19.0
 	go.elastic.co/apm/module/apmechov4/v2 v2.6.3
 	go.elastic.co/apm/module/apmsql/v2 v2.6.3
@@ -30,7 +32,9 @@ require (
 	filippo.io/edwards25519 v1.1.0 // indirect
 	github.com/armon/go-radix v1.0.0 // indirect
 	github.com/bluele/go-timecop v0.0.0-20201023003925-b95363da28d2 // indirect
+	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
+	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/eapache/go-resiliency v1.7.0 // indirect
 	github.com/eapache/go-xerial-snappy v0.0.0-20230731223053-c322873962e3 // indirect
 	github.com/eapache/queue v1.1.0 // indirect

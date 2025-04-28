@@ -3,6 +3,8 @@ package user_test
 import (
 	"context"
 	"github.com/DATA-DOG/go-sqlmock"
+	"github.com/go-redis/redismock/v9"
+	"github.com/oktopriima/marvel/pkg/cache"
 	"github.com/oktopriima/marvel/pkg/database"
 	"github.com/oktopriima/marvel/src/app/entity/models"
 	"github.com/oktopriima/marvel/src/test"
@@ -11,9 +13,11 @@ import (
 )
 
 type S struct {
-	instance database.DBInstance
-	mock     sqlmock.Sqlmock
-	ctx      context.Context
+	instance      database.DBInstance
+	redisInstance cache.RedisInstance
+	mock          sqlmock.Sqlmock
+	redisMock     redismock.ClientMock
+	ctx           context.Context
 }
 
 func Test(t *testing.T) {
@@ -21,11 +25,14 @@ func Test(t *testing.T) {
 }
 
 var dbInstance, mock = test.Instance()
+var redisInstance, redisMock = test.RedisInstance()
 
 var _ = Suite(&S{
-	instance: dbInstance,
-	mock:     mock,
-	ctx:      context.Background(),
+	instance:      dbInstance,
+	redisInstance: redisInstance,
+	mock:          mock,
+	redisMock:     redisMock,
+	ctx:           context.Background(),
 })
 
 var users []*models.Users
