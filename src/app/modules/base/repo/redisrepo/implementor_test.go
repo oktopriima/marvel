@@ -96,3 +96,70 @@ func (s *S) TestFindCache(c *C) {
 	err = s.redisMock.ExpectationsWereMet()
 	c.Assert(err, IsNil)
 }
+
+func (s *S) TestFindRawCache(c *C) {
+	var err error
+	// init repo with mocking instance
+	repo := NewBaseRedisRepo(s.instance)
+	c.Assert(repo, NotNil)
+
+	// create bytes from an example object
+	bytesExample, err := json.Marshal(&example)
+	c.Assert(bytesExample, NotNil)
+	c.Assert(err, IsNil)
+
+	// create the expectation
+	s.redisMock.ExpectGet(key).SetVal(string(bytesExample))
+
+	res, err := repo.FindRawCache(s.ctx, key)
+	c.Assert(err, IsNil)
+	c.Assert(res, NotNil)
+	c.Assert(res, DeepEquals, bytesExample)
+
+	err = s.redisMock.ExpectationsWereMet()
+	c.Assert(err, IsNil)
+}
+
+func (s *S) TestStoreRawCache(c *C) {
+	var err error
+	// init repo with mocking instance
+	repo := NewBaseRedisRepo(s.instance)
+	c.Assert(repo, NotNil)
+
+	// create bytes from an example object
+	bytesExample, err := json.Marshal(&example)
+	c.Assert(bytesExample, NotNil)
+	c.Assert(err, IsNil)
+
+	// create the expectation
+	s.redisMock.ExpectSet(key, string(bytesExample), ttl).SetVal("OK")
+
+	// store test
+	err = repo.StoreObjectCache(s.ctx, key, ttl, bytesExample)
+	c.Assert(err, IsNil)
+
+	err = s.redisMock.ExpectationsWereMet()
+	c.Assert(err, IsNil)
+}
+
+func (s *S) TestRemoveCache(c *C) {
+	var err error
+	// init repo with mocking instance
+	repo := NewBaseRedisRepo(s.instance)
+	c.Assert(repo, NotNil)
+
+	// create bytes from an example object
+	bytesExample, err := json.Marshal(&example)
+	c.Assert(bytesExample, NotNil)
+	c.Assert(err, IsNil)
+
+	// create the expectation
+	s.redisMock.ExpectDel(key).SetVal(int64(1))
+
+	// store test
+	err = repo.RemoveCache(s.ctx, key)
+	c.Assert(err, IsNil)
+
+	err = s.redisMock.ExpectationsWereMet()
+	c.Assert(err, IsNil)
+}
