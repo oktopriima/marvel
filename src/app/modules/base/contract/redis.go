@@ -22,6 +22,6 @@ type CacheRemovable interface {
 }
 
 type CanFindCache interface {
-	FindCache(ctx context.Context, m model.Model, key string) (model.Model, error)
+	FindCache(ctx context.Context, m model.Model, key string) error
 	FindRawCache(ctx context.Context, key string) ([]byte, error)
 }
