@@ -153,7 +153,7 @@ func StringToDate(s string) time.Time {
 func StringToDateE(s string) (time.Time, error) {
 	tm, err := parseDateWith(s, []string{
 		time.RFC3339,
-		"2006-01-02T15:04:05", // iso8601 without timezone
+		"2006-01-02T15:04:05", // iso8601 without a timezone
 		time.RFC1123Z,
 		time.RFC1123,
 		time.RFC822Z,
@@ -165,7 +165,7 @@ func StringToDateE(s string) (time.Time, error) {
 		"2006-01-02 15:04:05.999999999 -0700 MST", // Time.String()
 		"2006-01-02",
 		"02 Jan 2006",
-		"2006-01-02T15:04:05-0700", // RFC3339 without timezone hh:mm colon
+		"2006-01-02T15:04:05-0700", // RFC3339 without a timezone hh:mm colon
 		"2006-01-02 15:04:05 -07:00",
 		"2006-01-02 15:04:05 -0700",
 		"2006-01-02 15:04:05Z07:00", // RFC3339 without T

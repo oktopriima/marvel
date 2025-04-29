@@ -70,7 +70,7 @@ type DBInstance interface {
 func NewDatabaseInstance(cfg config.AppConfig) DBInstance {
 	ins := new(Instance)
 
-	// create connection into default database
+	// create a connection into a default database
 	database, err := MysqlConnector(cfg)
 	if err != nil {
 		panic(fmt.Sprintf("failed connect into database. error : %s", err.Error()))

@@ -50,7 +50,7 @@ type RedisInstance interface {
 func NewRedisInstance(cfg config.AppConfig) RedisInstance {
 	ins := new(Instance)
 
-	// create connection into default database
+	// create a connection into a default database
 	pool, err := RedisConnection(cfg)
 	if err != nil {
 		panic(fmt.Sprintf("failed to connect to redis: %v", err))

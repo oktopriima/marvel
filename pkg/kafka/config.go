@@ -31,14 +31,14 @@ type Config struct {
 type ProducerConfig struct {
 	// The maximum duration the broker will wait the receipt of the number of
 	// RequiredActs (defaults to 10 seconds). This is only relevant when
-	// RequiredActs is set to WaitForAll or a number > 1. Only supports
+	// RequiredActs are set to WaitForAll or a number > 1. Only supports
 	// millisecond resolution, nanoseconds will be truncated. Equivalent to
 	// the JVM producer's `request.timeout.ms` setting.
 	TimeoutSecond int `json:"timeout_second" yaml:"timeout_second"`
 	// RequireACK
-	// 0 = NoResponse doesn't send any response, the TCP ACK is all you get.
-	// 1 =  WaitForLocal waits for only the local commit to succeed before responding.
-	// - 1 =  WaitForAll
+	// 0 = NoResponse doesn't send any response; the TCP ACK is all you get.
+	// 1 = WaitForLocal waits for only the local commit to succeed before responding.
+	// -1 = WaitForAll
 	//  waits for all in-sync replicas to commit before responding.
 	// The minimum number of in-sync replicas is configured on the broker via
 	// the `min.in sync.replicas` configuration key.
@@ -71,7 +71,7 @@ type SASL struct {
 	// Possible values: OAUTH BEARER, PLAIN (defaults to PLAIN).
 	Mechanism string `json:"mechanism" yaml:"mechanism"`
 	// Version is the SASL Protocol Version to use
-	// Kafka > 1.x should use V1, except on Azure EventHub which use V0
+	// Kafka > 1.x should use V1, except on Azure EventHub, which use V0
 	Version int16 `json:"version" yaml:"version"`
 	// Whether to send the Kafka SASL handshake first if enabled
 	// (defaults to true). You should only set this to false if you're using

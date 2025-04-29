@@ -49,7 +49,7 @@ type MongoInstance interface {
 func NewMongoDBInstance(cfg config.AppConfig) MongoInstance {
 	ins := new(Instance)
 
-	// create connection into default database
+	// create a connection into a default database
 	mongodb, err := MongoConnection(cfg)
 	if err != nil {
 		panic(fmt.Sprintf("failed to connect to redis: %v", err))
