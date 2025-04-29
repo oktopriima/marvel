@@ -30,13 +30,15 @@ var _ = Suite(&S{
 	ctx:       context.Background(),
 })
 
-type Example struct {
+type RedisTestExample struct {
 	model.BaseModel
 	Name string `json:"name"`
 	Age  int    `json:"age"`
 }
 
-var example = Example{
+var res = RedisTestExample{}
+
+var example = RedisTestExample{
 	BaseModel: model.BaseModel{
 		Id:        1,
 		CreatedAt: time.Now(),
@@ -84,7 +86,6 @@ func (s *S) TestFindCache(c *C) {
 
 	// create the expectation
 	s.redisMock.ExpectGet(key).SetVal(string(bytesExample))
-	var res = Example{}
 	err = repo.FindCache(s.ctx, &res, key)
 
 	c.Assert(err, IsNil)

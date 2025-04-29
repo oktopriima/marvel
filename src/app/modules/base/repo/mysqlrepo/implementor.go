@@ -48,25 +48,11 @@ func (r *BaseMysqlRepo) FindByID(ctx context.Context, m model.Model, id int64, p
 	return err
 }
 
-func (r *BaseMysqlRepo) CreateOrUpdate(ctx context.Context, m model.Model, query interface{}, attrs ...interface{}) error {
-	span, ctx := apm.StartSpan(ctx, "mysqlRepo.CreateOrUpdate", tracer.RepositoryTraceName)
-	defer span.End()
-
-	return r.GetDB(ctx).Where(query).Assign(attrs...).FirstOrCreate(m).Error
-}
-
 func (r *BaseMysqlRepo) Update(ctx context.Context, m model.Model, attrs ...interface{}) error {
 	span, ctx := apm.StartSpan(ctx, "mysqlRepo.Update", tracer.RepositoryTraceName)
 	defer span.End()
 
 	return r.GetDB(ctx).Model(m).Updates(util.ToSearchableMap(attrs...)).Error
-}
-
-func (r *BaseMysqlRepo) Updates(ctx context.Context, m model.Model, params interface{}) error {
-	span, ctx := apm.StartSpan(ctx, "mysqlRepo.Updates", tracer.RepositoryTraceName)
-	defer span.End()
-
-	return r.GetDB(ctx).Model(m).Updates(params).Error
 }
 
 func (r *BaseMysqlRepo) Create(ctx context.Context, m model.Model) error {

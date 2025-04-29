@@ -5,5 +5,10 @@ import (
 )
 
 func (p *router) KafkaProcessor(ctx context.Context) {
-	p.kafkaProcessorHandle(ctx, []string{"test"}, "GROUP_ONE", p.exampleUsecase)
+	p.kafkaProcessorHandle(ctx, []string{
+		"topic_one",
+	},
+		"GROUP_ONE",
+		p.exampleUsecase,
+	)
 }

@@ -19,9 +19,9 @@ func (u *userUsecase) FindByID(ctx context.Context, ID int64) (*dto.UserResponse
 	output := new(dto.UserResponse)
 
 	// find cache first
-	_, err := u.userRepo.FindCache(ctx, &m, key)
+	err := u.userRepo.FindCache(ctx, &m, key)
 	if err != nil {
-		// find from primary database
+		// find from a primary database
 		err = u.userRepo.FindByID(ctx, &m, ID)
 		if err != nil {
 			return nil, err
