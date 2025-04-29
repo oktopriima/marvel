@@ -3,7 +3,7 @@ package contract
 import (
 	"context"
 	"errors"
-	"github.com/oktopriima/marvel/src/app/modules/base/model"
+	"github.com/oktopriima/marvel/src/app/modules/base/models"
 )
 
 var RecordNotFound = errors.New("record not found")
@@ -17,21 +17,21 @@ type BaseMysqlRepo interface {
 }
 
 type Updatable interface {
-	Update(ctx context.Context, m model.Model, attrs ...interface{}) error
+	Update(ctx context.Context, m models.Model, attrs ...interface{}) error
 }
 
 type Saveable interface {
-	Save(ctx context.Context, m model.Model) error
+	Save(ctx context.Context, m models.Model) error
 }
 
 type Creatable interface {
-	Create(ctx context.Context, m model.Model) error
+	Create(ctx context.Context, m models.Model) error
 }
 
 type Removable interface {
-	DeleteByID(ctx context.Context, m model.Model, id int64) error
+	DeleteByID(ctx context.Context, m models.Model, id int64) error
 }
 
 type CanFindByID interface {
-	FindByID(ctx context.Context, m model.Model, id int64, preloadFields ...string) error
+	FindByID(ctx context.Context, m models.Model, id int64, preloadFields ...string) error
 }

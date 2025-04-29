@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"github.com/oktopriima/marvel/pkg/cache"
-	"github.com/oktopriima/marvel/src/app/modules/base/model"
+	"github.com/oktopriima/marvel/src/app/modules/base/models"
 	"github.com/redis/go-redis/v9"
 	"time"
 )
@@ -19,7 +19,7 @@ func NewBaseRedisRepo(instance cache.RedisInstance) *BaseRedisRepo {
 	}
 }
 
-func (r *BaseRedisRepo) FindCache(ctx context.Context, m model.Model, key string) error {
+func (r *BaseRedisRepo) FindCache(ctx context.Context, m models.Model, key string) error {
 	str, err := r.redis.Get(ctx, key).Bytes()
 	if err != nil {
 		return err
@@ -42,7 +42,7 @@ func (r *BaseRedisRepo) FindRawCache(ctx context.Context, key string) ([]byte, e
 	return bytes, nil
 }
 
-func (r *BaseRedisRepo) StoreCache(ctx context.Context, key string, ttl time.Duration, m model.Model) error {
+func (r *BaseRedisRepo) StoreCache(ctx context.Context, key string, ttl time.Duration, m models.Model) error {
 	marshal, err := json.Marshal(m)
 	if err != nil {
 		return err

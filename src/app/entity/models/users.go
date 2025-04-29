@@ -1,14 +1,13 @@
 package models
 
 import (
-	"fmt"
-	"github.com/oktopriima/marvel/src/app/modules/base/model"
+	"github.com/oktopriima/marvel/src/app/modules/base/models"
 	"gorm.io/gorm"
 	"time"
 )
 
 type Users struct {
-	model.BaseModel
+	models.BaseModel
 	Name            string         `json:"name"`
 	Email           string         `json:"email"`
 	EmailVerifiedAt time.Time      `json:"email_verified_at"`
@@ -19,8 +18,4 @@ type Users struct {
 
 func (u *Users) TableName() string {
 	return "users"
-}
-
-func (u *Users) KeyPattern() string {
-	return fmt.Sprintf("users:single")
 }

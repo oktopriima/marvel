@@ -4,7 +4,7 @@ import (
 	"context"
 	"github.com/DATA-DOG/go-sqlmock"
 	"github.com/oktopriima/marvel/pkg/database"
-	"github.com/oktopriima/marvel/src/app/modules/base/model"
+	"github.com/oktopriima/marvel/src/app/modules/base/models"
 	"github.com/oktopriima/marvel/src/test"
 	. "gopkg.in/check.v1"
 	"gorm.io/gorm"
@@ -31,7 +31,7 @@ var _ = Suite(&S{
 })
 
 type MysqlTestExample struct {
-	model.BaseModel
+	models.BaseModel
 	Name      string         `json:"name"`
 	Age       int            `json:"age"`
 	DeletedAt gorm.DeletedAt `gorm:"default:null" json:"deleted_at"`
@@ -53,7 +53,7 @@ func (s *S) Factory(examples []*MysqlTestExample) *sqlmock.Rows {
 
 func (s *S) TestFindById(c *C) {
 	examples = append(examples, &MysqlTestExample{
-		BaseModel: model.BaseModel{
+		BaseModel: models.BaseModel{
 			Id:        1,
 			CreatedAt: time.Now(),
 			UpdatedAt: time.Now(),
@@ -89,7 +89,7 @@ func (s *S) TestCreate(c *C) {
 	s.mock.ExpectCommit()
 	repo := NewBaseMysqlRepo(s.instance)
 	err := repo.Create(s.ctx, &MysqlTestExample{
-		BaseModel: model.BaseModel{
+		BaseModel: models.BaseModel{
 			CreatedAt: now,
 			UpdatedAt: now,
 		},
@@ -105,7 +105,7 @@ func (s *S) TestUpdate(c *C) {
 	now := time.Now().Round(time.Millisecond)
 
 	m := MysqlTestExample{
-		BaseModel: model.BaseModel{
+		BaseModel: models.BaseModel{
 			Id:        1,
 			CreatedAt: now,
 			UpdatedAt: now,
@@ -122,7 +122,7 @@ func (s *S) TestUpdate(c *C) {
 	s.mock.ExpectCommit()
 	repo := NewBaseMysqlRepo(s.instance)
 
-	// update the model
+	// update the models
 	m.Name = "john doe dune"
 	err := repo.Update(s.ctx, &m)
 
@@ -140,7 +140,7 @@ func (s *S) TestSave(c *C) {
 	s.mock.ExpectCommit()
 	repo := NewBaseMysqlRepo(s.instance)
 	err := repo.Save(s.ctx, &MysqlTestExample{
-		BaseModel: model.BaseModel{
+		BaseModel: models.BaseModel{
 			CreatedAt: now,
 			UpdatedAt: now,
 		},
@@ -156,7 +156,7 @@ func (s *S) TestDelete(c *C) {
 	now := time.Now().Round(time.Second)
 
 	m := MysqlTestExample{
-		BaseModel: model.BaseModel{
+		BaseModel: models.BaseModel{
 			Id:        1,
 			CreatedAt: now,
 			UpdatedAt: now,

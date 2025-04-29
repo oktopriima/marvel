@@ -4,7 +4,7 @@ import (
 	"context"
 	"github.com/oktopriima/marvel/src/app/entity/models"
 	"github.com/oktopriima/marvel/src/app/helper"
-	baseModel "github.com/oktopriima/marvel/src/app/modules/base/model"
+	baseModel "github.com/oktopriima/marvel/src/app/modules/base/models"
 	"github.com/oktopriima/marvel/src/app/repository"
 	. "gopkg.in/check.v1"
 	"gorm.io/gorm"

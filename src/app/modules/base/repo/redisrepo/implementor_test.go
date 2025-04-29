@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"github.com/go-redis/redismock/v9"
 	"github.com/oktopriima/marvel/pkg/cache"
-	"github.com/oktopriima/marvel/src/app/modules/base/model"
+	"github.com/oktopriima/marvel/src/app/modules/base/models"
 	"github.com/oktopriima/marvel/src/test"
 	. "gopkg.in/check.v1"
 	"testing"
@@ -31,7 +31,7 @@ var _ = Suite(&S{
 })
 
 type RedisTestExample struct {
-	model.BaseModel
+	models.BaseModel
 	Name string `json:"name"`
 	Age  int    `json:"age"`
 }
@@ -39,7 +39,7 @@ type RedisTestExample struct {
 var res = RedisTestExample{}
 
 var example = RedisTestExample{
-	BaseModel: model.BaseModel{
+	BaseModel: models.BaseModel{
 		Id:        1,
 		CreatedAt: time.Now(),
 		UpdatedAt: time.Now(),

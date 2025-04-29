@@ -2,7 +2,7 @@ package seed
 
 import (
 	"context"
-	"github.com/oktopriima/marvel/src/app/modules/base/model"
+	"github.com/oktopriima/marvel/src/app/modules/base/models"
 )
 
 type SeederInterface interface {
@@ -11,9 +11,9 @@ type SeederInterface interface {
 }
 
 type SecureTable interface {
-	CheckRow(ctx context.Context, m model.Model) bool
+	CheckRow(ctx context.Context, m models.Model) bool
 }
 
 type RunSeeder interface {
-	Run(ctx context.Context, m []model.Model) error
+	Run(ctx context.Context, m []models.Model) error
 }

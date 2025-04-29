@@ -1,7 +1,6 @@
 package dto
 
 import (
-	"fmt"
 	"github.com/oktopriima/marvel/src/app/entity/models"
 )
 
@@ -15,6 +14,6 @@ type UserResponse struct {
 func (r UserResponse) ConvertToResponse(users *models.Users) *UserResponse {
 	return &UserResponse{
 		Id:       users.Id,
-		FullName: fmt.Sprintf("%s %s", users.Email, users.Name),
+		FullName: users.Name,
 	}
 }

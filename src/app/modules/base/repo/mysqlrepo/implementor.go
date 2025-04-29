@@ -7,7 +7,7 @@ import (
 	"github.com/oktopriima/marvel/pkg/tracer"
 	"github.com/oktopriima/marvel/pkg/util"
 	"github.com/oktopriima/marvel/src/app/modules/base/contract"
-	"github.com/oktopriima/marvel/src/app/modules/base/model"
+	"github.com/oktopriima/marvel/src/app/modules/base/models"
 	"go.elastic.co/apm/v2"
 	"gorm.io/gorm"
 )
@@ -30,7 +30,7 @@ func (r *BaseMysqlRepo) GetDB(ctx context.Context) *gorm.DB {
 	return db
 }
 
-func (r *BaseMysqlRepo) FindByID(ctx context.Context, m model.Model, id int64, preloadFields ...string) error {
+func (r *BaseMysqlRepo) FindByID(ctx context.Context, m models.Model, id int64, preloadFields ...string) error {
 	span, ctx := apm.StartSpan(ctx, "mysqlRepo.FindByID", tracer.RepositoryTraceName)
 	defer span.End()
 
@@ -48,28 +48,28 @@ func (r *BaseMysqlRepo) FindByID(ctx context.Context, m model.Model, id int64, p
 	return err
 }
 
-func (r *BaseMysqlRepo) Update(ctx context.Context, m model.Model, attrs ...interface{}) error {
+func (r *BaseMysqlRepo) Update(ctx context.Context, m models.Model, attrs ...interface{}) error {
 	span, ctx := apm.StartSpan(ctx, "mysqlRepo.Update", tracer.RepositoryTraceName)
 	defer span.End()
 
 	return r.GetDB(ctx).Model(m).Updates(util.ToSearchableMap(attrs...)).Error
 }
 
-func (r *BaseMysqlRepo) Create(ctx context.Context, m model.Model) error {
+func (r *BaseMysqlRepo) Create(ctx context.Context, m models.Model) error {
 	span, ctx := apm.StartSpan(ctx, "mysqlRepo.Create", tracer.RepositoryTraceName)
 	defer span.End()
 
 	return r.GetDB(ctx).Create(m).Error
 }
 
-func (r *BaseMysqlRepo) Save(ctx context.Context, m model.Model) error {
+func (r *BaseMysqlRepo) Save(ctx context.Context, m models.Model) error {
 	span, ctx := apm.StartSpan(ctx, "mysqlRepo.Save", tracer.RepositoryTraceName)
 	defer span.End()
 
 	return r.GetDB(ctx).Model(m).Save(m).Error
 }
 
-func (r *BaseMysqlRepo) DeleteByID(ctx context.Context, m model.Model, id int64) error {
+func (r *BaseMysqlRepo) DeleteByID(ctx context.Context, m models.Model, id int64) error {
 	span, ctx := apm.StartSpan(ctx, "mysqlRepo.DeleteByID", tracer.RepositoryTraceName)
 	defer span.End()
 

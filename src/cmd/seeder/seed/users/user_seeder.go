@@ -4,7 +4,7 @@ import (
 	"context"
 	"github.com/oktopriima/marvel/src/app/entity/models"
 	"github.com/oktopriima/marvel/src/app/helper"
-	"github.com/oktopriima/marvel/src/app/modules/base/model"
+	baseModel "github.com/oktopriima/marvel/src/app/modules/base/models"
 	"github.com/oktopriima/marvel/src/cmd/seeder/implementer"
 	"gorm.io/gorm"
 	"time"
@@ -26,7 +26,7 @@ func Run(ctx context.Context, db *gorm.DB) {
 		return
 	}
 
-	var data []model.Model
+	var data []baseModel.Model
 
 	for _, datum := range userData {
 		data = append(data, &datum)

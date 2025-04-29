@@ -2,9 +2,11 @@ package user_test
 
 import (
 	"context"
+	"encoding/json"
+	"fmt"
 	"github.com/oktopriima/marvel/src/app/entity/models"
 	"github.com/oktopriima/marvel/src/app/helper"
-	"github.com/oktopriima/marvel/src/app/modules/base/model"
+	baseModel "github.com/oktopriima/marvel/src/app/modules/base/models"
 	"github.com/oktopriima/marvel/src/app/repository"
 	uc "github.com/oktopriima/marvel/src/app/usecase/users"
 	"github.com/oktopriima/marvel/src/app/usecase/users/dto"
@@ -14,26 +16,35 @@ import (
 )
 
 func (s *S) Test_User_Usecase_Successful_FindById(c *check.C) {
-	users = append(users, &models.Users{
-		BaseModel: model.BaseModel{
+	m := models.Users{
+		BaseModel: baseModel.BaseModel{
 			Id:        1,
 			CreatedAt: time.Now(),
 			UpdatedAt: time.Now(),
 		},
+		Name:      "jhon",
 		Email:     "jhon@gmail.com",
 		Password:  helper.GeneratePassword("password123"),
 		DeletedAt: gorm.DeletedAt{},
-	})
+	}
+	users = append(users, &m)
 	rows := s.UserFactory(users)
+
+	key := fmt.Sprintf("%s:%d", m.TableName(), m.Id)
+	s.redisMock.ExpectGet(key).RedisNil()
 
 	expectedQuery := "SELECT * FROM `users` WHERE id = ? AND `users`.`deleted_at` IS NULL LIMIT ?"
 	s.mock.ExpectQuery(expectedQuery).
 		WithArgs(1, 1).
 		WillReturnRows(rows)
 
+	bytes, err := json.Marshal(m)
+	c.Assert(err, check.IsNil)
+	s.redisMock.ExpectSet(key, string(bytes), 10*time.Hour).SetVal("OK")
+
 	expectation := new(dto.UserResponse)
 	expectation.Id = users[0].Id
-	//expectation.FullName = fmt.Sprintf("%s %s", usersData[0].FirstName, usersData[0].LastName)
+	expectation.FullName = users[0].Name
 
 	repo := repository.NewUserRepository(s.instance, s.redisInstance)
 	userUsecase := uc.NewUserUsecase(repo)
@@ -49,6 +60,12 @@ func (s *S) Test_User_Usecase_Successful_FindById(c *check.C) {
 }
 
 func (s *S) Test_User_Usecase_Failed_FindById(c *check.C) {
+	m := new(models.Users)
+	m.Id = 1
+	
+	key := fmt.Sprintf("%s:%d", m.TableName(), m.Id)
+	s.redisMock.ExpectGet(key).RedisNil()
+
 	expectedQuery := "SELECT * FROM `users` WHERE id = ? AND `users`.`deleted_at` IS NULL LIMIT ?"
 	s.mock.ExpectQuery(expectedQuery).
 		WithArgs(1, 1).

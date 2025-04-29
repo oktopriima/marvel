@@ -2,7 +2,7 @@ package seed
 
 import (
 	"context"
-	"github.com/oktopriima/marvel/src/app/modules/base/model"
+	"github.com/oktopriima/marvel/src/app/modules/base/models"
 	"gorm.io/gorm"
 )
 
@@ -24,7 +24,7 @@ func (b *BaseSeeder) GetDB(ctx context.Context) *gorm.DB {
 	return db
 }
 
-func (b *BaseSeeder) CheckRow(ctx context.Context, m model.Model) bool {
+func (b *BaseSeeder) CheckRow(ctx context.Context, m models.Model) bool {
 	var count int64
 	b.GetDB(ctx).Model(m).Count(&count)
 
@@ -34,7 +34,7 @@ func (b *BaseSeeder) CheckRow(ctx context.Context, m model.Model) bool {
 	return true
 }
 
-func (b *BaseSeeder) Run(ctx context.Context, m []model.Model) error {
+func (b *BaseSeeder) Run(ctx context.Context, m []models.Model) error {
 	tx := b.GetDB(ctx).Begin()
 
 	defer func() {
