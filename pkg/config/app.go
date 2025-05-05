@@ -43,20 +43,46 @@ type AppConfig struct {
 		User     string `mapstructure:"user"`
 		Password string `mapstructure:"password"`
 	} `mapstructure:"mongodb"`
-	Kafka struct {
-		Asignor string `mapstructure:"asignor"`
-		Brokers string `mapstructure:"brokers"`
-		Topics  string `mapstructure:"topics"`
-		Version string `mapstructure:"version"`
-		Group   string `mapstructure:"group"`
-		Marker  string `mapstructure:"marker"`
-	} `mapstructure:"kafka"`
 	APM struct {
 		ServiceName string `mapstructure:"service_name"`
 		Version     string `mapstructure:"version"`
 		Url         string `mapstructure:"url"`
 		SecretToken string `mapstructure:"secret_token"`
 	} `mapstructure:"apm"`
+	Kafka struct {
+		Version           string `mapstructure:"version"`
+		Brokers           string `mapstructure:"brokers"`
+		ClientID          string `mapstructure:"client_id"`
+		ChannelBufferSize string `mapstructure:"channel_buffer_size"`
+		Sasl              struct {
+			Enabled   string `mapstructure:"enabled"`
+			User      string `mapstructure:"user"`
+			Password  string `mapstructure:"password"`
+			Mechanism string `mapstructure:"mechanism"`
+			Version   string `mapstructure:"version"`
+			Handshake string `mapstructure:"handshake"`
+		} `mapstructure:"sasl"`
+		Tls struct {
+			Enabled    string `mapstructure:"enabled"`
+			CaFile     string `mapstructure:"ca_file"`
+			CertFile   string `mapstructure:"cert_file"`
+			KeyFile    string `mapstructure:"key_file"`
+			SkipVerify string `mapstructure:"skip_verify"`
+		} `mapstructure:"tls"`
+		Consumer struct {
+			SessionTimeout     string `mapstructure:"session_timeout"`
+			RebalancedStrategy string `mapstructure:"rebalanced_strategy"`
+			OffsetInitial      string `mapstructure:"offset_initial"`
+			IsolationLevel     string `mapstructure:"isolation_level"`
+			HeartbeatInterval  string `mapstructure:"heartbeat_interval"`
+		} `mapstructure:"consumer"`
+		Producer struct {
+			Timeout           string `mapstructure:"timeout"`
+			RequiredAck       string `mapstructure:"required_ack"`
+			IdemPotent        string `mapstructure:"idempotent"`
+			PartitionStrategy string `mapstructure:"partition_strategy"`
+		} `mapstructure:"producer"`
+	} `mapstructure:"kafka"`
 }
 
 func NewAppConfig() (app AppConfig) {

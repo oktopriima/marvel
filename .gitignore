@@ -5,3 +5,5 @@ log
 local.yaml
 migration
 .DS_Store
+env.yaml
+.DS_Store
