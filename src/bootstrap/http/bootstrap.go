@@ -11,6 +11,7 @@ func NewBootstrap() *dig.Container {
 	c = bootstrap.NewConfig(c)
 	c = bootstrap.NewDatabase(c)
 	c = bootstrap.NewJWT(c)
+	c = bootstrap.NewKafka(c)
 	c = NewHttp(c)
 	c = bootstrap.NewRepository(c)
 	c = NewUsecase(c)

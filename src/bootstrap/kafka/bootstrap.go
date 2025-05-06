@@ -9,7 +9,7 @@ func Bootstrap() *dig.Container {
 	c := dig.New()
 
 	c = bootstrap.NewConfig(c)
-	c = NewKafka(c)
+	c = bootstrap.NewKafka(c)
 	c = bootstrap.NewDatabase(c)
 	c = bootstrap.NewRepository(c)
 	c = NewUsecase(c)
