@@ -11,10 +11,10 @@ import (
 )
 
 type UserHandler struct {
-	userUsecase users.UserUsecase
+	userUsecase users.UserUsecaseContract
 }
 
-func NewUserHandler(usecase users.UserUsecase) UserHandler {
+func NewUserHandler(usecase users.UserUsecaseContract) UserHandler {
 	return UserHandler{
 		userUsecase: usecase,
 	}

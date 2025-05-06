@@ -7,7 +7,7 @@ import (
 	"go.elastic.co/apm/v2"
 )
 
-func (u *userUsecase) FindByEmail(ctx context.Context, email string) (output *dto.UserResponse, err error) {
+func (u *userUsecase) FindByEmail(ctx context.Context, email string) (output dto.UserResponse, err error) {
 	span, ctx := apm.StartSpan(ctx, "userUsecase.FindByEmail", tracer.ProcessTraceName)
 	defer span.End()
 
@@ -16,6 +16,5 @@ func (u *userUsecase) FindByEmail(ctx context.Context, email string) (output *dt
 		return nil, err
 	}
 
-	output = new(dto.UserResponse)
-	return output.ConvertToResponse(user), nil
+	return dto.ConvertToResponse(user), nil
 }

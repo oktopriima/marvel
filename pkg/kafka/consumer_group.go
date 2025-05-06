@@ -98,7 +98,7 @@ func (k *consumerGroup) Subscribe(ctx *ConsumerContext) {
 
 	handler := NewConsumerHandler(ctx.Handler, k.autoCommit)
 
-	// kafka consumer client
+	// kafka consumer cfg
 	nCtx, cancel := context.WithCancel(ctx.Context)
 
 	defer func() {

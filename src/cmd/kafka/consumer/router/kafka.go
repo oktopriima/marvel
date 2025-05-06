@@ -3,23 +3,26 @@ package router
 import (
 	"context"
 	"github.com/oktopriima/marvel/pkg/kafka"
-	"github.com/oktopriima/marvel/src/app/usecase/kafka/consumer/example"
-
+	"github.com/oktopriima/marvel/src/app/domain/kafka/example"
+	"github.com/oktopriima/marvel/src/app/domain/kafka/users"
 	"github.com/oktopriima/marvel/src/cmd/kafka/consumer/handler"
 )
 
 type router struct {
-	kafkaConsumer  kafka.Consumer
-	exampleUsecase example.Usecase
+	kafkaConsumer            kafka.Consumer
+	exampleHandler           example.Handler
+	loginNotificationHandler users.LoginNotificationHandler
 }
 
 func NewRouter(
 	consumer kafka.Consumer,
-	exampleUsecase example.Usecase,
+	exampleHandler example.Handler,
+	loginNotificationHandler users.LoginNotificationHandler,
 ) handler.Router {
 	return &router{
-		kafkaConsumer:  consumer,
-		exampleUsecase: exampleUsecase,
+		kafkaConsumer:            consumer,
+		exampleHandler:           exampleHandler,
+		loginNotificationHandler: loginNotificationHandler,
 	}
 }
 

@@ -1,8 +1,8 @@
 package http
 
 import (
-	"github.com/oktopriima/marvel/src/app/handler/auth"
-	"github.com/oktopriima/marvel/src/app/handler/users"
+	"github.com/oktopriima/marvel/src/app/domain/http/auth"
+	"github.com/oktopriima/marvel/src/app/domain/http/users"
 	"go.uber.org/dig"
 )
 

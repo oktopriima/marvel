@@ -2,10 +2,10 @@ package auth
 
 import (
 	"context"
-	"encoding/json"
 	"fmt"
 	"github.com/labstack/gommon/log"
 	"github.com/oktopriima/marvel/pkg/kafka"
+	"github.com/oktopriima/marvel/pkg/kafka/constant"
 	"github.com/oktopriima/marvel/src/app/helper"
 	"github.com/oktopriima/marvel/src/app/usecase/auth/dto"
 	"github.com/oktopriima/thor/jwt"
@@ -31,27 +31,20 @@ func (a *authenticationUsecase) EmailLoginUsecase(ctx context.Context, request d
 	}
 
 	go func() {
-		key, err := json.Marshal(user)
-		if err != nil {
-			log.Errorf("error while marshalling user: %v", err)
-			return
-		}
 		err = a.kafkaProducer.Publish(ctx, &kafka.MessageContext{
 			Value: &kafka.BodyStateful{
 				Body:    user,
 				Message: "user-success-login",
 				Error:   "",
 				Source: &kafka.SourceData{
-					Service:       "marvel-api",
-					ConsumerGroup: "user-login",
+					Service:       a.cfg.App.Name,
+					ConsumerGroup: constant.UserLoginConsumerGroup,
 				},
 			},
-			Key:       key,
 			LogId:     fmt.Sprintf("user:login:%s:%d", user.TableName(), user.Id),
-			Topic:     "user-auth-login-success",
-			Partition: 0,
-			Offset:    0,
+			Topic:     constant.UserSuccessLoginTopic,
 			TimeStamp: time.Now(),
+			Key:       []byte(fmt.Sprintf("%s:%d", user.TableName(), user.Id)),
 		})
 
 		if err != nil {

@@ -10,7 +10,7 @@ type consumerHandler struct {
 	autoCommit   bool
 }
 
-// NewConsumerHandler return consumer handler
+// NewConsumerHandler return consumer domain
 func NewConsumerHandler(msgProcessor MessageProcessorFunc, autoCommit bool) sarama.ConsumerGroupHandler {
 	return &consumerHandler{msgProcessor: msgProcessor, autoCommit: autoCommit}
 }

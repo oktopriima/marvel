@@ -3,8 +3,8 @@ package router
 import (
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
-	"github.com/oktopriima/marvel/src/app/handler/auth"
-	"github.com/oktopriima/marvel/src/app/handler/users"
+	"github.com/oktopriima/marvel/src/app/domain/http/auth"
+	"github.com/oktopriima/marvel/src/app/domain/http/users"
 	jwtMidl "github.com/oktopriima/marvel/src/app/modules/middleware"
 	"github.com/oktopriima/thor/jwt"
 	"go.elastic.co/apm/module/apmechov4/v2"
@@ -36,7 +36,7 @@ func NewRouter(
 	// login route
 	{
 		loginRoute := route.Group("login")
-		loginRoute.POST("/", authHandler.LoginByEmail)
+		loginRoute.POST("", authHandler.LoginByEmail)
 	}
 
 	// authenticate route

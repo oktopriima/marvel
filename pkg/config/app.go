@@ -10,6 +10,7 @@ type AppConfig struct {
 	App struct {
 		Port   string `mapstructure:"port"`
 		Domain string `mapstructure:"domain"`
+		Name   string `mapstructure:"name"`
 	} `mapstructure:"app"`
 	Log struct {
 		Directory string `mapstructure:"directory"`
@@ -83,6 +84,20 @@ type AppConfig struct {
 			PartitionStrategy string `mapstructure:"partition_strategy"`
 		} `mapstructure:"producer"`
 	} `mapstructure:"kafka"`
+	PubSub struct {
+		Type                    string `mapstructure:"type"`
+		ProjectId               string `mapstructure:"project_id"`
+		PrivateKeyID            string `mapstructure:"private_key_id"`
+		PrivateKey              string `mapstructure:"private_key"`
+		ClientEmail             string `mapstructure:"client_email"`
+		ClientID                string `mapstructure:"client_id"`
+		AuthURI                 string `mapstructure:"auth_uri"`
+		TokenURI                string `mapstructure:"token_uri"`
+		AuthProviderX509CertURL string `mapstructure:"auth_provider_x509_cert_url"`
+		ClientX509CertURL       string `mapstructure:"client_x509_cert_url"`
+		Topic                   string `mapstructure:"topic"`
+		Subscription            string `mapstructure:"subscription"`
+	} `mapstructure:"pubsub"`
 }
 
 func NewAppConfig() (app AppConfig) {

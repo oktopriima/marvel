@@ -10,13 +10,12 @@ import (
 	"time"
 )
 
-func (u *userUsecase) FindByID(ctx context.Context, ID int64) (*dto.UserResponse, error) {
+func (u *userUsecase) FindByID(ctx context.Context, ID int64) (dto.UserResponse, error) {
 	span, ctx := apm.StartSpan(ctx, "userUsecase.FindByID", tracer.ProcessTraceName)
 	defer span.End()
 
 	var m models.Users
 	key := fmt.Sprintf("%s:%d", m.TableName(), ID)
-	output := new(dto.UserResponse)
 
 	// find cache first
 	err := u.userRepo.FindCache(ctx, &m, key)
@@ -34,5 +33,5 @@ func (u *userUsecase) FindByID(ctx context.Context, ID int64) (*dto.UserResponse
 		}
 	}
 
-	return output.ConvertToResponse(&m), nil
+	return dto.ConvertToResponse(&m), nil
 }

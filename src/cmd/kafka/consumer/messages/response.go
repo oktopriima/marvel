@@ -1,4 +1,4 @@
-package dto
+package messages
 
 // Response ...
 type Response struct {

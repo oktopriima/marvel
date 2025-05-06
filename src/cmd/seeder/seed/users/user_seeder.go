@@ -12,7 +12,7 @@ import (
 
 var userData = []models.Users{
 	{
-		Name:            "test",
+		Name:            "john doe",
 		Email:           "octoprima93@gmail.com",
 		Password:        helper.GeneratePassword("delicious"),
 		EmailVerifiedAt: time.Now(),

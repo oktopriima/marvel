@@ -1,11 +1,11 @@
 package main
 
 import (
-	"context"
 	"github.com/oktopriima/marvel/pkg/kafka"
 	bootstrap "github.com/oktopriima/marvel/src/bootstrap/kafka"
 	"github.com/oktopriima/marvel/src/cmd/kafka/consumer/handler"
 	"github.com/oktopriima/marvel/src/cmd/kafka/consumer/router"
+	"github.com/oktopriima/marvel/src/cmd/kafka/consumer/server"
 )
 
 func main() {
@@ -19,7 +19,7 @@ func main() {
 	}
 
 	if err := c.Invoke(func(r handler.Router) {
-		r.KafkaProcessor(context.Background())
+		server.NewConsumerServer(r).Start()
 	}); err != nil {
 		panic(err)
 	}

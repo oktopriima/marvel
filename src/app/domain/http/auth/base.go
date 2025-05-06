@@ -9,10 +9,10 @@ import (
 )
 
 type AuthenticationHandler struct {
-	uc auth.AuthenticationUsecase
+	uc auth.AuthenticationUsecaseContract
 }
 
-func NewAuthenticationHandler(uc auth.AuthenticationUsecase) AuthenticationHandler {
+func NewAuthenticationHandler(uc auth.AuthenticationUsecaseContract) AuthenticationHandler {
 	return AuthenticationHandler{
 		uc: uc,
 	}

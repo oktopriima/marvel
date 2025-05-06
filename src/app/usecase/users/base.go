@@ -10,12 +10,13 @@ type userUsecase struct {
 	userRepo contract.UserContract
 }
 
-type UserUsecase interface {
-	FindByID(ctx context.Context, ID int64) (*dto.UserResponse, error)
-	FindByEmail(ctx context.Context, email string) (*dto.UserResponse, error)
+type UserUsecaseContract interface {
+	FindByID(ctx context.Context, ID int64) (dto.UserResponse, error)
+	FindByEmail(ctx context.Context, email string) (dto.UserResponse, error)
+	NotifyLogin(ctx context.Context, req *dto.NotifyLoginRequest) (dto.UserResponse, error)
 }
 
-func NewUserUsecase(userRepository contract.UserContract) UserUsecase {
+func NewUserUsecase(userRepository contract.UserContract) UserUsecaseContract {
 	return &userUsecase{
 		userRepo: userRepository,
 	}
