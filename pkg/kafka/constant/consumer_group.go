@@ -1,5 +1,5 @@
 package constant
 
 const (
-	UserLoginConsumerGroup = `user.login.consumer.group`
+	ConsumerGroup = `user.login.consumer.group`
 )

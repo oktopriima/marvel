@@ -1,11 +1,21 @@
 package router
 
 import (
-	"context"
-	"github.com/oktopriima/marvel/pkg/kafka/constant"
+	"github.com/oktopriima/marvel/pkg/kafka"
+	"github.com/oktopriima/marvel/src/cmd/kafka/consumer/handler"
 )
 
-func (p *router) KafkaProcessor(ctx context.Context) {
-	p.kafkaProcessorHandle(ctx, []string{constant.ExampleTopic}, constant.UserLoginConsumerGroup, p.exampleHandler)
-	p.kafkaProcessorHandle(ctx, []string{constant.UserSuccessLoginTopic}, constant.UserLoginConsumerGroup, p.loginNotificationHandler)
+type router struct {
+	kafkaConsumer kafka.Consumer
+	handler       handler.KafkaProcessorHandler
+}
+
+func NewRouter(
+	consumer kafka.Consumer,
+	handler handler.KafkaProcessorHandler,
+) handler.Router {
+	return &router{
+		kafkaConsumer: consumer,
+		handler:       handler,
+	}
 }

@@ -12,7 +12,7 @@ func Bootstrap() *dig.Container {
 	c = bootstrap.NewKafka(c)
 	c = bootstrap.NewDatabase(c)
 	c = bootstrap.NewRepository(c)
-	c = NewHandler(c)
+
 	c = NewUsecase(c)
 
 	return c
