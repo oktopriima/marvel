@@ -38,7 +38,7 @@ func (a *authenticationUsecase) EmailLoginUsecase(ctx context.Context, request d
 				Error:   "",
 				Source: &kafka.SourceData{
 					Service:       a.cfg.App.Name,
-					ConsumerGroup: constant.UserLoginConsumerGroup,
+					ConsumerGroup: constant.ConsumerGroup,
 				},
 			},
 			LogId:     fmt.Sprintf("user:login:%s:%d", user.TableName(), user.Id),
