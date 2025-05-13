@@ -3,6 +3,7 @@ package http
 import (
 	"github.com/labstack/echo/v4"
 	"github.com/oktopriima/marvel/pkg/config"
+	"github.com/oktopriima/marvel/pkg/pubsubrouter"
 	"github.com/oktopriima/marvel/pkg/tracer"
 	"github.com/oktopriima/marvel/src/cmd/http/server"
 	"go.elastic.co/apm/v2"
@@ -24,6 +25,12 @@ func NewHttp(container *dig.Container) *dig.Container {
 	if err = container.Provide(func(t *apm.Tracer) *echo.Echo {
 		e := echo.New()
 		return e
+	}); err != nil {
+		panic(err)
+	}
+
+	if err = container.Provide(func(cfg config.AppConfig) pubsubrouter.Publisher {
+		return pubsubrouter.NewPublisher(cfg)
 	}); err != nil {
 		panic(err)
 	}

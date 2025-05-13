@@ -4,7 +4,6 @@ import (
 	"github.com/oktopriima/marvel/pkg/pubsubrouter"
 	"github.com/oktopriima/marvel/src/app/usecase/example"
 	"github.com/oktopriima/marvel/src/app/usecase/example/dto"
-	"github.com/oktopriima/marvel/src/cmd/pubsub/listener/handler"
 	"log"
 )
 
@@ -12,7 +11,11 @@ type handlerExample struct {
 	uc example.UsecaseContract
 }
 
-func NewHandler(uc example.UsecaseContract) handler.EventProcessor {
+type EventProcessor interface {
+	Serve(m *pubsubrouter.Message) error
+}
+
+func NewHandler(uc example.UsecaseContract) EventProcessor {
 	return &handlerExample{
 		uc: uc,
 	}

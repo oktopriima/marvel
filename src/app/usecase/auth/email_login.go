@@ -2,6 +2,7 @@ package auth
 
 import (
 	"context"
+	"encoding/json"
 	"fmt"
 	"github.com/labstack/gommon/log"
 	"github.com/oktopriima/marvel/pkg/kafka"
@@ -54,6 +55,19 @@ func (a *authenticationUsecase) EmailLoginUsecase(ctx context.Context, request d
 
 		return
 	}()
+
+	body, err := json.Marshal(user)
+	if err != nil {
+		log.Errorf("error while generate publisher body: %v", err)
+		return nil, err
+	}
+	res, err := a.pubsubPublisher.Publish(context.Background(), "golang-pubsub", "/auth", string(body))
+	if err != nil {
+		log.Errorf("error while publishing message to pubsub: %v", err)
+		return nil, err
+	}
+
+	log.Infof("message published to pubsub: %v", res)
 
 	return dto.CreateResponse(token), nil
 }
